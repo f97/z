@@ -12,6 +12,6 @@ Pretty simple, copy URL and add it to your AdGuard Home DNS block lists.
 
 | Name               | URL                                   | Rule Count |
 | ------------------ | ------------------------------------- | ---------- |
-| VN                 | <https://z.f97.xyz/vn>                | 20,930     |
-| No Coin            | <https://z.f97.xyz/coin>              | 6,215      |
-| Don't Care Cookies | <https://z.f97.xyz/dont-care-cookies> | 144        |
+| VN                 | <https://z.f97.xyz/vn>                | ~20,930     |
+| No Coin            | <https://z.f97.xyz/coin>              | ~6,215      |
+| Don't Care Cookies | <https://z.f97.xyz/dont-care-cookies> | ~144        |
