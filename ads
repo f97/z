@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-07T12:14:40.600Z
+! Last modified: 2023-12-07T18:10:38.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -7233,6 +7233,7 @@
 ||cypressreel.com^
 ||cyprie.com^
 ||cyrigh.com^
+||cyrxvpnu.com^
 ||cystisolor.com^
 ||cysumhqvrjvrs.xyz^
 ||cythat.com^
@@ -7690,6 +7691,7 @@
 ||demurerbewary.live^
 ||denansgdfier.info^
 ||denansgdfierc.com^
+||denarocepa.com^
 ||denbeigemark.com^
 ||denbsd.com^
 ||dencejvlq.com^
@@ -9025,6 +9027,7 @@
 ||eggerscorr.com^
 ||egglessunfrees.uno^
 ||eggsiswensa.com^
+||eggsreunitedpainful.com^
 ||eggytiptops.com^
 ||egknjiycidfj.com^
 ||egloochy.com^
@@ -22451,6 +22454,7 @@
 ||resinyanthdia.com^
 ||resistcorrectly.com^
 ||resistsarcasm.com^
+||resistshy.com^
 ||resizerlooch.com^
 ||resnaulum.com^
 ||resniks.pro^
@@ -23369,6 +23373,7 @@
 ||savouryadolescent.com^
 ||savoyedpollet.life^
 ||savtvkdny.xyz^
+||sawalinitwits.com^
 ||sawanincreasein.info^
 ||saweatherco.com^
 ||sawfishdiapsid.com^
@@ -24296,6 +24301,7 @@
 ||slimlyeneas.com^
 ||slimreply.pro^
 ||slimy-sport.pro^
+||slinkyfoliot.com^
 ||slipperspinchingsyntax.com^
 ||slipperswallpaper.com^
 ||slippery-bed.pro^
@@ -24922,6 +24928,7 @@
 ||starvationdefence.com^
 ||starvegingerwaist.com^
 ||starverwear.com^
+||starvybryan.com^
 ||stastips.net^
 ||stat-rock.com^
 ||statcamp.net^
@@ -25532,6 +25539,7 @@
 ||syruphamster.com^
 ||sysdmt.com^
 ||syseinpoundaym.info^
+||sysoutvariola.com^
 ||system-notify.app^
 ||systeme-business.online^
 ||systemengagedwisely.com^
@@ -26952,6 +26960,7 @@
 ||tuffoonincaged.com^
 ||tufteraureous.digital^
 ||tugarmyindistinct.com^
+||tuglikevertigo.com^
 ||tugust.com^
 ||tuitionpancake.com^
 ||tujajnatzbmo.com^
@@ -27106,6 +27115,7 @@
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
 ||tywdchppfgds.xyz^
+||tzaristdiploma.com^
 ||tzegilo.com^
 ||tzgygfy.com^
 ||tzugumojfm.com^
@@ -27382,6 +27392,7 @@
 ||unevenregime.com^
 ||unfainfraseirs.org^
 ||unfairpromritual.com^
+||unfaithfulgoddess.com^
 ||unfaithfulmakeryearly.com^
 ||unfeeddizoic.com^
 ||unfieryneutral.com^
@@ -29648,6 +29659,7 @@
 ||xprivate.cc^
 ||xpsavuyxtfnqphw.com^
 ||xqdfnqfgixjwpdb.xyz^
+||xqfwhxbfxhpjko.com^
 ||xqgwymog.xyz^
 ||xqhifbjhixb.com^
 ||xqmyebdrunebsh.xyz^
@@ -38422,6 +38434,7 @@ anenttatting.com
 anepxbrdiilgdhd.com
 anesfluters.website
 anestrijusts.guru
+anet.dev
 anethumangoise.top
 anetpkxx.com
 anewproprietorinvent.com
@@ -75333,6 +75346,7 @@ jxtjuhucyog.com
 jxtvsb.com
 jxvilsjyrh.com
 jxvmjotpgm.com
+jxvsimtslebmn.com
 jxwtiykys.com
 jxx65.com
 jxxcacaryietcw.xyz
@@ -88911,6 +88925,7 @@ ogtgurmzeoj.com
 ogtvsxgebjyaf.xyz
 ogvaruvlkdsm.com
 ogwine.co
+ogwmubfnjbzyo.com
 ogwptymngeb.xyz
 ogwvgelo.com
 ogxespgypii.com
@@ -92653,6 +92668,7 @@ pgroadservice.com
 pgshraap.com
 pgssl.com
 pgtykuadwuku.com
+pgumnlqy.com
 pgveagom.com
 pgwalebooking.com
 pgxd3.com
@@ -96957,6 +96973,7 @@ qmchotdasf.com
 qmfvwbqxdshbx.com
 qmgsismxtdnjb.com
 qmhffrogjeca.com
+qmhiwbyxauat.com
 qmihajdixr.com
 qmine.in
 qmkr7isp3o.com
@@ -107155,6 +107172,7 @@ starvards.com
 starvardsee.xyz
 starvationdefence.com
 starvegingerwaist.com
+starvybryan.com
 starwars.academy
 starwarscam.com
 starweek.ca
@@ -108992,6 +109010,7 @@ syskonx.co.uk
 syskonx.uk
 sysmic.in.net
 sysnixautomation.com
+sysoutvariola.com
 systaio.com
 system-notify.app
 systeme-business.online
@@ -114208,6 +114227,7 @@ tujhipwgdhq.xyz
 tujikop.top
 tujofclqgazqa.com
 tujourda.net
+tukeelsy.com
 tukipasti.com
 tukpublishers.com
 tuktukthaifusionknoxville.com
@@ -114715,6 +114735,7 @@ tyyyxnogucucrt.com
 tyzaoxie.com
 tyzxmr.com
 tz284.com
+tzaristdiploma.com
 tzchanghong.com
 tzegilo.com
 tzgygfy.com
@@ -118564,6 +118585,7 @@ voxvalley.info
 voyageconcise.com
 voyageschoolanymore.com
 voyi.net
+voymmoufngao.xyz
 voynto.com
 vozastane.com
 vozito.net
@@ -118763,6 +118785,7 @@ vtiipxfdtnkaau.com
 vtipecky.com
 vtjfplukwxolkgw.xyz
 vtrodqjicfys.com
+vtsyqikqnrfmaye.com
 vttyjakvvdce.com
 vtubersnews.com
 vtveyowwjvz.com
@@ -119335,6 +119358,7 @@ washergnome.com
 washincozing.space
 washinexhaustible.com
 washingbustlewhack.com
+washingoccasionally.com
 washoutproject.com
 washpiggyabdomen.com
 washpottelly.website
@@ -121653,6 +121677,7 @@ wseojloda.com
 wsfcs.net
 wsffwiay.com
 wsfreshdn.gq
+wsgmcgtbvky.com
 wshosting.cz
 wsinterfumes.info
 wsiwocecf.com
@@ -125256,6 +125281,7 @@ www.cutterinvitinghuman.com
 www.cuttingdemeanoursuperintend.com
 www.cuttingstrikingtells.com
 www.cwindoso.dev
+www.cxdataverse.com
 www.cyber-winner.space
 www.cybermusi.com
 www.cyberprithvi.tech
@@ -130060,6 +130086,7 @@ www.mimicdisperse.com
 www.mincenavigable.com
 www.mincesecondaryinset.com
 www.minderfaucetdramatic.com
+www.mindfulnessinstituteforea.com
 www.mindfulnet.co.uk
 www.mindlessindignantlimbs.com
 www.mineabstain.com
@@ -132965,6 +132992,7 @@ www.sendegobresob.com
 www.sendegobresob.info
 www.sendegobresob.net
 www.sendegobresub.org
+www.sendegonresib.com
 www.sendegovresib.net
 www.senecapolytech.net
 www.senecapolytechnic.net
@@ -135370,6 +135398,7 @@ www.websitehelper.in
 www.websitespare.com
 www.webswpos.com
 www.wecdsb.net
+www.wecdsb.org
 www.wedabbledesigns.net
 www.wedflossbecause.com
 www.wednesdaygranddadlecture.com
@@ -136442,6 +136471,7 @@ xfklfypowuqoi.com
 xflexspace.com
 xfmelqyirfbig.com
 xfmhotobbfod.com
+xfoagacs.com
 xfortune.info
 xfqbrhnopphsml.com
 xfqdusnqva.com
@@ -137038,6 +137068,7 @@ xqdfnqfgixjwpdb.xyz
 xqeontmrvp.com
 xqevvajktimn.com
 xqfpsfplvtorca.com
+xqfwhxbfxhpjko.com
 xqgzvsjmnmgv.com
 xqhifbjhixb.com
 xqhwhsqxxoh.xyz
@@ -137632,6 +137663,7 @@ ydtqlmsvocjp.com
 ydusxuyukw.com
 ydvygdctteyyj.xyz
 ydwbkudt.com
+ydwrkwwqytj.xyz
 ydwsygf.com
 ydygdsnss.com
 ydyse4.com
@@ -138680,6 +138712,7 @@ yy51tt.com
 yy8fgl2bdv.com
 yy9s51b2u05z.com
 yyacgmwfjyvfv.com
+yyauxiooogi.com
 yycdihdvx.xyz
 yycrpbfjq.com
 yydtbpms8tf4.com

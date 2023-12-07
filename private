@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-07T12:14:48.163Z
+! Last modified: 2023-12-07T18:10:46.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -86172,6 +86172,7 @@ allonthego.info
 allopurinol-online.com
 alloyquest.com
 allpdfmanuales.xyz
+allphasesecurity.com
 allpilanns.shop
 allpilee.online
 allpilee.space
@@ -86251,6 +86252,7 @@ alphaconco.com
 alphafrau.de
 alphamails.co
 alphaomegahealth.com
+alphaplumbingco.com
 alphaslot777.top
 alphaxboost.club
 alpidaily.online
@@ -99636,6 +99638,7 @@ flynnproductions.com
 flynow.link
 flynsail.com
 flyrics.ru
+flysvg.shop
 flytickets-rec.com
 flyvisa.ir
 fm90.app
