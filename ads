@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/adguard-home
 ! License: GPLv3
-! Last modified: 2023-12-07T08:10:56.664Z
+! Last modified: 2023-12-07T08:14:13.976Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
