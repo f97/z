@@ -1,9 +1,9 @@
 !
-! Title: f97/adguard-home-[dont-care-cookies]
+! Title: f97/z-[dont-care-cookies]
 ! Description: DNS block list coin that can be used for AdGuardHome. (Does not work with Pi-hole)
-! Homepage: f97/adguard-home
+! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-07T08:14:16.798Z
+! Last modified: 2023-12-07T09:50:40.783Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !

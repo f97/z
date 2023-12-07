@@ -1,9 +1,9 @@
 !
-! Title: f97/adguard-home-[ads]
+! Title: f97/z-[ads]
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
-! Homepage: f97/adguard-home
+! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-07T08:14:13.976Z
+! Last modified: 2023-12-07T09:50:38.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -45917,6 +45917,7 @@ bunchofads.com
 buncoswosh.com
 buncounsel.com
 bundledintrait.website
+bundledrip.com
 bundlerwilting.life
 bungalowdispleasedwheeled.com
 bungalowlame.com
@@ -51262,6 +51263,7 @@ cpcmart.com
 cpcstdploqqh.com
 cpddwyuyd.com
 cpdfcu-sap.com
+cpdinsights.com
 cpdphowjcy.com
 cpeaksqppnknwp.xyz
 cpeallpuz.com
@@ -52983,6 +52985,7 @@ davidtrewconsultingltd.uk
 davigarcia.med.br
 davincireesolve.pw
 davisfence.us
+davisknightkitchens.com
 davjdaauvlp.com
 davshan.net
 davymarkham.co.uk
@@ -85266,6 +85269,7 @@ mylugia.com
 myluzon.com
 mymantech.com
 mymarked.com
+mymedicalbillingservice.com
 mymedprefs.com
 mymgss.com
 mymindfulceo.com
@@ -95040,6 +95044,7 @@ priceyaspect.pro
 prickclenched.com
 prickjuvenileturnstile.com
 pricklyhuffy.com
+pricklywolf.com
 pricompat.com
 pride.bike
 prideaux.xyz
@@ -108339,6 +108344,8 @@ supplerneedled.com
 supplicit.com
 suppliedhopelesspredestination.com
 supply.bidscube.com
+supplychaincyber.org
+supplychaincybersecurity.org
 supplycomplication.com
 supplyrefereesneeze.com
 supplysuede.com
@@ -113079,6 +113086,7 @@ tracot.com
 tractekytyh.xyz
 tractorfoolproofstandard.com
 tractorhedgecuttingcontractors.uk
+tractorlandgolf.com
 tractorsforsaleyorkshire.co.uk
 tracyplayers.digital
 tracytimm.com
@@ -113816,7 +113824,12 @@ trucemallow.website
 truckautocar.space
 truckcon.net
 truckcon.org
+truckcyber.org
 truckdevcon.com
+truckingcyber.com
+truckingcyber.org
+truckingcybersecurity.com
+truckingcybersecurity.org
 trucksift.com
 trucktransmissionparts.info
 trudot.in
@@ -119460,6 +119473,7 @@ waxingonprimrose.com
 waxpigbaa.com
 waxsvfavwstdigp.xyz
 waxtamnit.com
+way2vape.com
 waybillbulged.com
 wayfarerspoutpraise.com
 wayfarz.com
