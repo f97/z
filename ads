@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-07T10:36:41.054Z
+! Last modified: 2023-12-07T12:14:40.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -73574,6 +73574,7 @@ jaletemetia.com
 jalewaads.com
 jallallavet.cl
 jaloppystudy.life
+jalwhftxnl.com
 jamaicapoetryfestival.com
 jambelegate.casa
 jambiyaputtied.digital
@@ -76440,6 +76441,7 @@ kiweftours.com
 kiwi-offers.com
 kiwiai.ooo
 kiynew.com
+kizklqqj.com
 kiznzerigo.com
 kizxixktimur.com
 kj5s.ru
