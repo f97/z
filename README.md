@@ -15,4 +15,5 @@ Pretty simple, copy URL and add it to your AdGuard Home DNS block lists.
 | VN                 | <https://z.f97.xyz/vn>                | \~20,930   |
 | No Coin            | <https://z.f97.xyz/coin>              | \~6,215    |
 | Don't Care Cookies | <https://z.f97.xyz/dont-care-cookies> | \~144      |
-| ADS                | <https://z.f97.xyz/ads>               | \~143,964  |
+| ADS                | <https://z.f97.xyz/ads>               | \~143,978  |
+| Private            | <https://z.f97.xyz/private>           | \~130,268  |
