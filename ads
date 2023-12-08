@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-07T18:10:38.415Z
+! Last modified: 2023-12-08T00:37:51.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5396,6 +5396,7 @@
 ||cahvpbsikxvvm.xyz^
 ||caicuptu.xyz^
 ||caigluph.xyz^
+||caigobou.com^
 ||caimoasy.net^
 ||cainauhi.xyz^
 ||cainismlungee.uno^
@@ -8858,6 +8859,7 @@
 ||echoachy.xyz^
 ||echoizepheeal.uno^
 ||echskbpghlc.com^
+||eciivxqtur.com^
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
@@ -9402,6 +9404,7 @@
 ||eoveukrnme.info^
 ||eoweridus.com^
 ||eownouncillors.info^
+||eoxaxdglxecvguh.xyz^
 ||epacash.com^
 ||epagogerepines.com^
 ||epailseptox.com^
@@ -13281,6 +13284,7 @@
 ||iletterismyper.info^
 ||ilgwuqgvdzl.com^
 ||iliifmido.xyz^
+||iliketomakingpics.com^
 ||ilinouck.net^
 ||ilkmawgod.site^
 ||illallwoe.com^
@@ -65001,6 +65005,7 @@ gkisuwojho.com
 gkiutsnryohgk.com
 gkjoanks.com
 gkkchmjdndovu.xyz
+gkoutpips.com
 gkpblxyup.xyz
 gkpfuoyapoprvln.com
 gkpuqpewgxjso.com
@@ -73038,6 +73043,7 @@ isupopc.com
 iswhatappyouneed.net
 iswhelectual.cc
 iswissknife.com
+isxfrhhtcsagr.com
 isxmd.com
 isxpjviedbl.com
 isymgrup.com
@@ -86588,6 +86594,7 @@ newsfrontline.tech
 newshenmalign.life
 newsignites.com
 newsjuices.com
+newskolsa3a.com
 newsky.games
 newslabs.pw
 newslikemeds.com
@@ -139564,6 +139571,7 @@ zt-0304.cc
 zt.haggisgoyana.com
 zt.sniffedafeard.com
 zt056.com
+ztcdvwlrsudfz.com
 ztech.gq
 zteollhhyaqez.com
 ztgscxcpxee.com
