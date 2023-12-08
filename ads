@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-08T12:14:29.891Z
+! Last modified: 2023-12-08T14:08:34.766Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -964,6 +964,7 @@
 ||93c398a59e.com^
 ||93savmobile-m.com^
 ||9403d738ec.com^
+||943d6e0643.com^
 ||943e401be2.com^
 ||9522faf9d6.com^
 ||95a056626e.com^
@@ -8783,6 +8784,7 @@
 ||earnobnoxious.com^
 ||earplugmolka.com^
 ||earsanagep.com^
+||earthenicings.com^
 ||earthlyyowe.com^
 ||earthshaper.top^
 ||earuplulfy.xyz^
@@ -11449,6 +11451,7 @@
 ||gjrhqyc.com^
 ||gjwos.org^
 ||gkmohklyjyh.com^
+||gkoutpips.com^
 ||gkpblxyup.xyz^
 ||gkpvuyrgbbzu.com^
 ||gkrtmc.com^
@@ -11966,6 +11969,7 @@
 ||gronsoad.com^
 ||grooksom.com^
 ||groomoub.com^
+||groomtoo.com^
 ||groorsoa.net^
 ||grooseem.net^
 ||groosoum.xyz^
@@ -15447,6 +15451,7 @@
 ||lepiotaspectry.com^
 ||leptaasellus.digital^
 ||lerrdoriak.com^
+||lesionspalla.com^
 ||leskdywzbfk.com^
 ||lesoocma.net^
 ||lessite.pro^
@@ -16094,6 +16099,7 @@
 ||lycopuscris.com^
 ||lycoty.com^
 ||lyemiatteffulrf.xyz^
+||lyemmayrabawe.top^
 ||lyemmayrabzew.top^
 ||lyfhkyneq.com^
 ||lyingdownt.xyz^
@@ -22053,6 +22059,7 @@
 ||realvids.online^
 ||realvids.space^
 ||realvu.net^
+||reamsanswere.org^
 ||reaoryhuluios.com^
 ||reapinject.com^
 ||rearedexpensive.com^
@@ -24169,6 +24176,7 @@
 ||sistercomb.com^
 ||siswensaidoh.xyz^
 ||siszzonelzzcy.com^
+||sitaopewter.com^
 ||siteforyou1d.com^
 ||sitegoto.com^
 ||sitemnk.com^
@@ -26582,6 +26590,7 @@
 ||toutedwaeness.guru^
 ||toutheesosu.com^
 ||toutingmatelow.com^
+||touzia.xyz^
 ||tovanillitechan.com^
 ||tovespiquener.com^
 ||towardsmainlandpermissible.com^
@@ -28728,6 +28737,7 @@
 ||wearyregister.com^
 ||weaselbubblehue.com^
 ||weatheralcovehunk.com^
+||weathercockr.com^
 ||weatherpeanutnegligence.com^
 ||weatherplllatform.com^
 ||weatherpopularitypassage.com^
@@ -28792,6 +28802,7 @@
 ||weighinened.com^
 ||wel-wel-fie.com^
 ||welchdecrier.com^
+||welcomeargument.com^
 ||welcometerrific.com^
 ||welcomingcasklive.com^
 ||welfarefit.com^
@@ -30130,6 +30141,7 @@
 ||zazerygu.pro^
 ||zazffodkeadt.com^
 ||zbnfhsk.com^
+||zcaadfl.com^
 ||zcekqwlqktzrfq.com^
 ||zcode12.me^
 ||zcode7.me^
@@ -143462,6 +143474,8 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||vonkol.com^
+||v.adserve.tv^
 ||hadmvmqe.com^
 ||nwhuomqmuym.com^
 ||enwerzaqqbbnb.top^
