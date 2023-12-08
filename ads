@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-08T14:09:51.143Z
+! Last modified: 2023-12-08T18:10:03.605Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -66819,6 +66819,7 @@ gruelregionaledmund.com
 gruesome-comfortable.pro
 gruffermail.com
 gruffwhitsun.com
+gruftedsiloist.website
 grumblecommence.com
 grumblecrytopless.com
 grumblesignpurge.com
@@ -143489,6 +143490,18 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||xuudtwhlkrbah.com^
+||whotchie.net^
+||xskctff.com^
+||ujznabh.com^
+||answeredthechi.org^
+||usisedprivatedqu.com^
+||rwwoqcjefc.com^
+||hmsykhbqvesopt.xyz^
+||ptochair.xyz^
+||favzzmeziy.com^
+||jzbvpyvhus.com^
+||zfxtodsxtmw.com^
 ||vonkol.com^
 ||v.adserve.tv^
 ||hadmvmqe.com^
