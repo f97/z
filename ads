@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-08T14:08:34.766Z
+! Last modified: 2023-12-08T14:09:51.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -60779,6 +60779,7 @@ favregbest.com
 favrr.market
 favspinlink.com
 favthemes.com
+favzzmeziy.com
 fawa2d.com
 fawltytowers.ca
 fawningforegut.life
@@ -66719,6 +66720,7 @@ gronsoad.com
 grooksom.com
 groomingos.in
 groomoub.com
+groomtoo.com
 groopsie.net
 groorsoa.net
 grooseem.net
@@ -74564,6 +74566,7 @@ jnchangtal.net
 jncoqnseclareyg.com
 jndhosting.com
 jngsvjepylko.com
+jnkptvdmujliwll.com
 jnlbhjzrwtfcpq.com
 jnnihxpvlqahr.xyz
 jnohrcdlvewdok.com
@@ -75479,6 +75482,7 @@ jywigigu.com
 jyyucbqsij.com
 jz.warefulbesogne.com
 jz596.com
+jzbvpyvhus.com
 jzdxt.com
 jzeamuow.com
 jzeapwlruols.com
@@ -98468,6 +98472,7 @@ realvids.space
 realvu.net
 realwellthi.com
 realwomenradiantfaith.com
+reamsanswere.org
 reaoryhuluios.com
 reapinject.com
 rearand.com
@@ -101388,6 +101393,7 @@ rwuetgntqajxqgn.com
 rwukxmcypp.com
 rwuoptdro.com
 rwvjetivdov.top
+rwwoqcjefc.com
 rwww.highcpmrevenuenetwork.com
 rwwwnevtg.xyz
 rwxs.fun
@@ -101410,6 +101416,7 @@ rxfilesz.com
 rxglvcowb.com
 rxgvwht.com
 rxmxit.com
+rxnyotwiy.com
 rxouwtosqb.com
 rxoylpdhbgvvtq.com
 rxsavingexpert.com
@@ -113047,6 +113054,7 @@ toutedwaeness.guru
 toutheesosu.com
 toutimages-bannedbygoogle.com
 touyelogy.com
+touzia.xyz
 tovanillitechan.com
 tovari.org
 tovespiquener.com
@@ -114825,6 +114833,7 @@ txt2020.com
 txtrmjblu.com
 txtv245.com
 txusa.app
+txuwubeb.com
 txvellkgjxqffi.xyz
 txvktpvfysw.com
 txwhfmxlmu.com
@@ -118500,6 +118509,7 @@ vlnstudent.net
 vloked.com
 vlpocxtewtj.com
 vlqllpeevoch.com
+vlrcvfnceluo.com
 vlry5l4j5gbn.com
 vltwoizzckpp.com
 vluely.com
@@ -119894,6 +119904,7 @@ wearyregister.com
 weaselbubblehue.com
 weatheralcovehunk.com
 weatherbarbecue.com
+weathercockr.com
 weatherfalcon.com
 weathergroup.tech
 weatherhunters.us
@@ -120160,6 +120171,7 @@ wekipercode.com
 wel-wel-fie.com
 welchsstore.us
 welcomeafricana.net
+welcomeargument.com
 welcomecore.com
 welcomecores.org
 welcomedfwhomes.com
@@ -138269,6 +138281,7 @@ ynjfaadik.com
 ynkfmouq.com
 ynkjwogined.com
 ynklendr.online
+ynleeqgudghah.com
 ynlssc.com
 ynmokimbipnihc.com
 ynpropertiesllc.com
@@ -139108,6 +139121,7 @@ zbitsdesign.com
 zbnfhsk.com
 zbrojak.online
 zc.crosaean.com
+zcaadfl.com
 zcekqwlqktzrfq.com
 zceneqwhe.com
 zcljfimhng.com
@@ -139340,6 +139354,7 @@ zfoqfamkaxuf.com
 zfoxhovh.com
 zfwlnfalxxmwzb.com
 zfwnbsdawitk.com
+zfxtodsxtmw.com
 zg.somatendoo.com
 zg.wynnspakhtun.com
 zg999.com.cn
