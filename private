@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-08T00:37:57.088Z
+! Last modified: 2023-12-08T06:11:07.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3835,7 +3835,6 @@ data.mistat.rus.xiaomi.com
 ||cdcbd91708.045fef1509.com^
 ||04697a0ddea24c610de68229dadbc4390c37813647c2827bbc1f9041.com^
 ||04cb2afab7.com^
-||0538ly.cn^
 ||053h94.com^
 ||0571jjw.com^
 ||0571zxw.com^
@@ -3921,6 +3920,7 @@ data.mistat.rus.xiaomi.com
 ||10090dfs.com^
 ||100amateurvideos.com^
 ||xml-v4.100conversions.com^
+||100dollars-seo.com^
 ||100klv.com^
 ||100sport.tv^
 ||100widgets.com^
@@ -5286,6 +5286,7 @@ data.mistat.rus.xiaomi.com
 ||77c4175fc7.com^
 ||77tracking.com^
 ||78359c0779.com^
+||78387c2566.com^
 ||da890ae440.783bcdb896.com^
 ||788aefb4ed.com^
 ||78a3dd3c86.com^
@@ -5307,6 +5308,7 @@ data.mistat.rus.xiaomi.com
 ||7anfpatlo8lwmb.com^
 ||7b763dbdf3.com^
 ||7bb41eaede.com^
+||7bchhgh.de^
 ||7bspu.site^
 ||7c1ecc72c0.com^
 ||7ca78m3csgbrid7ge.com^
@@ -5828,6 +5830,7 @@ data.mistat.rus.xiaomi.com
 ||abcconducted.com^
 ||abcd.network^
 ||abcdserver.com^
+||abcogzozbk.com^
 ||abcompteur.com^
 ||abdalitroilus.com^
 ||ck.abdalpaces.com^
@@ -5868,6 +5871,7 @@ data.mistat.rus.xiaomi.com
 ||abmr.net^
 ||abmunnaa.com^
 ||abnetfriths.com^
+||abnrkespuk.com^
 ||sentry.aboalarm.com^
 ||aboaordhisis.xyz^
 ||aboardamusement.com^
@@ -5906,6 +5910,7 @@ data.mistat.rus.xiaomi.com
 ||abovethecityo.com^
 ||abpicsrc.com^
 ||abpjs23.com^
+||abqhafpada.com^
 ||abqmfewisf.com^
 ||abrahackbugs.xyz^
 ||abrasivematch.com^
@@ -5999,6 +6004,7 @@ data.mistat.rus.xiaomi.com
 ||connect.acams.org^
 ||webtracking.acams.org^
 ||acanthusso.ru^
+||acbbpadizl.com^
 ||df03704292.acbc68e83c.com^
 ||acc-hd.de^
 ||smetrics.accaglobal.com^
@@ -6086,6 +6092,7 @@ data.mistat.rus.xiaomi.com
 ||aclicktds.org^
 ||aclktrkr.com^
 ||analytics.instantterminal.acloud.guru^
+||acmaknoxwo.com^
 ||acmetoy.com^
 ||acollo.info^
 ||matomo.acolono.com^
@@ -6397,6 +6404,7 @@ data.mistat.rus.xiaomi.com
 ||adbtc.top^
 ||adbtwyxl96.fun^
 ||adbuddiz.com^
+||adbureau.net^
 ||adbutler.com^
 ||adbutler.de^
 ||adbutler-fermion.com^
@@ -6528,6 +6536,7 @@ data.mistat.rus.xiaomi.com
 ||adf4fdd723.com^
 ||adfactor.nl^
 ||adfactory.io^
+||adfahrapps.com^
 ||adfalcon.com^
 ||api.adfenix.com^
 ||assets.adfenix.com^
@@ -6843,7 +6852,6 @@ data.mistat.rus.xiaomi.com
 ||edipresse.adocean.pl^
 ||gemhu.adocean.pl^
 ||hrgde.adocean.pl^
-||hugde.adocean.pl^
 ||indexhu.adocean.pl^
 ||lv.adocean.pl^
 ||mkkeepaneyegde.adocean.pl^
@@ -6964,7 +6972,6 @@ data.mistat.rus.xiaomi.com
 ||adreporting.com^
 ||adrequest.net^
 ||adresellers.com^
-||adresult.jp^
 ||adrevenueclone.com^
 ||adrevolver.com^
 ||adrglife.com^
@@ -7267,7 +7274,6 @@ data.mistat.rus.xiaomi.com
 ||adtrace.ir^
 ||adtrace.online^
 ||adtrace.org^
-||adtrace.world^
 ||adtrackers.net^
 ||secure.adtraction.com^
 ||adtrade.net^
@@ -7648,6 +7654,7 @@ data.mistat.rus.xiaomi.com
 ||afgp10l.com^
 ||afgr1.com^
 ||afgtrwd1.com^
+||afgzipohma.com^
 ||afi-b.com^
 ||afi-thor.com^
 ||afilo.pl^
@@ -7699,6 +7706,7 @@ data.mistat.rus.xiaomi.com
 ||afterpastimebottled.com^
 ||rsx.afterpay.com^
 ||smetrics.aftonbladet.se^
+||aftontvapa.com^
 ||aftqhamina.com^
 ||aftrk1.com^
 ||aftrk3.com^
@@ -7736,6 +7744,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.agentfire.com^
 ||agentototerbesarterpercayamantra.com^
 ||agentstudio.com^
+||agffrusilj.com^
 ||aggravatecapeamoral.com^
 ||aggregateknowledge.com^
 ||aggregationmulecontribution.com^
@@ -8015,6 +8024,7 @@ data.mistat.rus.xiaomi.com
 ||aivalabs.com^
 ||aivoonsa.xyz^
 ||aixcdn.com^
+||aizglunbhfq.com^
 ||aj101.xyz^
 ||aj1010.online^
 ||aj1047.online^
@@ -8356,6 +8366,7 @@ data.mistat.rus.xiaomi.com
 ||beam.aktuality.sk^
 ||campaign-beam.aktuality.sk^
 ||tracker-beam.aktuality.sk^
+||aktwusgwep.com^
 ||akunamapro.com^
 ||akutapro.com^
 ||akyei.xyz^
@@ -9315,6 +9326,7 @@ data.mistat.rus.xiaomi.com
 ||ammunitionconsiderinstitution.com^
 ||amnet.tw^
 ||amnew.net^
+||amnqwuxikt.com^
 ||amnsreiuojy.ru^
 ||amntx1.net^
 ||amoad.com^
@@ -9480,6 +9492,7 @@ data.mistat.rus.xiaomi.com
 ||amylsturkdom.com^
 ||amywhereby.com^
 ||amyzjjzbyrzjw.top^
+||amzargfaht.com^
 ||amzbtuolwp.com^
 ||an-crimea.ru^
 ||anaemiaalmostforests.com^
@@ -9645,6 +9658,7 @@ data.mistat.rus.xiaomi.com
 ||ankiety-konsumenckie.pl^
 ||ankiety-tv.pl^
 ||ankleproposedomicile.com^
+||ankoftatdm.com^
 ||ankoras.com^
 ||anksjac.com^
 ||anltics.com^
@@ -9663,6 +9677,7 @@ data.mistat.rus.xiaomi.com
 ||announcingusecourt.com^
 ||annoyedairport.com^
 ||annoyingacoustics.com^
+||annoyingclover.com^
 ||activate.anntaylor.com^
 ||smetrics.anntaylor.com^
 ||annuentleers.com^
@@ -9750,6 +9765,7 @@ data.mistat.rus.xiaomi.com
 ||anxiousapples.com^
 ||anxiouslywonderexcitement.com^
 ||anxioussituation.com^
+||anxkuzvfim.com^
 ||analytics.any.run^
 ||cllctr.any.run^
 ||counter.any.run^
@@ -9818,6 +9834,7 @@ data.mistat.rus.xiaomi.com
 ||apbjhiu.com^
 ||info.apbspeakers.com^
 ||matomo.apc.org^
+||apcpaxwfej.com^
 ||apdfmhp.cn^
 ||ape78cn2.com^
 ||apeagle.io^
@@ -9862,7 +9879,6 @@ data.mistat.rus.xiaomi.com
 ||adx.apiok.net^
 ||apis301.com^
 ||apispyhuman.com^
-||apitrustlink.com^
 ||apk-get-update.info^
 ||apk-rool.info^
 ||apk-tools.info^
@@ -10167,11 +10183,13 @@ data.mistat.rus.xiaomi.com
 ||aq7ua5ma85rddeinve.com^
 ||aqburrae.xyz^
 ||aqdha.com^
+||aqdjimadsb.com^
 ||aqiemc.xyz^
 ||aqkkoalfpz.com^
 ||aqnepqy.com^
 ||aqnlgpx.com^
 ||aqphfgh.cc^
+||aqpnuqrcib.com^
 ||aqqlwcuqtskbz.com^
 ||aqrazrnivb.com^
 ||aqtracker.com^
@@ -10318,6 +10336,7 @@ data.mistat.rus.xiaomi.com
 ||metrics.armstrong.com^
 ||metrics.armstrongceilings.com^
 ||analytics.armymwr.com^
+||arnchealpa.com^
 ||smetrics.arnette.com^
 ||arnimalconeer.com^
 ||arnofourgu.com^
@@ -10335,6 +10354,7 @@ data.mistat.rus.xiaomi.com
 ||aroundtheworldonline.net^
 ||arouth.com^
 ||arpg2.com^
+||arqznlwzkkaev.top^
 ||arrangementsinventorpublic.com^
 ||arrayanthir.cfd^
 ||arrayshift.com^
@@ -10440,6 +10460,7 @@ data.mistat.rus.xiaomi.com
 ||omniture-ssl.groceries.asda.com^
 ||omniture.groceries-qa.asda.com^
 ||omniture-ssl.groceries-qa.asda.com^
+||metric.asda.com^
 ||omniture.money.asda.com^
 ||asdasd08.com^
 ||asdasdad.net^
@@ -10460,6 +10481,7 @@ data.mistat.rus.xiaomi.com
 ||asfklgnbvx.com^
 ||asfybkiy.xyz^
 ||asgardrecatch.com^
+||asgccummig.com^
 ||asgclick.com^
 ||asgclickkl.com^
 ||asgclickpp.com^
@@ -10543,6 +10565,7 @@ data.mistat.rus.xiaomi.com
 ||asrelatercondi.org^
 ||asrntiljustetyerec.info^
 ||cdn.asrop.xyz^
+||asrowjkagg.com^
 ||asryrzpu.xyz^
 ||matomo.aws.assaabloy.com^
 ||assadbee.live^
@@ -10595,7 +10618,6 @@ data.mistat.rus.xiaomi.com
 ||astonishingfood.com^
 ||astonmedicos.com^
 ||astra9dlya10.com^
-||astrachats.com^
 ||astraeus-star.site^
 ||astrandconifer.com^
 ||st.astraone.io^
@@ -10643,6 +10665,7 @@ data.mistat.rus.xiaomi.com
 ||cookiemon.atcom.gr^
 ||atcoordinate.com^
 ||atdeerlinga.com^
+||atdhobsb.com^
 ||atdlbgx.xyz^
 ||atdmaincode.com^
 ||atdnetwork.com^
@@ -10670,6 +10693,7 @@ data.mistat.rus.xiaomi.com
 ||atholicncesispe.info^
 ||aa.athome.com^
 ||analytics.athome.com^
+||athvicatfx.com^
 ||ati-host.net^
 ||aiseet.atianqi.com^
 ||aticalfelixstownrus.info^
@@ -10727,6 +10751,7 @@ data.mistat.rus.xiaomi.com
 ||atriblethetch.com^
 ||atripplotx.com^
 ||atriumset.com^
+||atsabwhkox.com^
 ||atservineor.com^
 ||atsg.me^
 ||atshroomisha.com^
@@ -11022,7 +11047,6 @@ data.mistat.rus.xiaomi.com
 ||geoip.apps.avada.io^
 ||avads.net^
 ||availableforester.com^
-||availablesshaother.com^
 ||avalancheofnews.com^
 ||analytics.avalara.com^
 ||trk.go.avalara.com^
@@ -11097,6 +11121,7 @@ data.mistat.rus.xiaomi.com
 ||avirus.hu^
 ||stats.avito.ru^
 ||analytics.avizia.com^
+||avjpkaasba.com^
 ||log.avlyun.com^
 ||piwik.avm.de^
 ||analytics.avmspa.it^
@@ -11117,6 +11142,7 @@ data.mistat.rus.xiaomi.com
 ||avstats.net^
 ||avsvmcloud.com^
 ||avtonalogi.ru^
+||avucugkccpavsxv.xyz^
 ||aa.avvo.com^
 ||zws.avvo.com^
 ||meds.avycaz.com^
@@ -11183,6 +11209,7 @@ data.mistat.rus.xiaomi.com
 ||awstats.cloud^
 ||awsurveys.com^
 ||awuedu.org^
+||awvtzezarm.com^
 ||awyebweybeqym.top^
 ||awzbijw.com^
 ||awzvpbg.com^
@@ -11203,6 +11230,7 @@ data.mistat.rus.xiaomi.com
 ||axis073236.com^
 ||axjfjdm.com^
 ||axkwmsivme.com^
+||axlajracqo.com^
 ||ag.axonesjames.com^
 ||axonix.com^
 ||axp2thqo3xsw.com^
@@ -11217,6 +11245,7 @@ data.mistat.rus.xiaomi.com
 ||ay.delivery^
 ||ay5u9w4jjc.com^
 ||ayads.co^
+||ayaghlq.com^
 ||ayakawamura.com^
 ||ayandehit.com^
 ||ayanpleasek.xyz^
@@ -11234,6 +11263,7 @@ data.mistat.rus.xiaomi.com
 ||azaobrm.com^
 ||azartplay.com^
 ||lgbdxo.azazie.com^
+||azbaclxror.com^
 ||news.azcapitoltimes.com^
 ||st.azcardinals.com^
 ||sxjfhh.azcentral.com^
@@ -11248,6 +11278,7 @@ data.mistat.rus.xiaomi.com
 ||azkcqs.com^
 ||azmjosvecyye.com^
 ||azmnp.com^
+||azmsmufimw.com^
 ||azoaltou.com^
 ||azointel.com^
 ||matomo.azrhymes.com^
@@ -11598,6 +11629,7 @@ data.mistat.rus.xiaomi.com
 ||ballinghelonin.com^
 ||balloonbelieve.com^
 ||balloontexture.com^
+||ballsbanana.com^
 ||baloneyunraked.com^
 ||balor-ghn.com^
 ||marketing.baltimore.org^
@@ -11829,6 +11861,7 @@ data.mistat.rus.xiaomi.com
 ||metrics.bax-shop.es^
 ||metrics.bax-shop.it^
 ||metrics.bax-shop.nl^
+||baxotjdtesah.com^
 ||radar.bayan.ir^
 ||analytics.bayareanewsgroup.com^
 ||bayctrk.com^
@@ -11911,6 +11944,7 @@ data.mistat.rus.xiaomi.com
 ||aod-image-material.cdn.bcebos.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||bcejk.xyz^
+||bceptemujahb.com^
 ||analytics.bcf.ch^
 ||analytics.dai.bcg.com^
 ||analytics.dki.bcg.com^
@@ -11988,6 +12022,7 @@ data.mistat.rus.xiaomi.com
 ||beampulse.com^
 ||beamvolcano.com^
 ||beanbagwrestling.com^
+||beancontrol.com^
 ||beanexperience.com^
 ||analytics.beano.io^
 ||beanstalkdata.com^
@@ -12109,6 +12144,7 @@ data.mistat.rus.xiaomi.com
 ||p.bekerle.com^
 ||beklefkiom.com^
 ||lsv5.belambra.fr^
+||analytics.belastingdienst.nl^
 ||belavoplay.com^
 ||belboon.de^
 ||analytics.beleuchtungdirekt.de^
@@ -12165,6 +12201,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.benefitfocus.com^
 ||analytics.benefithub.com^
 ||text.benefitsatwork.be^
+||text.benefitsatwork.ch^
 ||beneko.com^
 ||marketing.beneplace.com^
 ||smetrics.beneplace.com^
@@ -12298,7 +12335,6 @@ data.mistat.rus.xiaomi.com
 ||besthitsnow.com^
 ||bestialvehemence.com^
 ||bestlampjoy.com^
-||bestliklikegroup.com^
 ||bestmmogame.com^
 ||bestmoviesflix.xyz^
 ||bestnfast.pl^
@@ -12485,6 +12521,7 @@ data.mistat.rus.xiaomi.com
 ||bideo-endpoint.com^
 ||bideo-endpoint.xyz^
 ||bideo-schnellvpn.com^
+||bidfhimuqwij.com^
 ||bidfilter.com^
 ||filter.bidforclicks.com^
 ||xml.bidforclicks.com^
@@ -12857,6 +12894,8 @@ data.mistat.rus.xiaomi.com
 ||bkrtx.com^
 ||bkrzykymkvea.top^
 ||smetrics.bkstr.com^
+||bkujacocdop.com^
+||bkyqhavuracs.com^
 ||s.bl-1.com^
 ||bl230126pb.com^
 ||bl230512-2.com^
@@ -13145,6 +13184,7 @@ data.mistat.rus.xiaomi.com
 ||countly.bmwusa.com^
 ||countly-preprod.bmwusa.com^
 ||bmxvxl.xyz^
+||bmycupptafr.com^
 ||bmzqyzmvvvkqa.top^
 ||bongeo.bnu.bn.nr^
 ||smetrics.bna.com^
@@ -13172,6 +13212,7 @@ data.mistat.rus.xiaomi.com
 ||bnhtml.com^
 ||bnhxxj.xyz^
 ||bnlif.com^
+||bnmla.com^
 ||bnmq.com^
 ||data-28d1f65bc5.bnn.de^
 ||bnnfvd.xyz^
@@ -13225,6 +13266,7 @@ data.mistat.rus.xiaomi.com
 ||bodyshoppechiropractic.com^
 ||boenedb.com^
 ||boeneds.com^
+||boeristhmic.top^
 ||data-3bd3168117.boerse.de^
 ||data-964f7f3f43.boerse-online.de^
 ||boffinsoft.com^
@@ -13568,6 +13610,7 @@ data.mistat.rus.xiaomi.com
 ||client-analytics.braintreegateway.com^
 ||braintreegateway24.com^
 ||images.go.braintreepayments.com^
+||brainybasin.com^
 ||brainynut.com^
 ||brairdcaratch.digital^
 ||brakiefissive.com^
@@ -13904,6 +13947,7 @@ data.mistat.rus.xiaomi.com
 ||bttazsyk.icu^
 ||bttrack.com^
 ||btttag.com^
+||btuovkphiam.com^
 ||btvapp.net^
 ||analytic.btx.com^
 ||analytics.btx.com^
@@ -13997,6 +14041,7 @@ data.mistat.rus.xiaomi.com
 ||bultaika.net^
 ||bulyiel.com^
 ||rp.bumblesisobase.com^
+||bumhuetony.live^
 ||trk.bumi303ads.net^
 ||bumlam.com^
 ||bummockrewarm.com^
@@ -14021,6 +14066,7 @@ data.mistat.rus.xiaomi.com
 ||bunth.net^
 ||buoydeparturediscontent.com^
 ||adobe.bupaglobal.com^
+||buqajvxicma.com^
 ||buqkrzbrucz.com^
 ||buranablated.digital^
 ||burdaffi.burdadigital.pl^
@@ -14496,6 +14542,7 @@ data.mistat.rus.xiaomi.com
 ||ad.caiyunapp.com^
 ||cajesa.uno^
 ||cajggfj.com^
+||cajqtygrudk.com^
 ||cajunecch.guru^
 ||cakeduer.com^
 ||cakeglobal-offers.com^
@@ -14976,7 +15023,7 @@ data.mistat.rus.xiaomi.com
 ||cca63f7d30.com^
 ||ccaa100.com^
 ||ccaa200.com^
-||refer.ccbill.com^
+||ccaahdancza.com^
 ||info.ccbjournal.com^
 ||cccbutyonlinepl.com^
 ||cccpmo.com^
@@ -15721,6 +15768,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.cience.com^
 ||cienum.fr^
 ||cifawsoqvawj.com^
+||cifbhopfaon.com^
 ||cifflattie.com^
 ||cdp.cifinancial.com^
 ||smetrics.cigar.com^
@@ -15779,6 +15827,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.cirroenergy.com^
 ||tracking.cirrusinsight.com^
 ||cirsoiddanize.com^
+||analytics.cloudapps.cisco.com^
 ||mktcs.cloudapps.cisco.com^
 ||engage2demand.cisco.com^
 ||engagemetrics.cisco.com^
@@ -15872,6 +15921,7 @@ data.mistat.rus.xiaomi.com
 ||cklithuw.xyz^
 ||ckmbig.xyz^
 ||ckofrnk.com^
+||ckojwaarrruc.com^
 ||ckspodaotjotkn.com^
 ||cl-oud9.com^
 ||cl0udh0st1ng.com^
@@ -15941,7 +15991,6 @@ data.mistat.rus.xiaomi.com
 ||cleanbrowser.network^
 ||cleanchain.net^
 ||analytics.cleancleaner.me^
-||cleaneffectivedevicerisk.autos^
 ||cleanerultra.club^
 ||cleanhaircut.com^
 ||info.cleanharbors.com^
@@ -16075,6 +16124,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.click2apply.net^
 ||click2sell.eu^
 ||click360.io^
+||clickability.com^
 ||clickable.com^
 ||clickable.net^
 ||clickadilla.com^
@@ -17793,6 +17843,7 @@ data.mistat.rus.xiaomi.com
 ||dzinestudio87.co.uk^
 ||weblog.e-himart.co.kr^
 ||eastfootball.co.uk^
+||analytics.edaily.co.kr^
 ||cp.edl.co.kr^
 ||smetrics.ee.co.uk^
 ||metrics.egencia.co.in^
@@ -18524,7 +18575,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.apps.com.tr^
 ||arethegrav.com.ua^
 ||arquivaae.com.br^
-||artinicrash.com.au^
 ||atualizabrasil.com.br^
 ||dd.auspost.com.au^
 ||autodiscover.com.cn^
@@ -18586,6 +18636,7 @@ data.mistat.rus.xiaomi.com
 ||chanet.com.cn^
 ||matomo.cheers.com.tw^
 ||union.china.com.cn^
+||publicidade.ciatto.com.br^
 ||cinerreklam.com.tr^
 ||content22.citibank.com.au^
 ||smetrics.citibank.com.hk^
@@ -19036,7 +19087,6 @@ data.mistat.rus.xiaomi.com
 ||interest.mix.sina.com.cn^
 ||log.mix.sina.com.cn^
 ||p4p.sina.com.cn^
-||pfp.sina.com.cn^
 ||sax.sina.com.cn^
 ||saxn.sina.com.cn^
 ||saxs.sina.com.cn^
@@ -19107,7 +19157,6 @@ data.mistat.rus.xiaomi.com
 ||info.truelocal.com.au^
 ||analytics.tucarro.com.co^
 ||analytics.tucarro.com.ve^
-||tukofertas.com.br^
 ||searchanalytics.turkcell.com.tr^
 ||signals.turkcell.com.tr^
 ||cdn-netmeraprod.turktelekom.com.tr^
@@ -19197,6 +19246,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.comalatech.io^
 ||breakingnews.comano.us^
 ||combativecar.com^
+||combcattle.com^
 ||combia-tellector.com^
 ||combinationpalmwhiskers.com^
 ||combinedenergytech.com^
@@ -19880,8 +19930,10 @@ data.mistat.rus.xiaomi.com
 ||analytics.covermymeds.com^
 ||covivado.club^
 ||cowagesabaca.life^
+||analytics.cowboychannelplus.com^
 ||cowmankai.com^
 ||smetrics.cox.com^
+||coxbunban.live^
 ||coxiesthubble.com^
 ||coxmt.com^
 ||coxziptwo.com^
@@ -20034,6 +20086,7 @@ data.mistat.rus.xiaomi.com
 ||creativetourlips.com^
 ||live-tag.creatopy.net^
 ||creatorcherry.com^
+||crectipumlu.com^
 ||credibilitystakehemisphere.com^
 ||credibilityyowl.com^
 ||analytics.credible.com^
@@ -20215,6 +20268,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.cs44salesforce.com^
 ||metrics.cs44salesforce.com^
 ||csbo.shop^
+||piwik.dwarf.cscec.com^
 ||cschyogh.com^
 ||csdata1.com^
 ||csdkbuh.com^
@@ -20266,6 +20320,7 @@ data.mistat.rus.xiaomi.com
 ||cticalwhichhere.info^
 ||ctienlf.top^
 ||z492.ctinsider.com^
+||ctiotjobkfu.com^
 ||ctnetwork.hu^
 ||ctnsnet.com^
 ||ctobsnssdk.com^
@@ -20337,7 +20392,9 @@ data.mistat.rus.xiaomi.com
 ||cum.fr^
 ||cumbersomeastonishedsolemn.com^
 ||cumbersomebonus.com^
+||cumbersomecarpenter.com^
 ||cumbersomecloud.com^
+||cumhiwdfoagk.com^
 ||cuminside.club^
 ||elqtrk.cummins.com^
 ||images.go.cummins.com^
@@ -20516,6 +20573,7 @@ data.mistat.rus.xiaomi.com
 ||czvan.online^
 ||czwaikg.com^
 ||czx5eyk0exbhwp43ya.biz^
+||czyoxhxufpm.com^
 ||d-064.com^
 ||d-1.co^
 ||d-bi.fr^
@@ -20594,7 +20652,6 @@ data.mistat.rus.xiaomi.com
 ||dagamemisdeed.com^
 ||dagcoin.org^
 ||dagft.cn^
-||dagfzjr.in^
 ||daggapartley.life^
 ||daggerwantedliterally.com^
 ||telemetry.dagster.io^
@@ -21234,7 +21291,6 @@ data.mistat.rus.xiaomi.com
 ||deeperhundredpassion.com^
 ||deephicy.net^
 ||matomo.deephow.app^
-||deepikarai.com^
 ||deepintent.com^
 ||deepmetrix.com^
 ||deepnewsjuly.com^
@@ -21925,6 +21981,7 @@ data.mistat.rus.xiaomi.com
 ||grundfosholdingas.demdex.net^
 ||grupocortefiel.demdex.net^
 ||grupomonge.demdex.net^
+||gsdm.demdex.net^
 ||gsk.demdex.net^
 ||gslb-nike.demdex.net^
 ||gsmosaic.demdex.net^
@@ -22811,6 +22868,7 @@ data.mistat.rus.xiaomi.com
 ||den-photomaster.kz^
 ||denakop.com^
 ||denansgdfierc.com^
+||denarocepa.com^
 ||denbeigemark.com^
 ||denbsd.com^
 ||dendranthe4edm7um.com^
@@ -23981,6 +24039,7 @@ data.mistat.rus.xiaomi.com
 ||dr5.biz^
 ||dr6.biz^
 ||dr7.biz^
+||draajctabjum.com^
 ||drabimprovement.com^
 ||drabsize.com^
 ||draggedeffectuallyhelicopter.com^
@@ -24108,7 +24167,6 @@ data.mistat.rus.xiaomi.com
 ||matomo.drutch.nl^
 ||druttlelimbec.digital^
 ||2f1uzenyvhtbklpqkvjyga.on.drv.tw^
-||zlvrbzquvzbdutt0gdiqvk.on.drv.tw^
 ||drwornspinster.com^
 ||drydrum.com^
 ||dryerslegatos.com^
@@ -24247,6 +24305,7 @@ data.mistat.rus.xiaomi.com
 ||dulojet.com^
 ||analytics.duluthtrading.com^
 ||metrics.duluthtrading.com^
+||dulwajdpoqcu.com^
 ||dumbpop.com^
 ||dumedia.ru^
 ||dumeia.cn^
@@ -24298,6 +24357,7 @@ data.mistat.rus.xiaomi.com
 ||dusunfloraer.com^
 ||duwabbh.com^
 ||duwomuonxosyjf.com^
+||duwtkigcyxh.com^
 ||adsmis.duxiaoman.com^
 ||duzmevl.com^
 ||dvbnmikxh.xyz^
@@ -24407,6 +24467,7 @@ data.mistat.rus.xiaomi.com
 ||dzrs3yuexz.com^
 ||dzubavstal.com^
 ||dzuowpapvcu.com^
+||dzuvuwtceoxf.com^
 ||ad.dzwww.com^
 ||dzxwnews.com^
 ||dzypro.xyz^
@@ -24686,7 +24747,6 @@ data.mistat.rus.xiaomi.com
 ||stbanalyticsimp.echostarbeta.com^
 ||stbanalyticspvm.echostarbeta.com^
 ||echoxc.com^
-||echrepdvcd.com^
 ||data-0b2c5acddd.echtemamas.de^
 ||data-9c12ed8b3c.echtemamas.de^
 ||eciea.xyz^
@@ -24827,7 +24887,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.dschool.edu.gr^
 ||eib.edu.au^
 ||bologna.epu.edu.iq^
-||ineso.edu.mx^
 ||intenalco.edu.co^
 ||smetrics.latrobe.edu.au^
 ||nwssu.edu.ph^
@@ -25077,6 +25136,7 @@ data.mistat.rus.xiaomi.com
 ||dmpcdn.el-mundo.net^
 ||analytics.el-pato.de^
 ||smetrics.elal.com^
+||dmp.eland-tech.com^
 ||elarbolabc.com^
 ||elas666.pics^
 ||telemetry.elastic.co^
@@ -25370,6 +25430,7 @@ data.mistat.rus.xiaomi.com
 ||endream.buzz^
 ||eht.endress.com^
 ||ehtel.endress.com^
+||endurablebulb.com^
 ||endurableshop.com^
 ||endurecorpulent.com^
 ||endyloop.com^
@@ -26250,7 +26311,6 @@ data.mistat.rus.xiaomi.com
 ||extentresentment.com^
 ||exterminateantique.com^
 ||exterminatearch.com^
-||extole.com^
 ||extrablocks.ru^
 ||extraconventional.com^
 ||extractdissolve.com^
@@ -26433,6 +26493,7 @@ data.mistat.rus.xiaomi.com
 ||fafc5ra5.ru^
 ||faffylunk.space^
 ||faggotsnulled.com^
+||fagovwnavab.com^
 ||fagywalu.pro^
 ||failingrainful.website^
 ||failuremaistry.com^
@@ -26565,6 +26626,7 @@ data.mistat.rus.xiaomi.com
 ||farasiverived.org^
 ||faravirus.ro^
 ||farawayreel.com^
+||farbankthy.live^
 ||fardasub.xyz^
 ||fardelbungo.com^
 ||farethief.com^
@@ -26650,6 +26712,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.fatmedia.io^
 ||analytics2.fatmedia.io^
 ||fatuoidmunify.com^
+||fatzuclmihih.com^
 ||sstats.faucet.com^
 ||tracking.faucet.com^
 ||somniture.faucetdirect.com^
@@ -26922,10 +26985,12 @@ data.mistat.rus.xiaomi.com
 ||fgetmzx.icu^
 ||fghnergyflex.xyz^
 ||fgjasshw.com^
+||fgkoxeqjpal.com^
 ||fgnzdb.xyz^
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||wels.fh-joanneum.at^
+||fhahujwafaf.com^
 ||fhcigars.com^
 ||fhdwtku.com^
 ||fhepiqajsdap.com^
@@ -27025,6 +27090,7 @@ data.mistat.rus.xiaomi.com
 ||filmy-zilla.lat^
 ||filmynadzis.pl^
 ||filthybudget.com^
+||fimc.net^
 ||fin.ovh^
 ||coopcentro.fin.ec^
 ||metric.dev.fin.ag^
@@ -27240,7 +27306,6 @@ data.mistat.rus.xiaomi.com
 ||fixespreoccupation.com^
 ||fixgroupfactor.com^
 ||fjijxch.com^
-||fjshxjs.cn^
 ||fjtroip.cn^
 ||fjylcy.com^
 ||fkauueeepla.top^
@@ -27287,7 +27352,6 @@ data.mistat.rus.xiaomi.com
 ||hiuplq.flashscore.pl^
 ||hiuplq.flashscore.sk^
 ||flashtalking.com^
-||flashx.pw^
 ||flashycontagiouspulverize.com^
 ||flashymass.com^
 ||flasklimbearlier.com^
@@ -27443,6 +27507,7 @@ data.mistat.rus.xiaomi.com
 ||flurrylimmu.com^
 ||flushgenuinelydominion.com^
 ||flutedoltunna.life^
+||flutteringfireman.com^
 ||fluttermotorway.com^
 ||flux.com^
 ||a.flux.jp^
@@ -27776,6 +27841,7 @@ data.mistat.rus.xiaomi.com
 ||sdk.foursquare.com^
 ||axp.fourstateshomepage.com^
 ||analytics.na1.fourth.com^
+||fourthatbud.live^
 ||fourtimessmelly.com^
 ||fout.jp^
 ||foutyoxyaena.website^
@@ -28422,6 +28488,7 @@ data.mistat.rus.xiaomi.com
 ||matomo-prod.gabor.de^
 ||gabriellalovecats.com^
 ||gaconnector.com^
+||gacoufti.com^
 ||gacraft.jp^
 ||piwik.gadatatracking.com^
 ||gadgetblog.ru^
@@ -28438,6 +28505,7 @@ data.mistat.rus.xiaomi.com
 ||gaeqkhd.com^
 ||gaesataigal.uno^
 ||carepay.gaf.com^
+||gafmajosxog.com^
 ||gagitaa.com^
 ||uep.gaijin.net^
 ||gainoilcash.live^
@@ -28589,7 +28657,6 @@ data.mistat.rus.xiaomi.com
 ||garricketiam.website^
 ||garss.tv^
 ||gartenbau-smarsly.de^
-||webinstaller.gartenplanze.de^
 ||tracking.gartentraum.de^
 ||images.digital-markets.gartner.com^
 ||elqact.gartner.com^
@@ -28762,6 +28829,7 @@ data.mistat.rus.xiaomi.com
 ||general-catalog.net^
 ||generalizebusinessman.com^
 ||generalizeruffleembroidery.com^
+||generallyrefinelollipop.com^
 ||generalprose.com^
 ||generaltracking.de^
 ||generateplunderstrew.com^
@@ -29158,6 +29226,7 @@ data.mistat.rus.xiaomi.com
 ||giddycoat.com^
 ||giddysystemrefers.com^
 ||gidoulie.com^
+||gidowvcutaxr.com^
 ||gidraruzxpnew4af.com^
 ||data-f59db3288b.giessener-allgemeine.de^
 ||amcgns.giesswein.com^
@@ -29301,13 +29370,13 @@ data.mistat.rus.xiaomi.com
 ||hed.gkp.pk^
 ||gkrtmc.com^
 ||gkwrae.xyz^
+||gkxyifeulfpb.com^
 ||gkyropoulos.com^
 ||gkzwzzk.net^
 ||gl-product-analytics.com^
 ||gla63a4l.de^
 ||glacierglorifybeetroot.com^
 ||glaciergrimly.com^
-||relief.glad-glory.com^
 ||data-4ca65a8bdb.gladbachlive.de^
 ||sanalytics.gladbachlive.de^
 ||analytics.gladly.com^
@@ -29533,6 +29602,7 @@ data.mistat.rus.xiaomi.com
 ||gmyze.com^
 ||gmzdaily.com^
 ||data-90725c51d9.gn-online.de^
+||gn01.top^
 ||gnashedmaypops.digital^
 ||gnathicrugal.top^
 ||analytics.gnc.com^
@@ -29711,7 +29781,6 @@ data.mistat.rus.xiaomi.com
 ||goingbicyclepolitically.com^
 ||smetrics.goinggoing.com^
 ||smetrics.goinggoinggone.com^
-||goingsranchange.com^
 ||goingup.com^
 ||gointhe.space^
 ||t.gojacks.com^
@@ -30009,6 +30078,7 @@ data.mistat.rus.xiaomi.com
 ||govmetric.com^
 ||govtjobscan.com^
 ||gowtos.com^
+||t.gowyo.com^
 ||t.goxavier.com^
 ||trc.gpcdn.pl^
 ||gpiyzwt.com^
@@ -30017,6 +30087,8 @@ data.mistat.rus.xiaomi.com
 ||gpllaid.com^
 ||gpm.ltd^
 ||gpmandiri.com^
+||gpobilncysa.com^
+||gporkecpyttu.com^
 ||gpqicw.xyz^
 ||gpqid.xyz^
 ||gpr.hu^
@@ -30411,6 +30483,7 @@ data.mistat.rus.xiaomi.com
 ||business.guinnessworldrecords.com^
 ||guitaralliance.com^
 ||annwwu.guitarcenter.com^
+||gujakqludcuk.com^
 ||guke.name^
 ||keoofp.gulfnews.com^
 ||marketing.gulfshores.com^
@@ -30457,6 +30530,7 @@ data.mistat.rus.xiaomi.com
 ||gussbkpr.website^
 ||gustilyoblate.uno^
 ||data-8d9711db79.gusto.at^
+||gustygrandmother.com^
 ||data-1d11624658.gutekueche.de^
 ||data-29b3ebc284.gutekueche.de^
 ||gutobtdagruw.com^
@@ -30521,6 +30595,7 @@ data.mistat.rus.xiaomi.com
 ||gzankeb.com^
 ||gzcl999.com^
 ||gzcxtuxgqjrhz.com^
+||gzifhovadhf.com^
 ||gzqgaq.xyz^
 ||gzsjym.xyz^
 ||gztllwfbrmdhg.com^
@@ -30575,6 +30650,7 @@ data.mistat.rus.xiaomi.com
 ||hadietbook.net^
 ||hadronid.net^
 ||hadsimz.com^
+||haeggnet.live^
 ||haek.net^
 ||consenttool.haendlerbund.de^
 ||haffnetworkmm.com^
@@ -30735,8 +30811,8 @@ data.mistat.rus.xiaomi.com
 ||hapying.com^
 ||banners.haqqin.az^
 ||matomo.har.com^
-||harafunnel.com^
-||haraloyalty.com^
+||assets.harafunnel.com^
+||app.haraloyalty.com^
 ||app.harasocial.com^
 ||combo-omni.haravan.com^
 ||facebookinbox-omni-onapp.haravan.com^
@@ -30766,6 +30842,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.harepoint365.com^
 ||haresmodus.com^
 ||matomo.harfington.com^
+||hargmosmosmu.com^
 ||harhtwb.com^
 ||hariharaestates.com^
 ||hariken.co^
@@ -31295,6 +31372,7 @@ data.mistat.rus.xiaomi.com
 ||smetrics.hfma.org^
 ||hfncugb.com^
 ||hfnzhczqgdp.com^
+||hfufkifmeni.com^
 ||hfwld.cn^
 ||hg-bn.com^
 ||hgads.com^
@@ -31464,6 +31542,7 @@ data.mistat.rus.xiaomi.com
 ||hinkhimunpra.info^
 ||hinkhimunpractical.com^
 ||hinm.online^
+||hinowlfuhrz.com^
 ||c1.hinta.fi^
 ||hioek.cyou^
 ||hip-97166b.com^
@@ -31564,7 +31643,6 @@ data.mistat.rus.xiaomi.com
 ||hivedata.com^
 ||info.hiway.org^
 ||hixutb.xyz^
-||hizanpwhexw.com^
 ||hjajzyz.com^
 ||hjalma.com^
 ||gentian-frd.hjapi.com^
@@ -31698,9 +31776,7 @@ data.mistat.rus.xiaomi.com
 ||hollowafterthought.com^
 ||hollowcharacter.com^
 ||holm.ru^
-||ad.holmesmind.com^
-||c.holmesmind.com^
-||vast.holmesmind.com^
+||holmesmind.com^
 ||holobitex.com^
 ||holofor.com^
 ||data.holtwick.de^
@@ -31708,6 +31784,7 @@ data.mistat.rus.xiaomi.com
 ||ads.home.vn^
 ||smetrics.home.kpmg^
 ||somni.home.saxo^
+||marketing.net.home24.at^
 ||marketing.net.home24.ch^
 ||marketing.net.home24.fr^
 ||marketing.net.home24.nl^
@@ -32051,6 +32128,7 @@ data.mistat.rus.xiaomi.com
 ||https443.net^
 ||httpslink.com^
 ||hturnshal.com^
+||htyrmacanbty.com^
 ||hu-vignette.com^
 ||huabian.com^
 ||app-analytics.huami.com^
@@ -32220,6 +32298,7 @@ data.mistat.rus.xiaomi.com
 ||husqvarnaoutlet.shop^
 ||hussartootle.website^
 ||husuko.xyz^
+||huszawnuqad.com^
 ||hut1.ru^
 ||hutanz.xyz^
 ||hutchieshode.com^
@@ -32254,6 +32333,7 @@ data.mistat.rus.xiaomi.com
 ||hwpvbdj.xyz^
 ||hwqloan.com^
 ||hwvwxerw.xyz^
+||hwydwovzuob.com^
 ||hwzzhlz.com^
 ||hxahv.com^
 ||hxcdyx.com^
@@ -32467,6 +32547,7 @@ data.mistat.rus.xiaomi.com
 ||icorp.ro^
 ||icowatchlist.com^
 ||icpadv.com^
+||icrxbetigcdjz.com^
 ||icvsleec.xyz^
 ||icwb.com^
 ||icxcrnciutiltaf.com^
@@ -32942,6 +33023,7 @@ data.mistat.rus.xiaomi.com
 ||impreslvedate.com^
 ||impressexaltsculptor.com^
 ||impression.link^
+||impressiondesk.com^
 ||impressionmedia.cz^
 ||impressionmonster.com^
 ||rtb-useast.imprexis.biz^
@@ -32989,6 +33071,7 @@ data.mistat.rus.xiaomi.com
 ||inadmissibleinsensitive.com^
 ||inaessentials.pl^
 ||inaftracker.com^
+||inagtwo.live^
 ||inaltariaon.com^
 ||inancukan.xyz^
 ||inanitystorken.com^
@@ -33339,6 +33422,7 @@ data.mistat.rus.xiaomi.com
 ||inonclbench.com^
 ||inoradde.com^
 ||inoskydive.pl^
+||inourdreamsa.org^
 ||inowe.xyz^
 ||inpage-push.com^
 ||inpagepush.com^
@@ -34257,6 +34341,7 @@ data.mistat.rus.xiaomi.com
 ||ismatlab.com^
 ||ismea.it^
 ||ismscoldnesfspl.info^
+||isna.top^
 ||isnd.top^
 ||dm.isnssdk.com^
 ||h5.isnssdk.com^
@@ -34472,6 +34557,7 @@ data.mistat.rus.xiaomi.com
 ||jacobsondevelopers.com^
 ||rencontres-coquines.jacquieetmichel.net^
 ||jacquieetmichel-contacts.com^
+||jacsmuvkymw.com^
 ||jactantsplodgy.com^
 ||jadeitite.com^
 ||info.jadelearning.com^
@@ -34479,6 +34565,7 @@ data.mistat.rus.xiaomi.com
 ||jads.co^
 ||jadspro.live^
 ||jaduda.com^
+||jafxirkamolt.com^
 ||jaggedthronelaxative.com^
 ||jaggedunaccustomeddime.com^
 ||jaggiertridii.com^
@@ -34522,7 +34609,6 @@ data.mistat.rus.xiaomi.com
 ||rhxkzd.jane.com^
 ||jane1.top^
 ||jane2.top^
-||janejahan.com^
 ||janganlupatidur.com^
 ||t.janieandjack.com^
 ||jannatkhah.ir^
@@ -34719,6 +34805,7 @@ data.mistat.rus.xiaomi.com
 ||jfezcru.cc^
 ||jfjlfah.com^
 ||statistics.jfmedier.dk^
+||jfoaxwbatlic.com^
 ||jfpfpmd.net^
 ||jfsldq.top^
 ||jggvkisg.com^
@@ -34762,6 +34849,7 @@ data.mistat.rus.xiaomi.com
 ||jiguang.cn^
 ||jijilida.com^
 ||jijozdrg.xyz^
+||jikzudkkispi.com^
 ||jilarohtas.com^
 ||jili9.io^
 ||jillsclickcorner.com^
@@ -34854,6 +34942,7 @@ data.mistat.rus.xiaomi.com
 ||t.jmusports.com^
 ||jmvscgd.com^
 ||jmvvpb.xyz^
+||jmylj.cn^
 ||jndxsuy.xyz^
 ||analytics.jnjpediatrics.com^
 ||jnmaeun.xyz^
@@ -35064,6 +35153,7 @@ data.mistat.rus.xiaomi.com
 ||jtienla.top^
 ||jtj-law.com^
 ||jtjtqar.com^
+||jtokaxswunka.com^
 ||jtoutfitters.com^
 ||marketing.jtsa.edu^
 ||jtumdod.com^
@@ -35190,6 +35280,7 @@ data.mistat.rus.xiaomi.com
 ||jutyledu.pro^
 ||juvander.net^
 ||juvenilearmature.com^
+||juwrzyawqas.com^
 ||jux9ms4vc7.ru^
 ||juzwrl.xyz^
 ||jvaemllmeezyw.top^
@@ -35351,6 +35442,7 @@ data.mistat.rus.xiaomi.com
 ||kanawhadonnot.website^
 ||kaneirrigation.com^
 ||kangaroohiccups.com^
+||telemetry.kes.kano.me^
 ||kanoodle.com^
 ||kansanscichar.com^
 ||outreach.kansashealthsystem.com^
@@ -35451,6 +35543,7 @@ data.mistat.rus.xiaomi.com
 ||kbzs88.com^
 ||e.kc-education.com^
 ||ssc.kcamexico.com^
+||kcaonrbiwamx.com^
 ||kcieo.xyz^
 ||ev.kck.st^
 ||t.kck.st^
@@ -35771,6 +35864,7 @@ data.mistat.rus.xiaomi.com
 ||loglady.kiwi.com^
 ||kiwihk.net^
 ||kiynew.com^
+||kizxixktimur.com^
 ||kjanynlnwqqqy.top^
 ||kjdbcjkmc.com^
 ||kjgzctn.com^
@@ -35795,6 +35889,7 @@ data.mistat.rus.xiaomi.com
 ||pixel.kknews.cc^
 ||kkswpzh.com^
 ||kktxgytr.com^
+||kkuabdkharhi.com^
 ||kkualfvtaot.com^
 ||kl91ccp.com^
 ||data-c0c484e9be.klack.de^
@@ -36071,7 +36166,6 @@ data.mistat.rus.xiaomi.com
 ||krazil.com^
 ||krcmcmp.com^
 ||krdn.pl^
-||krebsonsecurity.top^
 ||kredit-rupiah.com^
 ||krediteasypro.com^
 ||krediteksklusif.com^
@@ -36228,6 +36322,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.kurtgeiger.com^
 ||analytics.kurtgeiger.us^
 ||matomo.kurviger.de^
+||kusciwaqfkaw.com^
 ||kushou.com^
 ||kusidcfbb.com^
 ||kussoscliffy.com^
@@ -36621,7 +36716,6 @@ data.mistat.rus.xiaomi.com
 ||pub.le360.ma^
 ||lead.im^
 ||lead-123.com^
-||lead1.pl^
 ||secure.lead5beat.com^
 ||leadberry.com^
 ||leadbi.com^
@@ -36921,7 +37015,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.lexuscommunications.net^
 ||s.lexusfinancial.com^
 ||lezbiyanki.net^
-||lezerscollectief.com^
 ||i.lf360.co^
 ||lfcraft.com^
 ||lfeeder.com^
@@ -37461,6 +37554,7 @@ data.mistat.rus.xiaomi.com
 ||livrfufzios.com^
 ||livyersremoval.com^
 ||lixiaodie.com^
+||lixnirokjqp.com^
 ||lizapaisan.com^
 ||lizardslaugh.com^
 ||data.crm.lizearle.com^
@@ -37485,6 +37579,7 @@ data.mistat.rus.xiaomi.com
 ||lkmhn.com^
 ||lknhrnd.com^
 ||lknnbd.xyz^
+||lkoazlrkifiz.com^
 ||lkot.top^
 ||lkpmprksau.com^
 ||lkqd.com^
@@ -37691,6 +37786,7 @@ data.mistat.rus.xiaomi.com
 ||piwik.um.lomza.pl^
 ||lone1y.com^
 ||lonelyfix.com^
+||lonelyflavor.com^
 ||lonfilliongin.com^
 ||longchampsacpascher.fr^
 ||longchampsacsoldes.fr^
@@ -37752,7 +37848,6 @@ data.mistat.rus.xiaomi.com
 ||loqnaol.cc^
 ||smetrics.lordabbett.com^
 ||lordpopup.com^
-||lordsproductions.com^
 ||analytics.lorenz-snacks.com^
 ||lorgnonanvils.top^
 ||lormeryacarari.website^
@@ -37869,7 +37964,9 @@ data.mistat.rus.xiaomi.com
 ||lr-ingest.com^
 ||lr-ingest.io^
 ||lr-intake.com^
+||lraonxdikxi.com^
 ||lrcdjqw.com^
+||lreqmoonpjka.com^
 ||lrkenrerjkbly.top^
 ||lrkenrerjkljb.top^
 ||analytics.lrn.com^
@@ -38131,7 +38228,6 @@ data.mistat.rus.xiaomi.com
 ||m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com^
 ||m2k3j7x8.com^
 ||m2track.co^
-||m3.wtf^
 ||m32.media^
 ||m4n.nl^
 ||m4pgay.com^
@@ -38266,6 +38362,7 @@ data.mistat.rus.xiaomi.com
 ||magnus.ms^
 ||magpi.com^
 ||magsrv.com^
+||analytics.magzter.com^
 ||counter.mahanmusic.net^
 ||mahdicrofter.com^
 ||mahetechasia.com^
@@ -38652,6 +38749,7 @@ data.mistat.rus.xiaomi.com
 ||smetrics.mastercard.com^
 ||webtraffic.mastercontrol.com^
 ||masterfornews.com^
+||masterfrowne.org^
 ||masteringdiabetes.org^
 ||mastermind.com^
 ||masterpieceplainlythird.com^
@@ -38775,6 +38873,8 @@ data.mistat.rus.xiaomi.com
 ||dcs.maxthon.com^
 ||push-s.maxthon.com^
 ||maxtraffic.com^
+||maxun066.top^
+||maxun118.top^
 ||maxusizator.online^
 ||maxxcorp.net^
 ||maxymiser.com^
@@ -39171,7 +39271,6 @@ data.mistat.rus.xiaomi.com
 ||melisetotoaksesuar.com^
 ||melissabuty.com^
 ||melit-zoy.com^
-||seguro.melldin.com^
 ||mellonidolon.com^
 ||mellsrecta.com^
 ||analytics.melodistudios.com^
@@ -39405,6 +39504,7 @@ data.mistat.rus.xiaomi.com
 ||smetrics.mhsindiana.com^
 ||qc.mhsolution.vn^
 ||smetrics.mhswi.com^
+||prod-mhaa.mhtr.be^
 ||mhub.work^
 ||mhvllvgrefplg.com^
 ||mhzftye.xyz^
@@ -39524,6 +39624,7 @@ data.mistat.rus.xiaomi.com
 ||migimsas.net^
 ||migineg.com^
 ||mignished-sility.com^
+||migopwrajhca.com^
 ||migrationexaminer.com^
 ||migrationscale.com^
 ||migrationscarletquick.com^
@@ -39812,6 +39913,7 @@ data.mistat.rus.xiaomi.com
 ||mkjsqrpmxqdf.com^
 ||mkkvprwskq.com^
 ||mkleider.de^
+||mkopli-1.live^
 ||mkpks.info^
 ||mkt6333.com^
 ||mkt941.com^
@@ -40244,6 +40346,7 @@ data.mistat.rus.xiaomi.com
 ||elqtrk.morningstar.com^
 ||moro-douga.link^
 ||moronesphotos.com^
+||mm.morrellinc.com^
 ||morrowfreezer.com^
 ||analytics.morsecode.world^
 ||mortgagelunchtimedistrustuldistrustul.com^
@@ -40443,6 +40546,7 @@ data.mistat.rus.xiaomi.com
 ||mrdarknet.link^
 ||mrdarkweb.link^
 ||mrdzuibek.com^
+||mrelko.com^
 ||mrgecm.xyz^
 ||mrgreekroad.com^
 ||ads.mrgreen.com^
@@ -40587,6 +40691,7 @@ data.mistat.rus.xiaomi.com
 ||mufflerlightsgroups.com^
 ||mugantlerfloral.com^
 ||mugwumprelume.top^
+||muhazllirqr.com^
 ||muhkpyk.in^
 ||muhvanazi.ru^
 ||sadbmetrics.mujerhoy.com^
@@ -41028,10 +41133,12 @@ data.mistat.rus.xiaomi.com
 ||mzbcdn.net^
 ||mzgoodsurvey.top^
 ||mziso.xyz^
+||mzoczythupi.com^
 ||mzol7lbm.com^
 ||mzqf1.com^
 ||metrics.mzstatic.com^
 ||mzthbna.xyz^
+||mzuspejtuodc.com^
 ||mzxfrok.com^
 ||mzybirdnest.com^
 ||mzzxfib.com^
@@ -41115,6 +41222,7 @@ data.mistat.rus.xiaomi.com
 ||naipsouz.net^
 ||naivegirlie.com^
 ||naivescorries.com^
+||naivestatement.com^
 ||naiyoz.lol^
 ||naj.sk^
 ||naja59jg.com^
@@ -41502,6 +41610,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.k8s.nect.com^
 ||nectarineple.com^
 ||sxmxpm.nectarsleep.com^
+||nedandlooked.org^
 ||nedassiumw.xyz^
 ||nedaughablelead.info^
 ||nederland.live^
@@ -41981,6 +42090,7 @@ data.mistat.rus.xiaomi.com
 ||liveonline.nhanhoa.com^
 ||analytics.nhanow.com^
 ||nhapvang.pro^
+||nhavcuancpk.com^
 ||nheappyrincen.info^
 ||nheappyrincenev.info^
 ||smetrics.nhhealthyfamilies.com^
@@ -42146,6 +42256,7 @@ data.mistat.rus.xiaomi.com
 ||nirotrade.com^
 ||nirvezal.com^
 ||nishagopal.com^
+||nisonfofztaf.com^
 ||smeasurement.nissan.ca^
 ||smetrics.nissanusa.com^
 ||nitmus.com^
@@ -42629,6 +42740,7 @@ data.mistat.rus.xiaomi.com
 ||nunxhv.com^
 ||metric.nuonuo.com^
 ||nupdhyzetb.com^
+||nuphizarrafw.com^
 ||nuqwe.com^
 ||nur.gratis^
 ||pixel.nur.kz^
@@ -42676,6 +42788,7 @@ data.mistat.rus.xiaomi.com
 ||tracking.nw.de^
 ||axp.nwahomepage.com^
 ||nwecd.xyz^
+||nwejuljibczi.com^
 ||nwera.xyz^
 ||nwhoxwpuj6.com^
 ||nwrgdifq.xyz^
@@ -42727,6 +42840,7 @@ data.mistat.rus.xiaomi.com
 ||nyvgbt.xyz^
 ||nzaza.com^
 ||nzporf.xyz^
+||nzrzgorm.com^
 ||nzuebfy.com^
 ||nzurlmq.com^
 ||o-cean-fortune.biz^
@@ -42797,6 +42911,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.ob.de^
 ||analytics.ob-tampons.nl^
 ||obadluhjxnsnfv.com^
+||obbkucbipw.com^
 ||obduratecommence.com^
 ||obduratedroppingmagnitude.com^
 ||obduratewiggle.com^
@@ -42832,6 +42947,7 @@ data.mistat.rus.xiaomi.com
 ||obolic.com^
 ||obouckie.com^
 ||oboxads.com^
+||obpofhtura.com^
 ||obrans.com^
 ||obrightsapphir.com^
 ||web-analytics-proxy.obrio.net^
@@ -42871,6 +42987,7 @@ data.mistat.rus.xiaomi.com
 ||occarv.com^
 ||occasionallyregionsadverb.com^
 ||occasionalstatusbella.com^
+||occdmioqlo.com^
 ||occums.com^
 ||occupationcomplimentsenjoyment.com^
 ||occurclaimed.com^
@@ -42896,6 +43013,7 @@ data.mistat.rus.xiaomi.com
 ||oconner.biz^
 ||oconob.com^
 ||ocpydszq.xyz^
+||ocqpavrrix.com^
 ||smetrics.ocrevus.com^
 ||ocry.com^
 ||ocsp-atomsecure.com^
@@ -43027,18 +43145,22 @@ data.mistat.rus.xiaomi.com
 ||ofhypnoer.com^
 ||ofleafeona.com^
 ||ofoockoo.com^
+||ofqopmnpia.com^
 ||t.ofsys.com^
 ||oftenparttimebeen.com^
 ||oftheseveryh.org^
 ||oftheseveryh.xyz^
+||ofzate.live^
 ||ogblanchi.com^
 ||ogeri.ru^
+||ogghpaoxwv.com^
 ||oghqvffmnt.com^
 ||oghub.io^
 ||ogkfuw.xyz^
 ||ogladaj.eu^
 ||ogle-0740lb.com^
 ||ogniicbnb.ru^
+||ogrmiblwov.com^
 ||track.ogrowthlabs.com^
 ||ogrrmasukq.com^
 ||ogt.jp^
@@ -43056,6 +43178,7 @@ data.mistat.rus.xiaomi.com
 ||ohibal.com^
 ||tracking.ohiohealth.com^
 ||ohkahfwumd.com^
+||ohkvifgino.com^
 ||ohlattice.com^
 ||ohmpyq.xyz^
 ||ohmy.bid^
@@ -43089,7 +43212,9 @@ data.mistat.rus.xiaomi.com
 ||oix.com^
 ||oix.net^
 ||ojapanelm.xyz^
+||ojjbuxohmk.com^
 ||ojooo.com^
+||ojtarsdukk.com^
 ||ojuhfoa.com^
 ||ojuhwc.xyz^
 ||ojzghaawlf.com^
@@ -43128,6 +43253,7 @@ data.mistat.rus.xiaomi.com
 ||okucia24.com^
 ||okueroskynt.com^
 ||okupsudd.work^
+||okvovqrfuc.com^
 ||ola.com^
 ||metric.corp.olacabs.com^
 ||olagamanas.com^
@@ -43172,6 +43298,7 @@ data.mistat.rus.xiaomi.com
 ||ninja.data.olxcdn.com^
 ||olympicsappointment.com^
 ||olympusholding.co^
+||olzatpafwo.com^
 ||ads.omaha.com^
 ||sstats.omahasteaks.com^
 ||omappapi.com^
@@ -43204,7 +43331,9 @@ data.mistat.rus.xiaomi.com
 ||omine.org^
 ||omkitww.com^
 ||omkt.co^
+||omkxadadsh.com^
 ||omkxes.xyz^
+||ommaqnopxh.com^
 ||ommatearittock.digital^
 ||omnatuor.com^
 ||omni-ads.omni.news^
@@ -43234,6 +43363,7 @@ data.mistat.rus.xiaomi.com
 ||omshellderom.com^
 ||omtvxcle.com^
 ||omvcilk.com^
+||omxstakuvh.com^
 ||omzylhvhwp.com^
 ||ad4.on.cc^
 ||ad5.on.cc^
@@ -43254,6 +43384,7 @@ data.mistat.rus.xiaomi.com
 ||onandeggsiswel.xyz^
 ||onanistbrawns.store^
 ||onatallcolumn.com^
+||onatsoas.net^
 ||onaudience.com^
 ||onautcatholi.xyz^
 ||onboardhairy.com^
@@ -43271,6 +43402,7 @@ data.mistat.rus.xiaomi.com
 ||onclicksuper.com^
 ||onclkds.com^
 ||onclklnd.com^
+||webtracking.oncourselearning.com^
 ||oncustomer.asia^
 ||smetrics.ondacero.es^
 ||ondbarrowat.xyz^
@@ -43659,6 +43791,7 @@ data.mistat.rus.xiaomi.com
 ||optimagrasp.guru^
 ||optimallimit.com^
 ||analytics.optimalpeople.fr^
+||optimatic.com^
 ||optimisticminiaturizationdowry.com^
 ||optimix.asia^
 ||optimix.cn^
@@ -43697,6 +43830,7 @@ data.mistat.rus.xiaomi.com
 ||oqcgwyzuhn.com^
 ||oqeohuc.cn^
 ||oqicyrbnwo.com^
+||oqnabsatfn.com^
 ||oqyiapj.cn^
 ||bsef.or.kr^
 ||ictm.or.kr^
@@ -43747,6 +43881,7 @@ data.mistat.rus.xiaomi.com
 ||ordinarye.com^
 ||ordinaryleaving.com^
 ||ordinaryspyimpassable.com^
+||ordzimwtaa.com^
 ||oreakingoutin.info^
 ||analytics.oreca-store.com^
 ||orecticconchae.com^
@@ -43881,6 +44016,7 @@ data.mistat.rus.xiaomi.com
 ||osqa.net^
 ||ossfile001.com^
 ||ossgogoaton.com^
+||osskugvirs.com^
 ||ossmightyenar.net^
 ||ossnidorinoom.com^
 ||osspalkiaom.com^
@@ -43931,11 +44067,13 @@ data.mistat.rus.xiaomi.com
 ||otoshiana.com^
 ||otqxvqzdgl.com^
 ||otramano.org^
+||otrxazmcal.com^
 ||data-f35c83b71a.ots.at^
 ||smetrics.otsuka-us.com^
 ||sentry-cli.prd.ottcds.com^
 ||sentry-sas.prd.ottcds.com^
 ||livep.l.t002.ottcn.com^
+||ottdhysral.com^
 ||otterwoodlandobedient.com^
 ||ats.otto.de^
 ||orbidder.otto.de^
@@ -44199,6 +44337,7 @@ data.mistat.rus.xiaomi.com
 ||analyticssec.overwolf.com^
 ||newlog.overwolf.com^
 ||tracking.overwolf.com^
+||overzubatan.com^
 ||ovexui.xyz^
 ||ovfvkfc.xyz^
 ||analytics.ovh.com^
@@ -44249,11 +44388,13 @@ data.mistat.rus.xiaomi.com
 ||oxenturftrot.com^
 ||oxfoadv.store^
 ||oxhdtgmlryv.com^
+||oxkgcefteo.com^
 ||oxkpbuv.com^
 ||oxmlapckeo.com^
 ||oxthrilled.com^
 ||oxtsale1.com^
 ||oxu24.com^
+||oxxakkjuzo.com^
 ||oxxvikappo.com^
 ||oxydaserucked.com^
 ||oxygenblobsglass.com^
@@ -44372,6 +44513,7 @@ data.mistat.rus.xiaomi.com
 ||pagetest.top^
 ||paghai.com^
 ||pagusafb.com^
+||pahbasqibpih.com^
 ||smetrics.pahealthwellness.com^
 ||axp.pahomepage.com^
 ||paht.tech^
@@ -44852,6 +44994,7 @@ data.mistat.rus.xiaomi.com
 ||hd.pe.fr^
 ||peacebanana.com^
 ||peacefulactivity.com^
+||peacefullimit.com^
 ||peacefullyundergroundsubsided.com^
 ||peaceofcake.info^
 ||peachcafe.net^
@@ -45093,6 +45236,7 @@ data.mistat.rus.xiaomi.com
 ||collector-px87q7kx6y.perimeterx.net^
 ||collector-px87wpo5ak.perimeterx.net^
 ||collector-px8fcgygk4.perimeterx.net^
+||collector-px943r4fb8.perimeterx.net^
 ||collector-px9atjsd0n.perimeterx.net^
 ||collector-px9ei9r7cy.perimeterx.net^
 ||collector-px9qx3rve4.perimeterx.net^
@@ -45616,6 +45760,7 @@ data.mistat.rus.xiaomi.com
 ||pitcherprobable.com^
 ||sstats.pitchfork.com^
 ||pithgregor.com^
+||pitonlocmna.com^
 ||pitors.com^
 ||pittinekunai.com^
 ||t.pittsburghpanthers.com^
@@ -46337,6 +46482,7 @@ data.mistat.rus.xiaomi.com
 ||pplnjoow.com^
 ||ppltxv.xyz^
 ||ppoi.org^
+||ppoommhizazn.com^
 ||pppbr.com^
 ||game.pps.tv^
 ||api.afdback.ppsimg.com^
@@ -47054,7 +47200,6 @@ data.mistat.rus.xiaomi.com
 ||pubianmending.space^
 ||pubimageboard.com^
 ||pubimgs.com^
-||pubjeuxinfos.info^
 ||res.public.fr^
 ||public-dns.us^
 ||publicationqueenfriends.com^
@@ -47097,6 +47242,7 @@ data.mistat.rus.xiaomi.com
 ||pubtrky.com^
 ||pubwise.io^
 ||puciopucio.pl^
+||puczuxqijadg.com^
 ||fs.pudaf.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
@@ -47290,6 +47436,7 @@ data.mistat.rus.xiaomi.com
 ||pushprofit.net^
 ||pushprofit.ru^
 ||s-eu-1.pushpushgo.com^
+||pushq.ir^
 ||pushsar.com^
 ||pushserve.xyz^
 ||pushspring.com^
@@ -47341,6 +47488,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.pwc.de^
 ||smetrics.pwc.com^
 ||info.workforce.pwc.com^
+||pweabzcatoh.com^
 ||pwieu.com^
 ||pwmctl.com^
 ||pwn.af^
@@ -47417,7 +47565,9 @@ data.mistat.rus.xiaomi.com
 ||qadserve.com^
 ||qadservice.com^
 ||qajgarohwobh.com^
+||qajwizsifaj.com^
 ||qakmlfdseuzfkz.com^
+||qalscihrolwu.com^
 ||qambywkmlvyj.top^
 ||ad-static.qanda.ai^
 ||qange.com^
@@ -47747,6 +47897,7 @@ data.mistat.rus.xiaomi.com
 ||qtq632.com^
 ||qttlpn.shop^
 ||qtuopsqmunzo.com^
+||qtuxulczymu.com^
 ||quacksquirrel.com^
 ||ap.quadient.com^
 ||ar.quadient.com^
@@ -47864,8 +48015,10 @@ data.mistat.rus.xiaomi.com
 ||quizmastersnappy.com^
 ||quizsupportedchapel.com^
 ||iphone.quiztionnaire.biz^
+||quizzicalpartner.com^
 ||quizzicalzephyr.com^
 ||qumagee.com^
+||qummafsivff.com^
 ||analytics.qumucloud.com^
 ||log.flight.qunar.com^
 ||qreport.qunar.com^
@@ -47903,6 +48056,7 @@ data.mistat.rus.xiaomi.com
 ||qvol.tv^
 ||qvpublish.com^
 ||qvxvvjom.com^
+||qwaapgxfahce.com^
 ||qwahk.com^
 ||stats.qwant.com^
 ||iadctest.qwapi.com^
@@ -48232,6 +48386,7 @@ data.mistat.rus.xiaomi.com
 ||ravenpearls.com^
 ||matomo.ravensburger.com^
 ||display.ravm.tv^
+||ravpcokpyah.com^
 ||rawasy.com^
 ||rawdot.net^
 ||cdn.rawqel.com^
@@ -48284,6 +48439,7 @@ data.mistat.rus.xiaomi.com
 ||rce.ee^
 ||rcebanque.com^
 ||rcebanque.company^
+||rcerrohatfad.com^
 ||rcf3occ8.de^
 ||rchkup.com^
 ||rchosts.com^
@@ -48314,7 +48470,6 @@ data.mistat.rus.xiaomi.com
 ||rdjnjz.xyz^
 ||matomo.bp.rdnt.me^
 ||marketing.rdoequipment.com^
-||rdp-devolutions.com^
 ||rdpsht.xyz^
 ||analytics.rdr-it.io^
 ||rdrclk.com^
@@ -48649,7 +48804,6 @@ data.mistat.rus.xiaomi.com
 ||refbanners.com^
 ||refbanners.website^
 ||refdzhz.com^
-||refer.ru^
 ||reference-sexe.com^
 ||refericon.pl^
 ||referralrock.com^
@@ -48961,6 +49115,7 @@ data.mistat.rus.xiaomi.com
 ||resinherjecling.com^
 ||resinyanthdia.com^
 ||resistcorrectly.com^
+||resistshy.com^
 ||analytics.resmed.com^
 ||resniks.pro^
 ||resnubdreich.com^
@@ -49415,7 +49570,6 @@ data.mistat.rus.xiaomi.com
 ||rntdqwc.xyz^
 ||rnv.life^
 ||rnvalves.com^
-||rnybnenkcfvpfpqc.com^
 ||data-b80f3dd5d8.rnz.de^
 ||roadlittar.live^
 ||roadoati.xyz^
@@ -49813,6 +49967,7 @@ data.mistat.rus.xiaomi.com
 ||rtnuld.xyz^
 ||js.rtoaster.jp^
 ||rt.rtoaster.jp^
+||rtoofbxpekul.com^
 ||rtoukfareputfe.info^
 ||analytics.rtp.ch^
 ||rtphit.com^
@@ -49825,6 +49980,7 @@ data.mistat.rus.xiaomi.com
 ||rtty.in^
 ||sadbmetrics.rtve.es^
 ||matomo.rtvslo.si^
+||rtwdzxstpanmn.com^
 ||xml.rtxfeed.com^
 ||xml-v4.rtxfeed.com^
 ||rtxplatform.com^
@@ -49997,10 +50153,12 @@ data.mistat.rus.xiaomi.com
 ||rvreuxi.cn^
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
+||rvvirczflznx.com^
 ||rvvji.online^
 ||rvzlobj.cn^
 ||rwarwf.icu^
 ||rwated.com^
+||rwuannaxztux.com^
 ||rxeosevsso.com^
 ||rxglvcowb.com^
 ||rxgvwht.com^
@@ -50427,6 +50585,7 @@ data.mistat.rus.xiaomi.com
 ||savouryadolescent.com^
 ||telemetry.savvy.security^
 ||analytics.savvymoney.com^
+||sawalinitwits.com^
 ||sawanincreasein.info^
 ||saweatherco.com^
 ||sawfishdiapsid.com^
@@ -50523,6 +50682,7 @@ data.mistat.rus.xiaomi.com
 ||scaredsnake.com^
 ||scaredsnakes.com^
 ||scaredsong.com^
+||scaredstomach.com^
 ||scarefowl.com^
 ||scareshortnovel.com^
 ||scarfsmash.com^
@@ -50913,6 +51073,7 @@ data.mistat.rus.xiaomi.com
 ||seizedlusciousextended.com^
 ||analytics.sejda.com^
 ||sekindo.com^
+||selamatpinjam.space^
 ||data-5c8ddfc1d2.selbst.de^
 ||privacy.selbst.de^
 ||930018.selcdn.ru^
@@ -51116,6 +51277,7 @@ data.mistat.rus.xiaomi.com
 ||servereplacementcycle.com^
 ||serverfritterdisability.com^
 ||serverhp.top^
+||analytics.servers.do^
 ||serverssignshigher.com^
 ||servetraff.com^
 ||servg1.net^
@@ -51310,6 +51472,7 @@ data.mistat.rus.xiaomi.com
 ||shallowsmile.com^
 ||shalse.com^
 ||shamelessspank.com^
+||shamerain.com^
 ||shamining.com^
 ||shamtick.com^
 ||shanaurg.net^
@@ -51708,6 +51871,7 @@ data.mistat.rus.xiaomi.com
 ||sidebyz.com^
 ||sidelinebodypun.com^
 ||sidewalkcrazinesscleaning.com^
+||sidezaeta.live^
 ||data-60d896f23d.siegener-zeitung.de^
 ||data-6dde45f576.siegener-zeitung.de^
 ||siejp.cyou^
@@ -51724,6 +51888,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.sievo.com^
 ||sievynaw.space^
 ||sifenews.com^
+||sifjfirunmi.com^
 ||sift.co^
 ||cdn.sift.com^
 ||siftscience.com^
@@ -52061,6 +52226,7 @@ data.mistat.rus.xiaomi.com
 ||sknkwpvrkz.com^
 ||skocz.pl^
 ||sdrive.skoda-auto.com^
+||skodfybmooz.com^
 ||metrics.skoiy.xyz^
 ||matomo.skolverket.se^
 ||skottles.com^
@@ -52073,6 +52239,7 @@ data.mistat.rus.xiaomi.com
 ||skroutza.skroutz.gr^
 ||skt-asum.com^
 ||ad.ari.skt-jive.com^
+||skuligpzifan.com^
 ||skullhalfway.com^
 ||skullridding.com^
 ||skwfupp.com^
@@ -52189,6 +52356,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.sling.com^
 ||smetrics.sling.com^
 ||slingshot.io^
+||slinkyfoliot.com^
 ||matomo.slint.dev^
 ||slipheirphysician.com^
 ||slipperspinchingsyntax.com^
@@ -52404,7 +52572,6 @@ data.mistat.rus.xiaomi.com
 ||sminewsnet.ru^
 ||tt.smirkydiff.com^
 ||smithamenamel.com^
-||smithskigear.com^
 ||logs1.smithsonian.museum^
 ||ssc.smithsonianchannel.com^
 ||smithumbewreck.com^
@@ -52413,6 +52580,7 @@ data.mistat.rus.xiaomi.com
 ||smms.vc^
 ||plausible.smnz.de^
 ||smoggysnakes.com^
+||smoggysongs.com^
 ||smokebookcase.com^
 ||smokedhewvalid.com^
 ||smokeryempall.top^
@@ -52573,6 +52741,7 @@ data.mistat.rus.xiaomi.com
 ||soapfighters.com^
 ||analytics.soapsspoilers.com^
 ||plausible.soaringmeteo.org^
+||soawousa.xyz^
 ||sobakenchmaphk.com^
 ||sobesed.com^
 ||sobkons.site^
@@ -52589,7 +52758,6 @@ data.mistat.rus.xiaomi.com
 ||socgate.ru^
 ||social-cheats.com^
 ||social-discovery.io^
-||social-logins.com^
 ||social-sb.com^
 ||social-touch.com^
 ||socialannex.com^
@@ -53316,6 +53484,7 @@ data.mistat.rus.xiaomi.com
 ||srbzw.cn^
 ||srch.bar^
 ||srdepot.info^
+||srefrukaxxa.com^
 ||sregfle.cn^
 ||srengin.com^
 ||data.srf.ch^
@@ -53470,6 +53639,7 @@ data.mistat.rus.xiaomi.com
 ||starvationdefence.com^
 ||starvegingerwaist.com^
 ||starverwear.com^
+||starvybryan.com^
 ||analytics.starz.com^
 ||starzfilm.com^
 ||analytics.stash.com^
@@ -54368,6 +54538,7 @@ data.mistat.rus.xiaomi.com
 ||events.swishapps.ai^
 ||swishedbigha.digital^
 ||swiss29.com^
+||swissadserver.ch^
 ||analytics.swisscom.com^
 ||at.swisscom.ch^
 ||b2bmarketing.swisscom.ch^
@@ -54494,6 +54665,7 @@ data.mistat.rus.xiaomi.com
 ||syslike.org^
 ||sysmobi.com^
 ||sysomos.com^
+||sysoutvariola.com^
 ||system-appstore.com^
 ||system-notify.app^
 ||systeme-business.online^
@@ -54529,7 +54701,6 @@ data.mistat.rus.xiaomi.com
 ||t0kenswap.com^
 ||t13.io^
 ||t1a.jp^
-||t1bet.net^
 ||t2t2.com^
 ||t2zfyxjj.icu^
 ||t33ng.com^
@@ -54685,6 +54856,7 @@ data.mistat.rus.xiaomi.com
 ||tagular.com^
 ||tagun.xyz^
 ||tagvideo.eu^
+||tahastpkuosq.com^
 ||tahltanboutell.com^
 ||tahoesup.com^
 ||taigasdoeskin.guru^
@@ -54706,6 +54878,7 @@ data.mistat.rus.xiaomi.com
 ||tajir.com^
 ||analytics.tajnetwork.com^
 ||takcz.store^
+||take-grandincome.life^
 ||takeads.com^
 ||takeallsoft.ru^
 ||sentry-gcp.takealot.com^
@@ -54790,7 +54963,6 @@ data.mistat.rus.xiaomi.com
 ||cms.tanx.com^
 ||df.tanx.com^
 ||ecpm.tanx.com^
-||ef-dongfeng.tanx.com^
 ||et.tanx.com^
 ||ifs.tanx.com^
 ||ifsk2.tanx.com^
@@ -54923,6 +55095,7 @@ data.mistat.rus.xiaomi.com
 ||tastiesfoods.com^
 ||gtrack.tastyarea.com^
 ||analytics.tastyworks.com^
+||tasvagaggox.com^
 ||tat3ayogh6.com^
 ||smetrics.tataaia.com^
 ||tataget.ru^
@@ -55327,7 +55500,6 @@ data.mistat.rus.xiaomi.com
 ||testin.cn^
 ||testingmetriksbre.ru^
 ||testisurbian.top^
-||testitsoft.com^
 ||testmyblocker.com^
 ||testnet.nl^
 ||piwik.testswisscom.com^
@@ -55824,6 +55996,7 @@ data.mistat.rus.xiaomi.com
 ||tiaraedmessing.uno^
 ||tiarasorthose.website^
 ||tibacta.com^
+||tibcpowpiaqv.com^
 ||tibertannoy.com^
 ||tibetyouthcongress.com^
 ||ticaframeofm.xyz^
@@ -56106,6 +56279,7 @@ data.mistat.rus.xiaomi.com
 ||data.promo.timhortons.ca^
 ||matomo.fra3.timi.cz^
 ||timingbitternessgreasy.com^
+||timoggownduj.com^
 ||timot-cvk.info^
 ||timpanosheng.com^
 ||timsef.com^
@@ -56611,6 +56785,7 @@ data.mistat.rus.xiaomi.com
 ||tp-globa.xyz^
 ||tp88trk.com^
 ||tpbid.com^
+||tpbsxcsa.com^
 ||tpcserve.com^
 ||info.tpctraining.com^
 ||outbound.tpctraining.com^
@@ -56713,6 +56888,7 @@ data.mistat.rus.xiaomi.com
 ||trackrc.com^
 ||tracks20.com^
 ||tracksing.com^
+||trackspecialdomain.com^
 ||trackspeeder.com^
 ||tracksystem.online^
 ||tracktds.com^
@@ -56871,6 +57047,7 @@ data.mistat.rus.xiaomi.com
 ||tramplayeranyd.info^
 ||trampplantacre.com^
 ||tramshirethf.xyz^
+||tranazgimvpy.com^
 ||telemetry.trancite.com^
 ||tranderous.com^
 ||trandlife.info^
@@ -56967,6 +57144,7 @@ data.mistat.rus.xiaomi.com
 ||travix-works.com^
 ||gtrack.travlerz.com^
 ||track.travlerz.com^
+||trawibosxlc.com^
 ||secure.tray0bury.com^
 ||telemetry.trayport.com^
 ||trazk.com^
@@ -57394,6 +57572,7 @@ data.mistat.rus.xiaomi.com
 ||tuffetenolize.com^
 ||tuffhf.xyz^
 ||tufteraureous.digital^
+||tuglikevertigo.com^
 ||tugust.com^
 ||tuhipkz.xyz^
 ||tuhzjrr.cn^
@@ -57404,6 +57583,7 @@ data.mistat.rus.xiaomi.com
 ||tuifish.com^
 ||tuinishop.com^
 ||tuitiger.com^
+||tukeelsy.com^
 ||tukeraja.store^
 ||plx.tukif.com^
 ||tukulordimera.com^
@@ -57491,10 +57671,10 @@ data.mistat.rus.xiaomi.com
 ||tutsterblanche.com^
 ||tutuapp.com^
 ||tututu666.com^
-||tuundaug.com^
 ||visit.go.tuv.com^
 ||statistics.tuv.com^
 ||smetrics.tuvsud.com^
+||tuwaqtjcood.com^
 ||tuxbpnne.com^
 ||tuxedochard.com^
 ||adapi.tuyensinh247.com^
@@ -57933,6 +58113,7 @@ data.mistat.rus.xiaomi.com
 ||advert.uloz.to^
 ||ulried.com^
 ||ulrvkee.xyz^
+||ulrzovfukgkljw.com^
 ||sc.ulsterbank.ie^
 ||sweb.ulta.com^
 ||ultahost.com^
@@ -58086,6 +58267,7 @@ data.mistat.rus.xiaomi.com
 ||in.unext.jp^
 ||unfainfraseirs.org^
 ||unfairpromritual.com^
+||unfaithfulgoddess.com^
 ||unfeeddizoic.com^
 ||unfieryneutral.com^
 ||unfina.com^
@@ -58340,6 +58522,7 @@ data.mistat.rus.xiaomi.com
 ||ut.upmc.com^
 ||upmoveatoms.com^
 ||uponelectabuzzor.club^
+||uponrimking.live^
 ||uppardjets.com^
 ||trl.upperbooking.com^
 ||uppereugene.com^
@@ -58559,6 +58742,7 @@ data.mistat.rus.xiaomi.com
 ||w.usabilla.com^
 ||analytics.usacs.com^
 ||track.usadailyoffers.net^
+||marketing.usailighting.com^
 ||usakidsclothes.com^
 ||analytics.usask.ca^
 ||cm.usatoday.com^
@@ -58884,6 +59068,7 @@ data.mistat.rus.xiaomi.com
 ||vapourfertile.com^
 ||vapoursumptuousgutter.com^
 ||varabs.com^
+||varasbrijkt.com^
 ||vardancards.com^
 ||variableexternal.com^
 ||variablefitness.com^
@@ -59157,6 +59342,7 @@ data.mistat.rus.xiaomi.com
 ||vgxhvt.xyz^
 ||ssc.vh1.com^
 ||wt.vhb.de^
+||vheoggjiqaz.com^
 ||vhhxnb.xyz^
 ||vhjxrj.xyz^
 ||web.m182.vhostgo.com^
@@ -59410,8 +59596,8 @@ data.mistat.rus.xiaomi.com
 ||vilinswell.com^
 ||villaedeinos.com^
 ||t.villanova.com^
+||vilpujzmyhu.com^
 ||player-telemetry.vimeo.com^
-||fresnel-events.vimeocdn.com^
 ||vimeonk.com^
 ||smetrics.vince.com^
 ||analytics.vincentwill.com^
@@ -59883,6 +60069,7 @@ data.mistat.rus.xiaomi.com
 ||vpsgu.cn^
 ||vpsite.ru^
 ||vptadv.com^
+||vpumfeghiall.com^
 ||vqglaz.com^
 ||vqjvnjxbgnz.com^
 ||vqzbzuhhxhcf.com^
@@ -59987,6 +60174,7 @@ data.mistat.rus.xiaomi.com
 ||cpm.vuukle.net^
 ||rtb-useast-v4.vuukle.net^
 ||vuvacu.xyz^
+||vuvcroguwtuk.com^
 ||vuvoti.uno^
 ||vuvxpf.xyz^
 ||vuxner.com^
@@ -60041,6 +60229,7 @@ data.mistat.rus.xiaomi.com
 ||vzhzlraxtwgyn.com^
 ||vzigttqgqx.com^
 ||vzizatjihca.com^
+||vzoarcomvorz.com^
 ||vzufzah.com^
 ||vzvvifw.cn^
 ||vzwzoofhhn.com^
@@ -60150,6 +60339,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.wandb.ai^
 ||wanderboyy.com^
 ||axp.wane.com^
+||wanfteakgakt.com^
 ||usejj.wangkl.com^
 ||wangsakti.com^
 ||analytics.wangzhanmao.com^
@@ -60309,6 +60499,7 @@ data.mistat.rus.xiaomi.com
 ||advil.waze.com^
 ||sdk.waze.com^
 ||wazimo.com^
+||wazsfiawqca.com^
 ||analytics.wb.com^
 ||wbidder.online^
 ||wbidder2.com^
@@ -60609,6 +60800,7 @@ data.mistat.rus.xiaomi.com
 ||wegmansd.com^
 ||matomo.wegoing.io^
 ||sentry.wegow.com^
+||wehaveinourd.org^
 ||jeccmq.wehkamp.nl^
 ||wehrma.com^
 ||ad.weibo.com^
@@ -60634,9 +60826,6 @@ data.mistat.rus.xiaomi.com
 ||weinsteincounseling.com^
 ||weiqu.cyou^
 ||weirmelamin.com^
-||analytics.backend-gateway-demopass.weishi.com^
-||analytics.box-admins-fieldauto-demo.weishi.com^
-||analytics.fieldauto-demo.weishi.com^
 ||badjs.weixinbridge.com^
 ||huatuo.weiyun.com^
 ||weizhenwx.com^
@@ -60832,6 +61021,7 @@ data.mistat.rus.xiaomi.com
 ||whetin.com^
 ||whfyhouse.com^
 ||whicus.com^
+||whifflehumeral.guru^
 ||whiletilth.com^
 ||whimpercategory.com^
 ||whimsicalgrove.com^
@@ -61022,6 +61212,7 @@ data.mistat.rus.xiaomi.com
 ||win01.xyz^
 ||winbaicai.com^
 ||winbestprizess.info^
+||wind88.shop^
 ||winda10.com^
 ||marketing.windes.com^
 ||windindelicateexclusive.com^
@@ -61086,7 +61277,6 @@ data.mistat.rus.xiaomi.com
 ||wio-rwod.cloud^
 ||wpt.wipe.de^
 ||wwa.wipe.de^
-||wipedhypocrite.com^
 ||api.wipmania.com^
 ||countly.wire.com^
 ||wirecomic.com^
@@ -61121,7 +61311,6 @@ data.mistat.rus.xiaomi.com
 ||wishloop.com^
 ||wishmayvaganti.website^
 ||wismuthferigee.store^
-||wisoffcome.digital^
 ||data-d03ddf25a3.wissenschaft.de^
 ||wister.biz^
 ||wistfulassign.com^
@@ -61180,7 +61369,6 @@ data.mistat.rus.xiaomi.com
 ||axp.wkbn.com^
 ||wkdk.jp^
 ||wknd.ai^
-||wkqcnkstso.com^
 ||wkrcbszi.xyz^
 ||axp.wkrg.com^
 ||axp.wkrn.com^
@@ -61330,7 +61518,6 @@ data.mistat.rus.xiaomi.com
 ||info.woodward.com^
 ||woodwo.net^
 ||woojeoung.com^
-||wooledswards.com^
 ||woolenabled.com^
 ||ii.woolensulking.com^
 ||woollenthawewe.com^
@@ -61355,7 +61542,6 @@ data.mistat.rus.xiaomi.com
 ||metrics.wordpress.net^
 ||piwik.wordpress.net^
 ||piwik.wordpress.org^
-||refer.wordpress.com^
 ||stats.wordpress.com^
 ||wordpressdemo.site^
 ||analytics.de.wordsdb.ws^
@@ -61381,6 +61567,7 @@ data.mistat.rus.xiaomi.com
 ||workerz1.com^
 ||workflowstep.com^
 ||metric.workfrontdam.com^
+||analytics.workful.com^
 ||workhovdiminatedi.info^
 ||smetrics.workingadvantage.com^
 ||starget.workingadvantage.com^
@@ -61411,7 +61598,6 @@ data.mistat.rus.xiaomi.com
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
 ||worldwideor.info^
-||worldwideorganiza.xyz^
 ||worlowedonh.com^
 ||data-a01a8a1ba4.wormser-zeitung.de^
 ||worriednumber.com^
@@ -61630,6 +61816,7 @@ data.mistat.rus.xiaomi.com
 ||wuqconn.com^
 ||wurfl.io^
 ||metric.wurfulcloud.com^
+||metric.wurl.com^
 ||wurstsmikael.life^
 ||wutsldsk.xyz^
 ||data-0cc10e3905.wuv.de^
@@ -61651,6 +61838,7 @@ data.mistat.rus.xiaomi.com
 ||wwfx.xyz^
 ||wwgdwl.com^
 ||wwija.com^
+||wwinfyzurbw.com^
 ||stats.wwitv.com^
 ||wwkedpbh4lwdmq16okwhiteiim9nwpds2.com^
 ||axp.wwlp.com^
@@ -61757,6 +61945,7 @@ data.mistat.rus.xiaomi.com
 ||xatech.com^
 ||xawlop.com^
 ||xaxis.com^
+||xaxrtiahkft.com^
 ||xazwlyh.com^
 ||xbeta.online^
 ||xbhp.com^
@@ -61801,7 +61990,6 @@ data.mistat.rus.xiaomi.com
 ||click-v4.xepoclk.com^
 ||fcnqkw.xeroshoes.com^
 ||xertive.com^
-||xeynozl.icu^
 ||xfahjal.com^
 ||xfav55.com^
 ||xfiley.me^
@@ -61913,7 +62101,6 @@ data.mistat.rus.xiaomi.com
 ||t7.a.market.xiaomi.com^
 ||video.market.xiaomi.com^
 ||wtradv.market.xiaomi.com^
-||metric.xiaomi.com^
 ||mibi.xiaomi.com^
 ||sfsapi.micloud.xiaomi.net^
 ||abtest.mistat.xiaomi.com^
@@ -62162,6 +62349,7 @@ data.mistat.rus.xiaomi.com
 ||xtvrgxbiteit.xyz^
 ||xu.pl^
 ||xubrainge.live^
+||xucashntaghy.com^
 ||xuenengyoujiaoyu.com^
 ||xueserverhost.com^
 ||ghghgf.xuexiwa.com^
@@ -62194,8 +62382,10 @@ data.mistat.rus.xiaomi.com
 ||xvvsnnciengskyx.xyz^
 ||xvwebllndr.com^
 ||xvzfyra.xyz^
+||xwagtyhujov.com^
 ||xwbspx.xyz^
 ||xwdsp.com^
+||xwewabodwhud.com^
 ||xwlketvkzf.com^
 ||xwlyfl.xyz^
 ||xwqtatnw.icu^
@@ -62207,7 +62397,6 @@ data.mistat.rus.xiaomi.com
 ||xxccdshj.com^
 ||xxdjxbvafjlw.com^
 ||xxfphsg.cn^
-||xxkswdf.icu^
 ||xxlargepop.com^
 ||xxlfteg.xyz^
 ||metrics.xxlnutrition.com^
@@ -62828,7 +63017,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.youtube.com^
 ||analytics.corp.youtube.com^
 ||fcmatch.youtube.com^
-||metric.youtube.com^
 ||youtuberevanced.net^
 ||youtuberevanced.pro^
 ||youtubesave.org^
@@ -62955,7 +63143,6 @@ data.mistat.rus.xiaomi.com
 ||yytxzct.xyz^
 ||yyuivw6.com^
 ||yywh.vip^
-||yzllux.xyz^
 ||yzykttcy.com^
 ||z-lib.io^
 ||z-lib.is^
@@ -63132,8 +63319,6 @@ data.mistat.rus.xiaomi.com
 ||t6.zcvh.net^
 ||t7.zcvh.net^
 ||t8.zcvh.net^
-||turn.zcvh.net^
-||zcvyzsyd.icu^
 ||zczcvx.com^
 ||zdajdudqfq.com^
 ||gurgle.zdbb.net^
@@ -63253,6 +63438,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.api.zerto.com^
 ||analytics.zervice.io^
 ||zestycrime.com^
+||zestywire.com^
 ||zetadeo.com^
 ||zetiuue.com^
 ||zetsr.com^
@@ -63260,7 +63446,6 @@ data.mistat.rus.xiaomi.com
 ||zeusclicks.com^
 ||zeustechnology.com^
 ||zevaimsu.net^
-||zexfzson.icu^
 ||zeyappland.com^
 ||zeydoo.com^
 ||zeytuni.net^
@@ -63275,6 +63460,7 @@ data.mistat.rus.xiaomi.com
 ||zfmtyv.xyz^
 ||zfmxscs.com^
 ||zfnclk.buzz^
+||zfozavanrnp.com^
 ||zfsfs3dfd.com^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
@@ -63433,6 +63619,7 @@ data.mistat.rus.xiaomi.com
 ||zmdjbl.xyz^
 ||zmedia.com^
 ||server.zmedia.vn^
+||zmekihobkru.com^
 ||analytics.zmescience.com^
 ||zmfcnlvu.xyz^
 ||zmfdjb.xyz^
@@ -63447,7 +63634,6 @@ data.mistat.rus.xiaomi.com
 ||znqip.net^
 ||znrtfj.xyz^
 ||znwzcmd.cn^
-||znyjmbh.icu^
 ||zoadoash.net^
 ||analytics.zoarental.com^
 ||zoawufoy.net^
@@ -63493,11 +63679,9 @@ data.mistat.rus.xiaomi.com
 ||dii2.zoohit.cz^
 ||dii2.zoohit.si^
 ||dii2.zoohit.sk^
-||metric.cloud.zoom.us^
 ||log-gateway.zoom.us^
 ||zoomanalytics.co^
 ||web.zoombleat.top^
-||analytics.zoomdev.us^
 ||info.zoominfo.io^
 ||analytics.zoomit.ir^
 ||vdc.zoomph.com^
@@ -63549,7 +63733,6 @@ data.mistat.rus.xiaomi.com
 ||zscwdu.com^
 ||zsgpdafjd.com^
 ||zslhmw.com^
-||zsxrhkrfwwv.com^
 ||ztgame.com^
 ||analytics.data.ztore.com^
 ||ztqdkzn.cn^
@@ -63560,7 +63743,6 @@ data.mistat.rus.xiaomi.com
 ||ztvzfq.com^
 ||ztzguv.com^
 ||zubivu.com^
-||zubojcnubadk.com^
 ||zuciwang.com^
 ||zucks.net^
 ||zufoloodylize.com^
@@ -63569,7 +63751,6 @@ data.mistat.rus.xiaomi.com
 ||ad.zui.com^
 ||zukary.com^
 ||zukore.com^
-||zukuta.com^
 ||zukxd6fkxqn.com^
 ||t.zulily.com^
 ||adxv.zum.com^
@@ -63601,6 +63782,7 @@ data.mistat.rus.xiaomi.com
 ||zvbkyrbwrlqll.top^
 ||zvetki.ru^
 ||zvetokr2hr8pcng09.com^
+||zvideo-live.com^
 ||zvkytbjimbhk.com^
 ||data-4fa18eb5e3.zvw.de^
 ||zvwhrc.com^
@@ -84986,6 +85168,7 @@ aamail.buzz
 aamail.com
 aaml-nj.org
 aandgproductions.com
+aaofficeassistant.com
 aaorsi.com
 aaquie.fun
 aaqwe.ru
@@ -86172,6 +86355,7 @@ allmyemployees.net
 allofthesepeople.com
 allonthego.info
 allopurinol-online.com
+allovernaija.com
 alloyquest.com
 allpdfmanuales.xyz
 allphasesecurity.com
@@ -91901,6 +92085,7 @@ cbdpowerflower.com
 cbkariyer.com
 cboshuizen.com
 cbproofs.com
+cbrest.com
 cbreviewproduct.com
 cbrit.com
 cbsglobal.net
@@ -94749,6 +94934,7 @@ dana.io
 danalen.info
 danamail.com
 danaya.co
+dancecloudrecords.com
 danceguess.buzz
 danceinwords.com
 dancejwh.com
@@ -106655,6 +106841,7 @@ kejenx.com
 kejl.com
 kejunihasan.me
 keked.com
+kekeisalon.com
 kekita.com
 kelangit.web.id
 kelantanfresh.com
@@ -123548,6 +123735,7 @@ team.supportshq.click
 team.travelservice4u.com
 team.tryhelps.click
 team1.opensupports.click
+team28.teamslabs.click
 team66.contctshq.click
 teamails.net
 teamapp.click
@@ -125449,6 +125637,7 @@ turkbet76.com
 turkce-yama.net
 turkeyalerts.org
 turkeynewstoday.com
+turkishad.com
 turkishcitizenshipbyinvestments.com
 turkishlobbyfurniture.com
 turkishnews20-09-19.info
@@ -127183,6 +127372,7 @@ vivafranco.tk
 vivarack.com
 vivatours.ir
 vivech.site
+vivelifeconcierge.com
 vivianhouse.co
 vivie.club
 vivoci.com
