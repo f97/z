@@ -3,7 +3,7 @@
 ! Description: DNS block list no coin that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-09T00:36:48.613Z
+! Last modified: 2023-12-09T06:10:01.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !

@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-09T00:36:42.500Z
+! Last modified: 2023-12-09T06:09:55.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -12259,8 +12259,6 @@
 0.0.0.0 realclick.vn
 0.0.0.0 stats.realclick.vn
 0.0.0.0 www.realclick.vn
-0.0.0.0 admon.com.vn
-0.0.0.0 slb.admon.com.vn
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad-ndtv.3s.com.vn

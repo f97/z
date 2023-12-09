@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-09T00:36:46.506Z
+! Last modified: 2023-12-09T06:09:59.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -38291,6 +38291,7 @@ amsoxbrvmdobmq.com
 amsteltap.com
 amsterdam-energie.com
 amsyt.yt
+amtaviation.in
 amtrakcrambo.com
 amtropiusr.com
 amuchcooctanes.com
@@ -39904,6 +39905,7 @@ ascx15.com
 asd880.com
 asdasdad.net
 asdccc.xyz
+asdf1.site
 asdfasdfasdfaaa.com
 asdfghdsajkl.com
 asdguswfys.com
@@ -42006,6 +42008,7 @@ barboracoach.com
 barbsbusybees.com
 barcelan.com
 barcelonafringefestival.com
+barclaysoffshoresdepartments.com
 bardatm.ru
 bareelaborate.com
 barefootedleisurelypizza.com
@@ -63215,6 +63218,7 @@ fruitvape.org
 frustrationfungus.com
 frutidetails.us
 fruzrotula.com
+frxcnwpokx.com
 frxuqdho.com
 fryawlauk.com
 fryboldlymalice.com
@@ -67169,6 +67173,7 @@ gwslvgmai.com
 gwtylvvexe.xyz
 gwudfifbofyg.com
 gwurinylw.com
+gwvjcrtucd.com
 gwvorwec.com
 gwvuasdnddxlsp.com
 gwwhheahisrtld.com
@@ -75974,6 +75979,7 @@ kduiplo.pw
 kdvewlabjokfoc.com
 kdvtfbqhftvgpd.com
 kdwdrpiwdxof.com
+kdwuiulga.com
 kdxwappnmx.com
 kdxwcppmed.com
 kdycokam.com
@@ -85320,6 +85326,7 @@ myedgereward.co.in
 myedgerewards.in
 myedgerewardsaxis.co.in
 myemdwtjqkwvlmw.xyz
+myepoieksgdjla.com
 myequity.ca
 myestateoffice.com
 myetherwayllet.com
@@ -88853,6 +88860,7 @@ oedemera.com
 oedroughl.xyz
 oedspoiletkni.xyz
 oefanyorgagetn.info
+oehfvrpeleg.com
 oeilvvksuudpw.com
 oekiqjqoonbyv.com
 oelqiuutvvlcta.com
@@ -93066,6 +93074,7 @@ phulrauftoa.com
 phultems.net
 phultids.com
 phumpauk.com
+phupours.com
 phuquoc.sale
 phuquy.news
 phuteheglu.com
@@ -96155,6 +96164,7 @@ ptoangir.com
 ptoapouk.com
 ptoawhee.com
 ptobsagn.com
+ptochair.xyz
 ptoftheca.xyz
 ptogheeb.net
 ptoksaith.com
@@ -101345,6 +101355,7 @@ rvioyjme.com
 rvitsolution.co.in
 rvjkblit.com
 rvlrjzfow.com
+rvltckxibcmlt.com
 rvmessage.online
 rvmessage.site
 rvmessage.top
@@ -103534,6 +103545,7 @@ serviciipe.net
 serviciofichet.com
 serviciosimmot.com
 servicosdigital.info
+servilerebuff.life
 serving-system.com
 servingcdn.net
 servinghandy.com
@@ -106081,6 +106093,7 @@ soiasjgtd.top
 soicos.com
 soilenthusiasmshindig.com
 soilgnaw.com
+soilyseastar.digital
 soilysnog.uno
 soimex.net
 soiyxwdqi.com
@@ -117713,6 +117726,7 @@ vfudrqibtl.com
 vfuiwubwaspqi.com
 vfuplfbmtph.com
 vfvdsati.com
+vfvvhywsdons.com
 vfwbhmtyipkni.com
 vfxrrpypaljjxt.com
 vfylrlgosal.com
@@ -123432,6 +123446,7 @@ www.assistantdroppedseries.com
 www.assistantelizabethraw.com
 www.assisthollowted.com
 www.assistimplemented.com
+www.assistirsexo.net
 www.assistspell.com
 www.associationstoopedacid.com
 www.assortmentcriminal.com
@@ -128081,6 +128096,7 @@ www.harshvardhansingh.tech
 www.harsik.am
 www.hartattenuate.com
 www.hartbasketenviable.com
+www.harvesttheory.com
 www.harvice.net
 www.hassium.org
 www.hasteflourishing.com
@@ -139543,6 +139559,7 @@ zjlbugpawe.com
 zjniwmsdrv.com
 zjo0tjqpm1.com
 zjumpbyts.com
+zjupukgjuez.com
 zjxdumrn.com
 zk716.com
 zk91.org
