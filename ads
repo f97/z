@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-09T12:13:05.491Z
+! Last modified: 2023-12-09T18:09:19.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5522,6 +5522,7 @@
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdosagebreakfast.com^
 ||cdpommmy.com^
 ||cdrvrs.com^
 ||cdsbnrs.com^
@@ -12908,6 +12909,7 @@
 ||ihopuchcomp.xyz^
 ||ihsarnaut.store^
 ||ihtckcitkr.com^
+||ihwwssyperloof.com^
 ||ihzuephjxb.com^
 ||iicheewi.com^
 ||iicsxxkdcy.com^
@@ -20101,6 +20103,7 @@
 ||portoutsid.xyz^
 ||portsspat.com^
 ||posaul.com^
+||posawaj.com^
 ||poseconsumeelliot.com^
 ||poseurtwicet.digital^
 ||posf.xyz^
@@ -20502,6 +20505,7 @@
 ||prosecutorkettle.com^
 ||proseoverlook.com^
 ||prositzapas.com^
+||prosocrawn.com^
 ||prospectconductorcheerfully.com^
 ||prospercognomenoptional.com^
 ||prosperent.com^
@@ -48839,6 +48843,7 @@ clownverticalrussian.com
 clowtricks.guru
 cloxworx.com
 cloyclesacristics.com
+clpnhwhwioeocrs.com
 clpocpkltu.com
 clrstm.com
 clsqer.net
@@ -55385,6 +55390,7 @@ drmillenia.com
 drmillennia.com
 drmqtrfbswi.com
 drmustafaozkan.com
+droahgsdb.com
 drogerka.online
 drogog.com
 drommeromdrommehuset.net
@@ -64408,6 +64414,7 @@ glampeee.com
 glampingpodslakedistrict.co.uk
 glampingsauna.com
 glampingsmart.com
+glamtina.com
 glancedcomics.life
 glancingambulance.com
 glandcriticizecoil.com
@@ -90264,6 +90271,7 @@ ovvjxjqvj.com
 ovvmptgnrskmmkr.com
 ovvmrrufvhclxf.com
 ovvwunawrt.com
+ovwnmfaauk.com
 ovyondkggnqhmt.xyz
 ovywtxedqp.com
 ow.guanarealiyah.com
@@ -91009,6 +91017,7 @@ parriedcubelet.top
 parringepigene.com
 parritapp.app
 parritapp.com
+parrocchiamatassino.it
 parrotspineparticipate.com
 parrotstrim.com
 parrotwrapped.com
@@ -96420,6 +96429,7 @@ qkhtbpeorl.com
 qkiljxvihu.com
 qkioaxpvoabesm.com
 qkjjuhs.com
+qkjmvmwgp.xyz
 qkjuwqysugom.com
 qkkcsxwh.com
 qkkksk.com
@@ -96983,6 +96993,7 @@ qxhspimg.com
 qxiabfmmtjhyv.com
 qxjohabnsheyt.com
 qxjpwiexnvxmkp.com
+qxkieatewvlagdy.com
 qxknktdbftc.com
 qxkvgtxyhav.com
 qxlaqfjyguehuu.com
@@ -100212,6 +100223,7 @@ rq.owneduntwind.com
 rq.trangamcoached.com
 rqakljxbs.com
 rqbmritxfcfefsp.top
+rqctubqtcbgeug.com
 rqdcusltmryapg.com
 rqdteptu.info
 rqeqgvxuey.com
@@ -100796,6 +100808,7 @@ rychly-cmelak.online
 rycuvaphy.com
 rycyvojifxvpung.com
 rydresa.info
+rydwosevu.com
 ryeeffortoccupy.com
 ryepublisher.com
 ryetlc.com
@@ -113653,6 +113666,7 @@ ttapparelco.com
 ttbm.com
 ttcerakote.com
 ttehermar.com
+ttfpmwjqjbfbm.com
 ttfpoyrbalyfigs.xyz
 ttg-realestate.com
 ttgholdings.net
@@ -135882,6 +135896,7 @@ xaxoro.com
 xaxre.com
 xaxrtiahkft.com
 xaxtqxmi.com
+xayiqcwbmmhwf.com
 xayoaqjlejm.com
 xazwlyh.com
 xbb101.com
@@ -136821,6 +136836,7 @@ xushu5688.com
 xuucv.yt
 xuudtwhlkrbah.com
 xuupfcut.top
+xuvsanxqkycdfl.com
 xuxangqk.com
 xuzeez.com
 xv-videos0.com
@@ -137008,6 +137024,7 @@ xzgest.am
 xzhmu.com
 xziptaogt.com
 xznqolfzwdwini.com
+xzouahcxo.com
 xzr9uauq.cfd
 xzvfyowf.com
 xzxomkrfn.com
@@ -142907,7 +142924,6 @@ zumobi.com
 ||hadmvmqe.com^
 ||nwhuomqmuym.com^
 ||enwerzaqqbbnb.top^
-||ihwwssyperloof.com^
 ||arqznlwzkkaev.top^
 ||tuhwjkesxo.com^
 ||tukeelsy.com^
@@ -143055,12 +143071,10 @@ zumobi.com
 ||clickiocdn.com^
 ||fmorugnmnihrcv.com^
 ||oulrarta.net^
-||cdosagebreakfast.com^
 ||unpaundlagot.com^
 ||onservantas.org^
 ||vvzzphefzcdfr.com^
 ||qxiabfmmtjhyv.com^
-||prosocrawn.com^
 ||geometryworstaugust.com^
 ||cpcstdploqqh.com^
 ||psedregn.net^
@@ -143263,14 +143277,11 @@ zumobi.com
 ||oscism.com^
 ||smatr.icu^
 ||cuyynol.com^
-||cbshanld.com^
-||pvtypsgueyqey.com^
 ||lstonorallantyne.com^
 ||ashionismscol.info^
 ||mqqxkkenfws.com^
 ||freeply.cards^
 ||jpmldwvjqd.xyz^
-||xaqmijey.com^
 ||lkjjhrwrcmvtl.com^
 ||ondajqfaqolmq.xyz^
 ||chaursug.xyz^
@@ -143382,12 +143393,10 @@ zumobi.com
 ||whoursie.com^
 ||requac.com^
 ||gotchaih.com^
-||static.ads.crakmedia.com^
 ||choacmax.xyz^
 ||bgcold.com^
 ||filthybudget.com^
 ||fuckthat.xyz^
-||obmnimarmos.com^
 ||scentedindication.com^
 ||wumufama.com^
 ||ticaadjuk.xyz^
@@ -143401,11 +143410,8 @@ zumobi.com
 ||convenientcertificate.com^
 ||paghai.com^
 ||curtisbarways.com^
-||posawaj.com^
 ||warlockstallioniso.com^
 ||shookahi.xyz^
-||groopsie.net^
-||flvpcdnb.com^
 ||all-ti-cod.com^
 ||covivado.club^
 ||tintedparticular.com^
@@ -143420,7 +143426,6 @@ zumobi.com
 ||skeetads.com^
 ||lifesoonersoar.org^
 ||xszcdn.com^
-||myownshop.at^
 ||uads.store^
 ||omjitjlhx.com^
 ||pusishegre.com^
@@ -143467,7 +143472,6 @@ zumobi.com
 ||takechaukr.com^
 ||advservert.com^
 ||proverbnoncommittalvault.com^
-||cloudaaaa.com^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
 ||selfishmourninhabitants.com^
@@ -143507,7 +143511,6 @@ zumobi.com
 ||natexo-programmatic.com^
 ||brunettemattersrefused.com^
 ||ad.lomadee.com^
-||71213zhazha.com^
 ||weakcompromise.com^
 ||ad.foxnetworks.com^
 ||1f7wwaex9rbh.com^
@@ -143525,7 +143528,6 @@ zumobi.com
 ||purebushesprop.com^
 ||smeartoassessment.com^
 ||dadslimz.com^
-||jqyde7msbro2.com^
 ||fwtrck.com^
 ||lajeshuru.pro^
 ||jillsclickcorner.com^
@@ -143541,7 +143543,6 @@ zumobi.com
 ||ads.topsex.cc^
 ||ssp.qc.coccoc.com^
 ||believegrandpa.com^
-||mutilatecoast.com^
 ||skatestooped.com^
 ||mommygravelyslime.com^
 ||woollenthawewe.com^
@@ -143570,7 +143571,6 @@ zumobi.com
 ||continuedhostilityequipped.com^
 ||dcfnihzg81pa.com^
 ||releasedverge.com^
-||themoneytizer.net^
 ||wokm8isd4zit.com^
 ||crisistuesdayartillery.com^
 ||safeattributeexcept.com^
@@ -143590,7 +143590,6 @@ zumobi.com
 ||tracking.scenepass.com^
 ||ewerhodub.com^
 ||aptantasp.site^
-||thichawheja.pro^
 ||ookris.oferty-kredytowe.pl^
 ||sendmepush.com^
 ||sinsoftu.com^
