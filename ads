@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-09T18:09:19.788Z
+! Last modified: 2023-12-10T00:40:32.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35163,6 +35163,7 @@ adoptmezoo.com
 adorablecaravandominion.com
 adorableold.com
 adorablespace.pro
+adorampix.com
 adorerabid.com
 adorika.net
 adornenveloperecognize.com
@@ -35569,6 +35570,7 @@ adxxx.biz
 adxxx.info
 adxxx.me
 adxxx.org
+adyakainfosec.com
 adygl.com
 adyoca.com
 adz-shield.com
@@ -42364,6 +42366,7 @@ bestusnavy.com
 bestutilities.tech
 bestvalue-ecoatsupplies.com
 bestvapes247.com
+bestvapestoreonline.com
 bestvenadvertising.com
 bestvideocodes.net
 bestvps.name
@@ -42565,6 +42568,7 @@ bft25.com
 bftlugdih.com
 bftrlhesrlfjp.com
 bfts.xyz
+bftsystems.ca
 bfwnkcfsycbd.com
 bfxytxdpnk.com
 bg.clionaskirreh.com
@@ -43072,6 +43076,7 @@ biros.tech
 birotron.us
 birqmiowxfh.com
 birter.com
+birthday-buzzer.com
 birthdayforester.com
 birthdependentmillennium.com
 birthdiscipline.com
@@ -45834,6 +45839,7 @@ cagoogle-analytics.com
 cagothie.net
 cagwalxhlfqszv.com
 cahhupwy.com
+cahoo.it
 cahvpbsikxvvm.xyz
 caicuptu.xyz
 caigluph.xyz
@@ -45920,6 +45926,7 @@ calligraphyabnormality.com
 callingorator.com
 callmeocaptain.xyz
 callmeooumou.com
+callone.net
 callousbrake.com
 callousoverload.com
 callprintingdetailed.com
@@ -46055,6 +46062,7 @@ cancer-code-latamcaribbean.org
 cancer-report.com
 canceraid.org
 canceranswers101.org
+canconsupply.ca
 candacecameronburepresents.com
 candbremovals.com
 candelagoyanes.com
@@ -46560,6 +46568,7 @@ castrotwins.vip
 casualhappily.com
 casualproof.com
 casualtyinflate.com
+casualweddingdresses.net
 cataleyaflowers.com
 catalogs-part.ru
 catalogueinfectionbarbarian.com
@@ -47202,6 +47211,7 @@ cewaugaz.net
 cewedejhoibkwdl.xyz
 cewfamilyoffice.com
 cewfggrr5flklnb.com
+cexp.cards
 cexucetum.com
 cezorpc.com
 cezprechod.info
@@ -49347,6 +49357,7 @@ colorhandling.com
 colorificiopadano.it
 coloring.photo
 coloringelements.com
+colorinoworld.com
 colormatches.com
 colormequilter.com
 colorofcodes.com
@@ -49536,6 +49547,7 @@ compactech.online
 compactsalvagedonation.com
 compactyunker.com
 compandlap.xyz
+companiesb2b.com
 companionbotanicals.com
 companyanytorn.com
 companystupid.org
@@ -51827,6 +51839,7 @@ d3vp85u5z4wlqf.cloudfront.net
 d3x.app
 d4d4.org
 d4d48974197052ea.com
+d54testneviem.site
 d58931bb20.5afc8f3239.com
 d5chnap6b.com
 d617490b25.c3ecfc3556.com
@@ -53371,6 +53384,7 @@ devoidmoderateale.com
 devoidsagacious.com
 devolutiondiffident.com
 devolutionrove.com
+devops-cloud.online
 devops-platform.tech
 devotedfootprintsinterstate.com
 devotedvarnish.com
@@ -58382,6 +58396,7 @@ ervqqtdjdxvgh.com
 erwinsmith.xyz
 eryalnpdfhg.com
 eryarriedstr.info
+erynblaire.com
 erynndennler.com
 erypso.com
 eryservic.online
@@ -60751,6 +60766,7 @@ filthyrankscuffle.com
 filthyred.com
 filtrationworld.com
 filtress.pw
+fimovinky.com
 fin-ops.tech
 finacle.online
 finaglejonglem.life
@@ -61286,6 +61302,7 @@ flegg.xyz
 flehatype.com
 flenbo.online
 flensercomates.guru
+fleradesing.com
 fleraprt.com
 fleshlyzombis.com
 fleuriesetroses.com
@@ -67140,6 +67157,7 @@ havanais.tv
 havanese.top
 havatamq.org
 havegrosho.com
+havelkova.com
 havenadverb.com
 havenattackedevolve.com
 havenkingdom.shop
@@ -68164,6 +68182,7 @@ hindidelight.in
 hinducouncil.in
 hindumantra.in
 hindustanguruwarrantyassist.com
+hindustantowersgroup.net
 hingamgladther.com
 hingesindia.co.in
 hingfruitiesma.info
@@ -71040,6 +71059,7 @@ indexicality.net
 indexverse.org
 indfo.in
 indfor.com
+indhistory.com
 india-group-travel.co.uk
 india-luxury-trains.org
 india-wildlife-tour.org
@@ -71060,6 +71080,7 @@ indiananewz.com
 indianautoleague.in
 indianbusiness.online
 indianbyblood.in
+indiancompanies.net
 indiancultureglobaltrust.in
 indiancycles.in
 indiandot.me
@@ -73042,6 +73063,7 @@ janitoraccrue.com
 janitorcanvass.com
 janlastuvka.com
 janlevy.agency
+janmares.top
 janmlcek.com
 janpaulas.com
 jansevaoffice.in
@@ -73314,6 +73336,7 @@ jeannenowhere.com
 jeannesurvival.com
 jeannezenith.com
 jeanpierre.tech
+jeanriopel.com
 jeansalterne.top
 jeanspurrcleopatra.com
 jeblok.info
@@ -73732,6 +73755,7 @@ jiuquantv.com
 jiuswcpdwgpwetf.com
 jiuxkusffa.xyz
 jivanifinserv.com
+jivanifinserv.in
 jivehgcti.com
 jivfuwolxh.com
 jivomtuz.com
@@ -74621,6 +74645,7 @@ jurist-sofort.de
 jurkdrwdtmoyom.com
 jurmus.com
 jurobot.xyz
+jurokovacik.com
 jurorstalar.uno
 jursp.com
 jurtovna.com
@@ -75977,6 +76002,7 @@ kleplers.com
 klfyoqlsffuc.xyz
 klgkbsxh.xyz
 klickgpt.com
+kligen-mietservice.com
 klikadvertising.com
 kliksaya.com
 kliktrkr.com
@@ -80229,6 +80255,7 @@ mableyable.com
 maboazolsamp.com
 mabonjqw.com
 mabtcaraqdho.com
+mabyt.net
 macabray.com
 macaddr.online
 macaigha.net
@@ -80617,6 +80644,7 @@ makingforexsimple.com
 makingnude.com
 makizhconstruction.com
 makkef.com
+makleri.info
 makoglassen.website
 makogsqigg.com
 makotruong.live
@@ -81841,6 +81869,7 @@ meetingtorbay.co.uk
 meetlovemate.top
 meetmate.top
 meetmeonthefrontporch.com
+meetnathaniel.ca
 meetnauther.uno
 meetnmarry.com
 meetradar.com
@@ -82662,6 +82691,7 @@ mindlessindignantlimbs.com
 mindlessslogan.com
 minduniversity.online
 minduniversity.pw
+mindworx.art
 mineabstain.com
 minecraft-lord.mobi
 minecraftfreemods.net
@@ -83121,6 +83151,7 @@ mnau.tv
 mnaujmo.com
 mnblinmmxpereq.com
 mnbvjhg.com
+mnbwrxspjqonwn.com
 mnclubkatud.com
 mndd1.app
 mndd10.app
@@ -85015,6 +85046,7 @@ nadasadel.com
 nadiingsinsp.one
 nadjustifygas.com
 nadmi.top
+nadrazky.com
 nads.io
 nadstreski.pro
 naegatebeaky.com
@@ -87656,6 +87688,7 @@ nyadra.com
 nyahao.com
 nyalacornily.cam
 nyama.online
+nyama.store
 nyandeep.com
 nyas.si
 nyass.si
@@ -90559,6 +90592,7 @@ packrafting.tips
 packscursos.org
 pacoaniy.net
 pactodeprefeitos.org
+padaloto-bg.com
 padconer.online
 paddleangle.com
 paddleboardingliptov.com
@@ -91799,6 +91833,7 @@ peppinaegina.com
 peppy2lon1g1stalk.com
 pepselantes.com
 pepserump.life
+pepsifoodtruck.com
 peptidepros.reviews
 peptidepros.top
 peptidepros.us
@@ -92321,6 +92356,7 @@ phoenixyouthchoir.org
 phoenixyouthchoirs.com
 phoenixyouthchorus.com
 phoenixyouthchorus.org
+phoeverba.online
 phohagyli.com
 phokimsew.com
 phokruhefeki.com
@@ -92579,6 +92615,7 @@ pijhdfwlxffnfg.com
 pijlpuofkgz.com
 pikameuni.store
 pikamoon.xyz
+pikango.net
 pikat4d.info
 pikat4d.net
 pikat4d.org
@@ -94753,6 +94790,7 @@ probet365.tech
 probioimuno.com
 probitystuck.com
 probizemail.com
+problemas-de-ereccion-es.com
 problemhaltrivulet.com
 problemsendeavourbending.com
 probtn.com
@@ -95728,6 +95766,7 @@ puntacanaafterdark.com
 punyvamos.com
 puoxpytcblqrti.xyz
 pupa-va.com
+pupavadevelopment.com
 pupdatesmicial.com
 pupfishflaw.digital
 pupiec.com
@@ -97258,6 +97297,7 @@ railroadignorant.com
 railroadtomato.com
 railwaycatherineurge.com
 railwayrainstorm.com
+rain-corp.net
 rainbending.com
 rainbirdgsp.com
 rainbolt-mountain-dar.com
@@ -97467,6 +97507,7 @@ rar-lab.top
 rarath.com
 rarbg.com
 rarbgmirror.com
+rarbgmirror.org
 rarechats.blog
 rarecruises.com
 rareghoa.net
@@ -98571,6 +98612,7 @@ rentalcarsiceland.com
 rentalcarsiniceland.com
 rentalfunnels.org
 rentalrebuild.com
+rentalsincostadelsol.com
 rentazrealit.com
 rentenpartei.org
 rentevio.bike
@@ -101460,6 +101502,7 @@ sardronian.com
 sarevaght.com
 sarinfalun.com
 sarinjowel.com
+sarisko.art
 sariyerkombiservisi.net
 sark-pikcha.com
 sarkaari-results.in
@@ -104273,6 +104316,7 @@ sitefeytout.com
 siteforyou1d.com
 sitegoto.com
 sitelinktrack.com
+sitelogbook.com
 siteminderusa.com
 sitemnk.com
 siteniekle.net
@@ -105474,6 +105518,7 @@ solarextint.com
 solarfresh.us
 solargoldcoat.com
 solarig.sn
+solarlift.net
 solarmosa.com
 solarni-elektrarna.com
 solarpanel.in.net
@@ -106286,6 +106331,7 @@ sprunghardness.com
 spryptvqguhpwt.com
 sptest13.xyz
 sptest17.xyz
+sptest9.xyz
 sptfmlllns.xyz
 sptpjeqch.xyz
 sptrkr.com
@@ -108615,6 +108661,7 @@ szovegmuhely.com
 szqxvo.com
 szsgmtt.com
 sztv.re
+szumxymen.com
 szwdating.com
 szxizhiw.com
 szyr524.com
@@ -111377,6 +111424,7 @@ tiknews24.info
 tikniya.xyz
 tiktak.info
 tiktok.sl
+tiktokcobra.info
 tiktokeri.com
 tiktokmadeusbuyit.shop
 tiledissipatelocum.com
@@ -111474,6 +111522,7 @@ timustechnologies.in
 timxrio.com
 tin-chess.com
 tinacorners.xyz
+tinaworldgroup.com
 tinbuadserv.com
 tincalsamiably.website
 tinchess.com
@@ -113434,6 +113483,7 @@ truechihuahua.com
 truecontext.ai
 truecontext.app
 truecrimeunlimited.us
+truedream-travel.net
 trueenergymining.com
 truefilen32.com
 truelegacy.io
@@ -116692,6 +116742,7 @@ vcxsimyllso.xyz
 vczka.yt
 vd.scapemambu.com
 vdamsbflhypjsqw.xyz
+vdenwwytxmw.com
 vdesigner.com
 vdfdwnsrvjcsok.com
 vdgdbjmuc.xyz
@@ -117454,6 +117505,7 @@ vikkitor.xyz
 vikna-servis.com
 vikrak.com
 vikramastro.com
+viksportcentrum.com
 viktorhanacek.com
 viktoriakay.tech
 viktoriesvihelova.com
@@ -119510,6 +119562,7 @@ weeklideals.com
 weeklyimplement.pro
 weeklyinbox.uk
 weeklyplannerexpert.com
+weelec.ca
 weelgaiting.com
 weemfdicnbrdj.xyz
 weepingpretext.com
@@ -123374,6 +123427,7 @@ www.bipr.education
 www.birbillingcalling.com
 www.birchdynamicunicorn.com
 www.birdtears.com
+www.birthday-buzzer.com
 www.birthdayforester.com
 www.birthdependentmillennium.com
 www.birtuwhaim.com
