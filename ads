@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-10T12:13:28.798Z
+! Last modified: 2023-12-10T18:09:10.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -10455,6 +10455,7 @@
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -13894,6 +13895,7 @@
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhoncj.com^
 ||jhrfemourkojc.com^
@@ -17491,6 +17493,7 @@
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -38462,6 +38465,7 @@ apppa.app
 appraisalaffable.com
 appraisesmoker.com
 apprannyattiewed.com
+apprebuffnat.com
 appreciationcallingregent.com
 apprefaculty.pro
 apprenticeships-bristol.co.uk
@@ -40387,6 +40391,7 @@ awestruckbranch.com
 awestruckcolleaguediving.com
 awestruckg.xyz
 awesunstroke.com
+awexjtozogod.com
 awftrust.org
 awfullypersecution.com
 awfulresolvedraised.com
@@ -40557,6 +40562,7 @@ ayon.design
 ayorks.com
 ayovote.com
 ayowogfha.com
+aypahalndxrxon.com
 ayprojex.tech
 ayprokwbpc.com
 ayprpyhshoek.com
@@ -42369,6 +42375,7 @@ bestonlinepsychic.xyz
 bestoretuba.guru
 bestorlandolipo.com
 bestpersonalfitness.com
+bestplaceforall.com
 bestprint-shop.xyz
 bestproducttesters.com
 bestproposalworld.com
@@ -50502,6 +50509,7 @@ countrysidepaddlecircle.com
 countrywastemanagement.com
 counts4you.com
 countshryw.xyz
+countvouchers.com
 countymeath.com
 countypuddleillusion.com
 coupageoutrant.guru
@@ -51178,6 +51186,7 @@ cryptraffic.de
 cryptter.online
 crysbenz.com
 crystal-blocker.com
+crystal-elegance.art
 crystalclean803.net
 crystalheart.club
 crystaliswater.com
@@ -54521,6 +54530,7 @@ dlski.space
 dlsspjfjgmbo.com
 dlwcjcbwst.com
 dlxodggxduh.xyz
+dlxohfxenojlpb.com
 dlypauebmkyjtm.com
 dm.matyamyelia.com
 dm530px.com
@@ -61986,6 +61996,7 @@ fortunerotopacks.com
 fortunescrollstrap.com
 fortyflattenrosebud.com
 fortyoppo.top
+fortyphlosiona.com
 fortysevenstore.com
 forumassociations-lrmp.com
 forumchretiens.com
@@ -62097,6 +62108,7 @@ fp9tzd.cn
 fpbvfwjwrayphgs.com
 fpbxwecdib.com
 fpccpyvqfu.top
+fpcnlqalrupf.com
 fpctraffic3.com
 fpdbccngiujp.com
 fpdnbmwvuprxak.xyz
@@ -69736,6 +69748,7 @@ hwpowerhour.org
 hwpyfcxahv.com
 hwquhswxbtfigw.xyz
 hwqybdkniptwm.com
+hwrcxpfzmfxg.com
 hwrdmnldmpbnjl.com
 hwrpqaupsf.com
 hwtkmxwaajbkhr.com
@@ -73666,6 +73679,7 @@ jhbsjdfsdf33.monster
 jhbsvjfsdf4.monster
 jhcsccodbtuw.com
 jhcteditawmmgk.com
+jhdiujyjihnw.com
 jheelsplotch.com
 jheetrepeytva.com
 jhfhdkhkh.site
@@ -74820,6 +74834,7 @@ jxwtiykys.com
 jxx65.com
 jxxcacaryietcw.xyz
 jxxlraxzl.com
+jxxxfyoodqpjn.com
 jxybgyu.com
 jy.engreennext.com
 jy.olpfeere.com
@@ -75601,6 +75616,7 @@ kfsfvqjzq.com
 kfuwkmsbwtve.com
 kfxbxfvlepv.xyz
 kfxkxyb.com
+kfykojgsnf.com
 kg.flogspci.com
 kg.quinuaknife.com
 kgaypqks.com
@@ -82368,6 +82384,7 @@ mgbid.net
 mgcash.com
 mgcashgate.com
 mgdbtjwc.com
+mgdgeycqgv.xyz
 mggckhjvtgc.top
 mggslmeqtyfxb.com
 mghkpg.com
@@ -86502,6 +86519,7 @@ nightsgeological.com
 nigion.com
 nigmen.com
 nigner.com
+nigooshe.net
 nigrebud.net
 nigure.com
 nihao112.com
@@ -87740,6 +87758,7 @@ nyandeep.com
 nyas.si
 nyass.si
 nybblesbarotse.com
+nybiugmmnxxjcku.com
 nybsptiujsa.com
 nyckeypass.app
 nycmoonshot.com
@@ -88259,6 +88278,7 @@ oedspoiletkni.xyz
 oefanyorgagetn.info
 oehfvrpeleg.com
 oeilvvksuudpw.com
+oekajpnsqq.com
 oekiqjqoonbyv.com
 oelqiuutvvlcta.com
 oemcctvcamera.com
@@ -96050,6 +96070,7 @@ puzzledoutbalance.com
 puzzlementangrily.com
 puzzlementevolve.com
 puzzlepursued.com
+pvajlmhjjq.xyz
 pvawydmmj.com
 pvcce.xyz
 pvclouds.com
@@ -100577,6 +100598,7 @@ ruckerstattung-umfeld.com
 ruckletawpy.com
 ructionthaught.live
 rudderaxis.com
+rudderwebmy.com
 ruddledcrucian.uno
 ruddy-option.pro
 ruddyred.pro
@@ -107175,6 +107197,7 @@ stoadivap.com
 stoagergu.com
 stoagnoa.com
 stoaltaw.net
+stoaltoa.top
 stoaphalti.com
 stoapoothu.com
 stoashou.net
@@ -110519,6 +110542,7 @@ thegiantmail.com
 thegirlfriendsbrunch.com
 theglobalbusinesssquare.com
 theglossonline.com
+thegoldentreasure.net
 thegoodcaster.com
 thegoodideaman.com
 thegoodshepherdhandyman.com
@@ -112597,6 +112621,7 @@ toyersgroup.com
 toyeworld.biz
 toyeworld.info
 toyfellas.com
+toyhwhffj.com
 toyjofkkcdyr.com
 toykart.co.in
 toykart.in
@@ -118386,6 +118411,7 @@ vrbmhngqjh.com
 vrbo4salenow.com
 vrcam.info
 vrcjleonnurifjy.xyz
+vrcpcpdotlboyhx.xyz
 vrcxbuvnuwbo.com
 vremenska.info
 vreoci.com
@@ -129561,6 +129587,7 @@ www.manuscriptconsultinggroup.org
 www.manymoneysurvey.top
 www.maomiav87.com
 www.map-generator.org
+www.mapbox.pics
 www.marallycraft.com.au
 www.maranasoaps.com
 www.maratechsolutions.tech
@@ -136910,6 +136937,7 @@ xtbrokers.com
 xtcpro.net
 xtdbjbfqjn.xyz
 xtdgltduyjvifg.top
+xtdioaawlam.com
 xtec-systems.com
 xtefssqwjep.com
 xtendmedia.org
@@ -138090,6 +138118,7 @@ yoursprofit.in
 yourstorage.ca
 yourteethsaskatoon.com
 yourtopnews.com
+yourtopwords.com
 yourtubetvs.site
 yourviralnewz.com
 yourvouchundercover.com
