@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-10T06:10:04.177Z
+! Last modified: 2023-12-10T12:13:34.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -106847,6 +106847,7 @@ kbozyu.xyz
 kbtblh.com
 kbvehicle.com
 kbwventures.com
+kccprocess.com
 kcer.com
 kcju.com
 kcmhradio.com
