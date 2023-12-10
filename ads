@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-10T00:40:32.684Z
+! Last modified: 2023-12-10T06:09:56.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -36763,6 +36763,7 @@ algorithmbuysell.com
 algorithmic.group
 algorithmiclevels.com
 algothitaon.com
+algotricksolution.com
 algrofarms.com
 alhashimia.net
 alhcilnkmaj.com
@@ -40418,6 +40419,7 @@ awsnjsduyhgpk.com
 awsomecanada.com
 awstaticdn.net
 awsurveys.com
+awswayful.space
 awtcher.guru
 awtqbjylk.com
 awugxvrmsdalpx.com
@@ -43125,6 +43127,7 @@ bitcoin-revolution-software.com
 bitcoin2dollars.com
 bitcoingrowing.info
 bitcoinheating.ca
+bitcoinheatingcompany.ca
 bitcoinmillionaireapp.info
 bitcoinovyportal.com
 bitcoinshashes.xyz
@@ -67741,6 +67744,7 @@ hepsaign.com
 hepsiburada.io
 heptix.net
 hepwdoqaseew.top
+hepyrndtpkd.xyz
 heqxkqsdert.com
 heramigo.com
 herapearl.com
@@ -69002,6 +69006,7 @@ hotdogmomz.com
 hotegotisticalturbulent.com
 hotel-academy.info
 hotel-horizont.org
+hotel-osek.com
 hotelajmerheritage.com
 hotelamritsars.com
 hotelblackandwhite.org
@@ -76064,6 +76069,7 @@ kmmtxfwntcnyd.com
 kmnkiuqfo.com
 kmobi.co.kr
 kmodukuleqasfo.info
+kmokknjzsknr.com
 kmqkdhqaqt.com
 kmrptpdaqdpuk.com
 kmsnhhkr.com
@@ -76235,6 +76241,7 @@ kogaqmlci.com
 kogoulri.com
 kogutcho.net
 kohanala.ir
+kohlsrebate.com
 koiala.com
 koictsjk.xyz
 koindut.com
@@ -80835,6 +80842,7 @@ manmahapparels.com
 manmahapparels.in
 manmanlu.tech
 manna-webaruhaz.com
+mannaparadise.com
 mannarora.com
 mannasjerker.guru
 mannaskinsmart.com
@@ -91527,6 +91535,7 @@ pdn-5.com
 pdnyxyqoihia.xyz
 pdopreroerw.com
 pdpdcnnjbg.top
+pdqkkzouflx.com
 pdrgsusxxtqa.xyz
 pdridjiviq.com
 pdshmfkugsddkm.xyz
@@ -95806,6 +95815,7 @@ purercoming.digital
 purewatersolution.us
 purful.com
 purismsgenros.digital
+purissima.xyz
 purity.one
 purityone.solutions
 purityone.us
@@ -101120,6 +101130,7 @@ saikeela.net
 sailcovertend.com
 sailif.com
 sailingmineral.com
+sailingwavesclub.com
 sailorandmoist.com
 sailorbottleaskew.com
 sailundu.xyz
@@ -105518,6 +105529,7 @@ solarextint.com
 solarfresh.us
 solargoldcoat.com
 solarig.sn
+solarlift.info
 solarlift.net
 solarmosa.com
 solarni-elektrarna.com
@@ -107109,6 +107121,7 @@ stmjbhxjetf.com
 stmkids.org
 stmonicachildcarecentre.ca
 stndnews.com
+stnhidkylkhhjn.com
 stnrhjedqtu.com
 stntjkncnvcfkw.com
 stoachaigog.com
@@ -108970,6 +108983,7 @@ tantraology.com
 tantrapoint.com
 tanulunk.com
 tanushop.com
+tanyaricardo.com
 taobaoimages.com
 taody8.com
 taoiknaa.com
@@ -111867,6 +111881,7 @@ tobaitsie.com
 tobaltoyon.com
 tobbydeehagler.com
 tobellsprouta.com
+tobias.works
 tobleronchiko.com
 tocabocahairsalon.com
 tocabocajr.com
@@ -114351,6 +114366,7 @@ tytostaracar.lol
 tytothwarts.com
 tytyeastfeukufun.info
 tyuefuxlcy.com
+tyvnxknk.com
 tywdchppfgds.xyz
 tywl.yt
 tywm.xyz
@@ -119565,6 +119581,7 @@ weeklyplannerexpert.com
 weelec.ca
 weelgaiting.com
 weemfdicnbrdj.xyz
+weenenelectric.ca
 weepingpretext.com
 weeplypriapic.website
 weeragedeafer.com
@@ -124964,6 +124981,7 @@ www.dagongji.net
 www.dahaeboza.com
 www.daikeethoo.com
 www.dailanh.website
+www.dailycollectionagent.com
 www.dailyusoffer.xyz
 www.dairebougee.com
 www.daisyboredom.com
@@ -135536,6 +135554,7 @@ www.yump3s.com
 www.yunvx.fun
 www.yuriembark.com
 www.yuvasoft.in
+www.yuvrajenterprises.net
 www.yuwemaru.com
 www.yvesmadame.com
 www.yvycyrof.xyz
@@ -135709,6 +135728,7 @@ wwwlanzous.com
 wwwlanzoux.com
 wwwlgmail.com
 wwwlordoftherings.com
+wwwmarksandspencer.com
 wwwmatadorbet166.com
 wwwmorele.net
 wwwnbc.space
@@ -136032,6 +136052,7 @@ xdcaxiyzgg.com
 xdcjdlfnoitxs.com
 xdcngimejo.com
 xdeqhxqu.com
+xdezxlbnpo.com
 xdhporbv.com
 xdhqtgpkywjl.com
 xdiwbc.com
@@ -136693,6 +136714,7 @@ xpectthatmy.shop
 xpenspay.net
 xperiafirmware.com
 xperiencexchange.space
+xpertocl.com
 xpfmsqgslmw.com
 xpgystv.com
 xpgyv.com
