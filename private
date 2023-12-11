@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-11T06:11:23.836Z
+! Last modified: 2023-12-11T12:15:14.294Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -103180,6 +103180,7 @@ help.device-secure-new.auth.com
 help.favbat.com
 help365.us
 help4storm.com
+help71.contcthq.click
 helpapp.cfd
 helpcharities.club
 helpdesks-support.com
@@ -115692,6 +115693,7 @@ pateba.gq
 pateba.ml
 patedi.ga
 patel35.store
+patentidiguidaoriginali.com
 patersonnewsdaily.com
 pathermin.com
 pathfood.com
