@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-11T00:38:26.293Z
+! Last modified: 2023-12-11T06:11:18.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -6789,6 +6789,7 @@
 ||credentialsdispatchsuperstitious.com^
 ||credibilitystakehemisphere.com^
 ||credibilityyowl.com^
+||creditbitesize.com^
 ||creditorapido.xyz^
 ||credulityicicle.com^
 ||creedaileenboiler.com^
@@ -15303,6 +15304,7 @@
 ||lividtrash.pro^
 ||livrfufzios.com^
 ||livyersremoval.com^
+||liwnffsxdhn.com^
 ||lixnirokjqp.com^
 ||lixsbdifa.com^
 ||lizapaisan.com^
@@ -28660,6 +28662,7 @@
 ||woxfiybiepgltf.com^
 ||woymebsi.com^
 ||wpadmngr.com^
+||wpcgyoyq.com^
 ||wphmavwgay.xyz^
 ||wpkdqrzzcodvjc.com^
 ||wpncdn.com^
@@ -29464,6 +29467,7 @@
 ||zel-zel-fie.com^
 ||zelatorpukka.com^
 ||zelllwrite.com^
+||zelqytckpgzwag.com^
 ||zelrasty.net^
 ||zelrulte.com^
 ||zemewitted.com^
@@ -42098,6 +42102,7 @@ bemanectricr.com
 bemanga.net
 bemascloche.life
 bembexpps.life
+bemmwtj.xyz
 bemnadotap.com
 bemobots.com
 bemobpath.com
@@ -60573,6 +60578,7 @@ fghnergyflex.xyz
 fghyuiy.com
 fgijincfktbguv.xyz
 fgimedia.com
+fgislklsqqytr.com
 fgisstdudch.com
 fgjasshw.com
 fgjbsjiq.com
@@ -64658,6 +64664,7 @@ globalrealtor.space
 globalrecruitmentpartner.co.uk
 globalskilluniversity.org
 globalsoftware.market
+globalspin365.com
 globalstemschool.com
 globalsuccessclub.com
 globalsurveyline.com
@@ -78892,6 +78899,7 @@ livphezanaq.com
 livrfufzios.com
 livtertools.com
 livyersremoval.com
+liwnffsxdhn.com
 lixihyrwpgh.com
 lixmperta.com
 lixnirokjqp.com
@@ -93372,6 +93380,7 @@ playos.net
 playoverlyspeedyinfo-product.info
 playpiknik.ca
 playpiknik.com
+playrdkf.com
 playrota.org
 playrummy365.com
 playsdonkey.com
@@ -121244,6 +121253,7 @@ wpasalsbet.com
 wpblox.com
 wpblox.net
 wpbuilder-oktatas.online
+wpcgyoyq.com
 wpdkfjxymguaiuk.com
 wpducks.com
 wpei.in
