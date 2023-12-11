@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-10T18:09:10.008Z
+! Last modified: 2023-12-11T00:38:26.293Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -30909,6 +30909,7 @@
 ||rst.pornyhd.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
+||rtb-3.xgroovy.com^
 ||slview.psne.jp^
 ||support.streamjav.top^
 ||tokyo.xhamster.com^
@@ -119354,6 +119355,7 @@ wdbcn.yt
 wdcbfokia.xyz
 wdcfeoyp.com
 wdeliv.net
+wdevxtmasfdswx.com
 wdeyuqjmlsl.com
 wdflj.yt
 wdgdrlwthgcw.com
@@ -122617,6 +122619,7 @@ www.amendsgeneralize.com
 www.amendspreposterousalter.com
 www.amenityremorse.com
 www.amgrow.com
+www.amiabledelinquent.com
 www.amiddespair.com
 www.amitammuarts.com
 www.ammunitionconsiderinstitution.com
@@ -138808,6 +138811,7 @@ zeleni-planet.com
 zelia.uk
 zeliangames.com
 zelllwrite.com
+zelqytckpgzwag.com
 zelrasty.net
 zelrulte.com
 zemanresort.com
