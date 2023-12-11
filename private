@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-11T12:15:14.294Z
+! Last modified: 2023-12-11T18:10:48.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -56133,13 +56133,6 @@ data.mistat.rus.xiaomi.com
 ||log15-normal-useast1a.tiktokv.com^
 ||log15-normal-useast2a.tiktokv.com^
 ||log16-normal.tiktokv.com^
-||log16-normal-alisg.tiktokv.com^
-||log16-normal-c-useast1a.tiktokv.com^
-||log16-normal-c-useast2a.tiktokv.com^
-||log16-normal-delay-alisg.tiktokv.com^
-||log16-normal-ind.tiktokv.com^
-||log16-normal-useast1a.tiktokv.com^
-||log16-normal-useast2a.tiktokv.com^
 ||log16-platform-ycru.tiktokv.com^
 ||log16-tmp-normal-useast1a.tiktokv.com^
 ||log17-normal.tiktokv.com^
@@ -56234,7 +56227,6 @@ data.mistat.rus.xiaomi.com
 ||rtlog58-normal-ycru.tiktokv.com^
 ||log.us.tiktokv.com^
 ||log16-applog-useast5.us.tiktokv.com^
-||log16-normal-useast8.us.tiktokv.com^
 ||log19-applog-useast5.us.tiktokv.com^
 ||mcs.us.tiktokv.com^
 ||mon.us.tiktokv.com^
@@ -95423,6 +95415,7 @@ dele.scarbour.com
 dele.suspent.com
 deleeuwgolf.com
 delexa.com
+delft-rotsvast.nl
 delhii.org
 delhijobplacements.shop
 delicatestuffed.site
@@ -108596,6 +108589,7 @@ liofilizat.pl
 lionelastomers.com
 lionelxyz.online
 lionheartux.com
+lions-music.org
 lionsmoh.com
 liontiny.com
 liora.com
@@ -115509,6 +115503,7 @@ paloaltoaudi.com
 palomarez87.silkwomenshirts.com
 pamaweb.com
 pamelakline.com
+pamelawilliamsphotography.net
 pamelayoungrealtor.net
 pamilyn.com
 pamm-expert.ru
@@ -124802,6 +124797,7 @@ tlcemail.xyz
 tlcfanmail.com
 tlcglobalhealth.com
 tlclandscapes.com
+tldemail.top
 tlead.me
 tleecinnue.gq
 tlhao86.com
