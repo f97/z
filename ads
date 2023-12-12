@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-12T12:14:38.557Z
+! Last modified: 2023-12-12T18:10:38.980Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -16627,7 +16627,6 @@
 ||mm-cgnews.com^
 ||mm-syringe.com^
 ||mmadsgadget.com^
-||mmcdn.com^
 ||mmctsvc.com^
 ||mmdyvkndcsiw.com^
 ||mmgads.com^
@@ -35922,6 +35921,7 @@ afflictionpetulant.com
 affluencesoap.com
 affluentlathe.com
 affluentmirth.com
+affluentretinueelegance.com
 affluentscuffle.com
 affluentshinymulticultural.com
 affmoneyy.com
@@ -43185,6 +43185,7 @@ bindasstimeuk.com
 binderyjenna.website
 bindii.in
 bindingguessingconfessed.com
+bindingtimetablejosie.com
 bindmenuaspirin.com
 bineukdwithmef.info
 binexplasto.com
@@ -47036,6 +47037,7 @@ cdjs.online
 cdkcaxxjyyb.xyz
 cdksaelf.com
 cdl-management.info
+cdmytklsxcdkkjd.com
 cdn-adtrue.com
 cdn-download.top
 cdn-fastcounter.de
@@ -49206,6 +49208,7 @@ cnncavitm.xyz
 cnnected.org
 cnnotvrvhpapoqd.xyz
 cnobysuwpgm.xyz
+cnoqpfsweqr.com
 cnpica.com
 cnsdhvqk.com
 cnsds.net
@@ -58737,6 +58740,7 @@ esmentbrads.com
 esmnord.com
 esmystem.com
 esnlynotquiteso.com
+esodnbhzdpl.com
 esopertyva.shop
 esorandhewa.com
 esosfultrbriolena.info
@@ -64764,6 +64768,7 @@ gledycedule.life
 gleebsex.net
 gleebsoa.xyz
 gleechie.net
+gleedautsou.com
 gleefulsincerely.com
 gleefulwaflib.com
 gleegloo.net
@@ -75105,6 +75110,7 @@ jybidmbaeyj.com
 jybtbvrnr.com
 jyburaemyw.com
 jychzx.com
+jyfirjqojg.xyz
 jygkr.yt
 jygkylltb.com
 jygotubvpyguak.com
@@ -75581,6 +75587,7 @@ kckjelcroivk.com
 kckntb.com
 kclidkqnyr.com
 kcmouxfnha.com
+kcmudtothpyu.com
 kcnfrqincdlf.xyz
 kcontrol.app
 kconvacvaccine.online
@@ -82681,6 +82688,7 @@ mgoeth.com
 mgrattedropenrigh.xyz
 mgrfggmhtbdgci.com
 mgrkfbkpyn.com
+mgrtxjxcshrwq.xyz
 mgruanjian.com
 mgrvhxroitfth.xyz
 mgsgxjgpgumhdu.xyz
@@ -90263,6 +90271,7 @@ otabciukwurojh.xyz
 otakworks.net
 otalcanal.xyz
 otalsportek.com
+otarbadvnmrap.com
 otbczech.com
 otbuzvqq8fm5.com
 otcmailmeds.com
@@ -97021,6 +97030,7 @@ qpfyynxpi.com
 qpgtcybf.com
 qpgxdqnibso.top
 qpixxezhwwoc.com
+qplifbqenws.com
 qplkajkmwxia.xyz
 qpmxdukfpiwfowu.com
 qpnacwltmggs.top
@@ -101405,6 +101415,7 @@ sacculiputts.store
 sacegryri.com
 sachets-emballages.ca
 sachmitrafinserv.com
+sackgsseufgd.com
 sackprovisionalwanted.com
 sackswaycheese.com
 sacolaosupermercado.com
@@ -133953,6 +133964,7 @@ www.staubsuthil.com
 www.staunchfastened.com
 www.staunchgenetwitch.com
 www.stayfun.online
+www.stayingcaviar.com
 www.stayingprodigy.com
 www.stayjigsawobserved.com
 www.staykidnapcoma.com
@@ -136638,6 +136650,7 @@ xdcjdlfnoitxs.com
 xdcngimejo.com
 xdeqhxqu.com
 xdezxlbnpo.com
+xdfqhittojpvc.com
 xdhporbv.com
 xdhqtgpkywjl.com
 xdiwbc.com
@@ -136962,6 +136975,7 @@ xkqmddcqsysmnc.com
 xkrqfuujwfpytv.top
 xksdqikwbwat.com
 xksqb.com
+xktgjknrc.com
 xktplmro.com
 xkvpldxamxgq.com
 xkwdiewxwefqkn.com
@@ -143565,6 +143579,21 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||pnlwbcxphfhgqp.com^
+||alexicallowed.digital^
+||mystnock.digital^
+||yftpnol.com^
+||yunenly.com^
+||esbeginnyweakel.org^
+||dinghologyden.org^
+||vdenwwytxmw.com^
+||jyfirjqojg.xyz^
+||teepoomo.xyz^
+||esodnbhzdpl.com^
+||ikjzwgcg.com^
+||endingrude.com^
+||lacerateinventorwaspish.com^
+||treblescholarfestival.com^
 ||xtdioaawlam.com^
 ||psegreew.net^
 ||aheaptorsos.life^
