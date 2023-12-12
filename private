@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-12T06:11:24.044Z
+! Last modified: 2023-12-12T12:14:43.837Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -112580,6 +112580,7 @@ myatlantatiredealer.com
 myautoinfo.ru
 myawesomecontact.bid
 myb-o.com
+mybankingtips.com
 mybaseballcareer.com
 mybeautidress.site
 mybeauty.website
