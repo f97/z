@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-12T18:10:38.980Z
+! Last modified: 2023-12-13T00:37:21.637Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5232,6 +5232,7 @@
 ||cagerssoohong.com^
 ||cagesscan.com^
 ||caglaikr.net^
+||cagolgzazof.com^
 ||cagothie.net^
 ||cahvpbsikxvvm.xyz^
 ||caicuptu.xyz^
@@ -5827,6 +5828,7 @@
 ||chmsiecles.space^
 ||cho7932105co3l2ate3covere53d.com^
 ||choachim.com^
+||choagrie.com^
 ||choahees.net^
 ||choawour.xyz^
 ||chocohjuanfhdhf.com^
@@ -7016,6 +7018,7 @@
 ||cwwvbqwexbitnb.xyz^
 ||cxafxdkmusqxsa.xyz^
 ||cxkhadk.com^
+||cxmnsbrbdmxoyd.com^
 ||cxnadcribh.com^
 ||cxovwczosr.com^
 ||cxtkpfbvu.com^
@@ -10259,6 +10262,7 @@
 ||fliddercharm.space^
 ||fliedridgin.com^
 ||fligha.com^
+||flimsymarch.pro^
 ||flintedkickers.com^
 ||flinthastened.com^
 ||flipendangered.com^
@@ -11076,6 +11080,7 @@
 ||getsurv2you.net^
 ||getsurv2you.org^
 ||getsurv4you.org^
+||getter.cfd^
 ||gettine.com^
 ||gettingcleaveassure.com^
 ||gettingcoolprizes.info^
@@ -16951,6 +16956,7 @@
 ||mrcoviu.pics^
 ||mrdzuibek.com^
 ||mrflvyizjrkytj.com^
+||mrgrekeroad.com^
 ||mrjb7hvcks.com^
 ||mrlscr.com^
 ||mrmlxqck.com^
@@ -29871,11 +29877,13 @@
 ||jav-7mmtv.top^
 ||kinkadservercdn.com^
 ||ohmygosh.info^
+||1002867133.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1144017219.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1203782659.rsc.cdn77.org^
+||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -34555,6 +34563,7 @@ abujastreetview.com
 abuleiagabe.tech
 abunaufal.net
 abundanceforfeit.com
+abundantminussteal.com
 abundantservantexact.com
 abundantshells.com
 abundantsurroundvacation.com
@@ -37816,6 +37825,7 @@ anastasiasaffiliate.com
 anatomyabdicatenettle.com
 anatomyassault.com
 anatomymagnanimity.com
+anattospursier.com
 anawkward.com
 anaxialaphonia.com
 anazoseded.com
@@ -41160,6 +41170,7 @@ baishangli.com
 baishou123.com
 baishuge69.com
 baisoabe.com
+baitedblocs.com
 baithka.in
 baithoph.net
 baitikoam.com
@@ -46047,6 +46058,7 @@ cagesscan.com
 caggynikolai.com
 caglaikr.net
 cagnco.com
+cagolgzazof.com
 cagoogle-analytics.com
 cagothie.net
 cagwalxhlfqszv.com
@@ -48093,6 +48105,7 @@ cho7932105co3l2ate3covere53d.com
 choachim.com
 choackumsoa.com
 choacmax.xyz
+choagrie.com
 choahees.net
 choamoax.net
 choanabethump.com
@@ -48241,6 +48254,7 @@ chuangyi1.com
 chuankunkangjian.com
 chuary.com
 chubbymess.pro
+chuckiepedary.com
 chuckledcreaminhabit.com
 chuckledinadmissible.com
 chucktv.live
@@ -51887,6 +51901,7 @@ cxkhadk.com
 cxkkfghyl.xyz
 cxlggceg.com
 cxmetas.com
+cxmnsbrbdmxoyd.com
 cxnadcribh.com
 cxodka.xyz
 cxotiggg.com
@@ -53845,6 +53860,7 @@ diagramcetyl.digital
 diagramcolossalcultivation.com
 diagramgeneration.com
 diagramm.io
+diagramwrangleupdate.com
 diagwagen.com
 dialcarawayimage.com
 dialectproposed.com
@@ -54475,6 +54491,7 @@ distancemedicalchristian.com
 distant-session.pro
 distantsoil.com
 distastefulsagacious.com
+disterrguao.top
 distilinborn.com
 distilled.ie
 distillingspirit.us
@@ -61610,6 +61627,7 @@ flightmeatdiscredit.com
 flightsgalapagos.ec
 flightsonline.app
 fliippedisland.com
+flimsymarch.pro
 flimsysmicker.digital
 flinchalibisspecialist.com
 flingforyou.com
@@ -69009,6 +69027,7 @@ homierceston.top
 homilycosecs.live
 homing.cl
 homlokzatiallvany.com
+hommahoituu.net
 hommes-sante.com
 hommmaq.com
 homoeopathygpt.com
@@ -69450,6 +69469,7 @@ howtubray.com
 hoydenlooms.website
 hoyi-design.site
 hoyodrop.com
+hoyolab.de
 hozoaxan.com
 hpaakmsumarzy.com
 hpbeenbmsspvh.com
@@ -70841,6 +70861,7 @@ ikilnlglmbao.xyz
 ikingsoft.com
 ikiseqgaming.com
 ikjipoximhdorya.top
+ikjzwgcg.com
 ikkatsumitsumori.net
 iklad.in
 iklghjooyj.com
@@ -79440,6 +79461,7 @@ localsnaughty.com
 localspantle.com
 localtap.net
 localzh.com
+locastnet.org
 locatc.com
 locatioiranic.digital
 locationsai.com
@@ -84374,6 +84396,7 @@ mrewlkkdkwkawfu.com
 mrfidgrbdwc.com
 mrfingernft.com
 mrflvyizjrkytj.com
+mrgrekeroad.com
 mrhkproryel.com
 mrhomepuertorico.org
 mrhomepuertorico.us
@@ -85198,6 +85221,7 @@ myrdrcts.com
 myrealestateai.com
 myreqdcompany.com
 myrespilon.com
+myricasfrere.uno
 myrituallz.com
 myrps.in
 myrrhisunition.store
@@ -85556,6 +85580,7 @@ nanhermione.com
 nanimarquina.us
 nanjilmilk.co
 nanna71.net
+nannieslamaic.com
 nannot.com
 nannyamplify.com
 nanoadexchange.com
@@ -97023,6 +97048,7 @@ qpcbspao.com
 qpcbxohct.com
 qpcfmqfupy.com
 qpciagujcnaolim.xyz
+qpcoeyfwqdltkk.com
 qpcphotgtpq.com
 qpeadbmaql.com
 qpeoctxiqaxw.com
@@ -110048,6 +110074,7 @@ teenylimbspeevish.com
 teenymuteprospect.com
 teenyreligious.com
 teenytinyshirt.com
+teepoomo.xyz
 teerindialive.com
 teetertoddler.us
 teethaur.com
@@ -122960,6 +122987,7 @@ www.allportalsoft.fun
 www.allrightjerseydresser.com
 www.allrightpaint.com
 www.allserial.info
+www.allskillon.com
 www.allsoftwaresworld.com
 www.allsurvey24.top
 www.alltopsurvey24.top
@@ -128378,6 +128406,7 @@ www.howlexhaust.com
 www.howoverlapsuspicious.com
 www.howploymope.com
 www.hoyi-design.site
+www.hoyolab.de
 www.hpclvitarakchayan.in
 www.hpinno.org
 www.hputigroup.com
@@ -131997,6 +132026,7 @@ www.pricebanistersevolve.com
 www.priceix.com
 www.prickclenched.com
 www.prickjuvenileturnstile.com
+www.pricklywolf.com
 www.pricompat.com
 www.prideaux.xyz
 www.priestboundsay.com
@@ -133528,6 +133558,7 @@ www.sitsaraubs.com
 www.situationfondlehindsight.com
 www.situationhostilitymemorable.com
 www.siwifis.net
+www.sixcombatberries.com
 www.sixteenevolutioninfant.com
 www.sixth-energy.com
 www.sixthvisitation.com
@@ -135783,6 +135814,7 @@ www.wildernessproven.com
 www.wilfridscandalconceived.com
 www.williamelemental.com
 www.williammiscellaneouspare.com
+www.williamporterlilac.com
 www.willinglypromoteceremony.com
 www.willingnessaggravationfits.com
 www.willingnesslookheap.com
@@ -138083,6 +138115,7 @@ yforaglasys.xyz
 yfqnmourhgim.com
 yfquojkptgpoai.com
 yftkygdqolv.com
+yftpnol.com
 yfuwalukfeux.xyz
 yfvheygw.xyz
 yfvrjxwmfmwjoj.xyz
@@ -138878,6 +138911,7 @@ yummysnack.in
 yumomis.com
 yump3s.com
 yunded.com
+yunenly.com
 yunglleung.com
 yunig.top
 yunmaue.com
@@ -143579,6 +143613,7 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||d3c.site^
 ||pnlwbcxphfhgqp.com^
 ||alexicallowed.digital^
 ||mystnock.digital^
