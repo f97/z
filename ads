@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-13T00:37:21.637Z
+! Last modified: 2023-12-13T06:10:57.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -74638,6 +74638,7 @@ jqaaffurd.xyz
 jqafetxoermhue.com
 jqaorqxqflbi.xyz
 jqcache.ml
+jqcyacoxrvada.com
 jqddkygqkea.xyz
 jqdfemldhhf.com
 jqfdsxdmyk.com
@@ -75856,6 +75857,7 @@ kevinsessums.com
 kevinsteinman.net
 kewfacroun.xyz
 kewhulawi.com
+kewnemhpbmzkm.com
 kewprimaryschool.com
 kexbojtbi.com
 kexojito.com
@@ -77309,6 +77311,7 @@ kzschztr.xyz
 kzsfip3v.cfd
 kzt2afc1rp52.com
 l-koberce.com
+l.www.dimseeksa.com
 l1n3d1ne.com
 l1nkk.ga
 l1vec4ms.com
@@ -83367,6 +83370,7 @@ mjwooqogsds.com
 mjxexuwnx.com
 mjxvufetukfrav.com
 mjyhgt.xyz
+mjyvcxydjqwsv.xyz
 mjzrebrjty.com
 mk-ads.com
 mk.byzantsct.com
@@ -91848,6 +91852,7 @@ pbnjzwjsy.com
 pboddnqjobuf.com
 pboypq47.info
 pbqokjxln.com
+pbqqzibusu.com
 pbquhwsx.xyz
 pbstytalvmbygpw.com
 pbterra.com
@@ -94747,6 +94752,7 @@ prankdishevelledhurdle.com
 pranshoe.com
 prantikpos.com
 prarkhdssuik.com
+prascfaf.com
 prashantapatra.in
 prashmak.com
 prasinc.com
@@ -130426,6 +130432,7 @@ www.momentz.info
 www.momhomicidalspa.com
 www.mommishreviews.space
 www.momswapperd.com
+www.momtillbaking.com
 www.monacoatelierphoto.com
 www.monarchdisregard.com
 www.monarchracistsparkle.com
