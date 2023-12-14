@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-14T12:14:44.878Z
+! Last modified: 2023-12-14T18:10:28.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -111593,6 +111593,7 @@ meekmail.online
 meelbet.mobi
 meesterlijkmoederschap.nl
 meet-free.club
+meet71.contcthq.click
 meetandf.com
 meetcreditcool.co
 meetfellini.com
@@ -111769,6 +111770,7 @@ mentnetla.gq
 mentonit.net
 mentornkc.com
 mentrx.com
+menufyks.com
 menuyul.club
 menuyul.online
 menviagraget.com
