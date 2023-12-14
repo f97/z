@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-14T06:11:15.592Z
+! Last modified: 2023-12-14T12:14:44.878Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -39474,9 +39474,6 @@ data.mistat.rus.xiaomi.com
 ||mediatarget.com^
 ||mediatebrazenmanufacturer.com^
 ||mediategenericburden.com^
-||lepodownload.mediatek.com^
-||mepodownload.mediatek.com^
-||mgepodownload.mediatek.com^
 ||mediatescarf.com^
 ||mediatext.com^
 ||mediative.ca^
