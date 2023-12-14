@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-13T18:08:35.955Z
+! Last modified: 2023-12-14T00:36:57.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -34900,6 +34900,7 @@ acne-scar.in
 acnh.yt
 acnjeehbmvdufyt.xyz
 acnkdrklbuwhr.com
+acnwxjhfby.com
 acocpcvm.com
 acofrnsr44es3954b.com
 acollo.info
@@ -41016,6 +41017,7 @@ ba.looeyurgers.com
 ba55555idu.com
 baai-insurance.com
 baalamaala.com
+baalistchalcon.life
 baalsun.net
 baannre.com
 baansinfra.com
@@ -47216,6 +47218,7 @@ ce614db82b.3eb8f81779.com
 ceamlviemt.xyz
 ceamtaaprhha.xyz
 ceasechampagneparade.com
+ceasedheave.com
 ceawoment.info
 ceawvx.com
 ceboidbusting.com
@@ -47374,6 +47377,7 @@ center-avalon.com
 center-vodice-apartments.com
 centerattractivehimself.com
 centeredfailinghotline.com
+centeredmassesstaff.com
 centeredpleasedfeudal.com
 centerforartsdelhi.com
 centerharmonije.com
@@ -51912,6 +51916,7 @@ cvrkjnaoazazh.com
 cvsiqitdokjti.top
 cvsuqbjnntprt.com
 cvtfyyflrrkjsam.xyz
+cvuduufdewm.com
 cvuvoljuqlkeuc.com
 cvydrwowjr.top
 cvyimypsjxca.com
@@ -52143,6 +52148,7 @@ d30e31f215.com
 d36gnquzy6rtyp.cloudfront.net
 d37aacdbcc.com
 d3add3d.net
+d3c.site
 d3d0wndor0l4xe.cloudfront.net
 d3db641c67.3574fd3373.com
 d3tznew.com
@@ -54142,6 +54148,7 @@ digiworkai.com
 digiworldclub.com
 digmob.org
 dignifiedclipbum.com
+dignityhourmulticultural.com
 digqvvtb.com
 digressremarkableconfide.com
 digrowfa.biz
@@ -60133,6 +60140,7 @@ familysavingsquotes.com
 familywealthms.com
 famina.uk
 faminedealergirl.com
+faminedrape.com
 famobmf.com
 famoot.com
 famous-line.pro
@@ -62324,6 +62332,7 @@ forumlitre.com
 forumsudetum.com
 forunfezanttor.com
 forvqtrcvc.com
+forwanderful.com
 forwardx.network
 forwitmeand.com
 forworeveins.uno
@@ -64739,6 +64748,7 @@ gkd-palac.co
 gkdqnkvfy.com
 gkeldxaxwldltu.com
 gkelfikmif.com
+gkencyarcoc.com
 gkfehrdhbm.com
 gkisi.top
 gkisuvhruuogx.com
@@ -66202,6 +66212,7 @@ greatname1.com
 greatnoticing.com
 greatnumeric.com
 greatoakwalks.com
+greatoutdoorsabq.com
 greatplacetowork.co.jp
 greatsoftportal.fun
 greatvpnoffers.com
@@ -66259,6 +66270,7 @@ greensbroochlozenge.com
 greensfallingperceive.com
 greensight.in
 greensolutioncontracting.com
+greensstapleglamour.com
 greenstarservice.co.uk
 greenstrapex.com
 greensuy.net
@@ -66354,6 +66366,7 @@ grilltzar.net
 grilux.com
 grimaceattirebright.com
 grimacecalumny.com
+grimacechauffeur.com
 grimaso.com
 grimdiscord.com
 grimebustersdetailing.com
@@ -66638,6 +66651,7 @@ guardelli.com
 guardianamazedwireless.com
 guardiandigitalcomparison.co.uk
 guardianinvadecrept.com
+guardiannostrils.com
 guardofdavid.us
 guardpathlongevitysolutions.com
 guardspearls.com
@@ -69153,6 +69167,7 @@ honorablehall.com
 honorarybreakclank.com
 honoraryroof.com
 honourableardently.com
+honouraccept.com
 honourcunninglowest.com
 honourrib.com
 honoursdashed.com
@@ -71930,6 +71945,7 @@ inquietchronos.website
 inquiredcriticalprosecution.com
 inquiriescape.com
 inquiriesdishonest.com
+inquiriesyellow.com
 inquirybloom.com
 inquiryblue.com
 inquiryclank.com
@@ -73987,6 +74003,7 @@ jfjrcewoqm.com
 jfm33app.com
 jfmbkffcxg.com
 jfminds.com
+jfmpafthtwuo.com
 jfoaxwbatlic.com
 jfoozmadtac.com
 jfqtwxodg.com
@@ -75733,6 +75750,7 @@ kdycokam.com
 ke.business
 keamateorski.xyz
 keapeiros.xyz
+keapgypsite.website
 kearyfoster.com
 kebayagrosir.com
 kebkndkvwgoy.com
@@ -79875,6 +79893,7 @@ losthotrivermusic.com
 lostincunt.com
 lostinfuture.com
 lostinsmokenft.com
+lostswiftpliable.com
 lotacaoesgotada.net
 lotbd.xyz
 lotclergyman.com
@@ -81434,6 +81453,7 @@ marieillerbrun.com
 mariescreativespace.net
 marihelena.net
 marijan-skroza.com
+marijuanadivorcemarriage.com
 marijuanaturf.com
 marimedia.com
 marinaalta.uk
@@ -85624,6 +85644,7 @@ namechangeagent.com
 namel.net
 namelessably.com
 nameluxuries.com
+namelyenact.com
 namelymagnanimitycube.com
 namelymutiny.com
 namericandoor.com
@@ -87264,6 +87285,7 @@ noblefun.net
 noblefuse.org
 noblelevityconcrete.com
 noblemandrovebreeches.com
+noblemanlendpuffy.com
 noblemeantimeawelessaweless.com
 noblesoverloadprofanity.com
 noblesunbelievable.com
@@ -88030,6 +88052,7 @@ nurseryposter.com
 nurserysurvivortogether.com
 nursesindia.in
 nurtureideas.co.uk
+nurturesurvivethrash.com
 nusacasino.net
 nusall.com
 nusci.net
@@ -89768,6 +89791,7 @@ ooobrighter.com
 ooomami.co.uk
 oooshyixkqyyebq.xyz
 oopatet.com
+oopoawee.xyz
 oopodmomenta.website
 oopsauwa.xyz
 oopsoans.xyz
@@ -90563,6 +90587,7 @@ ouropenin.club
 ouropinionsmatter.net
 ourscience.info
 ourselscarid.com
+ourselvesvictory.com
 oursexasperationwatchful.com
 oursgorefreshing.com
 oursiignaboaor.cc
@@ -94780,6 +94805,7 @@ pqrst.in
 pqryxmpmjaj.com
 pqsymknliiwzlr.com
 pqtudalnxovg.com
+pqulqqpmx.com
 pqura.com
 pqwlrhtrlywj.com
 pqxbcydpv.xyz
@@ -95402,6 +95428,7 @@ professionalbet.online
 professionalcdn.com
 professionalfamilyphotography.com
 professionallycloudlessbarber.com
+professionallyjazzotter.com
 professionallytear.com
 professionallywealthy.com
 professionalpracticableappendix.com
@@ -98922,6 +98949,7 @@ rehearsemeltdownrust.com
 rehearsepouredhysteria.com
 reheatmontia.com
 rehindsweeing.com
+rehungrhythm.com
 rehvbghwe.cc
 rehyr.com
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
@@ -99090,6 +99118,7 @@ remher.com
 reminderdate.com
 reminews.com
 remintrex.com
+remintsmuggy.com
 remisspig.com
 remixklub.com
 remmexmail.com
@@ -100040,6 +100069,7 @@ riolenproce.xyz
 rioqjqqqbahrs.com
 riotousgrit.com
 riotousunspeakablestreet.com
+riotshoprecollection.com
 riousstylegui.biz
 riowrite.com
 ripeabacktuition.com
@@ -100497,6 +100527,7 @@ rollbackhear.com
 rollbaralit.com
 rollected.com
 rollerdisrespect.com
+rollerdiversiondeer.com
 rollergaragedooressex.uk
 rollerplanet.us
 rollersadnessstranded.com
@@ -106565,6 +106596,7 @@ specialadves.com
 specialfrugality.com
 specialisap.com
 specialistcorrelation.com
+specialisthuge.com
 specialistinsensitive.com
 specialistrocky.com
 specialityharmoniousgypsy.com
@@ -107617,6 +107649,7 @@ stickywhereaboutsspoons.com
 sticmoar.com
 stiffenshave.com
 stifleadventureempire.com
+stiflelime.com
 stiflerivers.com
 stifletunnelsang.com
 stifoapt.com
@@ -107849,6 +107882,7 @@ stqwjgpt.com
 strabagkft.com
 straight-equipment.com
 straight-shift.pro
+straightenedsleepyanalysis.com
 straightgoods.net
 straightgoods.org
 straightnest.com
@@ -111264,6 +111298,7 @@ thenitastore.com
 thenitrostore.co.uk
 thenorthface.co.nz
 thenoshery.xyz
+thenseafoodunofficial.com
 thentech.xyz
 thenutriking.com
 thenxggroup.ca
@@ -111288,6 +111323,7 @@ theonlins.com
 theonly.ninja
 theonlyprof.live
 theorb.dev
+theoreticaltwirl.com
 theorgan.in
 theoriginalsleep.online
 theoriginalstutzcider.com
@@ -113474,6 +113510,7 @@ traiss.com
 traiteur45.com
 traitorpenthouse.com
 traitorsdayjanuary6.com
+traitorstole.com
 traitpad.com
 trajans-forum.com
 trakaff.net
@@ -116867,6 +116904,7 @@ uxxsiyokw.com
 uyaly.com
 uyemwpmjqkf.com
 uyfpmhmqh.xyz
+uyjmbaiogdtkgwt.com
 uymfhmuyyg.com
 uymkdz9s.com
 uynajoscmlc.com
@@ -118119,6 +118157,7 @@ vijaybharatband.com
 vijayshree.tech
 vijaytekriwal.com
 vijcwykceav.com
+vijeli.uno
 vijethaschool.org
 vikas-designer.in
 vikasshala.com
@@ -119937,6 +119976,7 @@ weakcompromise.com
 weakeland.com
 weakermumrespect.com
 weaknessimmaculate.com
+weaktongue.com
 weakya.com
 weallaustralians.com
 wealop.com
@@ -120701,6 +120741,7 @@ whitelandaspencrown.com
 whitengoldfashions.uk.com
 whitenoisenews.com
 whiteoakranchhoa.com
+whitequoted.com
 whiter4bbit.com
 whitevertex.com
 whitgodship.com
@@ -121696,6 +121737,7 @@ worldwidepath.us
 worldwidetechhub.com
 worldwithoutwar.org.in
 worlowedonh.com
+wormdehydratedaeroplane.com
 wormishammites.com
 wormypiculs.com
 worn-brown.pro
@@ -137526,6 +137568,7 @@ xpgystv.com
 xpgyv.com
 xpidgvrjakkdx.com
 xpimupaqnanl.com
+xpjjlgzqs.com
 xpkftctvei.com
 xpknhbllmqcytmt.com
 xplore.com
@@ -143790,6 +143833,25 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||wwvqxqmcvfxwqq.com^
+||rodrergi.com^
+||actpbfa.com^
+||wtmhwnv.com^
+||xpjjlgzqs.com^
+||suchcesusar.org^
+||oftheappyri.org^
+||acnwxjhfby.com^
+||jfmpafthtwuo.com^
+||sytqxychwk.xyz^
+||zipheeda.xyz^
+||pqulqqpmx.com^
+||encumbranceunderlineheadmaster.com^
+||cleaningmaturegallop.com^
+||dignityhourmulticultural.com^
+||conventionalrestaurant.com^
+||apytbfdzy.com^
+||usiphdtubj.com^
+||toovoala.net^
 ||aycrxa.com^
 ||d3c.site^
 ||pnlwbcxphfhgqp.com^
