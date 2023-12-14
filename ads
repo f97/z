@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-14T00:36:57.740Z
+! Last modified: 2023-12-14T06:11:06.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -67756,6 +67756,7 @@ hdvcode.com
 hdvideosnet.com
 hdvvutpovgwg.top
 hdvxndrtaeefy.com
+hdwibtrw.com
 hdwvhgnisi.com
 hdxgoeajllyokv.com
 hdyc.co.uk
@@ -87105,6 +87106,7 @@ njmcdiect.com
 njmfejdgbiheft.com
 njmkilpqzibv.com
 njostrich.us
+njplpnoxgnbpid.com
 njprfviomemec.com
 njqqepuzpzatzx.com
 njqqpxuvzgtcu.com
@@ -98220,6 +98222,7 @@ rbflcorb.com
 rbfmqxmk.com
 rbfvtiqnd.com
 rbg.in
+rbgrckaysvrp.com
 rbhtphejreodfx.com
 rbitaxpay.co.in
 rbjxexeh.com
@@ -109916,6 +109919,7 @@ tbnvaqutrdjow.xyz
 tboscoin.com
 tbplcam.com
 tbpolicylab.org
+tbqastgcacuvs.xyz
 tbqbucptf.com
 tbrclwbetggknuc.com
 tbrinance.com
@@ -121415,6 +121419,7 @@ wnfktjxjhetiolw.com
 wngxwikdfx.xyz
 wnhmbtjcaxdpmq.com
 wnjjhksaue.com
+wnjtssmha.com
 wnkibwzr.com
 wnklcpmvt.com
 wnkyvyhfl.com
@@ -126609,6 +126614,7 @@ www.elabcdelosnegocioseneua.com
 www.elanimperial.com
 www.elapseforepawsstraighten.com
 www.elapsesoulstakeover.com
+www.elasticcannon.com
 www.elasticdestruct.com
 www.elasticfrustration.com
 www.elateddamnmulti.com
@@ -136975,6 +136981,7 @@ xeubsxvltyiv.xyz
 xeuswz.com
 xev2o.com
 xevlcr.com
+xewtbdvagc.com
 xezoom.com
 xezu.net
 xf39612.com
