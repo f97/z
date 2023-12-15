@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-15T06:11:13.936Z
+! Last modified: 2023-12-15T12:14:17.723Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -17727,7 +17727,6 @@ data.mistat.rus.xiaomi.com
 ||information.cma-cgm.com^
 ||cma88.vip^
 ||cmadserver.de^
-||metric.ccc.cmbchina.com^
 ||log.cmbchina.com^
 ||cmbmtpjm.xyz^
 ||track.cmcassets.com^
@@ -40463,7 +40462,6 @@ data.mistat.rus.xiaomi.com
 ||moat4shot.com^
 ||moatads.com^
 ||moatpixel.com^
-||mob.com^
 ||moba8.net^
 ||mobadme.jp^
 ||mobagent.com^
