@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-15T00:38:00.641Z
+! Last modified: 2023-12-15T06:11:07.800Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -31411,6 +31411,7 @@
 ||dmxleo.dailymotion.com^
 ||dontent.powzers.lol^
 ||e.cdngeek.com^
+||edge.ads.twitch.tv^
 ||eentent.streampiay.me^
 ||engagesrvr.filefactory.com^
 ||engine.fxempire.com^
@@ -46325,6 +46326,7 @@ byfoongusor.com
 bygliscortor.com
 bygoneplacidity.com
 byhoppipan.com
+byildmkzjyjx.com
 byjeadupej.com
 bykemaniax.in
 byluvdiscor.com
@@ -70193,6 +70195,7 @@ htmass.com
 html-load.com
 html.contact
 htmlclssattribute.com
+htmlclssmap.com
 htmonster.com
 htnrl.co.uk
 htoaygqdqfjy.xyz
@@ -73870,6 +73873,7 @@ jaletemetia.com
 jalewaads.com
 jallallavet.cl
 jaloppystudy.life
+jaluzishtori.ru
 jalwhftxnl.com
 jamaicapoetryfestival.com
 jambelegate.casa
@@ -76294,6 +76298,7 @@ kenangancctv.com
 kenbigroup.com
 kencomhealthcare.com
 kencraven.com
+kendallmitsubishi.com
 kendosliny.com
 kendrajonason.com
 kenduktur.com
@@ -76938,6 +76943,7 @@ kmbb38.com
 kmckayqhjlkbre.top
 kmcwsjqi.com
 kmdbjvpriawcg.com
+kmeqdnmgdkpn.com
 kmfap-chamber.org
 kmfapchamber.org
 kmfsxjioritn.com
@@ -81842,6 +81848,7 @@ marapcana.online
 maratechsolutions.tech
 marathichitrasrushti.com
 marathitimeline.com
+marathonbet.pw
 marathoncommodities.com
 marathongenerositypremiere.com
 marathonpleadparachute.com
@@ -93694,6 +93701,7 @@ pinchingoverridemargin.com
 pinchofest.com
 pincnet.com
 pindenspat.com
+pindex.online
 pinefluencydiffuse.com
 pinegenuineridiculous.com
 pineoffice.com
@@ -94371,6 +94379,7 @@ pljseqkvcrs.com
 plkatdmeje.com
 plkoxaypcmzkus.com
 pllynknpeq.com
+plmhezvbcjcywo.com
 plnenebalony.online
 plntxgh.com
 plocap.com
@@ -105871,6 +105880,7 @@ slots-wulkan.icu
 slotsano.com
 slotsdemogratis.org
 slotsknowj.top
+slottica-casino.cfd
 slottica.cfd
 slotumcasino.net
 slouchat.online
@@ -117796,6 +117806,7 @@ vauthaud.net
 vauu.pet
 vauwhusa.net
 vauzoaph.net
+vavada-avtomaty-slots.cfd
 vavada-free.icu
 vavada-go.xyz
 vavada-kazino.cyou
