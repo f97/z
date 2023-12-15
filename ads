@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-14T18:10:21.046Z
+! Last modified: 2023-12-15T00:38:00.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -15010,6 +15010,7 @@
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzkmmbrrzn.com^
 ||kzsfip3v.cfd^
+||l-iw.de^
 ||l1native.com^
 ||l1vec4ms.com^
 ||l3g3media.com^
@@ -31392,6 +31393,7 @@
 ||ad.kisscartoon.sh^
 ||ad.kisstvshow.ru^
 ||ad.norfolkbroads.com^
+||ads-api.stuff.co.nz^
 ||ads.audio.thisisdax.com^
 ||adsbb.depositfiles.com^
 ||aontent.powzers.lol^
@@ -32844,6 +32846,7 @@
 3265.yt
 3268.yt
 326860daef.com
+327850.com
 327nztnlw.com
 3286.yt
 32ky.app
@@ -51608,6 +51611,7 @@ creepingbrings.com
 creeppant.com
 creepyassist.pro
 creepybuzzing.com
+creeroundup.digital
 cref.in
 crematedarkerdwight.com
 cremateretainedsurname.com
@@ -55156,6 +55160,7 @@ djphnuhkbjf.com
 djqacscl.com
 djqitgfjfu.com
 djsadiqmix.tk
+djsdmdbwlpbab.com
 djsibsmmspjryyn.top
 djssdvbo.com
 djsxyvgrkyl.com
@@ -66302,6 +66307,7 @@ gourahome.in
 gourdeunquote.website
 gourgoldpieceso.com
 gouridevi.com
+gourmetdaniela.com
 gouryvouster.com
 gousauhu.xyz
 gousouse.com
@@ -75292,6 +75298,7 @@ jsqpwmky.com
 jsretra.com
 jss-exports.com
 jssearch.net
+jssiiamvbuqqkb.com
 jssufsqeisye.com
 jstatic.org
 jstclphsy.com
@@ -77844,6 +77851,7 @@ kzqufmgo.com
 kzschztr.xyz
 kzsfip3v.cfd
 kzt2afc1rp52.com
+l-iw.de
 l-koberce.com
 l.www.dimseeksa.com
 l1n3d1ne.com
@@ -79874,6 +79882,7 @@ lmellc.info
 lmfxnooteslq.xyz
 lmjcjomfdkv.com
 lmjegxecpyrbymk.com
+lmmpjhvli.com
 lmn-pou-win.com
 lmnbcqis.xyz
 lmnrorgeummvsqe.com
@@ -96513,6 +96522,7 @@ pteeksou.xyz
 pteevaih.xyz
 pteftagu.com
 pterealcorylus.website
+pteromacurnock.digital
 pterosoftstudio.com
 ptersudisurvey.top
 pterylaroak.com
@@ -122443,6 +122453,7 @@ wrivedipnoi.com
 wrjcedwpsybttkh.com
 wrkl.xyz
 wrkrbz.com
+wrmcfyzl.com
 wrmylfhph.com
 wrnmeqkyrguk.com
 wrnoapvufjcg.xyz
@@ -132935,6 +132946,7 @@ www.prozon.am
 www.prpreladzer.com
 www.prunesderelicttug.com
 www.prunesupgraderadiator.com
+www.psaumseegroa.com
 www.pseekseecm.com
 www.psiceheloo.com
 www.psicorder.net
@@ -136694,6 +136706,7 @@ www.wrensacrificepossibly.com
 www.wrestlingembroider.com
 www.wretchmilitantasia.com
 www.wretsreras1.com
+www.wrmcfyzl.com
 www.wrycomparednutshell.com
 www.wrypassenger.com
 www.wse234.com
@@ -139375,6 +139388,7 @@ yourlifemoves.com
 yourlongboatkeylife.com
 yourmentor.us
 yourmetshop.com
+yourmobiletop.com
 yourmobnotification.com
 yourmoney.world
 yourmoneysurvey.top
@@ -140775,6 +140789,7 @@ zxqdnvdr.com
 zxr9gpxf7j.com
 zxrcaetqipylb.com
 zxslkcsru.com
+zxwhkosabux.com
 zxwmmswtnoh.com
 zxxds.net
 zxxgoikbqyiu.com
@@ -144369,6 +144384,21 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||oijorfkfwtdswv.xyz^
+||lmmpjhvli.com^
+||jsgmsoapx.com^
+||jssiiamvbuqqkb.com^
+||faffwut.com^
+||iwjerwaxjblelve.com^
+||zfhuzyw.com^
+||amkbpcc.com^
+||tbradshedm.org^
+||unicatethebe.org^
+||fkyhqtfiopfit.com^
+||xevbjycybvb.xyz^
+||cnfccdxhggrz.com^
+||zxwhkosabux.com^
+||ybuduzpe.com^
 ||wwvqxqmcvfxwqq.com^
 ||rodrergi.com^
 ||actpbfa.com^
