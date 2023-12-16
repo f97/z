@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-16T06:10:00.472Z
+! Last modified: 2023-12-16T12:13:02.636Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -36113,6 +36113,7 @@ aduncan.art
 aduthapa.online
 adv-links.com
 adv.money
+adv457895.ru
 adv679854.ru
 adv9.net
 advabnqu.com
@@ -40446,6 +40447,7 @@ attachedt.xyz
 attachtranquilizer.com
 attacketslovern.info
 attackscleopatracadence.com
+attaindisableneedlework.com
 attarabdulgani.com
 attarbesets.com
 attarsturdus.live
@@ -47977,6 +47979,7 @@ cewfamilyoffice.com
 cewfggrr5flklnb.com
 cexp.cards
 cexucetum.com
+ceyqalnoejdr.com
 cezorpc.com
 cezprechod.info
 cf.shuvramutules.com
@@ -54028,6 +54031,7 @@ designatejay.com
 designatejumped.com
 designawardsglobal.com
 designcentre.co.in
+designerdeclinedfrail.com
 designergeneticz.com
 designgenieai.in
 designinnovationinteriors.com
@@ -56009,6 +56013,7 @@ dqfrwqhafcw.xyz
 dqgjquockgtbnan.com
 dqheyqnru.xyz
 dqhezw.com
+dqhoikghxts.com
 dqhvnhvasdn.xyz
 dqithafgpksyw.com
 dqjkzrx.com
@@ -69374,6 +69379,7 @@ hmbropqtosqwpuu.com
 hmigeivcdojf.com
 hmikw.com
 hmilmslfvlhxddi.xyz
+hmjduxjccfpjcwu.com
 hmlfjfgzck.com
 hmmfcw8pa.com
 hmmm.dad
@@ -73620,6 +73626,7 @@ ivanlenin.net
 ivantasiatrade.com
 ivanvillager.com
 ivar-ltd.com
+ivavhtbttqfqr.com
 ivcpagnysuyh.top
 ivd513.com
 ivdqcgcbqhq.xyz
@@ -79170,6 +79177,7 @@ lfopq.xyz
 lfport.com
 lfpthkipndval.com
 lfsuigdrtsszog.com
+lfwujowkcf.com
 lfxkgdvf.com
 lfxshttouhop.com
 lfydytolvlfvp.com
@@ -92301,6 +92309,7 @@ pastioripastipromo.tech
 pastlifesoulregression.com
 pastoupt.com
 pastreflected.com
+paststwku.com
 pasumaibhoomi.info
 pasxfixs.com
 patalogs.com
@@ -117097,6 +117106,7 @@ urinehere.com
 uringherenurew.info
 urinle.com
 url-www.effectivedisplayformats.com
+url-www.toprevenuegate.com
 url.re
 urldelivery.com
 urlgone.com
@@ -120553,6 +120563,7 @@ wbpnyvdaldugy.xyz
 wbprlteouhob.com
 wbrrfoapfc.com
 wbubnjqyrmv.com
+wbuurzutrhmlsz.com
 wbvjhlaljp.com
 wbwnwncckarrcje.com
 wbxfbyeihhwa.xyz
@@ -135337,6 +135348,7 @@ www.tampoprintuae.com
 www.tanadong.net
 www.tanbank.app
 www.tancommunicated.com
+www.tanyaricardo.com
 www.taobaoimages.com
 www.taoyin365.com
 www.tap10ns.biz
@@ -137722,6 +137734,7 @@ xfepcankuvixtf.com
 xfflmuxvghgnvns.xyz
 xfgicjnxckrnq.com
 xfhgstxcytiu.com
+xfiebjkmpp.com
 xfileload.com
 xfjofttz.com
 xfklfypowuqoi.com
