@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-15T18:10:24.343Z
+! Last modified: 2023-12-16T00:37:00.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -32116,6 +32116,7 @@
 16dns.cn
 16iis7i2p.de
 1714.fr
+1736.wf
 1743.yt
 1747.me
 1762.yt
@@ -32132,6 +32133,7 @@
 181yue.com
 182-airtel.com
 1825.yt
+1830.wf
 1832018.com
 184c4i95p.de
 185.ooo
@@ -32510,6 +32512,7 @@
 22pay.net
 22v888.com
 23266.comwww.677555.com
+2331.wf
 2333.pw
 233now.com
 2345bi.com
@@ -32964,6 +32967,7 @@
 3825.yt
 383845.com
 38429.ma
+3852.wf
 386-old-orchard.com
 387nn.com
 3888ky.cc
@@ -33166,6 +33170,7 @@
 442hu.com
 442picks.com
 44455663.com
+4449.wf
 444wc.com
 44547s.com
 446555.comwww.844644.com
@@ -33183,14 +33188,18 @@
 45eijvhgj2.com
 45f77.com
 4612.yt
+4616.wf
 4623.ru
+4632.yt
 465713.com
 46689.comwww.hk118.cnwww.844644.com
+4683.yt
 4684.comwww.844644.com
 4690y10pvpq8.com
 469f8f0b89.com
 46f33ab625.b97482f4b9.com
 47-ecommercet.com
+4727.tf
 4735.tf
 4756.wf
 47riu.space
@@ -33412,6 +33421,7 @@
 535666h.com
 5360.xyz
 5370.yt
+5372.wf
 53887.comwww.601122.com
 539trdzkf.com
 53baefdba7.5da55619e0.com
@@ -33621,6 +33631,7 @@
 61-nmobads.com
 61.225www.profitablecreativeformat.com
 6136.yt
+6137.yt
 61739011039d41a.com
 6182.yt
 6198399e4910e66-ovc.com
@@ -33650,6 +33661,7 @@
 63353533oremailusatsupport-singpass.net
 633678338f.3cb004e947.com
 6345ti.com
+6366.wf
 636652039.help
 6375.yt
 6382.tf
@@ -33670,6 +33682,8 @@
 64ioio.com
 64points.com
 65010191910guide-sgstoping.fr
+6512.wf
+6532.wf
 65446a.com
 65535.la
 6581.yt
@@ -33852,6 +33866,7 @@
 720pvideo.tk
 7215.yt
 7231691.com
+7239.wf
 7240.yt
 7241.yt
 7248.yt
@@ -34070,6 +34085,7 @@
 818box.com
 823bc1a6cd3f1657.com
 82448dceaaa13034.com
+8266.wf
 826dfb3390.5dec6805a0.com
 8273.yt
 8275.yt
@@ -34130,6 +34146,7 @@
 8761f9f83613.com
 8763rt.com
 8767085ab9.com
+8770.wf
 878166.comwww.301122.comwww855888comwww94809comwww.685678.comwww.677555.com
 87877.com62333www.txbb.hkwww.844644.com
 878997.com
@@ -34173,6 +34190,7 @@
 89167880.com
 891904ed87.com
 8934728393492.com
+8935.wf
 89362.mn
 897sunfm.ca
 898999.comwww.21887.comwww.581555.comwww.844644.com
@@ -34313,6 +34331,7 @@
 9376ec23d50b1.com
 937r.com
 9384.wf
+9395.wf
 93bobo.com
 93ky.bet
 93ky.me
@@ -34356,6 +34375,7 @@
 97proxy.com
 97sandandgravel.com
 98.sk
+9816.wf
 981787.com
 9842.comwww.844644.com
 987258.com
@@ -34365,8 +34385,10 @@
 98tang.la
 98xxxx.com
 9900j.com
+9907.wf
 990hk.com5555k.comwwwhkjcxcomjndltc.comwww333883comwww.mh59.comwww.880666.comwww.601122.com
 991.re
+9920.wf
 9924c4cf5e.com
 9929.yt
 9950.tf
@@ -38659,6 +38681,7 @@ antibotics.co.uk
 anticipatedlying.com
 anticipatedthirteen.com
 anticipatehellteddy.com
+anticipationit.com
 anticipationunexpected.com
 anticrouched.com
 antidepressivemedicines.com
@@ -40039,6 +40062,7 @@ asrowjkagg.com
 asrxnfpskdfru.xyz
 assailusefullyenemies.com
 assasprepapodo.com
+assassinationrussia.com
 assaultmolecularjim.com
 assaultstrength.com
 assaysmohr.cfd
@@ -41115,6 +41139,7 @@ awstaticdn.net
 awsurveys.com
 awswayful.space
 awtcher.guru
+awtpguxqtf.com
 awtqbjylk.com
 awugxvrmsdalpx.com
 awutohkhu.com
@@ -45327,6 +45352,7 @@ brentol.com
 brepas.com
 brereairsome.com
 bresson-group.info
+brewailmentsubstance.com
 brewbuzz.coffee
 brewedprovost.digital
 brewerbuild.info
@@ -50026,6 +50052,7 @@ collabplumify.com
 collagenfhc.com
 collagengummies.in
 collapsecheering.com
+collapsecuddle.com
 collapsologie-network.org
 collapsology-network.org
 collarchefrage.com
@@ -50334,6 +50361,7 @@ complainhere.ca
 complainlapseobserve.com
 complainmissing.com
 complainstarlingsale.com
+complaintsoperatorbrewing.com
 complementceased.com
 complementconversation.com
 complementhardly.com
@@ -51641,6 +51669,7 @@ creededlithic.digital
 creedoverwork.com
 creekrecollectkey.com
 creepercard.com
+creeperfutileforgot.com
 creepingbrings.com
 creeppant.com
 creepyassist.pro
@@ -51960,6 +51989,7 @@ csoxbkscuflef.com
 cspbankmitrabc.in.net
 cspfuqi4.live
 csps-efpc-sandbox-bacasable.ca
+csq.yt
 csqgebok.com
 csqhxfigdrqjk.com
 csqpjhuthsco.com
@@ -53350,6 +53380,7 @@ debanv.com
 debartoloqbacademy.com
 debatableslightlydestructive.com
 debatableslippers.com
+debateconsentvisitation.com
 debateit.net
 debatminkish.uno
 debauchavailable.com
@@ -57464,6 +57495,7 @@ educamais.info
 educatedcoercive.com
 educatedeggnog.com
 educateyprogresa.com
+educationalapricot.com
 educationaldetachblob.com
 educationalname.com
 educationalreasearch001.online
@@ -58539,6 +58571,7 @@ encroachsnortvarnish.com
 encryptedmoneytactics.com
 encrypter.online
 encryptwitlet.tech
+encumberglowingcamera.com
 encumbranceunderlineheadmaster.com
 encyclobeerdia.com
 encyclopaediaknackfold.com
@@ -58633,6 +58666,7 @@ enftvgnkylijcp.xyz
 enfuck.com
 engagedthicketforeman.com
 engagedtome.com
+engagefurnishedfasten.com
 engagementdepressingseem.com
 engagementpolicelick.com
 engageontario.ca
@@ -60168,6 +60202,7 @@ expugi.com
 expulsionstiffserum.com
 exqppyoba.com
 exqtksbattheh.com
+exquisitefundlocations.com
 exquisitesofas.in
 exrtbsrv.com
 exscort.com
@@ -67662,6 +67697,7 @@ haltonwaldorfschool.com
 haltough.net
 haluskarennalaurinskej.online
 halvedghost.space
+halveimpendinggig.com
 halvepowdercorrectly.com
 hamadtech.com
 hamarkets.com
@@ -73365,6 +73401,7 @@ istxlbsf.com
 isuckass.com
 isupolitiksemasa.net
 isupopc.com
+isw.yt
 iswhatappyouneed.net
 iswhelectual.cc
 iswissknife.com
@@ -75649,6 +75686,7 @@ jvurkxrztm.com
 jvvyucvkkfj.com
 jvwjjcijldscuta.com
 jvxlfnvqllyeg.com
+jvydtutqrmdx.com
 jw.basidiasapwort.com
 jw.filchedprelaw.com
 jw.inquirywaiver.com
@@ -76061,6 +76099,7 @@ kashvicomputercenter.online
 kaslcuin.com
 kasolgreen.com
 kaspbackers.com
+kasperdky.com
 kassai.info
 kastafor.com
 kataihajnalka.com
@@ -77391,6 +77430,7 @@ kovim.net
 kovopal.com
 kovotvar.com
 kowan.club
+koxcsmmcealss.com
 koxqdviupg.xyz
 koxycodes.tech
 koyaqxasy.com
@@ -79085,6 +79125,7 @@ levulicbenday.digital
 levulinmoble.space
 levydome.com
 levystab.com
+levyteenagercrushing.com
 lewcasinos.xyz
 lewdlygrips.top
 lexadvocatus.com
@@ -81229,6 +81270,7 @@ macaddr.online
 macaigha.net
 macan-native.com
 macaronibackachebeautify.com
+macaroniwalletmeddling.com
 macatrans.com
 macau-ic.com
 macau-ju.com
@@ -81292,6 +81334,7 @@ maddoghoney.com
 maddoverevents.com
 made-in-pcb.ru
 madeasuccessfuldnsrequestforwww.movcpm.com
+madebabysittingimperturbable.com
 madebymahila.com
 madebymitchellusa.com
 madebysheva.com
@@ -82517,6 +82560,7 @@ mbxkndsiuuweghv.com
 mbxudcghfy.com
 mbzgogo.xyz
 mc7clurd09pla4nrtat7ion.com
+mcafeecom.net
 mcapvtltd.in.net
 mcauslan-dev.com
 mcbrideweldingllc.com
@@ -88147,6 +88191,7 @@ nounooch.com
 nounrespectively.com
 noureewo.com
 nourishfitmove.co.uk
+nourishinghorny.com
 nourishinghousehold.com
 nouseeth.com
 nousmeilleur.fr
@@ -94600,6 +94645,7 @@ pnvxdwagf.com
 pnwygdlnymuc.top
 poacawhe.net
 poachfirewoodboast.com
+poafuden.top
 poagourait.com
 poagrili.net
 poagroul.com
@@ -95972,6 +96018,7 @@ professionalwritingconsultants.com
 professionsurprisingpercent.com
 professmeeting.com
 professorrakeshkumar.live
+professtrespass.com
 profi-para.com
 proficia.co.kr
 proficientfly.com
@@ -100015,6 +100062,7 @@ responsidejo.xyz
 responsiveadjustmentwasteful.com
 responsivefebruary.com
 responsiveonset.com
+responsiveproportion.com
 responsiverender.com
 ressci-medscholaroa.info
 ressci-scholarjrnl.info
@@ -102731,6 +102779,7 @@ saulttrailwaysi.info
 saumeechoa.com
 saumonpipidae.com
 saunafortyeasy.com
+saunamilitarymental.com
 saunasisley.life
 saunasupposedly.com
 saunatonttu.com
@@ -102915,6 +102964,7 @@ scared-respond.pro
 scaredcollector.com
 scaredimmediatelyrave.com
 scaredsidewalk.com
+scarfcreed.com
 scarflaremorally.com
 scarl.shop
 scarletcashwi5.com
@@ -102950,6 +103000,7 @@ scenbe.com
 sceneauthority.us
 scenecomposesharp.com
 scenepainters.co.uk
+scenerynatives.com
 scenespathreconciliation.com
 scenistgracy.life
 scentedindication.com
@@ -105541,6 +105592,7 @@ sizzledsausage.co.uk
 sizzlings4u.com
 sj59527.com
 sjaghhnnqjjvs.xyz
+sjb.pm
 sjdhfjsdf6x6.monster
 sjergkkrfxd.com
 sjevdjqhdmlelo.com
@@ -107572,6 +107624,7 @@ squhtdqggvpx.xyz
 squinbested.com
 squineeyuck.com
 squintdoescontemporary.com
+squintopposed.com
 squirrelformatapologise.com
 squirrelhissedintake.com
 squirtburpimplore.com
@@ -108461,6 +108514,7 @@ straji.com
 strakerecombs.website
 strami.net
 stranaistota.com
+strandedpeel.com
 strandedprobable.com
 strandsofbeautysuites.com
 strangelyfaintestgreenhouse.com
@@ -109655,6 +109709,7 @@ swwebblaw.com
 swww.movcpm.com
 sx.aeolicholsom.com
 sx.sconcessorgho.com
+sxb.yt
 sxbbqlnulcmyhr.com
 sxcbnqubygqekx.com
 sxcpt.org
@@ -111161,6 +111216,7 @@ textsrv.com
 texttenderness.com
 texttwister.com
 textualcritcism.org
+texturedetrimentit.com
 texygivu.xyz
 teybxxchtxkm.com
 teyeezz.com
@@ -121835,6 +121891,7 @@ withenvisagehurt.com
 witheredlakecoppy.space
 withersserdabs.guru
 withesajowan.com
+withholdrise.com
 withholdscarcelyspeech.com
 withholdstandstill.com
 withholdsubsequently.com
@@ -122111,6 +122168,7 @@ womenlikeyou.net
 womenmuse.com
 womensstuff.xyz
 womensvaly.com
+womenvocationanxious.com
 womenworldorganization.org
 wommplfq.com
 womsauph.com
@@ -130990,6 +131048,7 @@ www.mayorfound.com
 www.mazinger.fun
 www.mbebe-store.com
 www.mbtsz.xyz
+www.mcafeecom.net
 www.mciadjusters.com
 www.mcknightrock.com
 www.mddesigns.com

@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-15T18:10:32.905Z
+! Last modified: 2023-12-16T00:37:08.187Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -66925,7 +66925,6 @@ idvert.cz
 ie3wisa4.com
 ignobleinnovationcollateral.com
 igodigital.com
-ikcyxcbqmoptk.com
 iljmp.com
 illuminateinconveniencenutrient.com
 illuminatelocks.com
