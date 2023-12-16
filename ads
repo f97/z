@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-16T00:37:00.129Z
+! Last modified: 2023-12-16T06:10:00.472Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -596,6 +596,7 @@
 ||493b98cce8bc1a2dd.com^
 ||495affa75e.com^
 ||49af7cee19.com^
+||49b6b77e56.com^
 ||4a136c118e.com^
 ||4a167ec12d.com^
 ||4a623a5a49.com^
@@ -3504,6 +3505,7 @@
 ||awstaticdn.net^
 ||awsurveys.com^
 ||awswayful.space^
+||awtpguxqtf.com^
 ||awtqbjylk.com^
 ||awugxvrmsdalpx.com^
 ||awutohkhu.com^
@@ -13606,6 +13608,7 @@
 ||intelligenceretarget.com^
 ||intellipopup.com^
 ||intellitxt.com^
+||intelstqkt.com^
 ||intendedeasiestlost.com^
 ||intendedoutput.com^
 ||intentanalysis.com^
@@ -14444,6 +14447,7 @@
 ||jvnydntynmru.com^
 ||jvrawodh.com^
 ||jvsffrjutsax.com^
+||jvydtutqrmdx.com^
 ||jvylyreyazmea.top^
 ||jvzoupeh.com^
 ||jwalf.com^
@@ -14904,6 +14908,7 @@
 ||koureptu.xyz^
 ||koustouk.net^
 ||koutobey.net^
+||koxcsmmcealss.com^
 ||kpdqdbyi.com^
 ||kpkgkkbs.xyz^
 ||kqhi97lf.de^
@@ -17751,6 +17756,7 @@
 ||nextdark.pro^
 ||nextgencounter.com^
 ||nextpsh.top^
+||neylwuhxhaek.com^
 ||nezuel.com^
 ||nezygmobha.com^
 ||nfctoroxi.xyz^
@@ -18969,6 +18975,7 @@
 ||origintube.com^
 ||origunix.com^
 ||orisow.com^
+||orjfun.com^
 ||orkoedthroug.xyz^
 ||orldwhoisquite.com^
 ||orldwhoisquite.org^
@@ -21700,6 +21707,7 @@
 ||qyajwjyjnavzq.top^
 ||qydrwhhk.xyz^
 ||qyenlspei.com^
+||qymdcuco.com^
 ||qynpfyvxkyv.com^
 ||qynqvkkmbzvkk.top^
 ||qyqkemrarznvv.top^
@@ -54360,6 +54368,7 @@ dhfnrhphhknfqi.com
 dhgssctbhkigy.com
 dhhuakggx.xyz
 dhhwp.yt
+dhiastmk.com
 dhiowaca5fe465e189e4f6g4rf5h48g5f6aw2f.com
 dhirajnishad.tech
 dhjbearings.com
@@ -63547,6 +63556,7 @@ fulihui.org
 fullagearnut.com
 fullcdn.ga
 fullfilmolify.com
+fullishspiks.top
 fullleafteas.com
 fullmooncrepes.com
 fullo-straoge.at
@@ -64143,6 +64153,7 @@ ganzhightlich.guru
 ganzhightlich.info
 gaofulmei.net
 gaooawffc.com
+gaoyingying.com
 gapcask.com
 gappyou.com
 gapscult.com
@@ -72695,6 +72706,7 @@ intellilobe.co.uk
 intellimachsystems.in
 intellipopup.com
 intelplex.com
+intelstqkt.com
 intendedeasiestlost.com
 intendedoutput.com
 intensedebate.com
@@ -79199,6 +79211,7 @@ lgsmartad.com
 lgsrecords.net
 lgtdkpfnor.com
 lgtqcl8r5i9w.com
+lgutloyenx.xyz
 lgvids.com
 lgviqkrimvmy.xyz
 lgwddyouxxwd.com
@@ -86622,6 +86635,7 @@ neathygienesmash.com
 neatsafety.com
 nebadu.com
 nebankovni-hypoteky.net
+nebankovnipujckabezregistru.sbs
 nebcconnectorforcanada.ca
 nebezpecneznamosti.com
 nebgov.org
@@ -87234,6 +87248,7 @@ nexx-step.com
 nexxmidye.com
 nexygroup.com
 neyhdjwpumivpa.com
+neylwuhxhaek.com
 nezavislost.org
 nezne.online
 nezuel.com
@@ -98229,6 +98244,7 @@ qyhugvdfaagfq.com
 qykejgoaykqrhf.com
 qykship.com
 qylrihck.xyz
+qymdcuco.com
 qynpfyvxkyv.com
 qyowjhyyckraps.com
 qypquywesex.com
@@ -111461,6 +111477,7 @@ theapple.site
 theappyrinc.buzz
 theaptglobal.com
 thearoids.com
+thearrowconcept.com
 theartisanshairport.com
 theartofpitch.com
 theartventure.co.uk
@@ -119226,6 +119243,7 @@ vkuzgxduzgntk.com
 vkwkbxmtlptcpg.xyz
 vkwknwmeutislk.com
 vkxpihctykjzlc.com
+vl-blueprint.com
 vl.mikedcavish.com
 vladikin.dev
 vladimirasebova.com
@@ -134202,6 +134220,7 @@ www.sergioparra.net
 www.serhemconstrucao.com.br
 www.serialyou.com
 www.serienfreaks.to
+www.seriouslygesture.com
 www.sermonoccupied.com
 www.serpvisible.com
 www.serumlisp.com
