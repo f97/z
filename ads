@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-16T12:13:02.636Z
+! Last modified: 2023-12-16T18:09:20.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1397,6 +1397,7 @@
 ||ad64463ef9.com^
 ||ad999.biz^
 ||adactioner.com^
+||adanad.name^
 ||adaptationbodilypairs.com^
 ||adaptcunning.com^
 ||adaranth.com^
@@ -2055,6 +2056,7 @@
 ||againirksomefutile.com^
 ||againponderous.com^
 ||againstpipepierre.com^
+||agajx.com^
 ||agakoffingan.com^
 ||agalarvitaran.com^
 ||agalitecrashed.com^
@@ -3734,6 +3736,7 @@
 ||bakongojotted.com^
 ||bakteso.ru^
 ||bakubabasilic.space^
+||bakubasugis.guru^
 ||balancedweakness.com^
 ||balcekonspn.com^
 ||balconhoist.com^
@@ -4994,6 +4997,7 @@
 ||bshrdr.com^
 ||bsjusnip.com^
 ||bsolaoecm.xyz^
+||bswsapnwdx.com^
 ||bsyftapbp.com^
 ||bsyhicvmrg.com^
 ||btagmedia.com^
@@ -7581,6 +7585,7 @@
 ||densouls.com^
 ||dental-drawer.pro^
 ||dentalhomework.pro^
+||dentalillegally.com^
 ||dentcontrader.com^
 ||dentfonttechnology.com^
 ||dentwithought.com^
@@ -8279,6 +8284,7 @@
 ||dqbukuvuy.com^
 ||dqfhudpnwdk.com^
 ||dqhezw.com^
+||dqhoikghxts.com^
 ||dqjkzrx.com^
 ||dqlgpnljfgmlqs.xyz^
 ||dqvnpbs.com^
@@ -8491,6 +8497,7 @@
 ||dupelipperan.com^
 ||duplefirer.uno^
 ||duponytator.com^
+||durableordinarilyadministrator.com^
 ||durationzodiacdetermined.com^
 ||duried.com^
 ||durief.com^
@@ -10881,6 +10888,7 @@
 ||futuredistracting.com^
 ||futureresiduals.com^
 ||futureus.com^
+||fuyytjuopkikl.com^
 ||fuzakumpaks.com^
 ||fuzeelamby.com^
 ||fuzinghummaul.com^
@@ -15385,6 +15393,7 @@
 ||lfnwqrghxqrqb.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
+||lfwujowkcf.com^
 ||lgbxelnukhsil.xyz^
 ||lgdmconwvygoo.com^
 ||lgfiufyaycsh.com^
@@ -16633,6 +16642,7 @@
 ||metingsaeta.com^
 ||metinkuba.com^
 ||metonicthought.com^
+||metorealiukz.org^
 ||metosk.com^
 ||metotreatwithdify.info^
 ||metrebeggary.digital^
@@ -18767,6 +18777,7 @@
 ||onogxwatipyevf.com^
 ||onpluslean.com^
 ||onpsrrejx.com^
+||onseleauks.org^
 ||onservantas.org^
 ||onsetknives.com^
 ||onsetours.com^
@@ -23057,6 +23068,7 @@
 ||rxtazhr.com^
 ||rxtgbihqbs99.com^
 ||rxthdr.com^
+||ryanfrqxjl.com^
 ||rydpsqdsaja.com^
 ||rydresa.info^
 ||ryepublisher.com^
@@ -28191,6 +28203,7 @@
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
 ||vltwoizzckpp.com^
+||vlvbyqgjqj.com^
 ||vmmcdn.com^
 ||vmraahnmspzy.com^
 ||vmuid.com^
@@ -28593,6 +28606,7 @@
 ||wboptim.online^
 ||wboux.com^
 ||wbsads.com^
+||wbuurzutrhmlsz.com^
 ||wbvjhlaljp.com^
 ||wbzfybvl.com^
 ||wcadlvruvrq.xyz^
@@ -29466,6 +29480,7 @@
 ||xeuswz.com^
 ||xfahjal.com^
 ||xfcpdigfsx.xyz^
+||xfiebjkmpp.com^
 ||xfileload.com^
 ||xfimwjibh.top^
 ||xfwblpomxc.com^
@@ -29490,6 +29505,7 @@
 ||xiaomengxiong.com^
 ||xibilitukydteam.info^
 ||xidx.org^
+||xigrtoai.com^
 ||xijgedjgg5f55.com^
 ||xilbalar.com^
 ||xineday.com^
@@ -30179,6 +30195,7 @@
 ||zjupukgjuez.com^
 ||zjybqqaleeva.top^
 ||zjybqqalenve.top^
+||zjyeblzkajwba.top^
 ||zjyeblzkajwjz.top^
 ||zkawzmlvqjejy.top^
 ||zkczzltlhp6y.com^
@@ -31455,6 +31472,7 @@
 ||japfg-trending-content.uc.r.appspot.com^
 ||jentent.streampiay.fun^
 ||js.mangajp.top^
+||js.syosetu.top^
 ||kentent.streampiay.fun^
 ||kta.etherscan.com^
 ||lw.musictarget.com^
@@ -40061,6 +40079,7 @@ asqconn.com
 asqp.vip
 asqpniwvxea.com
 asquintarmenic.cfd
+asqxumodwdet.com
 asrbfyagqow.com
 asrcajsuql.com
 asrelatercondi.org
@@ -42645,6 +42664,7 @@ beetlerebuffsame.com
 beetlestrooped.life
 beetrootopposeddwelling.com
 beetrootpsychicgrim.com
+beetrootsquirtexamples.com
 beevakum.net
 beevalt.com
 beevephe.xyz
@@ -63753,6 +63773,7 @@ fuuuuuuuuuuuuuck.com
 fuvdpkrpypnah.com
 fux0r.icu
 fuxxijafrxma.com
+fuyytjuopkikl.com
 fuzakumpaks.com
 fuzeelamby.com
 fuzinghummaul.com
@@ -77498,6 +77519,7 @@ kqpydcmxu.com
 kqqwutgln.com
 kqraetuvkcymbx.top
 kqsavbefvgqrt.xyz
+kqtafsyojvopqmt.com
 kqtv6izko.com
 kqtvdljwv.com
 kqvczetydmyi.com
@@ -79177,6 +79199,7 @@ lfopq.xyz
 lfport.com
 lfpthkipndval.com
 lfsuigdrtsszog.com
+lfuntkrqgoxewqd.xyz
 lfwujowkcf.com
 lfxkgdvf.com
 lfxshttouhop.com
@@ -85187,6 +85210,7 @@ mswdgtbith.com
 mswhrfvfnbpqg.xyz
 mswolq.com
 mswyndemerecs.com
+msykbsdfc.com
 msypr.com
 mt-b-online.com
 mt-b-online.xyz
@@ -86001,6 +86025,7 @@ myvegrevillenow.com
 myvinox.com
 myvirtualnany.com
 myvisionmedicalus.com
+myvpbvits.com
 mywatch.com.co
 mywebchat.app
 mywebsavior.com
@@ -94052,6 +94077,7 @@ pkmqdedve.com
 pkmxofozs.com
 pkousygrrkvobex.com
 pkroevirlixdumo.com
+pksbidhx.com
 pkspysbjgvfbrn.com
 pksrnews.com
 pkthyp.uno
@@ -97653,6 +97679,7 @@ qkouawnjejedvno.xyz
 qkqhliaipbfwuxd.com
 qkqyevadeewywhf.com
 qkvsccqcjp.com
+qkwfplulmhvbwd.com
 qkwxomkgnsupk.com
 qkwyjnfet.com
 qkwyvmkj.com
@@ -110955,6 +110982,7 @@ telukpaku.net
 telus-studios.com
 telworlkd.co.za
 telwrite.com
+telylxrwbxjwlah.com
 telyn610zoanthropy.com
 temafila.com
 tembetachasmic.guru
@@ -119372,6 +119400,7 @@ vnrherdsxr.com
 vns-usdoj-gov.com
 vns7526.com
 vns999.app
+vnthyxgtspux.com
 vnvbqpqjgsy.com
 vnvqoihbwgjqpa.com
 vnwfheqnvq.com
@@ -137949,6 +137978,7 @@ xk.demersejarmo.com
 xk9auw44t9fyuu.xyz
 xkarma.net
 xkbydybnle.com
+xkbygqauwipjhn.com
 xkcgjkwjbmki.xyz
 xkdijkdiefu.com
 xkdxygywfm.com

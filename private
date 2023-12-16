@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-16T12:13:11.820Z
+! Last modified: 2023-12-16T18:09:27.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3842,7 +3842,7 @@ data.mistat.rus.xiaomi.com
 ||059e71004b.com^
 ||e7cb8e602c.05b960757b.com^
 ||05e11c9f6f.com^
-||33c2f9acb3.05fbc08eac.com^
+||05fbc08eac.com^
 ||05pg9z.com^
 ||06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com^
 ||063f828cf2.com^
@@ -4004,7 +4004,6 @@ data.mistat.rus.xiaomi.com
 ||admusicpic.music.126.net^
 ||iadmusicmat.music.126.net^
 ||iadmusicmatvideo.music.126.net^
-||imgsize.ph.126.net^
 ||android.push.126.net^
 ||pg-ad-b1.ws.126.net^
 ||pg-ad-b2.ws.126.net^
@@ -4014,7 +4013,7 @@ data.mistat.rus.xiaomi.com
 ||126ccb.xyz^
 ||iadmat.nosdn.127.net^
 ||wanproxy.127.net^
-||39700c1948.127d5ef6e1.com^
+||127d5ef6e1.com^
 ||1287a.xyz^
 ||12bet.com^
 ||12ezo5v60.com^
@@ -4152,7 +4151,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.1e.com^
 ||c551028ccc.1e18a448a6.com^
 ||939943e302.1e49ec466f.com^
-||3f2f1a20ba.1ecfd63507.com^
+||1ecfd63507.com^
 ||1ep2l1253.de^
 ||1f1c1d50fe.com^
 ||1f6f6bfb05.com^
@@ -4333,6 +4332,7 @@ data.mistat.rus.xiaomi.com
 ||gtrack.247mirror.com^
 ||247realmedia.com^
 ||saa.247sports.com^
+||248bb4b7dd.com^
 ||249c9885c1.com^
 ||data-f59db3288b.24auto.de^
 ||24coinix.com^
@@ -4377,7 +4377,7 @@ data.mistat.rus.xiaomi.com
 ||24x7th.com^
 ||250f0ma86.de^
 ||254a.com^
-||365a1a8e36.256683aefe.com^
+||256683aefe.com^
 ||83bcb35d55.256bb4a81a.com^
 ||259luxu.xyz^
 ||c75b53b604.25d83d2f3d.com^
@@ -4395,7 +4395,7 @@ data.mistat.rus.xiaomi.com
 ||26vulkanvegas.com^
 ||273knt.xyz^
 ||2777d013fc.com^
-||406afea59d.2799f73c61.com^
+||2799f73c61.com^
 ||27gh.cc^
 ||27igqr8b.de^
 ||27vulkanvegas.com^
@@ -4782,6 +4782,7 @@ data.mistat.rus.xiaomi.com
 ||3692022.com^
 ||369c83119d.com^
 ||36b7ca5028.com^
+||36c48052b9.com^
 ||36gv.com^
 ||adx.36kr.com^
 ||36lian.com^
@@ -4888,6 +4889,7 @@ data.mistat.rus.xiaomi.com
 ||40f380afa3.com^
 ||40nuggets.com^
 ||411-spyware.com^
+||412fe7fd10.com^
 ||4140690839.com^
 ||415677.com^
 ||7199fc3313.41a33ffca8.com^
@@ -5181,7 +5183,7 @@ data.mistat.rus.xiaomi.com
 ||61c3007cf3.com^
 ||6207684432.com^
 ||6257028645.com^
-||311f053054.62a401411b.com^
+||62a401411b.com^
 ||62f9bb0bbc.com^
 ||62h.site^
 ||analytics.63.ru^
@@ -5202,7 +5204,7 @@ data.mistat.rus.xiaomi.com
 ||6593167243.com^
 ||6598kn9gpf.ru^
 ||65bfba9ad0.com^
-||37dfd89a35.65d2bef787.com^
+||65d2bef787.com^
 ||843104bed7.65f249bd43.com^
 ||65vk1fba34.com^
 ||6617398ccc.com^
@@ -5266,7 +5268,7 @@ data.mistat.rus.xiaomi.com
 ||6v6.work^
 ||6vulkanvegas.com^
 ||6xtpke4.com^
-||3161acfe21.7010888f85.com^
+||7010888f85.com^
 ||702f5434c8.com^
 ||71.am^
 ||7162a.com^
@@ -5298,7 +5300,7 @@ data.mistat.rus.xiaomi.com
 ||7631.com^
 ||a111118fae.763e24cc7e.com^
 ||76497105d4.com^
-||3d96bf852a.766d456657.com^
+||766d456657.com^
 ||cab63d7a04.771703f2e9.com^
 ||7726f27549de609644ca54296d723a4704ca5663d4e6072fc21ff4c4.com^
 ||7759.com^
@@ -5340,7 +5342,7 @@ data.mistat.rus.xiaomi.com
 ||7c1ecc72c0.com^
 ||7ca78m3csgbrid7ge.com^
 ||7cc70.com^
-||4546fd70a7.7ce7b7e102.com^
+||7ce7b7e102.com^
 ||7cnq.net^
 ||7d3656bee3.com^
 ||7da3a14504.com^
@@ -5454,7 +5456,7 @@ data.mistat.rus.xiaomi.com
 ||89f5318ce93d828ab801f693bf6d1bf4ba587299f920697b486e751c.com^
 ||89mtdab.xyz^
 ||8a00fb3fc1.com^
-||41f65678e1.8ae7162e81.com^
+||8ae7162e81.com^
 ||8b4v.cn^
 ||8b98b1a05a.com^
 ||8bb92fbed8.com^
@@ -5510,7 +5512,7 @@ data.mistat.rus.xiaomi.com
 ||91cd3khn.de^
 ||91p20.space^
 ||t.91syun.com^
-||3f876ad3c2.92430e785d.com^
+||92430e785d.com^
 ||6b811acd08.928fab1d1d.com^
 ||92by17snes4.cc^
 ||92d8d67482.com^
@@ -5532,7 +5534,7 @@ data.mistat.rus.xiaomi.com
 ||91f5701f15.958702ecdf.com^
 ||95a056626e.com^
 ||95a3ca82bc.com^
-||420a797395.95cf5beb64.com^
+||95cf5beb64.com^
 ||95f39c9d5f.com^
 ||95ppq87g.de^
 ||95urbehxy2dh.top^
@@ -6345,7 +6347,7 @@ data.mistat.rus.xiaomi.com
 ||ad-web-ad.com^
 ||ad-wiser-tracking.ch^
 ||ad1.ru^
-||42db495dfe.ad1e220ebc.com^
+||ad1e220ebc.com^
 ||ad287.com^
 ||ad2games.com^
 ||ad2iction.com^
@@ -12058,7 +12060,7 @@ data.mistat.rus.xiaomi.com
 ||smetrics.bbb.org^
 ||bbc.co^
 ||a1.api.bbc.com^
-||3942b8586f.bbc781f81e.com^
+||bbc781f81e.com^
 ||bbccf12.xyz^
 ||bbcieyz.net^
 ||bbd834il.de^
@@ -12609,7 +12611,7 @@ data.mistat.rus.xiaomi.com
 ||bf-ad.net^
 ||bf-tools.net^
 ||bf18c2661e.com^
-||37b3525362.bf3572595c.com^
+||bf3572595c.com^
 ||bf53f4f482ba8b1513d570a748dcbee90cde062c8c91eae4304f2b57.com^
 ||bf600e1d51.com^
 ||bfbs.com^
@@ -13358,7 +13360,6 @@ data.mistat.rus.xiaomi.com
 ||content22.bmo.com^
 ||csvtr.bmo.com^
 ||smetrics.bmo.com^
-||wup-content23.bmoharris.com^
 ||analytics.bmonkeys.net^
 ||bmptbyb.com^
 ||smetrics.bms.com^
@@ -14637,7 +14638,7 @@ data.mistat.rus.xiaomi.com
 ||c1sf9.top^
 ||c212.net^
 ||c212a79d53.com^
-||3718b42ebb.c215d49003.com^
+||c215d49003.com^
 ||c24c966867.com^
 ||b0dddd439d.c2aef8ab51.com^
 ||c2c24.pl^
@@ -15535,7 +15536,7 @@ data.mistat.rus.xiaomi.com
 ||cfcgl.com^
 ||cfcglx.com^
 ||cfdns.vip^
-||33f68c4302.cfeb0910c5.com^
+||cfeb0910c5.com^
 ||cfgr1.com^
 ||cfgr5.com^
 ||cfivfadtlr.com^
@@ -16075,7 +16076,6 @@ data.mistat.rus.xiaomi.com
 ||citatumpity.com^
 ||smetrics.citeline.com^
 ||citfbcb.com^
-||contents2.00110.citi.com^
 ||metrics1.citi.com^
 ||prod.report.nacustomerexperience.citi.com^
 ||content22.online.citi.com^
@@ -20623,7 +20623,6 @@ data.mistat.rus.xiaomi.com
 ||cuberoswego.com^
 ||cubgeographygloomily.com^
 ||cubicegg.asia^
-||cubit.net^
 ||cubtimohawk.life^
 ||t.cubuffs.com^
 ||cuckoiz.lol^
@@ -31967,6 +31966,7 @@ data.mistat.rus.xiaomi.com
 ||highfalutinroom.com^
 ||highjournalistbargain.com^
 ||highlevelmarketing.com^
+||highlight.run^
 ||stats.highload.today^
 ||highmaidfhr.com^
 ||highperformancecpm.com^
@@ -34240,7 +34240,6 @@ data.mistat.rus.xiaomi.com
 ||metric.g.intuit.com^
 ||merchantservices.intuit.ca^
 ||pf.intuit.com^
-||pfp.intuit.com^
 ||zion.qbo.intuit.com^
 ||qfp.intuit.com^
 ||sci.intuit.ca^
@@ -40626,6 +40625,8 @@ data.mistat.rus.xiaomi.com
 ||mtag.mman.kr^
 ||mmandard.com^
 ||da.mmarket.com^
+||nr.mmcdn.com^
+||nr.static.mmcdn.com^
 ||mmcispartners.com^
 ||mmctsvc.com^
 ||mmead.xyz^
@@ -44818,6 +44819,7 @@ data.mistat.rus.xiaomi.com
 ||otherlevels.com^
 ||otherofherlittle.info^
 ||othersfohi.com^
+||othersides.top^
 ||otherwiseassurednessloaf.com^
 ||otherwiseparticipate.com^
 ||otiatrygetable.uno^
@@ -45719,7 +45721,6 @@ data.mistat.rus.xiaomi.com
 ||pccasia.xyz^
 ||pcconelove.xyz^
 ||pcfixertools.com^
-||pcfixertools.info^
 ||data-5d621ddc78.pcgames.de^
 ||data-c5925d7d99.pcgames.de^
 ||data-5d621ddc78.pcgameshardware.de^
@@ -46881,6 +46882,7 @@ data.mistat.rus.xiaomi.com
 ||pocketlove.jp^
 ||pocketoption.com^
 ||pocli.click^
+||9jdq2a.poco.de^
 ||marketing.poconomountains.com^
 ||t.poconoraceway.com^
 ||pocpoc.io^
@@ -51777,7 +51779,6 @@ data.mistat.rus.xiaomi.com
 ||events.sd-nbb.de^
 ||statscollector.sd-rtn.com^
 ||sd01you.com^
-||sda1.dev^
 ||sdad.guru^
 ||piwik.sdbb.ch^
 ||sdbvveonb1.com^
@@ -62063,7 +62064,6 @@ data.mistat.rus.xiaomi.com
 ||triggers.wfxtriggers.com^
 ||wg-aff.com^
 ||wgchrrammzv.com^
-||wginfotechnology.com^
 ||wgkggub.com^
 ||tracking.wowsb.wgmext.net^
 ||axp.wgno.com^
@@ -87107,6 +87107,7 @@ ahhtee.com
 ahhw.com
 ahimail.sbs
 ahisf.com
+ahiteskilati.com
 ahk.jp
 ahlifb.com
 ahliqq.info
