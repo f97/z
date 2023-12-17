@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-17T00:40:31.418Z
+! Last modified: 2023-12-17T06:10:05.766Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -799,6 +799,7 @@
 ||71692fai4cc0.com^
 ||71a30cae934e.com^
 ||71d7511a4861068.com^
+||71dd1ff9fd.com^
 ||71ec0646e6.com^
 ||7253d56acf.com^
 ||72hdgb5o.de^
@@ -3236,6 +3237,7 @@
 ||atholicncesispe.info^
 ||athvicatfx.com^
 ||aticalfelixstownrus.info^
+||aticalmaster.org^
 ||atinsolutions.com^
 ||atiretrously.com^
 ||atjigglypuffor.com^
@@ -5186,6 +5188,7 @@
 ||bygliscortor.com^
 ||byildmkzjyjx.com^
 ||byluvdiscor.com^
+||bymnyzbkylaaw.top^
 ||bymnyzbkylvkv.top^
 ||bymyth.com^
 ||bypasseaseboot.com^
@@ -14729,6 +14732,7 @@
 ||kinozo.xyz^
 ||kinripen.com^
 ||kioeasodamid.com^
+||kipapjhs.com^
 ||kipeir.com^
 ||kirkifyapache.website^
 ||kirkmanhirple.com^
@@ -14807,6 +14811,7 @@
 ||knawelgrx.com^
 ||kncecafvdeu.info^
 ||kncrnjspoxd.com^
+||kndaspiratioty.org^
 ||kneeansweras.com^
 ||kneescountdownenforcement.com^
 ||kneesettingflashing.com^
@@ -20178,6 +20183,7 @@
 ||pizasoji.com^
 ||pizzazz.lol^
 ||pjblqxvmcjyiel.com^
+||pjhbyaaadlw.com^
 ||pjivapiumeb.com^
 ||pjjpp.com^
 ||pjlufuwtxv.com^
@@ -21411,6 +21417,7 @@
 ||pvlcbsynxsabti.com^
 ||pvqzggfkuxum.com^
 ||pvsxzlb.com^
+||pvtypsgueyqey.com^
 ||pvxvazbehd.com^
 ||pvykihatcb.com^
 ||pwbmdalngizhz.com^
@@ -22883,6 +22890,7 @@
 ||rqpcgvey.com^
 ||rqtrk.eu^
 ||rqvahauofbdg.com^
+||rqwel.com^
 ||rreauksofthecom.xyz^
 ||rrentlysearchi.info^
 ||rrfolvppqeg.com^
@@ -27656,6 +27664,7 @@
 ||uvbyty.com^
 ||uviticketway.com^
 ||uvoovoachee.com^
+||uvrdhasvzal.com^
 ||uvsvlisbartwq.com^
 ||uvtuiks.com^
 ||uvwelvnydoy.com^
@@ -27670,6 +27679,7 @@
 ||uwrzjgtnur.com^
 ||uxdfxyepfow.xyz^
 ||uxdwhatijun.xyz^
+||uxicgxqq.com^
 ||uxpascal.com^
 ||uxwnqppdma.com^
 ||uxxsiyokw.com^
@@ -52703,6 +52713,7 @@ d4d48974197052ea.com
 d54testneviem.site
 d58931bb20.5afc8f3239.com
 d5chnap6b.com
+d6.tf
 d617490b25.c3ecfc3556.com
 d6235e33-0bc4-4ac1-b795-093daf0fe94a.www.acessoriosparablogs.com.br
 d670ea5015.3fab5e7874.com
@@ -94062,6 +94073,7 @@ pjblqxvmcjyiel.com
 pjcinfra.in.net
 pjgltd.com
 pjgpaoincwvo.com
+pjhbyaaadlw.com
 pjhcyfksmvasi.xyz
 pjhmdplacf.com
 pjiieimgfogtp.com
@@ -117616,6 +117628,7 @@ uxenxxgshklfkay.com
 uxevqppwcm.com
 uxheros.com
 uxhgfcit.xyz
+uxicgxqq.com
 uxijfltvrveus.com
 uxjkpllxkfuvt.com
 uxjquaekos.com
@@ -120862,6 +120875,7 @@ webmastic.com
 webmedrtb.com
 webmetapin.com
 webmotos.store
+webnsport.net
 weboccpuied.com
 weborevmedia.com
 webovy-atelier.online
@@ -136714,6 +136728,7 @@ www.webmail.initiativebasisparticularly.com
 www.webmail.sportsonlineeventlive.xyz
 www.webmaster21.it
 www.webmetapin.com
+www.webnsport.net
 www.webovy-atelier.online
 www.webreviewstar.com
 www.websitehelper.in
