@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-17T12:13:29.128Z
+! Last modified: 2023-12-17T18:09:28.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37261,7 +37261,6 @@ data.mistat.rus.xiaomi.com
 ||leadensought.com^
 ||matomo.leadersnet.at^
 ||leadexpert.pl^
-||analytics-zone-1.api.leadfamly.com^
 ||leadfeeder.com^
 ||leadforce1.com^
 ||leadforensics.com^
@@ -39572,7 +39571,6 @@ data.mistat.rus.xiaomi.com
 ||karma.mdpcdn.com^
 ||mdqpkdne.xyz^
 ||image.mdr.de^
-||track.mdrctr.com^
 ||track.mdsmatch.com^
 ||metrics.mdstrm.com^
 ||connect.mdtelephone.com^

@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-17T12:13:20.135Z
+! Last modified: 2023-12-17T18:09:21.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4410,6 +4410,7 @@
 ||bj1110.online^
 ||bjakku.com^
 ||bjbjrlnakwvz.top^
+||bjiehnopho.com^
 ||bjjnovsnejwm.com^
 ||bjjwvkbyfh.com^
 ||bjornecoydog.com^
@@ -4980,6 +4981,7 @@
 ||bruceleadx1.com^
 ||bruceleadx2.com^
 ||bruciainbowed.com^
+||bruisedpaperworkmetre.com^
 ||bruitedhurrahs.com^
 ||brumarmsful.com^
 ||brumbiedecagon.com^
@@ -6707,6 +6709,7 @@
 ||correctionsnailnestle.com^
 ||corruptclients.com^
 ||corruptheedless.com^
+||corruptmatter.com^
 ||corsakpeize.com^
 ||corvetwoorari.com^
 ||corvinapaella.life^
@@ -7152,7 +7155,6 @@
 ||d3c.site^
 ||d3d98dc11c.com^
 ||d3da127b69.com^
-||d3efeah7vk80fy.cloudfront.net^
 ||d4b138a7aa.com^
 ||d4d48974197052ea.com^
 ||d5390684c4.com^
@@ -7171,7 +7173,6 @@
 ||d90be87e47.com^
 ||d95d5c2239.com^
 ||d9kvn70l4ogn.com^
-||d9qjkk0othy76.cloudfront.net^
 ||da-ads.com^
 ||da1a0e7bb3.com^
 ||daailynews.com^
@@ -8343,6 +8344,7 @@
 ||dreambooknews.com^
 ||dreamintim.net^
 ||dreampics.pro^
+||dreamsaukn.org^
 ||dreamsoppressive.com^
 ||dreamvids.pro^
 ||dreary-east.pro^
@@ -9136,6 +9138,7 @@
 ||emsservice.de^
 ||emumuendaku.info^
 ||emwkzebpuo.com^
+||emwqvlymjydv.com^
 ||emxdgt.com^
 ||emyfueuktureukwor.info^
 ||enablerubbingjab.com^
@@ -10150,6 +10153,7 @@
 ||fftagtden.com^
 ||ffuzila.com^
 ||fgddrrr.com^
+||fgdxwpht.com^
 ||fgfgnbmeieorr910.com^
 ||fghnergyflex.xyz^
 ||fgijincfktbguv.xyz^
@@ -10158,6 +10162,7 @@
 ||fgkoxeqjpal.com^
 ||fgrvbkquwurttn.com^
 ||fgxfnkiojgs.com^
+||fgzkuuvuligrj.com^
 ||fh259by01r25.com^
 ||fhdwtku.com^
 ||fhepiqajsdap.com^
@@ -10644,6 +10649,7 @@
 ||foughtcirculation.com^
 ||fouharoa.com^
 ||foulageyamshik.life^
+||fouleewu.net^
 ||foullypellate.space^
 ||foundedoaksouthern.com^
 ||foundfroshelves.com^
@@ -11306,6 +11312,7 @@
 ||gimpingurubu.life^
 ||gimwcpketr.com^
 ||gindeoedbadas.com^
+||ginfohpg.com^
 ||gingercompute.com^
 ||ginningsteri.com^
 ||ginnycleanedfeud.com^
@@ -11542,6 +11549,7 @@
 ||gnksplbu.com^
 ||gnojicfj.com^
 ||gnosticwinks.com^
+||gnqtageoyy.com^
 ||go-rillatrack.com^
 ||go-srv.com^
 ||go.mnaspm.com^
@@ -11966,6 +11974,7 @@
 ||guigebichir.website^
 ||guiletoad.com^
 ||guiltjadechances.com^
+||guitarfelicityraw.com^
 ||gujakqludcuk.com^
 ||gukodxxhkc.xyz^
 ||gullible-hope.com^
@@ -12601,6 +12610,7 @@
 ||hkoxlirf.com^
 ||hksmstpzsnlj.com^
 ||hkuypnhpafbuyy.com^
+||hlbelbblmc.com^
 ||hlcvjaqjckgrwb.com^
 ||hldxvloxsxqqg.com^
 ||hlerseomcb.com^
@@ -12707,6 +12717,7 @@
 ||hopefullyactively.com^
 ||hopefullyapricot.com^
 ||hopghpfa.com^
+||hophcomeysw.com^
 ||hopilos.com^
 ||hopliteracy.com^
 ||hopperbanespirits.com^
@@ -13020,6 +13031,7 @@
 ||iakjiamqg.com^
 ||iam9p3eri3as5lc6hllege.com^
 ||iamadssystems.com^
+||ianjgmpat.com^
 ||ianjumb.com^
 ||iasbetaffiliates.com^
 ||iasrv.com^
@@ -13892,6 +13904,7 @@
 ||ivanvillager.com^
 ||ivedmanyyea.org^
 ||ivhbtikwpr.com^
+||iviugcxgemuk.com^
 ||ivjkdyrjjgxhch.com^
 ||ivorcs.com^
 ||ivoriedkolis.digital^
@@ -14160,6 +14173,7 @@
 ||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhiekkjeyyfbj.com^
+||jhkfd.com^
 ||jhoncj.com^
 ||jhrfemourkojc.com^
 ||jhulubwidas.com^
@@ -14813,6 +14827,7 @@
 ||kmmsfoqbhc.xyz^
 ||kmmtxfwntcnyd.com^
 ||kmodukuleqasfo.info^
+||kmokknjzsknr.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
 ||knaveavo.guru^
@@ -16068,6 +16083,7 @@
 ||m-shes.ru^
 ||m.xrum.info^
 ||m0hcppadsnq8.com^
+||m0rsq075u.com^
 ||m2.ai^
 ||m2pub.com^
 ||m2track.co^
@@ -16589,6 +16605,7 @@
 ||membershipimmunitysport.com^
 ||memney.com^
 ||memopilot.com^
+||memorableeditor.com^
 ||memorandumdismissquietly.com^
 ||memoriagamine.com^
 ||memorizeaestheticspiders.com^
@@ -17000,6 +17017,7 @@
 ||modoro360.com^
 ||modtrnxsmf.com^
 ||modularmental.com^
+||moduledescendantlos.com^
 ||modulepush.com^
 ||moduletgispin.com^
 ||modulohanafi.com^
@@ -17268,6 +17286,7 @@
 ||muddytransplantinsert.com^
 ||mufcrkk.com^
 ||mufflealiases.com^
+||muffled-apartment.com^
 ||mufflercypress.com^
 ||mufflerlamia.com^
 ||mufflerlightsgroups.com^
@@ -20148,6 +20167,7 @@
 ||piouscheers.com^
 ||pip-pip-pop.com^
 ||pipaffiliates.com^
+||pipeofferear.com^
 ||pipeoverwhelm.com^
 ||pipeschannels.com^
 ||pipetsungross.com^
@@ -20181,6 +20201,7 @@
 ||pitypericu.com^
 ||pitysuffix.com^
 ||piupiucreed.life^
+||piuyt.com^
 ||pivotrunner.com^
 ||piwixesu.pro^
 ||pixazza.com^
@@ -21545,6 +21566,7 @@
 ||qiqdpeovkobj.com^
 ||qiqgvcrnhwc.com^
 ||qituduwios.com^
+||qiuobuixthzcc.com^
 ||qivaiw.com^
 ||qiviutsdextran.com^
 ||qivolcgcemi.com^
@@ -21728,6 +21750,7 @@
 ||qwtag.com^
 ||qxdownload.com^
 ||qxeemdpaerfjer.xyz^
+||qxgbgixnzcoen.com^
 ||qxhspimg.com^
 ||qxiabfmmtjhyv.com^
 ||qxjohabnsheyt.com^
@@ -21908,6 +21931,7 @@
 ||razingvexable.store^
 ||razzedlabras.com^
 ||razzlebuyer.com^
+||rbgrckaysvrp.com^
 ||rbljoyvsvtj.xyz^
 ||rblrekay.com^
 ||rbnt.org^
@@ -22688,6 +22712,7 @@
 ||rmbn.net^
 ||rmgfulosqmlcly.com^
 ||rmgserving.com^
+||rmhptjwikttv.com^
 ||rmixfgusqoc.com^
 ||rmmyqc.com^
 ||rmndme.com^
@@ -22896,6 +22921,7 @@
 ||rpts.org^
 ||rpzbfftekjdz.com^
 ||rqakljxbs.com^
+||rqdcusltmryapg.com^
 ||rqfedjzveel.com^
 ||rqhere.com^
 ||rqnomljdot.xyz^
@@ -24019,6 +24045,7 @@
 ||silentinevitable.com^
 ||silklanguish.com^
 ||silkyslyness.life^
+||silkytitle.com^
 ||sillagoalgae.website^
 ||sillinessinterfere.com^
 ||sillinessowner.com^
@@ -24602,6 +24629,7 @@
 ||speato.com^
 ||special-offers.online^
 ||special-promotions.online^
+||specialisthuge.com^
 ||specialistinsensitive.com^
 ||specialistrocky.com^
 ||specialityharmoniousgypsy.com^
@@ -24757,6 +24785,7 @@
 ||sqctkocts.com^
 ||sqgofqnyamo.com^
 ||sqhyjfbckqrxd.xyz^
+||sqkrnqdb.com^
 ||sqlekbxp.xyz^
 ||sqlick.com^
 ||sqqqytzxjywx.com^
@@ -24943,6 +24972,7 @@
 ||sternedcharas.cfd^
 ||sternlythese.com^
 ||steropestreaks.com^
+||sterouhavene.org^
 ||stethaug.xyz^
 ||stethydelicat.com^
 ||steveoriginate.com^
@@ -26995,6 +27025,7 @@
 ||twirlsengaud.life^
 ||twistads.com^
 ||twistconcept.com^
+||twistcrevice.com^
 ||twisteryirr.com^
 ||twisthello.com^
 ||twithdifyferukentas.info^
@@ -28330,6 +28361,7 @@
 ||vqglaz.com^
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
+||vqtyargb.com^
 ||vqzbzuhhxhcf.com^
 ||vrbmhngqjh.com^
 ||vrcjleonnurifjy.xyz^
@@ -28371,6 +28403,7 @@
 ||vuehhkm9.cfd^
 ||vuftouks.com^
 ||vugnubier.com^
+||vujriahqyleveh.com^
 ||vulgarmilletappear.com^
 ||vulguspyemic.com^
 ||vulnerableordered.com^
@@ -28643,6 +28676,7 @@
 ||wchctzzkzkhx.com^
 ||wci0jf62.cfd^
 ||wcmcs.net^
+||wcnndaazbwmane.com^
 ||wct.link^
 ||wcuolmojkzir.com^
 ||wcvyyacmnoamt.com^
@@ -29324,6 +29358,7 @@
 ||wrenko.com^
 ||wrensacrificepossibly.com^
 ||wrestlingembroider.com^
+||wretched-confusion.com^
 ||wretcheddrunkard.com^
 ||wretchmilitantasia.com^
 ||wrevenuewasadi.info^
@@ -30610,6 +30645,7 @@
 ||d18kg2zy9x3t96.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
 ||d18myvrsrzjrd7.cloudfront.net^
+||d18ql5xgy7gz3p.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||d192g7g8iuw79c.cloudfront.net^
 ||d192r5l88wrng7.cloudfront.net^
@@ -31075,6 +31111,7 @@
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
+||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
 ||d3ejxyz09ctey7.cloudfront.net^
 ||d3ep3jwb1mgn3k.cloudfront.net^
@@ -31205,6 +31242,7 @@
 ||d91i6bsb0ef59.cloudfront.net^
 ||d9b5gfwt6p05u.cloudfront.net^
 ||d9c5dterekrjd.cloudfront.net^
+||d9qjkk0othy76.cloudfront.net^
 ||d9yk47of1efyy.cloudfront.net^
 ||da26k71rxh0kb.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
@@ -45456,6 +45494,7 @@ brewbuzz.coffee
 brewedprovost.digital
 brewerbuild.info
 brewerbuild.net
+brewhnkkwyc.com
 brewing.in
 brewingarchiveselements.com
 brewsandwines.ch
@@ -48075,6 +48114,7 @@ cf.shuvramutules.com
 cf028.com
 cf9392209efce7ea7d33127045817e1c.com
 cfacessoryloja.com
+cfanwpchmaon.com
 cfasync.ga
 cfasync.ml
 cfasync.tk
@@ -48954,6 +48994,7 @@ cictivesmuha.xyz
 cideparenhem.com
 cidshqte.xyz
 cie-study.com
+ciedpso.com
 cieooupva.com
 ciernaruza.com
 cifadylwfrlktk.com
@@ -51245,6 +51286,7 @@ corrosionx.shop
 corrsnet.au
 corruptclients.com
 corruptheedless.com
+corruptmatter.com
 corruptstruckgames.com
 corsakpeize.com
 corteon.online
@@ -52570,6 +52612,7 @@ cy.daphnidepoch.com
 cy18.icu
 cyan92010.com
 cyanide151.tech
+cybdbxdrth.com
 cyber-counter.com
 cyber-guard.me
 cyber-winner.space
@@ -56237,6 +56280,7 @@ dreammancy.com
 dreampics.pro
 dreamplann.com
 dreamsaukn.co
+dreamsaukn.org
 dreamskilometre.com
 dreamsoppressive.com
 dreamssteps.net
@@ -62551,6 +62595,7 @@ fntvccjbnvku.com
 fnucqgskdh.top
 fnuvsfyylouxwu.com
 fnvpaeaqspti.xyz
+fnvsbchb.xyz
 fnxkntusnd.com
 fnyfiexpectth.info
 fnyfiexpectth.xyz
@@ -62990,6 +63035,7 @@ foughtheaveirritating.com
 fouglisy.net
 fouharoa.com
 foulageyamshik.life
+fouleewu.net
 foullypellate.space
 foulmouthfeminist.com
 founct.com
@@ -67053,6 +67099,7 @@ groovyailabs.com
 groovyailabs.eu
 groowhiwhi.com
 groowzer.com
+gropefore.com
 grorooque.com
 grortalt.xyz
 groselas.com
@@ -73750,6 +73797,7 @@ ivfpyqudlaxfvm.com
 ivfvfosaes.xyz
 ivhbtikwpr.com
 ivhe.site
+iviugcxgemuk.com
 ivjhagkukl.com
 ivjkdyrjjgxhch.com
 ivkrlktsji.top
@@ -81311,6 +81359,7 @@ m.www.unoakrookroo.com
 m.www.yourbestlandever.com
 m0hcppadsnq8.com
 m0res.xyz
+m0rsq075u.com
 m0x6b.com
 m1dnightclubx.com
 m2.ai
@@ -83155,6 +83204,7 @@ memney.com
 memo.bar
 memoeuro.world
 memopilot.com
+memorableeditor.com
 memorablehub.com
 memorandumdismissquietly.com
 memoriafotografica.com
@@ -84644,6 +84694,7 @@ mondayperpetratenice.com
 mondayscan.com
 mondaysdoris.com
 mondayunauthorized.com
+mondedingdistuebec.com
 mondialwering.com
 mondo-exotica.net
 mondodellafesta.it
@@ -85377,6 +85428,7 @@ muecjrqls.com
 mufajeyecjhbccq.com
 mufcrkk.com
 mufflealiases.com
+muffled-apartment.com
 mufflercypress.com
 mufflerlamia.com
 mufflerlightsgroups.com
@@ -85841,6 +85893,7 @@ myecosphere.life
 myedgereward.co.in
 myedgerewards.in
 myedgerewardsaxis.co.in
+myefforts.ru
 myemdwtjqkwvlmw.xyz
 myepoieksgdjla.com
 myequity.ca
@@ -85956,6 +86009,7 @@ myniagarastore.com
 myniceposts.com
 mynitrostore.co.uk
 mynlebwqmvapst.com
+mynntxtuihyqhkx.com
 mynorlandpure.com
 mynotads.com
 mynrmserver.com
@@ -94763,6 +94817,7 @@ pnjlnugel.com
 pnjsknbw.com
 pnkowdbcarxwjua.com
 pnkryvnr.xyz
+pnlhveuqjbl.com
 pnmensah.tech
 pnmoclqxtcsbw.com
 pnnuuljfxohkna.com
@@ -98273,6 +98328,7 @@ qviqautwqnf.com
 qvjpjsglmvhcbv.xyz
 qvlckjduksqw.com
 qvmayeodawruq.com
+qvmgdgqh.xyz
 qvol.tv
 qvorcqfon.com
 qvxbhoneqtta.info
@@ -105374,6 +105430,7 @@ silklanguish.com
 silkpassword.com
 silksheets.xyz
 silkyslyness.life
+silkytitle.com
 sillagoalgae.website
 silldisappoint.com
 sillinessinterfere.com
@@ -108354,6 +108411,7 @@ steroidhazeparticipate.com
 steroidmart.com
 steroids.direct
 steropestreaks.com
+sterouhavene.org
 stethalnv.digital
 stethaug.xyz
 stethydelicat.com
@@ -120712,6 +120770,7 @@ wclasswatch.com
 wclwtcyhj.xyz
 wcmcs.net
 wcnbtqarduxxoqo.com
+wcnndaazbwmane.com
 wcodibv.com
 wconfirmss.com
 wcosgnsgp.com
@@ -122732,6 +122791,7 @@ wrensacrificepossibly.com
 wrensobil.com
 wrestlingembroider.com
 wretchauraflirt.com
+wretched-confusion.com
 wretcheddrunkard.com
 wretchmilitantasia.com
 wretsreras1.com
@@ -137897,6 +137957,7 @@ xesmriqftx.com
 xetlugupyug.com
 xeubsxvltyiv.xyz
 xeuswz.com
+xeuvjibmrc.com
 xev2o.com
 xevbjycybvb.xyz
 xevlcr.com
