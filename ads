@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-16T18:09:20.906Z
+! Last modified: 2023-12-17T00:40:31.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -32083,6 +32083,7 @@
 133xto.to
 1348.yt
 1352014.xyz
+1357.wf
 1358785.com
 1362.yt
 13630gmail.com
@@ -32129,6 +32130,7 @@
 16066bf4a6.1c7154dd67.com
 1608.yt
 161286.com
+1634.wf
 163tp.com
 164995.com
 1652483.com
@@ -32631,6 +32633,7 @@
 2639iqjkl.de
 265e474e8c.660cba7db1.com
 266.in
+2683.wf
 268efb.com
 268stephe5en3king.com
 2694f0eeb6.com
@@ -32856,6 +32859,7 @@
 303ag0nc7.de
 303marketplace.com
 3051.yt
+3073.tf
 309073f80396.com
 30b9e3a7d7e2b.com
 30bt.com
@@ -32868,12 +32872,15 @@
 31396.info
 313rrr.com
 314gqd3es.de
+3150.wf
 3157.yt
+3158.wf
 3158.yt
 316feq0nc.de
 3174dad139.com
 3176.yt
 3184.yt
+3195.wf
 31bqljnla.de
 31cm5fq78.de
 31d6gphkr.de
@@ -32910,6 +32917,7 @@
 333tv.cc
 333veni.org
 3359pan.com
+3362.wf
 3369909.com
 337x.to
 3381.ma
@@ -32979,6 +32987,7 @@
 367tv.com
 369hezi.com
 36io.co
+3702.tf
 3724.yt
 3760k.com
 3761fcd24ef9281f5.com
@@ -32986,6 +32995,7 @@
 3762.yt
 3762626.com
 3782588.com
+3793.wf
 3796.in
 37fq.com
 37mst.tel
@@ -32996,6 +33006,7 @@
 3852.wf
 386-old-orchard.com
 387nn.com
+3886.wf
 3888ky.cc
 38c7418586.ad6011520d.com
 38hyv.pw
@@ -33232,9 +33243,11 @@
 48.tf
 480areacode.org
 48116b.com
+4815.wf
 4821.yt
 482199.comwww.000779.com86658.comwww.844644.com
 4825.yt
+4839.wf
 484222w.com
 486528289.cn
 486bb.com
@@ -33401,6 +33414,7 @@
 510areacode.org
 51345e7473.07ab456fe8.com
 5160bm59.pw
+5163.wf
 5163.yt
 516cables.com
 516rlog57.com
@@ -33427,10 +33441,12 @@
 5235a4b207.ad64463ef9.com
 523cn.com
 5240.tf
+5249.wf
 5255tw.com
 525linc.com
 525lincallston.com
 5261.ma
+5263.wf
 529db04bc39bc.com
 52cg10.com
 52cjg4.xyz
@@ -33438,6 +33454,7 @@
 52pojie.cm
 52suyingtv.com
 52wanyue.com
+5305.tf
 531shop.net
 532xcxypmpnp.com
 5336cf.com
@@ -33496,6 +33513,7 @@
 55thy.com
 55yy2.com
 561010.com
+5627.wf
 562i7aqkxu.com
 5641.yt
 567bets10.com
@@ -33739,6 +33757,7 @@
 6721.yt
 6725.yt
 67293b.com
+6731.wf
 6731.yt
 6732.yt
 6745jj.com
@@ -33883,6 +33902,7 @@
 70fn.com
 710e779685.b89d654db3.com
 7134.yt
+7147.wf
 714a39ef94.086f39952a.com
 71692fai4cc0.com
 7196.yt
@@ -33922,8 +33942,10 @@
 746fyw2v.com
 7480b.com
 7484.yt
+7487.wf
 74c1faa635.f3a173b897.com
 74ibcasino.xyz
+7531.wf
 7543.yt
 755.fun
 7557.yt
@@ -33936,6 +33958,7 @@
 760areacode.org
 7624.yt
 7631.yt
+7632.wf
 7638.wf
 7639.wf
 7658.tf
@@ -33952,6 +33975,7 @@
 7710458.ru
 7713.wf
 7720.tf
+7749.wf
 7765.in
 77667669052.click
 777-7777.ca
@@ -34148,8 +34172,10 @@
 85.ma
 8504.yt
 8520.yt
+8522.wf
 8547.wf
 855122c.com
+8556.wf
 8576.yt
 8597.yt
 85c485513f.com
@@ -34157,6 +34183,7 @@
 8624.tf
 8627.yt
 862afc8f42dd4d6ad04ecc7568a34b34.com
+8635.wf
 8642.wf
 864denture.com
 864feb57ruary.com
@@ -34167,7 +34194,9 @@
 86cb1dcb13ba5a1a.com
 86ren.net
 8705159.com
+8726.wf
 8731.yt
+8735.wf
 874444.comwww.601122.com
 8761f9f83613.com
 8763rt.com
@@ -34393,7 +34422,9 @@
 96b08b4df8.com
 96cd.net
 96i0.pw
+9728.wf
 975nqoq7.info
+9771.wf
 97727.comwww.677555.com
 977ky.app
 97a024119c.4c329124bb.com
@@ -35184,6 +35215,7 @@ accessorydistantdepths.com
 accessorytonegender.com
 accgndycisuxjh.com
 acches.com
+accidentalcrownincredible.com
 accidentalinfringementfat.com
 accidentallyrussian.com
 accidentsscene.com
@@ -35529,6 +35561,7 @@ adamimmobau.com
 adamjacobs.us
 adamsdao.com
 adamszaytoona.com
+adanad.name
 adanifoods.in
 adaptationbodilypairs.com
 adaptationdeployment.com
@@ -41762,6 +41795,7 @@ bakrfugarbi.com
 bakteso.ru
 baku-ix.org
 bakubabasilic.space
+bakubasugis.guru
 bakulaoofiest.website
 bakwasfello.com
 balagawala.in
@@ -53561,6 +53595,7 @@ deemcompatibility.com
 deemfriday.com
 deemsoil.com
 deemsteppemental.com
+deemwidowdiscourage.com
 deenclassic.com
 deenervixens.life
 deepanshieducation.com
@@ -82871,6 +82906,7 @@ medilogic.online
 medino.in
 mediocrestraightforward.com
 mediodia.org
+mediouno.com
 mediplata.link
 mediserve.tech
 meditatecable.com
@@ -83246,6 +83282,7 @@ messenger-notify.digital
 messenger-notify.xyz
 messengerinternfair.com
 messengerreadinessdriver.com
+messengershevelvet.com
 messianic.live
 messianicpraiseandworship.com
 messic.lol
@@ -83311,6 +83348,7 @@ metodo10500.com
 metonicthought.com
 metopeharriet.com
 metopemacaca.digital
+metorealiukz.org
 metosk.com
 metotreatwithdify.info
 metrebeggary.digital
@@ -88714,6 +88752,7 @@ nvduqupvlvnklb.xyz
 nversitymi.com
 nveryldgittle.cc
 nvfbnvetn.top
+nvgelwnecuw.com
 nvihpavfqlh.com
 nvkhafrjgupjv.com
 nvkyjvyyafo.com
@@ -90265,6 +90304,7 @@ onpqtcbambih.com
 onpsrrejx.com
 onqbcobjmyoun.com
 onraltstor.com
+onseleauks.org
 onsequentlys.xyz
 onservantas.org
 onsetknives.com
@@ -102083,6 +102123,7 @@ rxumbncw.xyz
 rxxwwkdakqgl.top
 rxyibxyxwjfknfj.com
 ry.sturteheaping.com
+ryanfrqxjl.com
 ryange.com
 ryangreenhall.com
 rybarskabasta.com
@@ -111600,6 +111641,7 @@ thebounce.network
 thebridgmongroup.com
 thebrightideasfactory.co.uk
 thebromudragroup.com
+thebtcups.net
 thebuildingblox.com
 thebusinesscouncil.us
 thebusinesspivot.com
@@ -120628,6 +120670,7 @@ wcwbkctsds.com
 wcxdmbqplf.xyz
 wcxegvp.com
 wcyapvikap.com
+wcycotzoxhvapo.com
 wd.roughyhashed.com
 wd282endfws.de
 wdavrzv.com
@@ -138043,6 +138086,7 @@ xlwuaappw.xyz
 xlwwfrbji.com
 xlxiauuawkdi.com
 xlxxigvr.top
+xlyhpurmfnlall.com
 xlzoo.com
 xlzrmlixkqykg.com
 xm.barthnullary.com
@@ -144614,6 +144658,18 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||elwcchbwtnohia.com^
+||bipidoan.com^
+||aksleaj.com^
+||imemediates.org^
+||tiotyuknsyen.org^
+||wirsilsa.net^
+||hoowuliz.com^
+||rooptawu.net^
+||nvgelwnecuw.com^
+||wcycotzoxhvapo.com^
+||avkktuywj.xyz^
+||xlyhpurmfnlall.com^
 ||rldwideorgani.org^
 ||ciedpso.com^
 ||acquisitionsneezeswell.com^
