@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-18T06:11:38.584Z
+! Last modified: 2023-12-18T12:15:04.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -93404,6 +93404,7 @@ ccosmetic.site
 ccre1.club
 cctyoo.com
 ccvisal.xyz
+cd2in.com
 cdactvm.in
 cdc.com
 cdclot.com
