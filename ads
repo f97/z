@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-17T18:09:21.933Z
+! Last modified: 2023-12-18T00:38:22.900Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -33533,6 +33533,7 @@
 534zh.com
 535666h.com
 5360.xyz
+5368.wf
 5370.yt
 5372.wf
 53887.comwww.601122.com
@@ -33741,6 +33742,7 @@
 6080sb.com
 6082.yt
 608520.com
+6095.wf
 60sehua.com
 61-nmobads.com
 61.225www.profitablecreativeformat.com
@@ -33798,6 +33800,7 @@
 65010191910guide-sgstoping.fr
 6512.wf
 6532.wf
+6542.wf
 65446a.com
 65535.la
 6581.yt
@@ -34059,6 +34062,7 @@
 777887.comwww.844644.com
 77799478-1b98-4821-93bf-1687a3f5a0f3.www.acessoriosparablogs.com.br
 777dy.net
+7792.wf
 77acres.com
 77dpp.com
 77seaa.com
@@ -34198,6 +34202,7 @@
 811sante.com
 8123899.com
 813areacode.org
+8162.wf
 8167.yt
 817008.comwww.601122.com
 8174.yt
@@ -43107,6 +43112,7 @@ besinpbx.com
 besirenfeijoa.live
 beskittyan.com
 besmeargleor.com
+besnaresetwise.uno
 besortkotower.website
 besotniobate.live
 besoyeto.shop
@@ -43605,6 +43611,7 @@ bicyclelistpermanentlyenslave.com
 bicyclelistworst.com
 bid.glass
 bidbadlyarsonist.com
+bidbeneficial.com
 bidclickmedia.com
 biddan.net
 bidder.dev
@@ -53331,6 +53338,7 @@ dbkdwe1.com
 dbkfnjoda.com
 dblbkinsuswpr.com
 dbmzgcmqqi.com
+dboard.app
 dbobnmjg.com
 dbokfbjmui.com
 dbooksbysecon.com
@@ -64593,6 +64601,7 @@ gdqqmm2.com
 gdrisajx.com
 gdspinacotecabo.it
 gdtvssyjarjussi.com
+gdwfhelbww.com
 gdwmlxgwjn.xyz
 gdwqrnjpjlt.com
 gdxxvkjdsjjxq.com
@@ -71602,6 +71611,7 @@ ijommwpcv.com
 ijpjchxjddjsvm.xyz
 ijpsmxgvn.xyz
 ijqbhuubyg.com
+ijrmafzydeieuo.com
 ijukwkxpek.xyz
 ijwhmybgth.xyz
 ijxnnrnp.xyz
@@ -73367,6 +73377,7 @@ irinto.com
 irisaffectioneducate.com
 irischangelessdisposed.com
 irish-platinum.com
+irishdaytours.mobi
 irishloopartisans.com
 irishorridamount.com
 irisingjonquil.life
@@ -76186,6 +76197,7 @@ kapishenterprise.in
 kapkmobuqh.com
 kapnruwy.com
 kapooks.com
+kappashoesoutlet.com
 kaprcode.com
 kapso.net
 kapverdy.org
@@ -83533,6 +83545,7 @@ mgdgeycqgv.xyz
 mggckhjvtgc.top
 mggslmeqtyfxb.com
 mghkpg.com
+mgjgqztw.com
 mgjnmfhyis.xyz
 mglep.com
 mgmarina.org
@@ -98899,6 +98912,7 @@ raspiernauseas.com
 rasqitgikqz.com
 rasrasila.com
 rastie.me
+rastislavkish.com
 rastledundo.com
 rastmanesh.com
 ratantata.life
@@ -115965,6 +115979,7 @@ ubsjyqfek.com
 ubstravel.com
 ubtcaresfoundation.com
 ubtcdosgovuj.xyz
+ubthyoitrr.com
 ubunturama.co.uk
 ubunturama.com
 ubuwwswnceqmjtg.xyz
@@ -141270,6 +141285,7 @@ zz9zzza.org
 zzautoparts.in
 zzdb5p4upiug.com
 zzfeyxsxausqk.com
+zzhyebbt.com
 zzhymj.com
 zzialtlewmzqki.com
 zzitj.com
