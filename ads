@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-18T00:38:22.900Z
+! Last modified: 2023-12-18T06:11:30.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -48903,6 +48903,7 @@ christopherbobyn.com
 christopherkuczynski.com
 christrati.com
 christthekingchildcarecentre.ca
+christywouldn.life
 chrochr.com
 chroenl.com
 chrok.co
@@ -52580,6 +52581,7 @@ cwuwueeyfhvysld.com
 cwvfikunas.com
 cwvinylspecialists.co.uk
 cwwspxawd.com
+cwxkindooocc.com
 cwyeturjusmmym.xyz
 cx.reciteaerated.com
 cxafxdkmusqxsa.xyz
@@ -52711,6 +52713,7 @@ cyulmorbify.tech
 cywwpqgmjmthyo.com
 cyxgidgovvhbgeg.xyz
 cyyeurxsxfa.com
+cyyhkeknmbe.com
 cyyjhkhgt.com
 czarhonoraryrunning.com
 czboox.xyz
@@ -55700,6 +55703,7 @@ dohsnowentities.com
 doiavhqvduy.com
 doigtepyramid.com
 doingporteddispose.com
+doingsfanglet.website
 doingwatt.live
 doiturselfplumbing.net
 dojnupibfkbm.top
@@ -97987,6 +97991,7 @@ qqbangding.com
 qqcelibyhssedfu.com
 qqcom3.com
 qqdkpswo.xyz
+qqgfubewassi.com
 qqikcufcsel.com
 qqjar.ru
 qqkabucnd.com
@@ -140467,6 +140472,7 @@ zbgvyargb.com
 zbitsdesign.com
 zbnfhsk.com
 zbrojak.online
+zbvhwaakws.com
 zc.crosaean.com
 zcaadfl.com
 zcekqwlqktzrfq.com
