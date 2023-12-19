@@ -3,7 +3,7 @@
 ! Description: DNS block list social that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T06:27:33.090Z
+! Last modified: 2023-12-19T06:30:03.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
