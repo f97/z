@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T12:14:23.200Z
+! Last modified: 2023-12-19T18:08:22.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11228,13 +11228,11 @@ data.mistat.rus.xiaomi.com
 ||ip-info.ff.avast.com^
 ||ipm-provider.ff.avast.com^
 ||shepherd.ff.avast.co^
-||shepherd.ff.avast.com^
 ||streamback.ff.avast.com^
 ||uib.ff.avast.com^
 ||vanheim.ff.avast.com^
 ||ipmcdn.avast.com^
 ||mobile-campaigns.avast.com^
-||ncc.avast.com^
 ||bugs-bunny.sb.avast.com^
 ||shepherd.sb.avast.com^
 ||stats.avast.com^
@@ -44562,8 +44560,6 @@ data.mistat.rus.xiaomi.com
 ||track.opentable.de^
 ||tracking.opentable.com^
 ||piwik.opentechinstitute.org^
-||campaigns.opentext.com^
-||resources.opentext.com^
 ||opentracker.net^
 ||openvenue.com^
 ||openx.com^
@@ -88263,6 +88259,7 @@ animeappeal.com
 animecools.com
 animent.xyz
 animeoaus.com
+animethighssavelives.com
 animex98.com
 anindyasen.com
 aniplay.xyz

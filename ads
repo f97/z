@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T12:14:17.324Z
+! Last modified: 2023-12-19T18:08:16.584Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2981,6 +2981,7 @@
 ||armourhardilytraditionally.com^
 ||armoursviolino.com^
 ||armpeeoy.com^
+||army.delivery^
 ||arnautjamdani.com^
 ||arnchealpa.com^
 ||arnimalconeer.com^
@@ -3001,6 +3002,7 @@
 ||arquilavaan.com^
 ||arqznlwzkkaev.top^
 ||arqznlwzkkjla.top^
+||arragouts.com^
 ||arrangementsinventorpublic.com^
 ||arrayanthir.cfd^
 ||arrearsexplicit.com^
@@ -4274,6 +4276,7 @@
 ||bhcostefja.com^
 ||bhcumsc.com^
 ||bhlph.com^
+||bhnhejwj.com^
 ||bhnjwmega.com^
 ||bhqfnuq.com^
 ||bhtcjurm.com^
@@ -4576,6 +4579,7 @@
 ||bngwlt.com^
 ||bnhtml.com^
 ||bnmjjwinf292.com^
+||bnmkl.com^
 ||bnohewjt.com^
 ||bnpdehtxdeamt.xyz^
 ||bnpmtoazgw.com^
@@ -6918,6 +6922,7 @@
 ||cristianonaldo.com^
 ||cristifibster.life^
 ||critariatele.pro^
+||criticaltriggerweather.com^
 ||criticismheartbroken.com^
 ||criticpraiser.com^
 ||crittercorupay.com^
@@ -9345,6 +9350,7 @@
 ||eqacypykxa.com^
 ||eqads.com^
 ||eqkjmvkkmvvkj.top^
+||eqktmnuojibw.com^
 ||eqmyjnyjzqzkl.top^
 ||equabilityassortshrubs.com^
 ||equatorabash.com^
@@ -9546,6 +9552,7 @@
 ||evgywgur.com^
 ||eviclick.pro^
 ||evidentlysoup.com^
+||evifokcrmhdmai.com^
 ||evilshortcut.com^
 ||evitinghabnab.guru^
 ||evlutvsyfegi.com^
@@ -9771,6 +9778,7 @@
 ||f0657e4fd5.com^
 ||f07neg4p.de^
 ||f19013235f.com^
+||f28bb1a86f.com^
 ||f28fda58c5.com^
 ||f2bdeb5c8c.com^
 ||f2fc0fce65.com^
@@ -10283,6 +10291,7 @@
 ||firkedpace.life^
 ||firmlychurchyard.com^
 ||firmlylowest.com^
+||firmsossa.guru^
 ||firnebmike.live^
 ||firon.xyz^
 ||first-pollution.pro^
@@ -10408,6 +10417,7 @@
 ||flixdot.com^
 ||flmfcox.com^
 ||flneurtoyed.tech^
+||flnxcveswar.com^
 ||floatingfolly.com^
 ||floccischlump.com^
 ||flockgallies.com^
@@ -10938,6 +10948,7 @@
 ||fykdxpdnhy.com^
 ||fyvdxqufaxkli.com^
 ||fzbjzlwcnd.com^
+||fzfcrqlwph.com^
 ||fztmn.top^
 ||g-statistic.com^
 ||g0gr67p.de^
@@ -12734,6 +12745,7 @@
 ||hopilos.com^
 ||hopliteracy.com^
 ||hopperbanespirits.com^
+||hopperimprobableclotted.com^
 ||hopsackmoth.com^
 ||hoptopboy.com^
 ||hopuchcompa.com^
@@ -15158,6 +15170,7 @@
 ||lammasbananas.com^
 ||lampschintzy.com^
 ||lanaisgoll.com^
+||lanatesourock.uno^
 ||landelcut.com^
 ||landforgreatapp.com^
 ||landitmounttheworld.com^
@@ -15701,6 +15714,7 @@
 ||lnbswijsipf.com^
 ||lncfuqbgpnmxm.xyz^
 ||lnjdmsbyytwl.com^
+||lnjmaymlmnkyn.top^
 ||lnk8j7.com^
 ||lnkrdr.com^
 ||lnkvv.com^
@@ -16044,6 +16058,7 @@
 ||lvpcxqcoohcviks.com^
 ||lvskhjsloiqviv.xyz^
 ||lvwdrsrerso.com^
+||lvwuuehkvitwn.com^
 ||lwckcytdbsg.com^
 ||lwgadm.com^
 ||lwghtbqqmbxiet.com^
@@ -17520,6 +17535,7 @@
 ||naewynn.com^
 ||nafaec.com^
 ||naffor.com^
+||naforeshow.org^
 ||naganoadigei.com^
 ||nagarh.com^
 ||naggingirresponsible.com^
@@ -18384,6 +18400,7 @@
 ||oazartie.com^
 ||oazoorse.com^
 ||obadluhjxnsnfv.com^
+||obanmafn.com^
 ||obbkucbipw.com^
 ||obdoboli.xyz^
 ||obdtawpwyr.com^
@@ -19163,6 +19180,7 @@
 ||oujouniw.com^
 ||oukiacryst.com^
 ||oukoushu.xyz^
+||ouldhukelpm.org^
 ||oulrarta.net^
 ||oulrukry.xyz^
 ||oulsools.com^
@@ -21623,6 +21641,7 @@
 ||qksz.net^
 ||qkyliljavzci.com^
 ||qlfqkjluvz.com^
+||qlmwgibhbhar.com^
 ||qlnccjattetsoq.com^
 ||qlspx.com^
 ||qlvlaqcd.com^
@@ -21644,6 +21663,7 @@
 ||qodyldusxloinpn.com^
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
+||qokesjxpbds.com^
 ||qomate.xyz^
 ||qomuchorindownlo.xyz^
 ||qooanabj.com^
@@ -21678,6 +21698,7 @@
 ||qr-captcha.com^
 ||qrawitobfm.com^
 ||qrclevrfjw.com^
+||qrdnpjxic.com^
 ||qreakingoutinteah.xyz^
 ||qrlsx.com^
 ||qroagwadndwy.com^
@@ -21805,6 +21826,7 @@
 ||qz496amxfh87mst.com^
 ||qzkjkiexmsyv.com^
 ||qzqmrlqnnzwab.top^
+||qzyllgqficyd.com^
 ||qzynbzjrkarma.top^
 ||r-tb.com^
 ||r023m83skv5v.com^
@@ -24393,6 +24415,7 @@
 ||smokingspecialize.com^
 ||smoothlytalking.com^
 ||smotherpaperwork.com^
+||smoulderhangnail.com^
 ||smrt-content.com^
 ||smrtgs.com^
 ||smrtlnk.net^
@@ -25187,6 +25210,7 @@
 ||strugglecookingtechnically.com^
 ||strumascarman.life^
 ||strungglancedrunning.com^
+||strwaoz.xyz^
 ||stthykerewasn.com^
 ||stubborndreadcounterfeit.com^
 ||stuchoug.com^
@@ -26588,6 +26612,7 @@
 ||toxaminbowtell.com^
 ||toxicfluency.com^
 ||toxicrookie.com^
+||toyjofkkcdyr.com^
 ||toykifojsyufdba.xyz^
 ||toykiykmjbr.xyz^
 ||toymenbenes.uno^
@@ -27164,6 +27189,7 @@
 ||uckbcroqkb.com^
 ||uckbrokennailsa.xyz^
 ||ucocesisfulyly.info^
+||ucqbhkrzsqpqmg.com^
 ||ucteqibnblrjhpb.com^
 ||ucvscfrtrnbr.xyz^
 ||udarem.com^
@@ -29686,6 +29712,7 @@
 ||xoimmmhfha.com^
 ||xojepxhvvan.com^
 ||xoktditxsmr.xyz^
+||xonyxdpnelhzi.com^
 ||xotgpql.com^
 ||xoyuxostayam.com^
 ||xpkftctvei.com^
@@ -29836,6 +29863,7 @@
 ||ycywhmyiixjafa.com^
 ||yczrgigyspm.com^
 ||ydbbbegf.xyz^
+||ydbmeagwyakdfl.com^
 ||ydenknowled.com^
 ||ydevelelasticals.info^
 ||ydfavbj.com^
@@ -29960,6 +29988,7 @@
 ||ymchcohvncak.xyz^
 ||ymuitydkdoy.com^
 ||ymwehrducswbeu.com^
+||ynaapihbulbky.com^
 ||yndmorvwdfuk.com^
 ||yneationsliee.xyz^
 ||ynisramnmcm.com^
@@ -30314,6 +30343,7 @@
 ||zkawzmlvqjejy.top^
 ||zkczzltlhp6y.com^
 ||zlacraft.com^
+||zlbvewof.com^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkc.com^
@@ -37456,6 +37486,7 @@ akrpkhalhui.com
 aksgltcwqqhord.com
 aksharspotlight.com
 akshkluwivscsq.com
+aksleaj.com
 aksscribe.com
 aktc.online
 akthhdswgdoyrkl.com
@@ -39788,6 +39819,7 @@ arms-retcode-sg-aliyuncs.com
 armsites.info
 armsmy.com
 armundra.com
+army.delivery
 arnautjamdani.com
 arnautneuroma.life
 arnavchaudhary.tech
@@ -51988,6 +52020,7 @@ cristus.ventures
 critariatele.pro
 criterionhotelwarwick.com.au
 criticalduring.com
+criticaltriggerweather.com
 criticismheadphoneprinting.com
 criticismheartbroken.com
 criticpraiser.com
@@ -60126,6 +60159,7 @@ evtols.uk
 evushuco.com
 evvstay.com
 evvykulupl.com
+evwmwnd.com
 evzhzppj5kel.com
 evzonesglowfly.cfd
 evzxlgstwcai.com
@@ -62095,6 +62129,7 @@ firmenia.com
 firmingpanung.live
 firmlychurchyard.com
 firmlylowest.com
+firmsossa.guru
 firnebmike.live
 firon.xyz
 first-pollution.pro
@@ -62503,6 +62538,7 @@ flndmy.app
 flndmyiphone.me
 flneurtoyed.tech
 flnns.yt
+flnxcveswar.com
 floatingfolly.com
 floatr.app
 flobertho.org
@@ -64121,6 +64157,7 @@ fz.wingeraahs.com
 fzbetoikqtxdy.com
 fzbjzlwcnd.com
 fzdpvjatkwpg.com
+fzfcrqlwph.com
 fzfqjmjrrnex.com
 fzfxqjilrzvdw.com
 fzgyvbrmwzho.com
@@ -65230,6 +65267,7 @@ ggtxdvuwbqjbrj.com
 ggubmneaaefglxq.top
 ggxcoez.com
 ggxyyalrj.com
+ggycituxsgquipr.com
 ggzckmlts.com
 ggzkgfe.com
 gh.spaleswairsh.com
@@ -65426,6 +65464,7 @@ gippingrefont.com
 gipsiesthyrsi.com
 gipsouglow.com
 gipszlepcsokft.com
+giqaanwmqwowemt.com
 giraffacoala.uno
 giraffedestitutegigantic.com
 girayurveda.com
@@ -86460,6 +86499,7 @@ nafaec.com
 naffor.com
 nafizinternational.com
 nafjwnaadoiso.com
+naforeshow.org
 nafpghhxoatbkn.com
 nafrebnkxlmgos.com
 nafulltiuk.com
@@ -89959,6 +89999,7 @@ oipcgame.com
 oiruy.com
 oisqckeiqwyg.com
 oitransport.com
+oitsbohnpifhbg.com
 oitxgtqcqpyg.com
 oiugtcuhorp.com
 oiuxkcdthqyih.com
@@ -91457,6 +91498,7 @@ oukoushu.xyz
 oukruque.com
 oulclufyqawwip.com
 oulddothesa.biz
+ouldhukelpm.org
 ouldlikukemyfu.com
 oulrarta.net
 oulrukry.xyz
@@ -98108,6 +98150,7 @@ qohswhbuvq.xyz
 qoihuvvgwlpsb.xyz
 qojbimnq.com
 qojmsjtwnppjn.com
+qokesjxpbds.com
 qomate.xyz
 qomhuetylc.com
 qomuchorindownlo.xyz
@@ -98201,6 +98244,7 @@ qrclevrfjw.com
 qrcnvqowvxuh.com
 qrcode-a.com
 qrcode-og.com
+qrdnpjxic.com
 qreakingoutinteah.xyz
 qrgdgfxovf.com
 qrhgjmqpx.xyz
@@ -109092,6 +109136,7 @@ strugglecookingtechnically.com
 strumascarman.life
 strungglancedrunning.com
 strustedrealty.com
+strwaoz.xyz
 sts01.com
 stsstorage.ca
 stt011.com
@@ -109880,6 +109925,7 @@ svatebniregistr.com
 svatopluk.org
 svatyludovitmaria.com
 svbjqjebtkbc.com
+svbmwmignhoyyii.com
 svbzpenplok.com
 svclrdkhuwr.xyz
 svedskekapky.com
@@ -115461,6 +115507,7 @@ ttnymvvcvwkt.com
 ttoc8ok.com
 ttoefanyorget.one
 ttokyme.online
+ttpnceqnej.com
 ttprot.com
 ttqpgbqe.top
 ttquklpnxeuajve.xyz
@@ -124416,6 +124463,7 @@ www.anonymouswrangle.com
 www.anotherdoinass1.com
 www.anrdoezrs.net
 www.ansarclip.com
+www.ansera.cloud
 www.anshcrm.com
 www.anspeechless.com
 www.antagonizelabourer.com
@@ -125922,6 +125970,7 @@ www.centralgoverment.com
 www.centurylandscapeface.com
 www.ceo71.com
 www.cephalexinyns.com
+www.ceprasinc.com
 www.cerbahealtcare.it
 www.cerebralvortexgames.com
 www.cerialhd.org
@@ -130158,6 +130207,7 @@ www.inoffensiveguidancefavour.com
 www.inopportunetorn.com
 www.inorlandohomes.com
 www.inpatienthectic.com
+www.inproduction.org
 www.inquiredcriticalprosecution.com
 www.inquiriesdishonest.com
 www.inquirybloom.com
@@ -137748,6 +137798,7 @@ www.zuzanu.com
 www.zvbtw.com
 www.zwmkfoo.cn
 www.zyinfotech.com
+www.zypneos.com
 www.zz1370.com
 www.zzitj.com
 www00766666.com
