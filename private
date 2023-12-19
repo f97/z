@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T06:30:01.840Z
+! Last modified: 2023-12-19T10:44:36.059Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -44655,7 +44655,6 @@ data.mistat.rus.xiaomi.com
 ||optimix.asia^
 ||optimix.cn^
 ||analytics.optimizedpayments.com^
-||optimizely.com^
 ||optimizesrv.com^
 ||optimizeyourmac.com^
 ||optimonk.com^

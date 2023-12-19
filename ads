@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T06:29:51.889Z
+! Last modified: 2023-12-19T10:44:27.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -58488,6 +58488,7 @@ elliotretained.com
 ellmtlvlpihr.com
 ellorafestival.in
 ellpaniers.com
+ellrose.net
 elltheprecise.org
 elmamlaka.cafe
 elmarai.net
@@ -59301,6 +59302,7 @@ eqfnqvdtdlj.com
 eqhegcbxmsgwil.com
 eqhrfpsvfk.com
 eqjkdifmtfpxdpd.com
+eqktmnuojibw.com
 eqmodukfq.com
 eqngcxaaw.com
 eqokqklgjeulkq.com
@@ -75406,6 +75408,7 @@ joorijet.net
 jopalcvcs.com
 jopdrnxwrbdhn.com
 jopiseeledqphc.com
+jopnar.com
 jopoleryet.com
 joqdqvvyeilfl.com
 joqgeluheatlqy.com
@@ -75585,6 +75588,7 @@ jqqbsqjksfmmbxy.com
 jqqewvxp.club
 jqqewvxp.life
 jqqoupnggsuoh.com
+jqrhelpdesk.com
 jqtree.com
 jquery-cdn.download
 jquerycdn.host
@@ -89293,6 +89297,7 @@ ob.crowsporer.com
 obadluhjxnsnfv.com
 obagicanada.com
 obal.top
+obanmafn.com
 obashwmzrfofi.com
 obatkistaacemaxs.net
 obatkuatmalang.net
@@ -106036,6 +106041,7 @@ sjvlgxotriwbgaf.com
 sjwxsxgfszkxtq.com
 sjylreksuboocld.com
 sjylz.yt
+sk-paganpride.com
 sk1nsm0nkey.us
 skagasasjm.com
 skamvikitor.com
@@ -111273,6 +111279,7 @@ teezyfun.xyz
 tefaighecmoa.com
 tefections.xyz
 teflonterreen.com
+tefst.com
 tefuse.com
 tegcdvugqqn.com
 tegronews.com
@@ -122069,6 +122076,7 @@ wildabsurdobject.com
 wildberries2023.website
 wildberrless-vip.pw
 wildeastk9.com
+wilderbloomauthor.com
 wildernessproven.com
 wildfieldmn.com
 wildfire-cc.com
