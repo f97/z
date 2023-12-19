@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T10:44:27.338Z
+! Last modified: 2023-12-19T12:14:17.324Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -34724,6 +34724,7 @@ a-waiting.com
 a.audrte.com
 a.exdynsrv.com
 a.propellerclick.com
+a.www.psaumseegroa.com
 a012258cb2.fde1403147.com
 a04ea1b287.cc77769ad8.com
 a0675c1160de6c6.com
@@ -99064,6 +99065,7 @@ rar-archiver.top
 rar-lab.top
 rarath.com
 rarbg.com
+rarbgaccess.org
 rarbgmirror.com
 rarbgmirror.org
 rarechats.blog
