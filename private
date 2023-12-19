@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-18T18:10:22.349Z
+! Last modified: 2023-12-19T00:37:51.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -24280,7 +24280,6 @@ data.mistat.rus.xiaomi.com
 ||dprtb.com^
 ||dpsqqaaqbc.com^
 ||dpxynh.xyz^
-||m.dq.com^
 ||dq95d35.com^
 ||dqagyks.com^
 ||dqazwsxd.xyz^
@@ -67305,7 +67304,6 @@ hlog.hiido.com
 hlserve.com
 holdingwager.com
 holdsoutset.com
-hollercatastrophe.com
 honestlydeploy.com
 honestlyvicinityscene.com
 honoursdashed.com
@@ -79347,7 +79345,6 @@ plymedia.com
 pnsdkapi.turktelekom.com.tr
 po.st
 pointmediatracker.com
-polar.me
 polarbyte.com
 polarmobile.com
 pollpublicly.com
@@ -81211,7 +81208,6 @@ tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.unrealengine.com
 tracking.websitealive.com
-tracking.wetter.at
 tracking.wpnetwork.eu
 trackivation.com
 trackjs.com
@@ -125097,6 +125093,7 @@ team66.contctshq.click
 team68.supportapp.click
 team71.contcthq.click
 team75.thesupprts.click
+team76.contctly.click
 teamails.net
 teamapp.click
 teamblogger.com
@@ -130363,6 +130360,7 @@ wyieiolo.com
 wynwoodfarms.com
 wyob.com
 wypadki-w-modzie.pw
+wyszukalik.eu
 wyvernstor.me
 wyvernstores.me
 wywc.com
