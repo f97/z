@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-19T00:37:45.108Z
+! Last modified: 2023-12-19T06:10:54.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3768,6 +3768,7 @@
 ||bambao.lol^
 ||bambarmedia.com^
 ||banagonatural.tech^
+||banbuyserve.com^
 ||banclip.com^
 ||bandageretaliateemail.com^
 ||bande2az.com^
@@ -11691,6 +11692,7 @@
 ||gorillasneer.com^
 ||gorillatraffic.xyz^
 ||gorillatrk.com^
+||gorillatrking.com^
 ||gorkt.com^
 ||gororn.com^
 ||gorskprof2it8og09.com^
@@ -14329,6 +14331,7 @@
 ||jowarblushed.space^
 ||jowliercollude.com^
 ||jowlishdiviner.com^
+||joxaviri.com^
 ||joycreatorheader.com^
 ||joyfulfearsome.com^
 ||joygaskin.com^
@@ -18472,6 +18475,7 @@
 ||occxhidubbh.com^
 ||ocddolmggjc.com^
 ||ocdouoqjvmn.com^
+||ocean-trk.com^
 ||oceanfilmingexperience.com^
 ||oceanvids.space^
 ||ocexprhrknxrhe.com^
@@ -26657,7 +26661,6 @@
 ||tractusoutsum.com^
 ||tradbypass.com^
 ||trade46-q.com^
-||tradertimerz.media^
 ||trading21s.com^
 ||tradingken.com^
 ||tradingpancreasdevice.com^
@@ -41923,6 +41926,7 @@ bakley.net
 bakongojotted.com
 bakquka.com
 bakrfugarbi.com
+bakshiturnkey.top
 bakteso.ru
 baku-ix.org
 bakubabasilic.space
@@ -42030,6 +42034,7 @@ banana-way.in
 bananastouching.com
 banapplegofres.com
 banawyhjc.com
+banbuyserve.com
 bancainermobiliare.it
 bancas.club
 banchatgpt.com
@@ -45818,6 +45823,7 @@ browsiprod.com
 browsobsolete.com
 browsterstack.com
 brozgar.com
+brppwfej.com
 brqbobrnrsfo.com
 brqhyzk.com
 brqvld0p.com
@@ -57407,6 +57413,7 @@ eb3a94f7c8.fa479896c7.com
 eb554aa4ca.ab08706bb4.com
 ebastore.com
 ebay-kleinwerbung.de
+ebbaybrinmacake.tk
 ebbetsgourded.com
 ebbpendjp.com
 ebcfjgnjw.com
@@ -60058,6 +60065,7 @@ evidhjksdtgyxrh.xyz
 evidyakosh.com
 evieshouseoftravel.online
 eviety.com
+evifokcrmhdmai.com
 evilhost24eifvco.com
 evilhostd1f0h2qo.com
 evilhostgxkamtkd.com
@@ -75468,6 +75476,7 @@ jowlishdiviner.com
 jownix.com
 jowrumored.live
 jowstore.com
+joxaviri.com
 joxys.com
 joycasino-2joycasino.xyz
 joycasino-3joycasino.xyz
@@ -87748,6 +87757,7 @@ nhwgeqxvkrm.com
 nhwvvotobbbe.xyz
 nhwvxjpjn.com
 nhxfcpiuwoh.com
+nhydgwigyiwfqt.xyz
 nhylttlipdgovpa.com
 niacteducation.com
 niagamall.com
@@ -116219,6 +116229,7 @@ ucnysewxikn.com
 ucocesisfulyly.info
 ucomdigital.com
 ucpdaoweahmiyug.com
+ucqbhkrzsqpqmg.com
 ucraeacekjmvcjo.com
 ucrllagm.com
 ucteqibnblrjhpb.com
@@ -131749,6 +131760,7 @@ www.mndd8.app
 www.mnmoe.com
 www.mnuinfinity.com
 www.moaningtread.com
+www.moaptaidu.com
 www.mobtrendinsanity.com
 www.mockingcolloquial.com
 www.mocvanhi.net
@@ -139398,6 +139410,7 @@ ydaqlrybobrlql.com
 ydaqwwbaa.xyz
 ydarwis.com
 ydbbbegf.xyz
+ydbmeagwyakdfl.com
 ydbuspblfwqnhhb.com
 ydcruqwe.com
 ydenknowled.com
@@ -139825,6 +139838,7 @@ ymymcovmwu.com
 ymyryg.ru
 ymzrrizntbhde.com
 yn.acridylpinhold.com
+ynaapihbulbky.com
 ynatudnuwc.com
 ynbkrslw.com
 yncflpnpvbrl.com
