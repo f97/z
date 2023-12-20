@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-20T12:11:56.639Z
+! Last modified: 2023-12-20T18:09:57.126Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3072,6 +3072,7 @@
 ||ascomamizzen.com^
 ||ascraftan.com^
 ||asdasdad.net^
+||asdf1.online^
 ||asdf1.site^
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
@@ -4271,6 +4272,7 @@
 ||bf600e1d51.com^
 ||bf9c674cc0.com^
 ||bfast.com^
+||bfbkqmoxrh.com^
 ||bfda839646.com^
 ||bfovysc.com^
 ||bfqwfpjdgc.com^
@@ -4623,6 +4625,7 @@
 ||boaroowhon.com^
 ||boarshrubforemost.com^
 ||boastego.xyz^
+||boastemployer.com^
 ||boaswooned.com^
 ||boatheeh.com^
 ||boatobservefreshman.com^
@@ -6452,6 +6455,7 @@
 ||comenicurled.space^
 ||comermormal.com^
 ||comezz.xyz^
+||comfortable-preparation.pro^
 ||comfortclick.co.uk^
 ||comfortlessspotsbury.com^
 ||comfreeads.com^
@@ -6969,6 +6973,7 @@
 ||croplake.com^
 ||crossroaddividerecorded.com^
 ||crossroadoutlaw.com^
+||crossroadparalysisnutshell.com^
 ||crottlerennin.com^
 ||croupyjacu.life^
 ||crowbarorchat.uno^
@@ -8131,6 +8136,7 @@
 ||dmnprx.com^
 ||dmopqjaswvmvopm.com^
 ||dmowvblljmkqx.com^
+||dmrdnujvzo.com^
 ||dmrtx.com^
 ||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
@@ -9208,6 +9214,7 @@
 ||enbclpbyi.com^
 ||enbjrjyjrbynexl.xyz^
 ||encampmentgeologydetective.com^
+||enchainwalker.com^
 ||enchanted-stretch.pro^
 ||enchroe.com^
 ||encirclesheriffemit.com^
@@ -9679,6 +9686,7 @@
 ||executiontoothache.com^
 ||exemplarif.com^
 ||exemplary-range.pro^
+||exemplarychemistry.com^
 ||exemptrequest.com^
 ||exercisefeeling.com^
 ||exertheadlight.com^
@@ -11145,6 +11153,7 @@
 ||gaukluthern.website^
 ||gaulshiite.life^
 ||gaumishhipshot.com^
+||gaumoata.com^
 ||gaupingjaguar.com^
 ||gaupsaur.xyz^
 ||gausic.com^
@@ -14928,6 +14937,7 @@
 ||kmgzyug.com^
 ||kmhfsrwqdu.com^
 ||kmkixuha.com^
+||kmkthnyd.com^
 ||kmlvdhequlpli.com^
 ||kmmsfoqbhc.xyz^
 ||kmmtxfwntcnyd.com^
@@ -15540,6 +15550,7 @@
 ||lgdmconwvygoo.com^
 ||lgfiufyaycsh.com^
 ||lghqdjhilj.com^
+||lgqqhbnvfywo.com^
 ||lgse.com^
 ||lgtdkpfnor.com^
 ||lgviqkrimvmy.xyz^
@@ -15800,6 +15811,7 @@
 ||lnkyqvkyznkvz.top^
 ||lntriguingdate.net^
 ||lntrigulngdates.com^
+||lnvabjwmrlmzb.top^
 ||lnzqmaqzjlnnw.top^
 ||lo8ve6ygour3pea4cee.com^
 ||loachesmanjeri.space^
@@ -16220,6 +16232,7 @@
 ||maboazolsamp.com^
 ||mabtcaraqdho.com^
 ||macan-native.com^
+||macaronibackachebeautify.com^
 ||macaroniwalletmeddling.com^
 ||macedonjesse.life^
 ||macemaninbond.com^
@@ -16456,6 +16469,7 @@
 ||marormesole.com^
 ||marphezis.com^
 ||marquegoosey.space^
+||marreerouens.com^
 ||marriageappetiteillegimateillegimate.com^
 ||marriervertep.digital^
 ||marrowopener.com^
@@ -18569,6 +18583,7 @@
 ||obviousraiment.com^
 ||oc2tdxocb3ae0r.com^
 ||ocalqoiw.com^
+||ocasosfjpbf.com^
 ||occame.com^
 ||occarv.com^
 ||occasionallyregionsadverb.com^
@@ -19004,6 +19019,7 @@
 ||oongouha.xyz^
 ||oonsaigu.xyz^
 ||oopatet.com^
+||oopoawee.xyz^
 ||oopodmomenta.website^
 ||oopsauwa.xyz^
 ||oopukrecku.com^
@@ -19903,6 +19919,7 @@
 ||peculiarpug.com^
 ||pedestalturner.com^
 ||pedestrianneighbourly.com^
+||pedlujvcfd.com^
 ||peecht.com^
 ||peecoubo.net^
 ||peefeehu.com^
@@ -20738,6 +20755,7 @@
 ||positiveaveinsist.com^
 ||positivedistantstale.com^
 ||positivelyoverall.com^
+||posjnewbgjg.com^
 ||pososrhwu2jf8jf09.com^
 ||possessdisconnectfetch.com^
 ||possessdolejest.com^
@@ -20825,6 +20843,7 @@
 ||pprq7.com^
 ||ppvmhhpxuomjwo.xyz^
 ||pqaz.xyz^
+||pqsymknliiwzlr.com^
 ||pqxbcydpv.xyz^
 ||practicalframingfiddle.com^
 ||practicallyfire.com^
@@ -25457,6 +25476,7 @@
 ||summingricracs.uno^
 ||summitchafeperilous.com^
 ||summitdangle.com^
+||summitmanner.com^
 ||summonedessencetrap.com^
 ||sumperhelder.com^
 ||sunbowskraal.com^
@@ -26359,6 +26379,7 @@
 ||thygrepuwo.pro^
 ||thymeneoctic.digital^
 ||thyouglasuntilj.info^
+||thyroidaketon.com^
 ||ti583.com^
 ||tianmel.xyz^
 ||tiaraedmessing.uno^
@@ -27942,6 +27963,7 @@
 ||uyfpmhmqh.xyz^
 ||uyjmbaiogdtkgwt.com^
 ||uyojnhqeipyb.xyz^
+||uzbxnfwcvhwnz.com^
 ||uzelruth.com^
 ||uzoamtee.xyz^
 ||uzouptel.xyz^
@@ -28793,6 +28815,7 @@
 ||waspfestivalchampionship.com^
 ||waspilysagene.com^
 ||waspishamendbulb.com^
+||waspishoverhear.com^
 ||wasqimet.net^
 ||wastablrupture.com^
 ||wastedclassmatemay.com^
@@ -29396,6 +29419,7 @@
 ||wndvcmyrqwnbdy.xyz^
 ||wnedandlooked.info^
 ||wnjjhksaue.com^
+||wnjtssmha.com^
 ||wnp.com^
 ||wnrrhcyok.xyz^
 ||wnrusisedprivatedq.info^
@@ -29501,6 +29525,7 @@
 ||worred.com^
 ||worriesteapotairborne.com^
 ||worseobscureplastic.com^
+||worsesziara.com^
 ||worshipstubborn.com^
 ||worstideatum.com^
 ||worstnumidae.com^
@@ -30665,6 +30690,7 @@
 ||kinkadservercdn.com^
 ||ohmygosh.info^
 ||1002867133.rsc.cdn77.org^
+||1035218900.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1144017219.rsc.cdn77.org^
@@ -30757,6 +30783,7 @@
 ||js.phoenixmanga.com^
 ||karma.mdpcdn.com^
 ||link.link.ru^
+||linkx.ix.tc^
 ||marketing.888.com^
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
@@ -37258,6 +37285,7 @@ ahurewacordax.website
 ahurmtx9dnwwxa.ru
 ahvfast.com
 ahvmsyemcldyjjr.com
+ahwbedsd.xyz
 ahwrin88tl.com
 ahxmarhuhak.com
 ahxpnngqm.com
@@ -46152,6 +46180,7 @@ btilxdpcco.com
 btinetrent.com
 btjbppltrdpyjsj.com
 btjpdvqocspo.com
+btkcmqyygiuxj.xyz
 btkfovdopsngub.com
 btkusvsgjgmyi.com
 btl.agency
@@ -53949,6 +53978,7 @@ deebcards-themier.com
 deebwcnanjmegdv.com
 deecqem892bg5er.com
 deedeedwinos.com
+deedkernelhomesick.com
 deedleindshiers.com
 deeds-india.com
 deedtampertease.com
@@ -58990,6 +59020,7 @@ enburble.space
 encampmentgeologydetective.com
 encanta.me
 encesprincipl.one
+enchainwalker.com
 enchanted-stretch.pro
 enchantmentconsisteddime.com
 enchantmenthopeless.com
@@ -59381,6 +59412,7 @@ eombyspell.uno
 eomeijcmwgisxh.com
 eondmobile.org
 eondunpea.com
+eoneenergy.com
 eonia.holdings
 eoniafamilyoffice.com
 eonsmedia.com
@@ -60489,6 +60521,7 @@ exekaywcr.com
 exemix.com
 exemplarif.com
 exemplary-range.pro
+exemplarychemistry.com
 exemptambientcream.com
 exemptassign.com
 exemptrequest.com
@@ -63083,6 +63116,7 @@ footageaccomplishment.com
 footagegift.com
 footar.com
 footballfans.online
+footcomefully.com
 foothoupaufa.com
 footling.xyz
 footloosefloors.com
@@ -73215,6 +73249,7 @@ intellekt.ca
 intellibanners.com
 intelligenceadx.com
 intelligenceretarget.com
+intelligentcombined.com
 intelligenztech.in
 intelligenztech.net
 intellilobe.co.uk
@@ -74719,6 +74754,7 @@ jb7hvckszone.com
 jbagujcswvkef.xyz
 jbbahwang.com
 jbbd.tv
+jbboyjfmthdmqtf.xyz
 jbcloud-oss.com
 jbcp.bc.ca
 jbdtkvsai.com
@@ -77610,6 +77646,7 @@ kmyolramxrw.com
 kmyunderthf.info
 knackhr.com
 knackseafood.com
+knahaocb.com
 knaplpdmbrbi.com
 knattepompeii.guru
 knauscuv.com
@@ -82791,6 +82828,7 @@ mashreqdev.com
 mashrika.net
 mashrook.net
 mashsuicidal.com
+masipagwapa.net
 masitortechnology.com
 masjidalhudda.com
 masjidnetwork.org
@@ -85467,6 +85505,7 @@ movemeforward.co
 movementdespise.com
 movementgang.com
 movementpoison.com
+movementshereafter.com
 movementsreligious.com
 movementsspentlist.com
 movementxvi.info
@@ -94472,6 +94511,7 @@ pintandoalmas.net
 pintandoalmas.org
 pintesest.com
 pintocork.com
+pintoutcryplays.com
 pinttalewag.com
 pinup-bet-win6.xyz
 pinup-up.xyz
@@ -95575,6 +95615,7 @@ poornabhat.in
 poorstubbornconvincing.com
 poosoahe.com
 poosugap.com
+poowauho.top
 pop-ad.link
 pop-bazar.net
 pop-bob.com
@@ -107605,6 +107646,7 @@ soorawncatched.top
 sooreejy.xyz
 soosooka.com
 sootconform.com
+sootpluglousy.com
 sootproclaim.com
 soowhauke.com
 soowugoo.xyz
@@ -113272,6 +113314,7 @@ thyhoughs.com
 thymeneoctic.digital
 thyouglasuntilj.info
 thyourretyequ.com
+thyroidaketon.com
 thzdz4.com
 thzhd.wang
 ti.bumpingasbolin.com
@@ -114829,6 +114872,7 @@ trailerrefusedostentatious.com
 trailmercadante.it
 trails8.com
 trainbooking.online
+trainedhomecoming.com
 trainedpiano.com
 traineeappraiser.com
 trainersbob.online
@@ -116699,6 +116743,7 @@ uhedsplo.com
 uhegarberetrof.com
 uheprwhlrvuqlog.com
 uhexjygkfvpp.com
+uheycyaxfuifq.com
 uhfdsplo.com
 uhfeibhbefiin.com
 uhgpeotkfl.com
@@ -119202,6 +119247,7 @@ vhathamso.com
 vhauxbrle.xyz
 vheahvgaqwux.com
 vheoggjiqaz.com
+vhf-uarl.org
 vhfboclarhk.xyz
 vhihvqsuarpp.com
 vhildeiygwnwoo.com
@@ -122009,6 +122055,7 @@ whejohux.net
 whelia.com
 whelmyy.tech
 whelsumt.com
+whempine.xyz
 whencewaxworks.com
 whenevererupt.com
 whengebsoth.com
@@ -123135,6 +123182,7 @@ worred.com
 worriesteapotairborne.com
 worrycrevicewholly.com
 worseobscureplastic.com
+worsesziara.com
 worshipstubborn.com
 worsterring.com
 worstideatum.com
@@ -123226,6 +123274,7 @@ wpducks.com
 wpei.in
 wpgains.com
 wphmavwgay.xyz
+wphmhukhaltgke.xyz
 wphostingserver.com
 wpino.com
 wpirate.com
@@ -131777,6 +131826,7 @@ www.masalahub.net
 www.mascarasock.com
 www.mashoverdolaboratory.com
 www.mashsuicidal.com
+www.masipagwapa.net
 www.masitortechnology.com
 www.masjidnetwork.org
 www.maskesys.org
@@ -137150,6 +137200,7 @@ www.veterans.buzz
 www.vetrivelantextiles.com
 www.vets.buzz
 www.vevatom.com
+www.vhf-uarl.org
 www.viabayonetsecretly.com
 www.vianidorinotor.com
 www.vibrancesystems.com
@@ -137850,6 +137901,7 @@ www.yc320.com
 www.ycssw.edu.in
 www.yearlylight.com
 www.yearnwillowconsumption.com
+www.yeezyboost380.us.com
 www.yellpeculiarities.com
 www.yemuss.com
 www.yertaop.com
@@ -139057,6 +139109,7 @@ xoemvfgjhpwea.com
 xofaypcup.com
 xofvkhqmk.com
 xohgsrbxoufxt.xyz
+xohnodzbfjjqje.com
 xoihfkghyf.com
 xoimmmhfha.com
 xojuwmkirx.com
@@ -139772,6 +139825,7 @@ yeesshh.com
 yeezy-450.us.com
 yeezy450.net
 yeezy450.us.com
+yeezyboost380.us.com
 yeezypop.com
 yefcovlp.com
 yefengdadi.com
@@ -141311,6 +141365,7 @@ zhsosaobi23.com
 zhuanqianxr.xyz
 zhuppys.com
 zhyivocrjeplby.com
+zhzclbysg.com
 zi.kissbluest.com
 zi.truburecking.com
 zi8ivy4b0c7l.com
