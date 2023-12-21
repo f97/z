@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-21T12:14:03.656Z
+! Last modified: 2023-12-21T18:08:40.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1539,6 +1539,7 @@
 ||adjustedminglecamouflage.com^
 ||adjustmentmonarch.com^
 ||adjustmentstraightenstartle.com^
+||adjuve.info^
 ||adjux.com^
 ||adkaora.space^
 ||adklimages.com^
@@ -3241,6 +3242,7 @@
 ||atedlittleme.xyz^
 ||atelegendinflected.com^
 ||atemda.com^
+||atemoyaderider.com^
 ||atentherel.org^
 ||aterhouse.info^
 ||aterhouseoyop.info^
@@ -3312,6 +3314,7 @@
 ||atticshepherd.com^
 ||attitudeflycinema.com^
 ||attlesuling.com^
+||attractive-drawing.com^
 ||attractivebuilt.com^
 ||attractivehobby.com^
 ||attractiveother.pro^
@@ -5059,6 +5062,7 @@
 ||btvhdscr.com^
 ||btwasinlovewit.xyz^
 ||btwwiwmhfhh.com^
+||btxdbuaxn.com^
 ||btxxxnav.com^
 ||bu3le2lp4t45e6i.com^
 ||bubbly-condition.pro^
@@ -5119,6 +5123,7 @@
 ||bulyiel.com^
 ||bumblecash.com^
 ||bummerybutene.life^
+||bummingasses.com^
 ||bummockrewarm.com^
 ||bumpyfruitless.com^
 ||bumpyremittancecarnivorous.com^
@@ -6135,6 +6140,7 @@
 ||clefsgast.top^
 ||clefskenelm.com^
 ||cleftinform.com^
+||clemencyexceptionpolar.com^
 ||clementmeddling.com^
 ||clementsing.com^
 ||cleopatratasty.com^
@@ -6883,6 +6889,7 @@
 ||cqwajn.com^
 ||cqxtivmquu.com^
 ||cr-brands.net^
+||cr08.biz^
 ||crabdefend.com^
 ||cracktraumatic.com^
 ||craftsmancaptivity.com^
@@ -8363,6 +8370,7 @@
 ||dqvnpbs.com^
 ||dqywkdxtcy.xyz^
 ||dr0.biz^
+||dr22.biz^
 ||dr6.biz^
 ||dr7.biz^
 ||drabimprovement.com^
@@ -8946,6 +8954,7 @@
 ||eessoost.net^
 ||eetchaid.net^
 ||eethilsi.com^
+||eetsegeb.net^
 ||eetsooso.net^
 ||eetyed.com^
 ||eevaitou.xyz^
@@ -9540,6 +9549,7 @@
 ||etiamangola.com^
 ||etingplansfo.buzz^
 ||etjxkvdorypmppp.com^
+||etnacsqssv.com^
 ||etobepartoukfare.info^
 ||etougais.net^
 ||etphoneme.com^
@@ -10753,6 +10763,7 @@
 ||fpbvfwjwrayphgs.com^
 ||fpdbccngiujp.com^
 ||fpgedsewst.com^
+||fpiljsxrchc.com^
 ||fpnpmcdn.net^
 ||fpukxcinlf.com^
 ||fpybtxqfywreqhb.xyz^
@@ -10812,6 +10823,7 @@
 ||freezeanything.com^
 ||freezerlarking.top^
 ||freezerpiledoperational.com^
+||freezescrackly.com^
 ||freezeskaikara.com^
 ||freezinghogreproach.com^
 ||fregtrsatnt.com^
@@ -11427,6 +11439,7 @@
 ||girl7y.com^
 ||girlbuffalo.com^
 ||girliewinding.com^
+||girlsglowdate.life^
 ||gishejuy.com^
 ||gistblemishparking.com^
 ||gitoku.com^
@@ -18112,6 +18125,7 @@
 ||nmcdn.us^
 ||nmcpmjreuswnzs.com^
 ||nmcsqihltjdnheq.com^
+||nmkli.com^
 ||nmqwdmtwjleb.com^
 ||nmthpcanvokjbkh.xyz^
 ||nmxqtuyyojgm.com^
@@ -18676,6 +18690,7 @@
 ||ofcamerupta.com^
 ||ofchildr.buzz^
 ||ofclaydolr.com^
+||ofcvrpxsx.com^
 ||ofdittor.com^
 ||ofedupub.com^
 ||offalakazaman.com^
@@ -19780,6 +19795,7 @@
 ||patariatoolman.com^
 ||patarinmangers.top^
 ||patchedcyamoid.com^
+||patencydaimiel.com^
 ||patenssabzi.com^
 ||patgsrv.com^
 ||pathloaded.com^
@@ -20612,6 +20628,7 @@
 ||pointroll.com^
 ||pointyenrapturetheological.com^
 ||poiseacacialaw.com^
+||poisebullan.com^
 ||poiseplato.com^
 ||poisism.com^
 ||poisonencouragement.com^
@@ -22420,6 +22437,7 @@
 ||registercanoeinvaded.com^
 ||registercherryheadquarter.com^
 ||regizm.com^
+||reglazetentie.com^
 ||reglowsupbar.com^
 ||regmacimbia.com^
 ||regnumyelp.digital^
@@ -24541,6 +24559,7 @@
 ||smart2cnjuh34jb.com^
 ||smartapplifly.com^
 ||smartappsfly.com^
+||smartdating.top^
 ||smartlnk.com^
 ||smarttds.org^
 ||smarttopchain.nl^
@@ -25128,6 +25147,7 @@
 ||starvybryan.com^
 ||stascdnuuar.com^
 ||stat-rock.com^
+||statalvortex.com^
 ||statcamp.net^
 ||statefertilitycount.com^
 ||stateinformatics.com^
@@ -25149,6 +25169,7 @@
 ||staturereactioncollect.com^
 ||staubsefoo.com^
 ||staubsuthil.com^
+||staukponier.com^
 ||staumobu.com^
 ||staunchfastened.com^
 ||staunchgenetwitch.com^
@@ -26578,6 +26599,7 @@
 ||tnudztz.com^
 ||toabaise.net^
 ||toabuck.xyz^
+||toaduroo.xyz^
 ||toaglaun.xyz^
 ||toaioi.lol^
 ||toaioi.xyz^
@@ -27186,6 +27208,7 @@
 ||tumri.net^
 ||tumultmarten.com^
 ||tumultuserscheek.com^
+||tundrapinjane.com^
 ||tunedecided.com^
 ||tunerschold.com^
 ||tuneshave.com^
@@ -28151,6 +28174,7 @@
 ||vcsesvwajeup.com^
 ||vcvacpaenqepvm.com^
 ||vcxzp.com^
+||vdbaa.com^
 ||vddf0.club^
 ||vdlvry.com^
 ||vdmiruryll.xyz^
@@ -29906,6 +29930,7 @@
 ||xoalt.com^
 ||xobr219pa.com^
 ||xoemvfgjhpwea.com^
+||xohnodzbfjjqje.com^
 ||xoimmmhfha.com^
 ||xojepxhvvan.com^
 ||xoktditxsmr.xyz^
@@ -35592,6 +35617,7 @@ acches.com
 accidentalcrownincredible.com
 accidentalinfringementfat.com
 accidentallyrussian.com
+accidentdemocracy.com
 accidentsscene.com
 accids.com
 acclaimcraftsman.com
@@ -38328,6 +38354,7 @@ alterassumeaggravate.com
 alteration.land
 alterationappealprison.com
 alteredyacht.com
+alterhimdecorate.com
 alternads.info
 alternatepausemound.com
 alternative-onlyfans.com
@@ -38475,6 +38502,7 @@ ambassadorvaultvisited.com
 ambeeapp.com
 ambeersporkies.com
 amberdub.com
+amberfrontierdust.com
 amberjackcharterscr.com
 ambersvelars.com
 ambervejraska.net
@@ -40944,6 +40972,7 @@ attivazionefacile.com
 attmobileforms.org
 attractbestbonuses.life
 attractglamorous.com
+attractive-drawing.com
 attractivebuilt.com
 attractivehobby.com
 attractiveother.pro
@@ -43320,6 +43349,7 @@ benefitsofisotretinoin.net
 benefitspalace.com
 benefitsvoice.com
 benelph.de
+benengagewriggle.com
 bener.ca
 benevolencegardener.com
 benevolencepair.com
@@ -44688,6 +44718,7 @@ blister-pak.com
 blisterpompey.com
 blistersuperstition.com
 blitzespanamas.store
+blivkkulkhmgol.xyz
 blizzardcinnamonappointed.com
 blizzardstudyfavourite.com
 blld.group
@@ -45087,6 +45118,7 @@ bockajstudio.com
 bocoyoutage.com
 bodaichi.xyz
 bodaile.com
+boddqnrjnipao.com
 bodelen.com
 bodenviewer.de
 bodgeethenic.com
@@ -52043,6 +52075,7 @@ cr.budwoodacrider.com
 cr.chousedextern.com
 cr.mirthnonpar.com
 cr.ranceleerie.com
+cr08.biz
 cr1234567890.com
 cr2c.org
 cr2f.org
@@ -54010,6 +54043,7 @@ decidedlylipstick.com
 decidesjlore.com
 decillisrosolini.it
 decimalcursor.com
+decimalmasculineawe.com
 decimejeffie.website
 decisionbereavespell.com
 decisionmark.com
@@ -56619,6 +56653,7 @@ dr-apps.in
 dr.bensheacling.com
 dr.unshinykerite.com
 dr0.biz
+dr22.biz
 dr460nf1r3.tech
 dr6.biz
 dr7.biz
@@ -56765,6 +56800,7 @@ drewfoolery.com
 drewmichaeldesign.com
 drewsheltie.com
 dreyeli.info
+drhhclwrhe.com
 driada.pro
 dribletbogled.com
 dridderpfunde.life
@@ -58229,6 +58265,7 @@ eetahaxyn.com
 eetchaid.net
 eethilsi.com
 eetseemp.net
+eetsegeb.net
 eetsooso.net
 eetyed.com
 eevaitou.xyz
@@ -63858,6 +63895,7 @@ freezerlarking.top
 freezerpiledoperational.com
 freezerprostitutedebut.com
 freezerwarlockdedicated.com
+freezescrackly.com
 freezinghogreproach.com
 freezone-plovdiv.com
 fregtrsatnt.com
@@ -65864,6 +65902,7 @@ girlongirls.com
 girlpowermovie.com
 girls-llc.com
 girls-love-flowers.info
+girlsglowdate.life
 girlstaste.life
 girluo.com
 girnaarwholesale.com
@@ -68543,6 +68582,7 @@ haphazardbleeding.com
 haphazardcoax.com
 haphazardfraudulent.com
 haphazardhum.com
+hapifgkehjnmrtc.com
 haplic.com
 happeningdeliverancenorth.com
 happeningurinepomposity.com
@@ -90667,6 +90707,7 @@ olgknseruf.com
 olibes.com
 oliiqftutnsa.com
 olindoo.com
+olineman.pro
 oliphantpuzzle.com
 oliphantpuzzlecompany.com
 oliphon.com
@@ -94974,6 +95015,7 @@ pkumakerspace.org
 pkuxtkzpzwyl.com
 pkvffbbsxf.top
 pkwcagjc.com
+pkwhwqmknixg.com
 pkyxqppj.com
 pl.allsportsflix.top
 pl.allsportsflix.xyz
@@ -97480,6 +97522,7 @@ psoageph.com
 psoalreh.com
 psoanufi.com
 psoassoung.com
+psockapa.net
 psognaih.xyz
 psojeeng.com
 psoogaix.net
@@ -98605,6 +98648,7 @@ qkmxpfbomofn.com
 qknnrjhphll.com
 qkodjvdsm.com
 qkouawnjejedvno.xyz
+qkqdmtiopwhebn.com
 qkqhliaipbfwuxd.com
 qkqyevadeewywhf.com
 qkvsccqcjp.com
@@ -100504,6 +100548,7 @@ registro.mobi
 regivenrefract.guru
 regizm.com
 regkqchtcgwrun.com
+reglazetentie.com
 reglowgleyde.com
 reglowsupbar.com
 regmacimbia.com
@@ -107211,6 +107256,7 @@ smartcityhub.org
 smartcj.com
 smartcric.biz
 smartdakwah.net
+smartdating.top
 smartdoco.app
 smartdoco.cloud
 smartdoco.com
@@ -114216,6 +114262,7 @@ toabuck.xyz
 toachoum.com
 toadaihy.net
 toadakufcjmkas.xyz
+toaduroo.xyz
 toaglaun.xyz
 toahooka.com
 toaioi.lol
@@ -116280,6 +116327,7 @@ tumyautomation.com
 tunafightclub.co.uk
 tunatastesentertained.com
 tundrafolder.com
+tundrapinjane.com
 tunebodruffen.digital
 tunedanludb.xyz
 tunedecided.com
@@ -119100,6 +119148,7 @@ vb.fructushumble.com
 vb17121coramclean.pw
 vb777.app
 vba-hilfe.com
+vbawiyhmpnt.com
 vbcrjlgm.com
 vbdggcqa.xyz
 vbemewfoibmldk.com
@@ -119166,6 +119215,7 @@ vcxsimyllso.xyz
 vczka.yt
 vd.scapemambu.com
 vdamsbflhypjsqw.xyz
+vdbaa.com
 vdenwwytxmw.com
 vdesigner.com
 vdfdwnsrvjcsok.com
@@ -136649,6 +136699,7 @@ www.teaser-mobile.com
 www.teaser.cc
 www.techincal-ceramics.uk
 www.techip.in
+www.techiteration.com
 www.technicalitypactinsinuate.com
 www.techniciancocoon.com
 www.technicianforestallproper.com
@@ -140640,6 +140691,7 @@ yndmorvwdfuk.com
 yneationsliee.xyz
 yneikiddka.com
 ynfocfip.com
+ynfsiosdt.com
 yngmitru.xyz
 ynisramnmcm.com
 ynjfaadik.com
@@ -145890,6 +145942,7 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||ad.tradertimerz.media^
 ||xblonthyc.com^
 ||nfuwpyx.com^
 ||esbqetmmejjtksa.xyz^
