@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-21T18:08:46.300Z
+! Last modified: 2023-12-22T00:36:54.465Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -14188,7 +14188,6 @@ data.mistat.rus.xiaomi.com
 ||bstats.nl^
 ||marketing.bswift.com^
 ||analytics.btcloudphone.bt.com^
-||cmmnts.i.bt.no^
 ||smetrics.bt.com^
 ||btaoc.xyz^
 ||analytics.btbanking.com^
@@ -15608,7 +15607,6 @@ data.mistat.rus.xiaomi.com
 ||ic.channel4.com^
 ||monitor.channel4.com^
 ||webstats.channel4.com^
-||channeladvisor.com^
 ||trk.channelfutures.com^
 ||channelintelligence.com^
 ||channelmarket.xyz^
@@ -99604,6 +99602,7 @@ emvps.xyz
 en.urlaubswelt-lanzarote.com
 enaalways.com
 enables.us
+enablethelabel.com
 enagutig.space
 enaktu.eu
 enalapril.ru
@@ -124927,6 +124926,7 @@ support247live.us
 support5.mineweb.in
 support66.contctshq.click
 support71.contcthq.click
+support76.contctly.click
 supportain.site
 supportapp.click
 supportgm.com
