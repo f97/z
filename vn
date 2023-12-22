@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-22T06:10:49.226Z
+! Last modified: 2023-12-22T12:13:43.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -12,6 +12,7 @@
 ||ads-cdn.fptplay.net^
 ||adtima-static.zascdn.me^
 ||adtimaserver.vn^
+||affordedseasick.com^
 ||aj1047.online^
 ||aj1559.online^
 ||aj2393.online^
