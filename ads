@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-22T12:13:47.489Z
+! Last modified: 2023-12-22T18:09:41.599Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1925,6 +1925,7 @@
 ||aeneasclosure.website^
 ||aerariacongoni.uno^
 ||aerialmistaken.com^
+||aerjnuloxlth.com^
 ||aerobiabassing.com^
 ||aeroplaneversion.com^
 ||aeroselabite.space^
@@ -5655,6 +5656,7 @@
 ||cduygiph.com^
 ||cdwbjlmpyqtv.com^
 ||cdwehdnnprdntse.com^
+||cdwmpt.com^
 ||ce2c208e9f.com^
 ||ceamtaaprhha.xyz^
 ||ceasechampagneparade.com^
@@ -10118,6 +10120,7 @@
 ||fdjigxyxstiu.xyz^
 ||fdorxsat.com^
 ||fdpfkdnpvpmb.com^
+||fdtikenfxgkie.com^
 ||fdubbogbean.guru^
 ||fe7qygqi2p2h.com^
 ||fe95a992e6afb.com^
@@ -11602,6 +11605,7 @@
 ||glorialoft.com^
 ||gloriarefreshsuspected.com^
 ||gloriespiuri.com^
+||glorifyfactor.com^
 ||glorifyraytreasurer.com^
 ||gloriousexternal.com^
 ||glostsbluntie.digital^
@@ -12594,6 +12598,7 @@
 ||hgpmbfkxmrw.xyz^
 ||hgub2polye.com^
 ||hgx1.online^
+||hgx1.site^
 ||hhbypdoecp.com^
 ||hhcktiucw.xyz^
 ||hhit.xyz^
@@ -15910,6 +15915,7 @@
 ||lofvkxaqsw.com^
 ||loganfeels.com^
 ||logicdate.com^
+||logicorganized.com^
 ||logilyavie.digital^
 ||loglabitrufly.top^
 ||loglaupt.com^
@@ -19497,6 +19503,7 @@
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
 ||ovoordie.xyz^
+||ovplnxsq.com^
 ||ovqds.com^
 ||ovsliqrcwqsqfxf.xyz^
 ||ovsrhikuma.com^
@@ -19554,6 +19561,7 @@
 ||oyi9f1kbaj.com^
 ||oyihoxw.com^
 ||oyopersed.info^
+||oyoperseduca.com^
 ||oysterexhalereview.com^
 ||oyxctgotabvk.com^
 ||oyyihttyklfwcgy.xyz^
@@ -19601,12 +19609,14 @@
 ||padsreds.com^
 ||padstm.com^
 ||padujeph.xyz^
+||paeastei.net^
 ||paeonicgrunter.com^
 ||pageantbagauspice.com^
 ||pageantcause.com^
 ||pageantcountrysideostentatious.com^
 ||pagefedonly.live^
 ||pagejunky.com^
+||pageswork.guru^
 ||paginw.com^
 ||pagnehmfxah.xyz^
 ||pagodascaly.uno^
@@ -21657,6 +21667,7 @@
 ||putainalen.com^
 ||putate.com^
 ||putbid.net^
+||putfeablean.org^
 ||putfeableand.info^
 ||putfeepea.site^
 ||putrefyvarioushumorous.com^
@@ -21844,6 +21855,7 @@
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
 ||qokesjxpbds.com^
+||qokira.uno^
 ||qomate.xyz^
 ||qomuchorindownlo.xyz^
 ||qooanabj.com^
@@ -22204,6 +22216,7 @@
 ||rdsncyndhj.com^
 ||rdtk.io^
 ||rdtrck2.com^
+||rdwmct.com^
 ||rdximaudovydtk.com^
 ||re-captha-version-3-29.top^
 ||re-captha-version-3-33.top^
@@ -23292,6 +23305,7 @@
 ||runative.com^
 ||runawayaccomplishment.com^
 ||runawaycrayfishcosmetics.com^
+||runazmakqja.com^
 ||runbornto.com^
 ||rundownhang.pro^
 ||runecrispin.com^
@@ -23894,6 +23908,7 @@
 ||sensualtestresume.com^
 ||sentbarn.com^
 ||sentdysfunctional.com^
+||sentencefigurederide.com^
 ||sentenceinformedveil.com^
 ||sentientfog.com^
 ||sentimentalclient.pro^
@@ -25835,6 +25850,7 @@
 ||tahoshehu.com^
 ||taicheetee.com^
 ||taicoobu.com^
+||taidainy.net^
 ||taigasdoeskin.guru^
 ||taigathi.xyz^
 ||taigrooh.net^
@@ -29473,6 +29489,7 @@
 ||wmolgnjo.xyz^
 ||wmptcd.com^
 ||wmptctl.com^
+||wmpted.com^
 ||wmpuem.com^
 ||wmtaeem.com^
 ||wmtmhbuiumwl.com^
@@ -29773,6 +29790,7 @@
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyjaxvuejinse.com^
+||wyjkqvtgwmjqb.xyz^
 ||wynather.com^
 ||wynnsbrot.com^
 ||wynvalur.com^
@@ -30193,6 +30211,7 @@
 ||yinstbugged.com^
 ||yinteukrestina.xyz^
 ||yinthesprin.xyz^
+||yiqetu.uno^
 ||yirtaycyytr.xyz^
 ||yiteattends.tech^
 ||yixios.com^
@@ -30761,6 +30780,7 @@
 ||ohmygosh.info^
 ||1002867133.rsc.cdn77.org^
 ||1035218900.rsc.cdn77.org^
+||1052982219.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1144017219.rsc.cdn77.org^
@@ -31147,6 +31167,7 @@
 ||d1zjr9cc2zx7cg.cloudfront.net^
 ||d1zrs4deyai5xm.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
+||d1zw8evbrw553l.cloudfront.net^
 ||d1zy4z3rd7svgh.cloudfront.net^
 ||d1zzcae3f37dfx.cloudfront.net^
 ||d200108c6x0w2v.cloudfront.net^
@@ -48277,6 +48298,7 @@ cduww.yt
 cduygiph.com
 cdwbjlmpyqtv.com
 cdwehdnnprdntse.com
+cdwmpt.com
 cdwyjuchsqvwa.xyz
 cdxnopt.com
 cdykxidtd.xyz
@@ -57902,6 +57924,7 @@ ebeej.in
 ebefseuetqjyg.com
 ebelfarew.com
 ebelmqvrrnc.com
+ebeolcivh.com
 ebetoni.com
 ebgo.it
 ebhcqxiivv.com
@@ -71626,6 +71649,7 @@ hymybsuhevtd.com
 hynteroforion.com
 hyofteraq.com
 hyoicxstpfvgwz.com
+hyovhlwx.com
 hype-ads.com
 hypeads.org
 hypekickers.de
@@ -74592,6 +74616,7 @@ ivstanton.co.uk
 ivtwwxlcvpl.com
 ivudsuco.net
 ivungurdoweg.com
+ivurtdymntb.com
 ivuvfyencls.xyz
 ivvedcoh.com
 ivvxmmhra.xyz
@@ -78100,6 +78125,7 @@ knoegoxkka.com
 knope2021.com
 knopertsrae.com
 knoppers.in
+knospedpunny.guru
 knospshounder.guru
 knotlaghell.com
 knotprovided.com
@@ -78334,6 +78360,7 @@ korgzwdrhs.com
 kormisl.com
 kormovisa.com
 kornbulk1.com
+koronaararao.guru
 koronacineole.life
 korooz.co.uk
 koroshkollection.com
@@ -89321,6 +89348,7 @@ novapravice.net
 novartensemble.com
 novasafe.org
 novasaldcaribe.com
+novasarterin.space
 novascotiabusinessinsurance.ca
 novascotiabusinessinsurance.com
 novascotiamoderate.ca
@@ -94320,6 +94348,7 @@ petitidngd.site
 petitscarabee.net
 petitstrainsdefrance.com
 petkinsartiste.space
+petlongingbalm.com
 petoloop.com
 petonboard.net
 petoren.com
@@ -96877,6 +96906,7 @@ prettytypicalimpatience.com
 prevailinsolence.com
 prevalentprincess.com
 preventedcaptivate.com
+preventedtracescleanup.com
 preventionbitten.com
 preventionconsciousflea.com
 previouslyawokestale.com
@@ -98734,6 +98764,7 @@ qgmnfckyyrvs.com
 qgnlbjkxrzb.com
 qgnqsebea.com
 qgoqkcpw.xyz
+qgprjlbe.com
 qgqanwsxfjb.com
 qgqwrdetibqcrhl.com
 qgrlhlrpa.com
@@ -98834,6 +98865,7 @@ qjpotvwljgw.xyz
 qjraenprsismr.com
 qjsknpxwlesvou.com
 qjthlfothtpa.com
+qjukphe.com
 qjvtofw.com
 qjwglnuwqvr.com
 qjyhgkjoprx.com
@@ -100184,6 +100216,7 @@ rdtlzdhuk.com
 rdtrck2.com
 rdudxejbyxxcb.com
 rduutklvx.xyz
+rdwmct.com
 rdwpslcamst.com
 rdxftbqto.com
 rdximaudovydtk.com
@@ -104396,6 +104429,7 @@ scientificmeetup.info
 scientificsinner.com
 scientistgrowl.com
 scientistuneasiness.com
+scientistuptownexecute.com
 scientsummit.info
 sciets.com
 scifounder.net
@@ -119860,6 +119894,7 @@ vfbwbtrgjmep.xyz
 vfcjnujed.com
 vfcsesjgbj.com
 vfeaqaeryhwncvj.com
+vfeeopywioabi.xyz
 vfekcgbxkjtwul.com
 vffidorvnvomf.com
 vffoewwe.com
@@ -122787,6 +122822,7 @@ whifflehumeral.guru
 whiffs.xyz
 whiflnrqukce.com
 whilar.com
+whilecosshen.digital
 whilefitsaltered.com
 whileinferioryourself.com
 whileo.com
@@ -123517,6 +123553,7 @@ wmpjhifadkgsciq.com
 wmpset.com
 wmptcd.com
 wmptctl.com
+wmpted.com
 wmpuem.com
 wmruzfvtg.com
 wmsdrwkphnkhnb.com
@@ -139503,6 +139540,7 @@ xitongss.com
 xiufengshang.com
 xivmviuynlt.com
 xiwhqqnnpeqti.com
+xiwiobwmhbv.com
 xiwirkap.top
 xiwojhielgnxt.com
 xiwwhyobp.com
@@ -141885,6 +141923,7 @@ zebeckserineum.space
 zebraacholoe.uno
 zebracams.org
 zebraicrudista.com
+zebramuling.life
 zebruisiacu.com
 zebuaridromps.com
 zebumpes.net
@@ -146222,6 +146261,17 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||ynfsiosdt.com^
+||poanouwy.net^
+||clopembira.website^
+||keapgypsite.website^
+||qjukphe.com^
+||vfeeopywioabi.xyz^
+||eeptushe.xyz^
+||auboalro.xyz^
+||ivurtdymntb.com^
+||alterhimdecorate.com^
+||bkicoegecxjv.com^
 ||ad.tradertimerz.media^
 ||xblonthyc.com^
 ||nfuwpyx.com^
