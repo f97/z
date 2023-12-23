@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-23T00:35:21.039Z
+! Last modified: 2023-12-23T06:09:58.866Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -814,6 +814,7 @@
 ||749cad1027.com^
 ||74c5a46eeb.com^
 ||751685e7fa.com^
+||754480bd33.com^
 ||7618590057.com^
 ||7676f1cc6c.com^
 ||76a7doiet256.com^
@@ -14649,6 +14650,7 @@
 ||jwt8e5vzc1.com^
 ||jxhgcitcqmvv.com^
 ||jxlpafdxbnhak.com^
+||jxpqjztcprvvb.com^
 ||jxvilsjyrh.com^
 ||jxybgyu.com^
 ||jyarkinhechershedt.xyz^
@@ -14843,6 +14845,7 @@
 ||keyrunmodel.com^
 ||keywordblocks.com^
 ||keywordsconnect.com^
+||kfareputfeab.org^
 ||kffawlmqdahowhr.com^
 ||kfjhd.com^
 ||kfxkxyb.com^
@@ -16084,6 +16087,7 @@
 ||lsnghcma.com^
 ||lsqggflcsm.com^
 ||lsqzxexvphk.com^
+||lsrztlmbhgzctp.com^
 ||lsvblpynuezkbf.com^
 ||ltaqqgvitq.com^
 ||ltassrv.com.s3.amazonaws.com^
@@ -17635,6 +17639,7 @@
 ||myopyrum.digital^
 ||myperfect2give.com^
 ||mypopads.com^
+||myqmjhkgxpkmh.com^
 ||myselfkneelsmoulder.com^
 ||mysleepds.com^
 ||mysticaldespiseelongated.com^
@@ -18132,6 +18137,7 @@
 ||nkredir.com^
 ||nlargeconsu.info^
 ||nld0jsg9s9p8.com^
+||nlkli.com^
 ||nlmthxjgjhg.com^
 ||nlntrk.com^
 ||nlop.xyz^
@@ -20099,6 +20105,7 @@
 ||perpetualprovoke.com^
 ||perplexkutch.guru^
 ||perryvolleyball.com^
+||perseducatiuca.com^
 ||perseverancekaleidoscopefinance.com^
 ||perseverancewash.com^
 ||perseverevoice.com^
@@ -24468,6 +24475,7 @@
 ||skiofficerdemote.com^
 ||skipdearbeautify.com^
 ||skipperx.net^
+||skirretporail.digital^
 ||skivesdaggles.com^
 ||skjrfysmve.com^
 ||skjwebmr.com^
@@ -25753,6 +25761,7 @@
 ||syenitetatler.tech^
 ||syinga.com^
 ||sykfmgu.com^
+||sykojkqjygahl.com^
 ||syllableliking.com^
 ||sylvatealonely.com^
 ||sylxisys.com^
@@ -25846,6 +25855,7 @@
 ||tahinapasses.com^
 ||tahltanboutell.com^
 ||tahoshehu.com^
+||tahqcecads.com^
 ||taicheetee.com^
 ||taicoobu.com^
 ||taidainy.net^
@@ -28558,6 +28568,7 @@
 ||vkgtrack.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
+||vksegjhestouij.com^
 ||vkusbtnxubme.com^
 ||vlbbyi.com^
 ||vlbyzgj.com^
@@ -30546,6 +30557,7 @@
 ||zfxtodsxtmw.com^
 ||zgazgluy.com^
 ||zgcnxihiklai.com^
+||zgslicbleg.com^
 ||zhaner.xyz^
 ||zhedvge.com^
 ||zheevmmvlwg.com^
@@ -31800,6 +31812,7 @@
 ||creative.stripchat.com^
 ||creative.stripchat.global^
 ||creative.strpjmp.com^
+||creative.usasexcams.com^
 ||deliver.ptgncdn.com^
 ||dnk2wr2ch6zxa.cloudfront.net^
 ||dontblock.jaaavjavs1.buzz^
@@ -38041,6 +38054,7 @@ alignedpw.org
 alignedventure.com
 alignedventure.net
 alignedventure.org
+alignerspurred.website
 alignmentcoaching.com
 alignmentflattery.com
 alihutan.com
@@ -51051,6 +51065,7 @@ complicationvillainskipper.com
 complimentarycalibertwo.com
 complimentconfession.com
 complimentosdetelefonos.com
+complotwiled.guru
 complylongitudechampion.com
 compolegimmer.com
 componi.tech
@@ -56026,6 +56041,7 @@ dlksn.yt
 dll-dll.com
 dllymohal.com
 dlmewheniyv.xyz
+dlnujvglnhtm.com
 dloeloojs.com
 dlongpre.one
 dloodisha.in
@@ -59172,6 +59188,7 @@ emmavictoriaevents.com
 emmermyotic.com
 emmu.solutions
 emmvfoqwkx.top
+emmwindbag.guru
 emnila.com
 emnotifteasc.com
 emoailtoo.com
@@ -59999,6 +60016,7 @@ errumoso.xyz
 ersallower.com
 erseducationinin.info
 ersfohiplaceof.xyz
+ershbumpily.space
 ershniff.com
 ersislaqands.com
 erssqstdjnn.com
@@ -63246,6 +63264,7 @@ fn.verpasnores.com
 fnacgbik9v14.com
 fnaudmobile.com
 fnbauniukvi.com
+fnbonlinebanking.co.za
 fnbpackaging.in
 fncnudtig.xyz
 fndjpmoavz.com
@@ -65164,6 +65183,7 @@ gayvidsclub.net
 gazamom.com
 gazati.com
 gazeesaucier.com
+gazegrowan.website
 gazeroelet.space
 gazete.co.uk
 gazetemcesme.com
@@ -67499,6 +67519,7 @@ grapeinthebottle.com
 grapeinthewine.com
 grapepinot.com
 graphbi.com
+graphedsunweed.guru
 graphenerobotics.co.uk
 graphenestore.net
 graphenprotocol.com
@@ -68885,6 +68906,7 @@ hashbitewarfare.com
 hashishfot.com
 hasici.news
 hasnoconve.one
+haspedjumbal.life
 haspswashrag.com
 hasre45rernments.cfd
 hasricewaterh.info
@@ -75830,6 +75852,7 @@ jmorweefodct.com
 jmoytujxp.info
 jmpmedia.club
 jmpmzryzprp.bid
+jmpqkikcv.com
 jmqetvobudqlct.com
 jmrmg.com
 jmrnews.pro
@@ -77516,6 +77539,7 @@ keywordblocks.com
 keywordsconnect.com
 keznews.com
 kfaksmehporrj.com
+kfareputfeab.org
 kfaugikes.com
 kfbjvkmmuus.com
 kfbvrcpaqhbagkf.com
@@ -81146,6 +81170,7 @@ localesaftaba.com
 localgreengo.com
 localiser-iphone.online
 locallyhastefowl.com
+locallynavally.space
 localmatters.info
 localmax.in
 localsearchacademy.com
@@ -81767,6 +81792,7 @@ lsqggflcsm.com
 lsqzxexvphk.com
 lsrttgbfiu.com
 lsru5gn.ru
+lsrztlmbhgzctp.com
 lsswwuaqbwox.com
 lssxnbbtnptrb.top
 lsubalhqkg.com
@@ -86634,6 +86660,7 @@ mvrdgspmorhkjv.xyz
 mvrhealthcare.com
 mvssjkmmnhtnyk.xyz
 mvtmkpysz.com
+mvubzqaowhhgii.com
 mvujvxc.com
 mvulaw.com
 mvupslltikxptw.com
@@ -88165,6 +88192,7 @@ newfuture-happiness.com
 newgateinnmunnar.com
 newgrad.com
 newhausconsultants.com
+newhermes.com
 newhiddencovehoa.com
 newhigee.net
 newhomeindubai.com
@@ -88795,6 +88823,7 @@ nj.coyotesgangan.com
 njalla.ma
 njbaveru.com
 njbison.us
+njchydropower.com
 njcmanhn.com
 njcmnhan.com
 njcmnhttn.com
@@ -92223,6 +92252,7 @@ ottack.com
 ottawabusinessinsurance.ca
 ottawabusinessinsurance.com
 ottawavalleymeats.ca
+ottawavichy.top
 ottdhysral.com
 otterhoundfarms.com
 otterware.net
@@ -94247,11 +94277,13 @@ perplexkutch.guru
 perryfuels.com
 perryvolleyball.com
 persecutionmachinery.com
+perseducatiuca.com
 perseoidcmayoristas.com
 persesgnetum.com
 perseverancekaleidoscopefinance.com
 perseverancewash.com
 perseverevoice.com
+persianapk.com
 persistarcticthese.com
 persistbathing.com
 persisteer.com
@@ -101488,6 +101520,7 @@ rethinkwrinkle.com
 rethowilmari.com
 rethusiasm.com
 reticencecarefully.com
+retilliare.guru
 retinaebiaxal.guru
 retintsmillion.com
 retinuealike.com
@@ -107147,6 +107180,7 @@ skipthemadz.info
 skipwaywurzel.com
 skirbbl.com
 skirmishharbour.com
+skirretporail.digital
 skivesdaggles.com
 skjeswani.tech
 skjrfysmve.com
@@ -111200,6 +111234,7 @@ syjnwfgypifem.com
 syjryiwlxawoa.com
 sykcbuvnkwwpymk.xyz
 sykfmgu.com
+sykojkqjygahl.com
 sylenelacquer.website
 syllableliking.com
 syllabus1xpl.co
@@ -111492,6 +111527,7 @@ tahnfua.com
 tahoshehu.com
 tahotbmavh.com
 tahpucqudab.com
+tahqcecads.com
 tahwahe.com
 taianlutong.com
 taicheetee.com
@@ -114685,6 +114721,7 @@ tojadeso.xyz
 tojebazaar.com
 tojebazar.com
 tojepravice.net
+tokaysguessed.uno
 tokboo.com
 toke.pw
 tokegdujtjha.com
@@ -117755,6 +117792,7 @@ umpihbat.com
 umpirenuphar.digital
 umppqqdkljfm.com
 umpquacountryproperty.com
+umpquaressort.website
 umpteenimpave.guru
 umqqfyqkjlxrh.xyz
 umrqgpgo.com
@@ -134091,6 +134129,7 @@ www.persecutionmachinery.com
 www.perseverancekaleidoscopefinance.com
 www.perseverancewash.com
 www.perseverevoice.com
+www.persianapk.com
 www.persistarcticthese.com
 www.persistbathing.com
 www.persisteer.com
@@ -142165,6 +142204,7 @@ zglxqljvfa.com
 zgoindic.com
 zgpt.tech
 zgschool.org
+zgslicbleg.com
 zgwjjdwlw.com
 zgxxvdlxc.com
 zgyhx3318.com
