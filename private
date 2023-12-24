@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-24T00:39:49.803Z
+! Last modified: 2023-12-24T06:09:58.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -8422,6 +8422,7 @@ data.mistat.rus.xiaomi.com
 ||akamai.la^
 ||akamaicdnup.com^
 ||akamaicontainer.com^
+||3j0pw4ed7uac-a.akamaihd.net^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||cperformmedia-a.akamaihd.net^
 ||ds-aksb-a.akamaihd.net^
@@ -12465,6 +12466,7 @@ data.mistat.rus.xiaomi.com
 ||bencuzi.xyz^
 ||analytics.bending-x.com^
 ||beneathgirlproceed.com^
+||piwik.benefit-blog.de^
 ||benefitanna.com^
 ||analytics.benefitfocus.com^
 ||track.benefitforseniors.org^
@@ -13397,19 +13399,8 @@ data.mistat.rus.xiaomi.com
 ||blueeyesintelligence.org^
 ||gtrack.bluegazette.com^
 ||track.bluegazette.com^
-||smtp.anqing.bluehornet.com^
-||smtp.anyang.bluehornet.com^
-||smtp.lameziaterme.bluehornet.com^
-||smtp.mugla.bluehornet.com^
-||smtp.pereira.bluehornet.com^
 ||smtp.puntaislita.bluehornet.com^
 ||returnpath.bluehornet.com^
-||smtp.rochelle.bluehornet.com^
-||smtp.samsun.bluehornet.com^
-||smtp.tamuning.bluehornet.com^
-||smtp.waukesha.bluehornet.com^
-||smtp.webstercity.bluehornet.com^
-||smtp.wooster.bluehornet.com^
 ||images.go.bluejacketslink.com^
 ||bluekai.com^
 ||blueknow.com^
@@ -18469,6 +18460,8 @@ data.mistat.rus.xiaomi.com
 ||siriuskorea.co.kr^
 ||site3.co.kr^
 ||smetrics.skipton.co.uk^
+||c5ads.ott.skymedia.co.uk^
+||skyads.ott.skymedia.co.uk^
 ||smartcdn.co.uk^
 ||analytics.smcww.co.uk^
 ||smlog.co.kr^
@@ -29423,6 +29416,7 @@ data.mistat.rus.xiaomi.com
 ||metric.gdprgovernor.com^
 ||gdtimg.com^
 ||analytic.gdv.de^
+||gdwfhelbww.com^
 ||gdz0cqs.icu^
 ||smetrics.apps.ge.com^
 ||data-05c346d0b0.gea.de^
@@ -33236,6 +33230,7 @@ data.mistat.rus.xiaomi.com
 ||iahnmsj.in^
 ||matomo.iakleipzig.de^
 ||iamnaughty.com^
+||ian029dkl3osl930sian.club^
 ||ianimegift.com^
 ||ianjgmpat.com^
 ||ianjumb.com^
@@ -33596,6 +33591,7 @@ data.mistat.rus.xiaomi.com
 ||ikrail.com^
 ||ikrauteri.life^
 ||ikuhentai.net^
+||ikwiwnnofgpzq.com^
 ||analytics.ikyu.com^
 ||events.il.fi^
 ||ilade.xyz^
@@ -35570,6 +35566,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.jdsupra.com^
 ||jdt8.net^
 ||jdwhlqb.com^
+||jdxisgqcg.com^
 ||logging.je-apps.com^
 ||jealouschallenge.pro^
 ||jeanmarcdefague.com^
@@ -50390,6 +50387,7 @@ data.mistat.rus.xiaomi.com
 ||otc-cdn.relevant-digital.com^
 ||schibsted-cdn.relevant-digital.com^
 ||relevantknowledge.com^
+||reliableceaseswat.com^
 ||reliablecounter.com^
 ||reliablemiraculouscaleb.com^
 ||reliablemore.com^

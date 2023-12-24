@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-24T00:39:43.272Z
+! Last modified: 2023-12-24T06:09:50.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -49642,6 +49642,7 @@ cinemensenoy.xyz
 cineolesloth.com
 cineplexdigitalnetworks.com
 cinesphere.ca
+cingleexines.life
 cininnati.com
 cinnamoncorner.us
 cinnamonmusic.co.uk
@@ -76641,6 +76642,7 @@ jukseeng.net
 juktadhara.com
 jukxmvmaiiy.com
 jul507.com
+julbhzbwhcivj.com
 julezhuang.com
 julfikarr.com
 julia-liz.com
@@ -87798,6 +87800,7 @@ ncertaino.com
 ncesprin.buzz
 ncesspervice.co
 nceteventuryrem.com
+ncevipdjsuoln.com
 ncg3d.ca
 ncg3d.com
 ncgtc.org
@@ -92478,6 +92481,7 @@ ourgoldpiecwe.xyz
 ourgratitude.org
 ourgumpu.xyz
 ourhotfeed.com
+ourhotstories.com
 ourhypewords.com
 ouricsexja.com
 ourietwyers.uno
@@ -93916,6 +93920,7 @@ pcelestin.com
 pcfjbibtrtwq.com
 pcge.ir
 pchbhiuthja.com
+pchcwqsfaqpw.com
 pchdkkxbjgokto.xyz
 pcheahrdnfktvhs.xyz
 pchuan.tech
@@ -95779,6 +95784,7 @@ playinglanding.com
 playingoutfitprofile.com
 playitalia.net
 playjolt.pw
+playjudders.website
 playlivecasino.fun
 playmathbox.com
 playmovies.co.uk
@@ -106014,6 +106020,7 @@ shamenormalcy.com
 shamfuel.com
 shamime.co.uk
 shamimmuktar.com
+shammasnimbose.space
 shamsheer.in
 shamtick.com
 shamyouthattach.com
@@ -116624,6 +116631,7 @@ tsmrocs.com
 tsnl.com
 tsoimora.com
 tsougrjwqrnai.xyz
+tsouviadj.com
 tspffihc.com
 tspops.com
 tsrrbok.com
@@ -131834,6 +131842,7 @@ www.jinxrussian.com
 www.jissingirgoa.com
 www.jitantaktravels.com
 www.jiujitsuannapolis.online
+www.jivanifinserv.com
 www.jjldevelopment.com
 www.jkbrandmenswear.com
 www.jmoytujxp.info
@@ -140242,6 +140251,7 @@ xrp23.org
 xrp23.pro
 xrpl.international
 xrplaunchpad.com
+xrpquhfqliddoks.com
 xrpyafdmoa.com
 xrsjntdsr.xyz
 xrspeclottuilim.xyz
