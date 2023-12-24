@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-23T18:09:17.385Z
+! Last modified: 2023-12-24T00:39:43.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37672,6 +37672,7 @@ aireport.ca
 airfrance-klm.us
 airfreshome.com
 airigh.scot
+airjordanlocker.com
 airlaza.co.uk
 airlessquotationtroubled.com
 airline-supportdesk.com
@@ -51810,6 +51811,7 @@ copiedglittering.com
 copierwrigglerubber.com
 copilotsocial.com
 copm.co
+coppedex.com
 copperseafoodearphones.com
 coppershop.store
 copperwires.in
@@ -74289,6 +74291,7 @@ irgvfdwicqerqfy.com
 irhiuieasozbd.com
 iriboriginal.xyz
 iridexs.com
+iridizesay.space
 iriepebble.com
 irigacity.com
 irilnagmfp.xyz
@@ -102957,6 +102960,7 @@ rqdteptu.info
 rqeqgvxuey.com
 rqeyxceoyojbcc.xyz
 rqfedjzveel.com
+rqgjvcea.com
 rqhere.com
 rqikqirlkcqvb.com
 rqjokcje.xyz
@@ -103580,6 +103584,7 @@ rysheatlengthanl.xyz
 ryssaedwards.net
 rysubmission.biz
 rytmdobowy.online
+ryvetxwyln.com
 ryxbtcdg.com
 ryykyodhl.com
 ryyyyjfrawo.com
@@ -113970,6 +113975,7 @@ thinlyfunge.space
 thinneddarns.digital
 thinnercoddled.com
 thinnerconcha.com
+thionicmyotics.life
 thirab.com
 thiraq.com
 thirawogla.com
