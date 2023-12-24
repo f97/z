@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-24T12:13:09.082Z
+! Last modified: 2023-12-24T18:09:09.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2297,6 +2297,7 @@
 ||albraixentor.com^
 ||albumsignaturerequested.com^
 ||albynloxia.website^
+||alcatza.com^
 ||alcesinassing.xyz^
 ||alchemysocial.com^
 ||alcoholsupervisiondisplace.com^
@@ -5576,6 +5577,7 @@
 ||cavernousshift.pro^
 ||cavilerestops.com^
 ||cawbarthe.com^
+||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
 ||caymanboreism.com^
@@ -11101,6 +11103,7 @@
 ||gafmajosxog.com^
 ||gaghygienetheir.com^
 ||gagpetwet.com^
+||gahonnlsh.com^
 ||gaigroak.com^
 ||gaijiglo.net^
 ||gaimofup.com^
@@ -14026,6 +14029,7 @@
 ||issomeoneinth.info^
 ||istlnkbn.com^
 ||istsldaheh.com^
+||isvnwxpoqgsgyy.com^
 ||iswhatappyouneed.net^
 ||iswhelectual.cc^
 ||isymybwvzl.com^
@@ -19345,6 +19349,7 @@
 ||osspwamuhn.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||ostazvtx.com^
 ||ostensibledressmaker.com^
 ||ostentatiousmystery.com^
 ||osteriawoold.space^
@@ -21836,6 +21841,7 @@
 ||qcsjmidihe.com^
 ||qctzwkrczwjw.com^
 ||qdagihwi.xyz^
+||qdlbdpsctalt.com^
 ||qdlesuneeqoglp.com^
 ||qdmil.com^
 ||qdprapwflpvxpyl.com^
@@ -60540,6 +60546,7 @@ euosicjxjv.com
 euouaeslurped.com
 eupathyroching.store
 eupcxngb.xyz
+eupftuwvcdd.com
 euphoriaheadshop.com
 euphoriaintheeast.co
 eupjjylulbgvwf.com
@@ -64944,6 +64951,7 @@ gagtheir.com
 gagytxjgcs.com
 gahaghel.top
 gahjhidy.com
+gahonnlsh.com
 gahozoa.com
 gahuiio.top
 gaia-nostra.space
@@ -70452,6 +70460,7 @@ hnnosdtimua.com
 hnpvnnhzazkl.com
 hnrgmc.com
 hnrv.de
+hnrztx.net
 hns95.com
 hnshenyuancz.com
 hntkeiupbnoaeha.xyz
@@ -71149,6 +71158,7 @@ hoyodrop.com
 hoyolab.de
 hozoaxan.com
 hpaakmsumarzy.com
+hpaxbnagaxyknx.com
 hpbeenbmsspvh.com
 hpbmyojwqpewaw.com
 hpc72.com
@@ -74525,6 +74535,7 @@ istxlbsf.com
 isuckass.com
 isupolitiksemasa.net
 isupopc.com
+isvnwxpoqgsgyy.com
 isw.yt
 iswhatappyouneed.net
 iswhelectual.cc
@@ -125406,6 +125417,7 @@ www.affectionsexterminate.com
 www.affinitycycleablaze.com
 www.afflictionpetulant.com
 www.affluentmirth.com
+www.affluentretinueelegance.com
 www.affluentscuffle.com
 www.affordability.app
 www.affordablebesthealthcare.com
@@ -130998,6 +131010,7 @@ www.hl365hl.com
 www.hlm2.xyz
 www.hmochannel.com
 www.hnrv.de
+www.hnrztx.net
 www.hnvshen.com
 www.hoarddefault.com
 www.hoaxbasesalad.com
@@ -141730,6 +141743,7 @@ yshoo.it
 yshtshgnelxktep.com
 yshyqfyjhq.xyz
 ysievwpxmnefvl.com
+ysjbenqvfspa.com
 ysjibiguhwcqlp.com
 ysklpdcoofmg.com
 yskvxohdmbovuo.com
