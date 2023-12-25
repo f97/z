@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-25T12:14:01.063Z
+! Last modified: 2023-12-25T18:09:39.175Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -42826,6 +42826,7 @@ bassdyemanipulate.com
 bassengravefascinated.com
 bassistscrap.com
 bassoczardas.com
+bassprochop.com
 bassreeves.store
 bastardgrab.com
 bastardminims.com
@@ -49866,6 +49867,7 @@ cjndvoglik.xyz
 cjnktmhcukfdcq.xyz
 cjogbbmrgrgscp.com
 cjrngeskvhqni.xyz
+cjsyldvrggl.com
 cjt1.net
 cjt3w2kxrv.com
 cjuyhfwxmpvdr.xyz
@@ -70042,6 +70044,7 @@ hhxaz.yt
 hhxxtp0zy.com
 hhyalsk.com
 hhyefjmx.com
+hhymuvkivekmnu.com
 hhznet.com
 hi5-solutions.com
 hiadone.com
@@ -102295,6 +102298,7 @@ ringytoiler.digital
 rinkbars.com
 rinkcomms.net
 rinkiq.com
+rinllgxk.com
 rinlpmbu.com
 rinsermouton.space
 rinsesofadual.com
@@ -111190,6 +111194,7 @@ suwotsoukry.com
 suwytid.com
 suxacpgc.com
 suxctfwdub.xyz
+suxeellwabwio.com
 suxobjjrokh.com
 suxtryawma.com
 suyextfn.com
@@ -114820,6 +114825,7 @@ tlkighhcitfo.top
 tllfouwvkqza.com
 tlmopyuuykbjcs.xyz
 tlmwkjiuabal.com
+tlmyompwxrhv.com
 tlnuxuhlobn.xyz
 tlnydnqvgmyfwhc.com
 tlootas.org
@@ -117345,6 +117351,7 @@ twvybupqup.xyz
 twwmviswnyavhju.xyz
 twwp3.top
 twxlcadqqggrmp.com
+twxvkwjgugh.com
 tx-global.net
 tx.wekamose.com
 tx54.cc
@@ -123013,6 +123020,7 @@ wf-analyzer.biz
 wf.brumbiedecagon.com
 wf.gaurecorah.com
 wf66l5ylwq.com
+wfaxikyhe.com
 wfbibtji.xyz
 wfbupabupcp.com
 wfcbbpewagqn.info
@@ -140539,6 +140547,7 @@ xtcpro.net
 xtdbjbfqjn.xyz
 xtdgltduyjvifg.top
 xtdioaawlam.com
+xtdowlwam.com
 xtec-systems.com
 xtefssqwjep.com
 xtendmedia.org
