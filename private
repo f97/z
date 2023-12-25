@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-24T18:09:16.978Z
+! Last modified: 2023-12-25T00:37:59.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -67625,7 +67625,6 @@ et.lv
 eum-appdynamics.com
 ev.api.bdg.com
 evasiondemandedlearning.com
-eventcapture06.com
 eventlog.willow.tv
 events.gfe.nvidia.com
 events.mapbox.com
@@ -68179,7 +68178,6 @@ ispot.tv
 ist-track.com
 itemperrycreek.com
 iterable.com
-itinerarycarter.com
 itineraryupper.com
 itomedia.co.za
 ivitrack.com
@@ -80060,7 +80058,6 @@ poptin.com
 poptrkr.com
 popxperts.com
 popxyz.com
-porntrack.org
 porovname.cz
 portbay.trade
 poshhateful.com
@@ -103987,6 +103984,7 @@ gooptimum.com
 gooses.design
 goosfactor.life
 gopi.sahi.tk
+gopisahi.site
 gopisahi.tk
 goposts.site
 gopowerlevel.com
@@ -105175,6 +105173,7 @@ help365.us
 help4storm.com
 help71.contcthq.click
 help72.contactslbs.click
+help76.contctly.click
 help76.contctsly.click
 help76.getcontcts.click
 helpapp.cfd
