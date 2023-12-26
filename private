@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-26T06:10:44.882Z
+! Last modified: 2023-12-26T12:13:45.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -116213,6 +116213,7 @@ ntxstream.com
 nu588.com
 nualloydpactive.com
 nualr.com
+nuansa.tech
 nubenews.com
 nubismail.com
 nubotel.com
@@ -125391,6 +125392,7 @@ support247live.us
 support5.mineweb.in
 support66.contctshq.click
 support71.contcthq.click
+support72.contactslbs.click
 support76.contctly.click
 supportain.site
 supportapp.click
