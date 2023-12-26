@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-25T18:09:39.175Z
+! Last modified: 2023-12-26T00:35:59.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35494,6 +35494,7 @@ abetsslodger.guru
 abetterinter.net
 abevc.club
 abewvlhfdxjy.com
+abeykowtows.website
 abfknmta.com
 abflijrco.xyz
 abg-7777.net
@@ -41493,6 +41494,7 @@ autopsycarrel.com
 autopsyfowl.com
 autopsyglossy.com
 autopsyjam.com
+autopsytan.com
 autopujcovna-autopujcovny.info
 autoreviews.tv
 autosedacky.wtf
@@ -43533,6 +43535,7 @@ benastyunkiss.digital
 benced.com
 benchastonishingstudying.com
 benchedjell.space
+benchraspberry.com
 benchsuited.com
 bend-me-over.com
 bendcauslesscauslessnotion.com
@@ -43543,6 +43546,7 @@ bendligobank-au.net
 bendlqo.com
 bendo.xyz
 beneathallowing.com
+beneathconstellation.com
 beneathgirlproceed.com
 benedictionpolitician.com
 beneficiosentuvida12.com
@@ -44958,12 +44962,14 @@ blockchaintitleservices.net
 blockchaintop.nl
 blocked1.xyz
 blockedadulatoryhotel.com
+blockedanticipated.com
 blockedpriority.com
 blockinga.com
 blockingdarlingshrivel.com
 blockinggleamingmadeup.com
 blockmastersteam.com
 blockscoolest.com
+blockslurk.com
 blocksly.org
 blockspitetough.com
 blode-cpq.com
@@ -45124,6 +45130,7 @@ blufftight.com
 bluffykuneste.digital
 bluishalmosterror.com
 bluishgeologicallimitless.com
+bluishgrunt.com
 blukard.app
 blunderfluffy.com
 blunksdaler.uno
@@ -49923,6 +49930,7 @@ cl1024f.com
 claasparts.eu
 claawggphcge.com
 clackavarian.com
+clackscrc.life
 cladsneezesugar.com
 cladupius.com
 claggeduniter.com
@@ -50342,6 +50350,7 @@ cloisterknucklebeep.com
 cloisteroutdooragitate.com
 clojuregirl.com
 clompspapacy.digital
+clonemolten.life
 clonesmesopic.com
 clongerip.com
 clonheats.website
@@ -52384,6 +52393,7 @@ cranebaby.ca
 cranebecomingwindfall.com
 cranecreekhoneybeefarm.com
 cranenondescript.com
+craneydriers.digital
 craneykori.uno
 cranialjehu.com
 crankerunborn.com
@@ -65260,6 +65270,7 @@ garnetsnails.com
 garnetsvolleyball.com
 garosesia.com
 garotas.info
+garoteddepict.uno
 garotopropaganda.digital
 garouspostern.com
 garretcanvasseruption.com
@@ -76076,6 +76087,7 @@ jnchangtal.net
 jncoqnseclareyg.com
 jndhosting.com
 jngsvjepylko.com
+jnhafvjwtmh.com
 jnkptvdmujliwll.com
 jnlbhjzrwtfcpq.com
 jnnihxpvlqahr.xyz
@@ -84719,6 +84731,7 @@ mgrvhxroitfth.xyz
 mgsgxjgpgumhdu.xyz
 mgsigma.org
 mgsixwbnfl.com
+mgspmklfjys.com
 mgtrgjwmwuirx.com
 mgtxdntxkx.com
 mgubsgjrn.top
@@ -89774,6 +89787,7 @@ nrcqqpjx.xyz
 nreached.org
 nreg.world
 nregncmdsl.xyz
+nreoppquyoxjmo.com
 nrevux.xyz
 nrgbrgrng.life
 nrhitjnod.xyz
@@ -94155,6 +94169,7 @@ peakluckily.com
 peakperks.ca
 peakpushedancestor.com
 pealia.com
+pealikebolelia.top
 pealmeditate.com
 peanic.com
 peanutsurrogatesurrogate.com
@@ -99855,6 +99870,7 @@ qz.gablockplank.com
 qz.icicledjasy.com
 qz.jivarospurius.com
 qz496amxfh87mst.com
+qzdmvwewzxzzze.com
 qzeowgo.com
 qzgbhuelut.com
 qzkjkiexmsyv.com
@@ -99893,6 +99909,7 @@ ra.gurgeonmarron.com
 ra.polyserbdom.com
 raadth.com
 raajabhai.com
+raaschpres.digital
 rabaischocs.ch
 rabatwongara.website
 rabbit.hosting
@@ -100290,6 +100307,7 @@ rarbgaccess.org
 rarbgmirror.com
 rarbgmirror.org
 rarbgunblock.org
+rarbgweb.org
 rarechats.blog
 rarecruises.com
 rareghoa.net
@@ -105274,6 +105292,7 @@ seginus.org
 segludsi.net
 segmentcoax.com
 segnxtrcbo.xyz
+segounacrine.top
 segrbdscumdk.com
 segrea.com
 segsticaret.com
@@ -106225,6 +106244,7 @@ sharpbees.com
 sharpenedaxe.com
 sharpfinger.com
 sharplance.com
+sharplydeadlock.com
 sharpofferlinks.com
 sharpphysicallyupcoming.com
 sharpsharkteeth.com
@@ -109903,6 +109923,7 @@ stemboastfulrattle.com
 stemcellactivationnow.com
 stemgthrop.one
 stempelcosier.com
+stemquarto.guru
 stemsergeant.org
 stenadewy.pro
 stenchdaltonrunaway.com
@@ -116787,6 +116808,7 @@ tsnl.com
 tsoimora.com
 tsougrjwqrnai.xyz
 tsouviadj.com
+tspafar.life
 tspffihc.com
 tspops.com
 tsrrbok.com
@@ -118256,6 +118278,7 @@ underwearsourorb.com
 undesirableslim.com
 undiesthumb.com
 undoiblog.net
+undoncamansi.life
 undonesincerelydraught.com
 undooptimisticsuction.com
 undoubtedlyavowplanets.com
@@ -125166,6 +125189,7 @@ www.7bjhjsda717.monster
 www.7dkjfbghjdfg77.monster
 www.7fdghdsasf7.monster
 www.7hbdjfsdx7.monster
+www.7jahw.com
 www.7jghavshda71.monster
 www.7jghsdvhfsf7.monster
 www.7jhabhjsd77.monster
@@ -134544,6 +134568,7 @@ www.petrolgraphcredibility.com
 www.petroultra-oils.com
 www.petsavoury.com
 www.pettowermummy.com
+www.pettythingsinlife.net
 www.petulantblew.com
 www.pewizard.com
 www.pfapps.org
@@ -136371,6 +136396,7 @@ www.sharangabo.tech
 www.shared01.not-tesla.com
 www.sharepoint.house
 www.sharonedensmith.com
+www.sharplydeadlock.com
 www.shatoawussoo.com
 www.shatsalt.com
 www.shatterconceal.com
@@ -143116,6 +143142,7 @@ zveri.info
 zvetokr2hr8pcng09.com
 zvhednrza.com
 zviredoma.info
+zvjewzwglpnt.com
 zvjkhrdp.com
 zvkytbjimbhk.com
 zvok.pro
