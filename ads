@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-26T00:35:59.361Z
+! Last modified: 2023-12-26T06:10:38.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37467,6 +37467,7 @@ ahabmcdsrwlau.com
 ahacdn.me
 ahadsply.com
 ahagreatlypromised.com
+ahaha.space
 ahaheartburndo.com
 ahamshoonyam.com
 ahaqua.in
@@ -47210,6 +47211,7 @@ bzkbnoqw.com
 bzkkpighvtjnkp.com
 bzsiyxkvehty.com
 bzuyxqrmndod.com
+bzxcygmykxymcj.com
 c-4-l.us
 c-4fambt.com
 c-leanmining.org
@@ -68275,6 +68277,7 @@ guardpathlongevitysolutions.com
 guardspearls.com
 guargumplant.com
 guatecasitas.com
+guayabiurgings.uno
 gubopedruph.com
 guccihandbags.com
 guccista.store
@@ -69635,6 +69638,7 @@ helilabs.direct
 heliltag.com
 helio-3plus.com
 helio-3recharge.com
+helionteasy.digital
 helisens.ca
 helisens.com
 helitag.direct
@@ -69991,6 +69995,7 @@ hgkowekzyen.com
 hgkuafsvkrn.xyz
 hgljjyjs.com
 hglxnyduwoguxx.xyz
+hgnllgpfufthtc.com
 hgnsgewl.com
 hgoldh.com
 hgphlejpdirbqe.com
@@ -101694,6 +101699,7 @@ resownmaills.uno
 respeakmiskin.uno
 respectablecharacteristicrider.com
 respectableinjurefortunate.com
+respectfullyalternate.com
 respectfullysavvy.com
 respectfulrelations.com
 respectiveruffle.com
@@ -110851,6 +110857,7 @@ sunjie.xyz
 sunkawaiting.com
 sunkenclogarc.com
 sunkencurledexpanded.com
+sunkenmildredheadache.com
 sunkryptominer.com
 sunlampassumes.com
 sunlightirrationalhearty.com
@@ -116288,6 +116295,7 @@ trenchtech.in
 trendbuffseparation.com
 trendcram.com
 trendedsegged.com
+trendelfarcin.top
 trendindicator.org
 trendistaclinic.net
 trendlyne.info
@@ -118096,6 +118104,7 @@ umbdyuvlcycii.com
 umbrellaomendear.com
 umbretalen.com
 umcqtxnn.com
+umcsghecmszp.com
 umebella.com
 umedadelempanyi.info
 umedin.com
@@ -137240,6 +137249,7 @@ www.sunflowerinformed.com
 www.sunkawaiting.com
 www.sunkenclogarc.com
 www.sunkencurledexpanded.com
+www.sunkenmildredheadache.com
 www.sunlightirrationalhearty.com
 www.sunsetjuxtapositioninvoke.com
 www.sunsetpersuadeaffectionately.com
