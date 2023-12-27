@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-27T12:13:31.566Z
+! Last modified: 2023-12-27T16:02:46.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2500,6 +2500,7 @@
 ||alwhichhereal.com^
 ||alwhichhereallyw.com^
 ||alwingulla.com^
+||alwubrhkxgqdiw.com^
 ||alxbgo.com^
 ||alxsite.com^
 ||alysson.de^
@@ -13397,6 +13398,7 @@
 ||ikcaru.com^
 ||ikcieontapp.com^
 ||ikengoti.com^
+||ikevinwfc.com^
 ||ikeymutilla.space^
 ||ikholm.com^
 ||ikjzwgcg.com^
@@ -18255,6 +18257,7 @@
 ||noaiaft.com^
 ||noamiscience.pro^
 ||noanawie.com^
+||noanrzfdt.com^
 ||noapai.name^
 ||noaptauw.com^
 ||nobbutaaru.com^
@@ -18564,6 +18567,7 @@
 ||nvqjpzxufp.com^
 ||nvrblk.xyz^
 ||nvyrgsqdqh.com^
+||nvzcoggh.com^
 ||nwejuljibczi.com^
 ||nwhocamewi.xyz^
 ||nwhuomqmuym.com^
@@ -21937,6 +21941,7 @@
 ||qjwglnuwqvr.com^
 ||qjyoanpkf.com^
 ||qkalpmwsvfwqqy.com^
+||qkdhstfyx.com^
 ||qkepevhlton.xyz^
 ||qkhvongctffugm.com^
 ||qkjjuhs.com^
@@ -44100,6 +44105,7 @@ bgjsjep.com
 bgkrbh.com
 bglbvjhoqomumtw.top
 bglen-fan.net
+bgmikubhce.com
 bgminewofficial.com
 bgnjefgkuebs.com
 bgodubai.com
@@ -62888,6 +62894,7 @@ fionela.com
 fiorenetwork.com
 fipamedia.org
 fipdugs.guru
+fipkcakk.com
 fipkd.yt
 fippledolcino.digital
 fiprst.xyz
@@ -74870,6 +74877,7 @@ ityonatallco.info
 ityyocwehhcleil.top
 itza.name
 itzekromom.com
+iuafpmbeyqcv.com
 iuc1.online
 iuc1.space
 iucc.yt
@@ -75883,6 +75891,7 @@ jggvkisg.com
 jghsvdhasd2.monster
 jgmoa30.com
 jgmudyjal.com
+jgnjwhlsisxtqhg.xyz
 jgnqbqap.xyz
 jgocze-portfolio.com
 jgqaoipkohsln.com
@@ -79453,6 +79462,7 @@ ladydee.tech
 ladyphapty.com
 ladys-step.ru
 ladytravel.org
+laelpcrmjcwobmv.com
 laene.org
 laeoonthqncns.xyz
 laequidadarp.coop
@@ -99357,6 +99367,7 @@ qk.pullenpinbush.com
 qkalpmwsvfwqqy.com
 qkatfamsqqw.com
 qkcvvlrkc.com
+qkdhstfyx.com
 qkepevhlton.xyz
 qkhrhikthvitnag.com
 qkhtbpeorl.com
@@ -113251,6 +113262,7 @@ tgsscmaxfi.com
 tgtesqjs.com
 tgvlrlof.com
 tgwsklqjdq.com
+tgwxxftxiot.com
 tgymexba.com
 th.beeweedisomer.com
 th1202.com
@@ -115569,6 +115581,7 @@ toptipz.xyz
 toptopp.com
 toptruyenmau.com
 toptvprovider.com
+topvalour.com
 topvids.email
 topvids.info
 topvids.online
@@ -138104,6 +138117,7 @@ www.toprevenuegate.com
 www.topsecret.in
 www.topslowcookerreviews.com
 www.topsummerapps.net
+www.topvalour.com
 www.topviralnewz.com
 www.topwwnews.com
 www.torchestanreason.com
