@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-26T18:09:38.294Z
+! Last modified: 2023-12-27T00:36:04.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2537,6 +2537,7 @@
 ||ameedbezique.uno^
 ||amelatrina.com^
 ||amendablepartridge.com^
+||amendsgeneralize.com^
 ||amenityleisurelydays.com^
 ||amenityremorse.com^
 ||ameofmuki.info^
@@ -10545,6 +10546,7 @@
 ||flipool.com^
 ||flixcontentshop.com^
 ||flixdot.com^
+||flixtrial.com^
 ||flmfcox.com^
 ||flneurtoyed.tech^
 ||flnxcveswar.com^
@@ -32018,6 +32020,7 @@
 ||centent.stemplay.cc^
 ||content.powzerz.lol^
 ||creatives.livejasmin.com^
+||crunchy-tango.dotabuff.com^
 ||dmxleo.dailymotion.com^
 ||dontent.powzers.lol^
 ||e.cdngeek.com^
@@ -32041,6 +32044,7 @@
 ||js.mangajp.top^
 ||js.syosetu.top^
 ||kentent.streampiay.fun^
+||kitsune-rush.overbuff.com^
 ||kta.etherscan.com^
 ||lw.musictarget.com^
 ||mafvertizing.crazygames.com^
@@ -32059,8 +32063,10 @@
 ||pubsrv.devhints.io^
 ||qontent.powzers.lol^
 ||rafvertizing.crazygames.com^
+||red-shell.speedrun.com^
 ||socket.streamable.com^
 ||sontent.powzers.lol^
+||spike-plant.valorbuff.com^
 ||tontent.powzers.lol^
 ||util-*.simply-hentai.com^
 ||wafvertizing.crazygames.com^
@@ -32086,6 +32092,7 @@
 ||banners.cams.com^
 ||cams.imgtaxi.com^
 ||capetown.xhamster.com^
+||creative.live.bestjavporn.com^
 ||creative.live.javhdporn.net^
 ||creative.live.javmix.tv^
 ||creative.live.missav.com^
@@ -32125,6 +32132,7 @@
 ||oj.4wank.com^
 ||ok.4wank.net^
 ||ok.faptor.com^
+||ok.starwank.com^
 ||plx.porndig.com^
 ||pornve.sexyadsrun.com^
 ||qua3r1h0.xhamster.com^
@@ -52850,6 +52858,7 @@ crystaliswater.com
 crystallinesolarpanel.com
 crystallogics.com
 crystalneal.click
+crystalsignaliforce.directory
 crytoking.tech
 crytyingcrutch.com
 cs-mapping.org
@@ -72695,6 +72704,7 @@ ikcyxcbqmoptk.com
 ikdvwsuprr.com
 ikea-business.hu
 ikengoti.com
+ikevinwfc.com
 ikeymutilla.space
 ikf-holding.it
 ikftkvrktbgt.com
@@ -75724,6 +75734,7 @@ jervinreverdi.uno
 jerzy-binkowski.com.pl
 jesaifie.com
 jescyeet.xyz
+jessehydnoid.top
 jessicabeebesopranogmail.com
 jessicagriffing.com
 jessicaguerradesigns.com
@@ -77592,6 +77603,7 @@ kdvewlabjokfoc.com
 kdvtfbqhftvgpd.com
 kdwdrpiwdxof.com
 kdwuiulga.com
+kdxhsaaealyadm.com
 kdxwappnmx.com
 kdxwcppmed.com
 kdycokam.com
@@ -87393,6 +87405,7 @@ mysterydinner-sk.com
 mysticaldespiseelongated.com
 mysticholdings.wtf
 mysticmountainfarms.farm
+mysticomen.com
 mystictamil.com
 mystify.tech
 mystifyin.xyz
@@ -87750,6 +87763,7 @@ nappespatois.com
 nappietuckner.guru
 nappybedcandid.com
 naprecental.com
+napsakfilms.com
 napsut.com
 napynm.com
 naqewsa.top
@@ -90198,6 +90212,7 @@ nvwvbdvlsuh.com
 nvxcvyfedg.com
 nvxtnylqwqpsyg.com
 nvyrgsqdqh.com
+nvzcoggh.com
 nvzluoamqk.com
 nvzrirxwhj.com
 nw.stomachcinuran.com
@@ -99012,6 +99027,7 @@ qapharmco.com
 qapumwieq.com
 qapwgjakt.com
 qaqhbffimfhfm.xyz
+qaqqihlho.com
 qaraellr.com
 qarewien.com
 qascfr.tech
@@ -133771,6 +133787,7 @@ www.napabvi.com
 www.napkinlucent.com
 www.napkinrighty.com
 www.napoleonpeachystar.com
+www.napsakfilms.com
 www.narcoticaspect.com
 www.nasalburglarthomas.com
 www.nasalhoney.com
