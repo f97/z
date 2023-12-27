@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-27T00:36:04.499Z
+! Last modified: 2023-12-27T06:10:52.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1238,6 +1238,7 @@
 ||abyescaplock.guru^
 ||acacdn.com^
 ||acacdn.xyz^
+||academicvast.com^
 ||academyblocked.com^
 ||academyenrage.com^
 ||acalraiz.xyz^
@@ -1692,6 +1693,7 @@
 ||adsemirate.com^
 ||adsemo.com^
 ||adsensecamp.com^
+||adsensecustomsearchads.com^
 ||adser.io^
 ||adserve.ph^
 ||adserved.net^
@@ -5415,6 +5417,7 @@
 ||camprime.com^
 ||camptrck.com^
 ||camschat.net^
+||camshq.info^
 ||camsitecash.com^
 ||camsmotes.com^
 ||camstime.life^
@@ -5618,6 +5621,7 @@
 ||ccieoqej.xyz^
 ||ccjzuavqrh.com^
 ||ccmdcinut.com^
+||ccmiocw.com^
 ||ccn08sth.de^
 ||ccoybmnjw.com^
 ||ccpckbb.com^
@@ -7038,6 +7042,7 @@
 ||crtracklink.com^
 ||crucianbasyl.com^
 ||crudelouisa.com^
+||cruel-national.pro^
 ||crueltyrefundye.com^
 ||cruetychumpy.com^
 ||cruisetitleclosed.com^
@@ -7257,7 +7262,6 @@
 ||d3c.site^
 ||d3d98dc11c.com^
 ||d3da127b69.com^
-||d3hfiiy55cbi5t.cloudfront.net^
 ||d4b138a7aa.com^
 ||d4d48974197052ea.com^
 ||d5390684c4.com^
@@ -31301,6 +31305,7 @@
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1xdxiqs8w12la.cloudfront.net^
+||d1xivydscggob7.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1xo0f2fdn5no0.cloudfront.net^
 ||d1xw8yqtkk9ae5.cloudfront.net^
@@ -31624,6 +31629,7 @@
 ||d3frqqoat98cng.cloudfront.net^
 ||d3g4s1p0bmuj5f.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
+||d3hfiiy55cbi5t.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
@@ -35750,6 +35756,7 @@ academiakcchambergo.com
 academianexus.com
 academic-information.com
 academicradiology.com
+academicvast.com
 academyblocked.com
 academycorp.com
 academyedupro.com
@@ -36618,6 +36625,7 @@ adsdot.ph
 adsemirate.com
 adsemo.com
 adsensecamp.com
+adsensecustomsearchads.com
 adser.io
 adserve.ph
 adserve.tv
@@ -40164,6 +40172,7 @@ arened.com
 arengboard.com
 arenitezill.com
 arensbergpharmacy.com
+areolaecranes.top
 aretebiztech.com
 arethegrav.com.ua
 arethegravk.xyz
@@ -48380,6 +48389,7 @@ ccletterart.org
 ccmdcinut.com
 ccmediagroup.ca
 ccmengmeng.com
+ccmiocw.com
 ccmwigksgiwwke.xyz
 ccn08sth.de
 ccoybmnjw.com
@@ -61807,6 +61817,7 @@ farhanazmi.in
 farhotels.xyz
 faridabadcallgirls.com
 farinassurbase.uno
+fariosilene.guru
 farm-carbon.org
 farm7days.com
 farma-europe.com
@@ -64854,6 +64865,7 @@ futvbol.net
 fuujifldttmm.com
 fuuuuuuuuuuuuuck.com
 fuvdpkrpypnah.com
+fuvmtqiwhaffnc.com
 fux0r.icu
 fuxxijafrxma.com
 fuyytjuopkikl.com
@@ -69437,6 +69449,7 @@ hdkfntdvxy.com
 hdlohfnn.com
 hdlordfilm.com
 hdmovies5.me
+hdmovieshub.cfd
 hdmp3.xyz
 hdnfecinf.com
 hdngtgby.com
@@ -73324,6 +73337,7 @@ indigestionmarried.com
 indigestionpious.com
 indignationmapprohibited.com
 indigomaritime.com
+indigotraitor.website
 indikarting.link
 indinincense.net.in
 indirectbronzecompany.com
@@ -87745,6 +87759,7 @@ naolemkkg.com
 naonoupm.com
 naoprj.com
 naosou.info
+naoudodra.com
 napabvi.com
 napainsi.net
 napcinfeyvcgypd.com
@@ -92516,6 +92531,7 @@ osspalkiaom.com
 osspwamuhn.com
 ossrhydonr.com
 ossshucklean.com
+ossyfirecpo.com
 ostazvtx.com
 osteepqscibsdi.xyz
 ostenders.com
@@ -110870,6 +110886,7 @@ sulkypowerheads.com
 sullageprofre.com
 sullencarverdoes.com
 sullytheclown.com
+sulphurboned.digital
 sulrejclbehh.com
 sulseerg.com
 sult-tea.com
@@ -142076,6 +142093,7 @@ yrqlopjae.top
 yrsrvelnheqqsew.com
 yrstwbyl.xyz
 yrsvhutjljo.com
+yrtfyeohmjdw.com
 yrufmaimbhxxe.com
 yrumdfslwabv.com
 yrvywvqt.com
