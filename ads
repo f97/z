@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-27T06:10:52.452Z
+! Last modified: 2023-12-27T12:13:31.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9936,6 +9936,7 @@
 ||f7e5bf5ed8.com^
 ||f7e8aa0821.com^
 ||f8260adbf8558d6.com^
+||f83d8a9867.com^
 ||f853150605ccb.com^
 ||f8e36bb73c.com^
 ||f95nkry2nf8o.com^
@@ -10614,6 +10615,7 @@
 ||fmsads.com^
 ||fmsde0dv2j54.com^
 ||fmstigat.online^
+||fmwzfwzxztu.com^
 ||fmxfboibrmbf.xyz^
 ||fmzjinez.com^
 ||fnbauniukvi.com^
@@ -11067,6 +11069,7 @@
 ||futuredistracting.com^
 ||futureresiduals.com^
 ||futureus.com^
+||fuvmtqiwhaffnc.com^
 ||fuyytjuopkikl.com^
 ||fuzakumpaks.com^
 ||fuzeelamby.com^
@@ -12858,6 +12861,7 @@
 ||holduporatory.com^
 ||holebnnjuom.xyz^
 ||holemanwasco.com^
+||holenhw.com^
 ||holict.com^
 ||hollekeamboina.com^
 ||hollowcharacter.com^
@@ -14106,6 +14110,7 @@
 ||ityonatallco.info^
 ||itzekromom.com^
 ||iuc1.online^
+||iuc1.space^
 ||iuclpbgxyfddk.xyz^
 ||iudgoufuvzjf.com^
 ||iuhmydixxk.xyz^
@@ -14838,6 +14843,7 @@
 ||kdosimp.com^
 ||kdpnmlygyagyx.com^
 ||kdwuiulga.com^
+||kdxhsaaealyadm.com^
 ||keajs.com^
 ||keamateorski.xyz^
 ||keapeiros.xyz^
@@ -19381,6 +19387,7 @@
 ||osspwamuhn.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||ossyfirecpo.com^
 ||ostazvtx.com^
 ||ostensibledressmaker.com^
 ||ostentatiousmystery.com^
@@ -21857,6 +21864,7 @@
 ||qalscihrolwu.com^
 ||qambywkmlvyj.top^
 ||qamwm5o8dlgijte.com^
+||qaqqihlho.com^
 ||qarewien.com^
 ||qasrae.com^
 ||qatsbesagne.com^
@@ -29918,6 +29926,7 @@
 ||wwwowww.xyz^
 ||wwwpromoter.com^
 ||wwwwndings.click^
+||wxaqazawxhjiz.com^
 ||wxcqdnf.com^
 ||wxejroeeteesr.com^
 ||wxhiojortldjyegtkx.bid^
@@ -29960,6 +29969,7 @@
 ||xageyai.com^
 ||xaguturkuufyq.com^
 ||xahhhptqa.top^
+||xajqhrrrnxmy.com^
 ||xakfdicg.com^
 ||xalienstreamx.com^
 ||xameleonads.com^
@@ -30493,6 +30503,7 @@
 ||yrhdmalrfr.com^
 ||yrinpvfw.com^
 ||yrkycfjq.com^
+||yrtfyeohmjdw.com^
 ||yrufmaimbhxxe.com^
 ||yrvzqabfxe.com^
 ||yscntxil.com^
@@ -30927,6 +30938,7 @@
 ||monsterofnews.com
 ||ntoftheusysianedt.info^
 ||tausoota.xyz^
+||wonder.xhamster.com^
 ||cwchmb.com^
 ||drtladv.cc^
 ||jav-7mmtv.top^
@@ -32088,16 +32100,18 @@
 ||vplayer.newseveryday.com^
 ||centent.streamp1ay.
 ||cintent.streanplay.
-||ab2nyv30b.xhamster.com^
 ||ad.pornutopia.org^
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
 ||affiliates.goodvibes.com^
+||amsterdam.xhamster.com^
+||amsterdam.xhamster.desi^
+||amsterdam.xhamster2.com^
+||amsterdam.xhamster3.com^
 ||asg.faperoni.com^
 ||b8ms7gkwq7g.crocotube.com^
 ||banners.cams.com^
 ||cams.imgtaxi.com^
-||capetown.xhamster.com^
 ||creative.live.bestjavporn.com^
 ||creative.live.javhdporn.net^
 ||creative.live.javmix.tv^
@@ -32108,31 +32122,15 @@
 ||creatives.cliphunter.com^
 ||creatives.pichunter.com^
 ||delivery.porn.com^
-||divinepercussion.xhamster.com^
 ||dyn.empflix.com^
 ||dyn.tnaflix.com^
-||fizhit.xhamster.com^
 ||flw.camcaps.ac^
-||gga.xhamster.com^
 ||go.celebjihad.live^
 ||go.pornav.net^
 ||go.stripchat.beeg.com^
 ||go.strpjmp.com^
-||h8abihk.xhamster.com^
-||jefferson.xhamster.com^
-||jhat1n4.xhamster.com^
-||jy8dc.xhamster.com^
-||kafdlwyw4z.xhamster.com^
-||linkoftime.xhamster.com^
 ||madmen2.alastonsuomi.com^
-||modelapi.xhamster.com^
-||modelgateway.xhamster.com^
-||mqpx6qs.xhamster.com^
 ||n.hnntube.com^
-||nebula.xhamster.com^
-||nnsi4p.xhamster.com^
-||nvlqrvvtp6n.xhamster.com^
-||ocarinaboot.xhamster.com^
 ||oi.fapnado.com^
 ||oi.hqbang.com^
 ||oj.4wank.com^
@@ -32141,24 +32139,15 @@
 ||ok.starwank.com^
 ||plx.porndig.com^
 ||pornve.sexyadsrun.com^
-||qua3r1h0.xhamster.com^
-||rainbow-gladius.xhamster.com^
-||rn2vw3.xhamster.com^
-||ro55cpi1.xhamster.com^
 ||rst.pornyhd.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
 ||rtb-3.xgroovy.com^
 ||slview.psne.jp^
 ||support.streamjav.top^
-||tokyo.xhamster.com^
 ||vuwjv7sjvg7.zedporn.com^
-||wi9u5paiwo.xhamster.com^
-||wonder.xhamster.com^
 ||x0r.urlgalleries.net^
-||ynoymse4.xhamster.com^
 ||yotta.scrolller.com^
-||z0s9n.xhamster.com^
 ||smartclip.com^
 ||smartclip.net^
 ||myhomescreen.tv^
@@ -41009,6 +40998,7 @@ atemda.com
 atenda7artigosreligiosos.com
 atentherel.org
 aterhouse.info
+aterhouseoyop.com
 aterhouseoyop.info
 aternos.gg
 aterroppop.com
@@ -41138,6 +41128,7 @@ atraff.com
 atraichuor.com
 atriahatband.com
 atriblethetch.com
+atrintl.com
 atripplotx.com
 atriumarchitecture.uk
 atriumplanning.uk
@@ -42365,6 +42356,7 @@ bafia.tech
 bagan-e.com
 bageelru.xyz
 bagelguy.ca
+bagelguyproductions.com
 bagelinterest.com
 bageswardham.in
 bagfuladjectiveinvade.com
@@ -44873,6 +44865,7 @@ bladic.com
 bladswetis.com
 blaghfpd.com
 blagorad.site
+blainsseave.guru
 blaiserver.net
 blakeelses.tech
 blakeleyindustrial.com
@@ -45071,6 +45064,7 @@ bloomyarseno.com
 blopav.it
 blossombeverages.in
 blossomsscrubs.com
+blotchprivately.com
 blotchymunite.uno
 blotscelt.uno
 blouseridge.com
@@ -45535,6 +45529,7 @@ bonecommittee.com
 bonemcgraw.com
 boneporridge.com
 boneshards.com
+bonesimprovements.com
 bonesinoffensivebook.com
 bonfiresaltymilk.com
 bonfish.com
@@ -46296,6 +46291,7 @@ bristlejaunty.com
 bristol-apprenticeships.co.uk
 bristolmortgageservices.co.uk
 bristowcars.com
+britaininspirationsplendid.com
 britanyculvert.website
 brithungown.com
 briticatederfd.site
@@ -46788,6 +46784,7 @@ bummerdeducthandshake.com
 bummerybutene.life
 bumpersubmarine.com
 bumpingcarfax.com
+bumpmoss.com
 bumpyfruitless.com
 bumpypleacroak.com
 bumpyremittancecarnivorous.com
@@ -48971,6 +48968,7 @@ challengehurts.com
 challengemod.com
 challengermodes.com
 chaloamarnath.com
+chalupkovo.net
 chamak.live
 chamanaerotica.com
 chamarwhisted.digital
@@ -50487,6 +50485,7 @@ cloudsura.net
 cloudtrack-camp.com
 cloudtraff.com
 cloudvideosa.com
+cloudyfootingmemorial.com
 cloudypotsincluded.com
 cloutcucumber.com
 clownunknownaffect.com
@@ -50741,6 +50740,7 @@ cockatielstudios.com
 cocklacock.com
 cockophile.com
 cockpineapplepeering.com
+cockpiteconomicspayroll.com
 cocktaildejectionknights.com
 cockyarmour.com
 cockysnailleather.com
@@ -50839,6 +50839,7 @@ cogaitaichinh.com
 cogaspa.org
 cogbotlab.com
 cogentpatientmama.com
+cogentselfish.com
 cogenttriprepel.com
 cogentwarden.com
 coginyx.net
@@ -50994,6 +50995,7 @@ colomapp.com
 colombomyeloid.live
 colomboyees.com
 colonave.com
+colonelnickname.com
 colonialismmarch.com
 colonialismpeachy.com
 colonistnobilityheroic.com
@@ -51123,6 +51125,7 @@ comfortabledocumentationdefense.com
 comfortablehealheadlight.com
 comfortablelearning.com
 comfortclick.co.uk
+comfortfluffyflabbergasted.com
 comforthierarchy.com
 comfortlessspotsbury.com
 comfreeads.com
@@ -51457,6 +51460,7 @@ concurrencepride.com
 concurrentmusic.com
 concussionpollutioncrummy.com
 condao.space
+condemnuphold.com
 condenoticias.net
 condenseddisgustingconform.com
 condensedmassagefoul.com
@@ -51754,6 +51758,7 @@ contentperfect.co.uk
 contentr.net
 contentrtg.com
 contentshamper.com
+contestjoe.com
 contestpassion.com
 context-coding.com
 contextads.net
@@ -53771,6 +53776,7 @@ danaslot2024ku.com
 dancaa.com
 danceartsinstitute.ca
 dancedballota.top
+dancelotsindependently.com
 dancerdomestic.com
 dancesera.world
 dancesheetsuk.com
@@ -56102,6 +56108,7 @@ diversionnotions.com
 diversity-journal.com
 diversityentry.com
 diversityspaceship.com
+divertbywordinjustice.com
 divibarber.com
 dividedbecameinquisitive.com
 dividedching.com
@@ -59044,6 +59051,7 @@ elasticad.net
 elasticcannon.com
 elasticdestruct.com
 elasticfrustration.com
+elasticnauseoustoenail.com
 elasticsearch.in
 elastiman.com
 elastoblast.co.uk
@@ -62907,6 +62915,7 @@ fireside.help
 firesidetherapy.ca
 firesteelcontracting.com
 firestormapparel.com
+firestormapparel.net
 firestormjournal.com
 firetail.in
 firetech-hct.com
@@ -63520,6 +63529,7 @@ fmutjhwtbmoxttk.com
 fmv9kweoe06r.com
 fmvimwiagq.com
 fmwdlvbmlk.xyz
+fmwzfwzxztu.com
 fmxemwxkuefncv.com
 fmxfboibrmbf.xyz
 fmyfqpuqpfanaf.com
@@ -67672,6 +67682,7 @@ grabclix.com
 grabhastened.com
 grableads.org
 grabngo.app
+graboverhead.com
 grabu.top
 gracaiko.net
 gracedschelly.com
@@ -71613,6 +71624,7 @@ huddha.com
 huddhi.com
 hudnd.yt
 hudobniny.shop
+hudplac.com
 huduga.com
 hueads.com
 hueadsxml.com
@@ -72819,6 +72831,7 @@ illuminateinconveniencenutrient.com
 illuminatelocks.com
 illuminateslydeliberate.com
 illuminationdangeroushero.com
+illusiongaietytedious.com
 illusiveremarkstreat.com
 illustcutesy.com
 illustrateartery.com
@@ -74649,6 +74662,7 @@ isldfcxorw.com
 islecolloquial.com
 isleofpalms.info
 isleofwhiteinteriordesigner.co.uk
+islerobserpent.com
 islim365.com
 islkexutqcvvs.com
 ismlks.com
@@ -74857,6 +74871,7 @@ ityyocwehhcleil.top
 itza.name
 itzekromom.com
 iuc1.online
+iuc1.space
 iucc.yt
 iucigjhtezgnub.com
 iuclpbgxyfddk.xyz
@@ -79888,6 +79903,7 @@ lawofficetherapist.com
 lawreviewportal.com
 lawsaddthoroughfare.com
 lawscagetroy.com
+lawsfrequent.com
 lawsocietybc.ca
 lawson-centre-series.ca
 lawstreetindia.com
@@ -80657,6 +80673,7 @@ libbetpalooka.life
 libcdn.xyz
 libedgolart.com
 libedt.com
+libelloushimself.com
 libelloushopedlearned.com
 libellousincurablecoronation.com
 libelpreferred.com
@@ -81244,6 +81261,7 @@ lizebruisiaculi.info
 lizhimajiang.com
 lizker.eu
 lizziefullrounded.com
+lizziesightsstraightened.com
 lj-reality.top
 lj.epheberowan.com
 lj.euscarosheaf.com
@@ -84983,6 +85001,7 @@ midisk.site
 midistortrix.com
 midlandbookshop.online
 midlandcultivatecoherence.com
+midlanddisorganizeddivide.com
 midlandfeisty.com
 midlandvenisondollars.com
 midmaintee.com
@@ -86091,6 +86110,7 @@ monthlyplanner.info
 monthsrecoup.com
 montikolti.com
 montleymontleycovered.com
+monumentsdismantle.com
 monumentsmaterialeasel.com
 monuniverscreche.com
 monxserver.com
@@ -88963,6 +88983,7 @@ nicebigheartedgargle.com
 niceelitdating.top
 nicefulllacehairwigs.com
 nicelocaldates.com
+nicelydesignaterefrigerate.com
 nicelylatherrestless.com
 nicelyporeengine.com
 nicemoe.de
@@ -90008,6 +90029,7 @@ ntplrsaaqtbcy.com
 ntqvlkmxxiy.com
 ntraiders.football
 ntrpjtxa.com
+ntsiwoulukdli.org
 ntsmbuuggswusw.com
 ntsujfrvvabs.com
 ntswithde.autos
@@ -93296,6 +93318,7 @@ padjrhbbtp.com
 padlockgoalobservation.com
 padlockhd.com
 padlocksponsorshipsaving.com
+padlockstrollreverend.com
 padlodging.com
 padma-fed.com
 padmabhoomifoundatation.org
@@ -94554,6 +94577,7 @@ peracidcooler.life
 perack.com
 peracy.com
 perceivedagrarian.com
+perceivedpalpable.com
 perceivedundesirable.com
 perceivegrasshopper.com
 percentvisits.com
@@ -98433,6 +98457,7 @@ publicintentions.com
 publicityparrots.com
 publiclyemployeronerous.com
 publiclytradedcrimescene.com
+publiclyunderwatercloudy.com
 publicsparedpen.com
 publictracking-freedom.com
 publicunloadbags.com
@@ -98457,6 +98482,7 @@ pubted.com
 pubtm.com
 pubtrky.com
 pubvwnio.com
+pucabaleens.top
 puccipix.co.uk
 pucedtxad.xyz
 pucxriavjcp.com
@@ -99645,6 +99671,7 @@ qualifycleaveinduced.com
 qualinfo.it
 qualitiesawarenesshard.com
 qualitiesdateabdomen.com
+qualitiesstopsallegiance.com
 qualitiesyoung.com
 qualitydating.top
 qualitydestructionhouse.com
@@ -99831,6 +99858,7 @@ quoisy.com
 quokkacheeks.com
 quona.yt
 quoo.eu
+quotationfirearmrevision.com
 quotecosmopolitandetached.com
 quoteprocesses.com
 quotes-p.com
@@ -101602,6 +101630,7 @@ replicafixedly.com
 repliesreearns.website
 replif.com
 replumekalifs.uno
+replumemessing.space
 replygallery.com
 replynasal.com
 repointdunlap.website
@@ -101792,6 +101821,7 @@ resolutioncomplexionfinishing.com
 resolutionmilestone.com
 resolutionsalvage.com
 resolvedalarmmelodramatic.com
+resolvedswordlinked.com
 resolveilliterateoh.com
 resolvpracticemax.com
 reson8.com
@@ -102169,6 +102199,7 @@ rgsnktxhe.com
 rgsnlgcsmk.com
 rgsstramgarh.in
 rgsurpusrcougcu.com
+rgsusa.com
 rgtcfhpysbjvl.com
 rgtcqif.com
 rgtqgsgwkopgnf.com
@@ -102314,6 +102345,7 @@ rickerrotal.com
 ricketssqrt.store
 ricted.com
 rictritor.com
+ridbehaviour.com
 riddanceresolutionharshly.com
 riddenyapocks.com
 riddhiintl.com
@@ -107184,6 +107216,7 @@ simpliftsbefore.xyz
 simplisticwhole.pro
 simplonalifesciences.com
 simply-suggest.com
+simplyabjection.com
 simplyaccessable.io
 simplyaccessable.net
 simplyaccessiblewebsites.com
@@ -108845,6 +108878,7 @@ sortamedia.online
 sortiesaumaroc.com
 sortingfantasticgreatly.com
 sortingwild.com
+sortveil.com
 sortyrails.com
 sorucall.com
 sorver.me
@@ -108966,6 +109000,7 @@ space-and-i.com
 space14.org
 spaceabc.org
 spaceborn.studio
+spaceconvent.com
 spaceiit.it
 spacejoker.com
 spacejoker.net
@@ -110755,6 +110790,7 @@ subwayporcelainrunning.com
 subwaypumptrustworthy.com
 succedge.com
 succeedappointedsteve.com
+succeedingpeacefully.com
 succeedscene.com
 succesably.com
 success-news.net
@@ -110903,6 +110939,7 @@ sumagala.org
 sumaryagapabrik.tech
 sumbalowen.com
 sumbreta.com
+sumgravecorporate.com
 sumids.com
 sumiservis.net
 sumitrafab.com
@@ -116083,6 +116120,7 @@ trailerrefusedostentatious.com
 trailmercadante.it
 trails8.com
 trainbooking.online
+trainedfinaldudley.com
 trainedhomecoming.com
 trainedpiano.com
 traineeappraiser.com
@@ -117938,6 +117976,7 @@ uglycotsjade.casa
 uglylearnt.com
 uglynewyork.com
 uglypath.pro
+uglyquake.com
 ugmcorp.com
 ugmouldcnc.com
 ugostlyhewo.xyz
@@ -119846,6 +119885,7 @@ vaperoof.com
 vapfuwlkuzz.com
 vapgfeazdjax.com
 vapijylw.com
+vapourautumn.com
 vapourfertile.com
 vapoursumptuousgutter.com
 vapoworld.net
@@ -121011,6 +121051,7 @@ vireshchemicals.com
 virginchinesehairwigs.com
 virginhyperlop.com
 virginiamilitia.us
+virginityneutralsouls.com
 virginmobleusa.com
 virginmoile.com
 virginparticular.com
@@ -122728,6 +122769,7 @@ weavelabsngo.org
 weavelurkwiden.com
 weaveradrenaline.com
 weaverdispensepause.com
+weaversprinkle.com
 weavesofkanha.com
 weavutksm.com
 web-adblocker.com
@@ -123398,6 +123440,7 @@ whiprayoutkill.com
 whiptape.com
 whirkenhevi.digital
 whirlclick.com
+whirlpoolmassive.com
 whirlsblosmy.com
 whirltoes.com
 whirlwindconsistencyinoffensive.com
@@ -123776,6 +123819,7 @@ windowsintowonderland.org
 windowspay.store
 windsattributeron.com
 windscreenacorn.com
+windscreenpresentiment.com
 windscreenregimepros.com
 windsplay.com
 windu4d.com
@@ -123999,6 +124043,7 @@ wizardinthetower.com
 wizardium.io
 wizardmarndl.com
 wizardprivatemagic.com
+wizardsdishwater.com
 wizardunstablecommissioner.com
 wizcraftentagency.com
 wizhumpgyros.com
@@ -127099,6 +127144,7 @@ www.bowlingunauthorized.com
 www.boxampoa.com
 www.boxingweaver.com
 www.boxofficehelping.com
+www.boxofwhisper.com
 www.boyishdefend.com
 www.boyishstatisticsdear.com
 www.bpcrigbuilders.com
@@ -134859,6 +134905,7 @@ www.pl18403256.highcpmrevenuenetwork.com
 www.pl18427035.highcpmrevenuenetwork.com
 www.pl18427041.highcpmrevenuenetwork.com
 www.pl18824912.highrevenuegate.com
+www.pl20207724.highwaycpmrevenue.com
 www.placementsgh.net
 www.placingtraditionalhobble.com
 www.plaguemanipulatedrag.com
@@ -139368,6 +139415,7 @@ www.y5outube.com
 www.yander.re
 www.yankbecoming.com
 www.yaomo520.com
+www.yardenyaroshevski.com
 www.yashvik.com
 www.yazutopia.com
 www.yazyzw.com
@@ -139678,6 +139726,7 @@ wwydakja.net
 wwydakja.org
 wx.pestequitch.com
 wx.squetanonym.com
+wxaqazawxhjiz.com
 wxastkhpf.com
 wxcqdnf.com
 wxdssajjmwnp.com
@@ -139837,6 +139886,7 @@ xaguturkuufyq.com
 xahhhptqa.top
 xahnesunoath.xyz
 xajnaptmri.com
+xajqhrrrnxmy.com
 xakfdicg.com
 xakgoudokp.top
 xalhsdtdhhbwlph.com
@@ -141147,6 +141197,7 @@ yaqonadapped.space
 yara.clinic
 yaraa.co.uk
 yarbthermos.com
+yardenyaroshevski.com
 yardinflatableslide.com
 yarerescalin.com
 yareservo.com
@@ -146967,6 +147018,12 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||rsgouhlbhfl.com^
+||vuphoubs.com^
+||zjpwrpo.com^
+||nczxuga.com^
+||ntsiwoulukdli.org^
+||aterhouseoyop.com^
 ||pepapigg.xyz^
 ||elfnxscnmtao.com^
 ||etxahpe.com^
