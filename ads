@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-27T16:02:46.648Z
+! Last modified: 2023-12-27T18:09:43.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1975,6 +1975,7 @@
 ||affiliate-robot.com^
 ||affiliate-wg.com^
 ||affiliateboutiquenetwork.com^
+||affiliatedrives.com^
 ||affiliateer.com^
 ||affiliatefuel.com^
 ||affiliatefuture.com^
@@ -6415,6 +6416,7 @@
 ||coelinepinal.website^
 ||coercerwhuther.com^
 ||coeton.website^
+||coevalscabbagy.com^
 ||coffeeliketime.com^
 ||coffeemildness.com^
 ||coffindress.com^
@@ -7299,6 +7301,7 @@
 ||dadzidmisbmja.com^
 ||daedaelousscri.com^
 ||daejyre.com^
+||daemonshymens.com^
 ||daero.pw^
 ||daethana.pw^
 ||daf58a0948.com^
@@ -10589,6 +10592,7 @@
 ||fluidallobar.com^
 ||fluiddejected.com^
 ||fluiddisaster.pro^
+||fluidicmarrams.com^
 ||fluingdulotic.com^
 ||flunkeycaptor.guru^
 ||flurrylimmu.com^
@@ -12661,6 +12665,7 @@
 ||hgub2polye.com^
 ||hgx1.online^
 ||hgx1.site^
+||hgx1.space^
 ||hhbypdoecp.com^
 ||hhcktiucw.xyz^
 ||hhit.xyz^
@@ -14552,6 +14557,7 @@
 ||joylessstarted.com^
 ||joyorators.website^
 ||joyous-concentrate.pro^
+||joyous-storage.pro^
 ||joyouscreedweasel.com^
 ||joyrodethyme.digital^
 ||joyvowdig.com^
@@ -16428,6 +16434,7 @@
 ||magicianoptimisticbeard.com^
 ||magicignoresoil.com^
 ||magistratehumorousjeep.com^
+||magmasudaller.com^
 ||magnificent-listen.com^
 ||magnificentflametemperature.com^
 ||magnificentmanlyyeast.com^
@@ -17104,6 +17111,7 @@
 ||miredindeedeisas.info^
 ||miresrefile.website^
 ||mirfakpersei.top^
+||mirtacku.xyz^
 ||mirthbail.com^
 ||mirthnonpar.com^
 ||misaboi.com^
@@ -18089,6 +18097,7 @@
 ||newswhose.com^
 ||newsyour.net^
 ||newthuads.com^
+||newtits.name^
 ||newvideoapp.pro^
 ||newzilla.name^
 ||nexdunaw.xyz^
@@ -19811,6 +19820,7 @@
 ||pantafives.com^
 ||pantdentaldonate.com^
 ||pantsurplus.com^
+||panuelobriard.com^
 ||panyarspan.com^
 ||paoukgnssmkeys.com^
 ||papaneecorche.com^
@@ -22211,6 +22221,7 @@
 ||rakamu.com^
 ||rakhen.com^
 ||rakiblinger.com^
+||rakkuntwex.com^
 ||rallantynethebra.com^
 ||rallydisprove.com^
 ||rallyexpirehide.com^
@@ -22736,6 +22747,7 @@
 ||reprenebritical.org^
 ||representrollerpurposely.com^
 ||reprintforensicjesus.com^
+||reprintvariousecho.com^
 ||reproductiontape.com^
 ||reproofdiningiris.com^
 ||reprovems.com^
@@ -24277,6 +24289,7 @@
 ||shifthare.com^
 ||shihewoo.com^
 ||shijoorg.xyz^
+||shikmousy.com^
 ||shikroux.net^
 ||shimmedlocated.com^
 ||shimmering-novel.pro^
@@ -25558,6 +25571,7 @@
 ||structurecolossal.com^
 ||strugglecookingtechnically.com^
 ||strumascarman.life^
+||strungcourthouse.com^
 ||strungglancedrunning.com^
 ||strwaoz.xyz^
 ||stthykerewasn.com^
@@ -27904,6 +27918,7 @@
 ||unshinykerite.com^
 ||unsigilyphor.com^
 ||unskilfulknowingservers.com^
+||unskilfulwalkerpolitician.com^
 ||unsnakybrulot.com^
 ||unsoggynek.life^
 ||unspinaraka.com^
@@ -30954,11 +30969,13 @@
 ||1052982219.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
+||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1203782659.rsc.cdn77.org^
 ||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||a-delivery.rmbl.ws^
@@ -34733,6 +34750,7 @@
 8273.yt
 8275.yt
 827724.com
+827969.com
 827fa7c868b4b.com
 82902m.xyz
 82f7858b81.bac23cfb5b.com
@@ -38637,6 +38655,7 @@ alwhichhereal.com
 alwhichhereallyw.com
 alwingulla.com
 alwsbnvialll.com
+alwubrhkxgqdiw.com
 alxfixnrip.com
 alxsite.com
 alyadesign.net
@@ -43141,6 +43160,7 @@ bdkcmq.top
 bdkwxokskdpdju.xyz
 bdlcom.com
 bdlvrwutacyavs.com
+bdmbazqsboxooh.com
 bdmeuro.pro
 bdnetworks.net
 bdounuluywy.com
@@ -88088,6 +88108,7 @@ ncxejhlardcbm.com
 ncxtnilgj.com
 ncyj5.com
 ncyj6.com
+nczxuga.com
 nd.bentonuncage.com
 nd.kotowsneigh.com
 nd.oilishgotch.com
@@ -102182,6 +102203,7 @@ rgbvncnqzlvwr.com
 rgbvwghttx.com
 rgbxxawm.xyz
 rgclips.com
+rgcxmzrmcvbxem.com
 rgedjdciukc.com
 rgentncqm.com
 rgentssep.xyz
@@ -119038,6 +119060,7 @@ uptownrecycle.com
 uptu.org
 uptuwhum.net
 uptwisthoof.store
+uptwistrefeel.digital
 upuflvbrotb.com
 upugwajho.top
 upupoidoutjazz.website
@@ -143009,6 +143032,7 @@ zincbolt.top
 zincdatawipe.com
 zineddine-links.tech
 zinganosesqui.store
+zingedjingko.top
 zinmnubj1cfr.com
 zinputs.com
 zinrora.pw
@@ -143059,6 +143083,7 @@ zjkypuacaawx.com
 zjlbugpawe.com
 zjniwmsdrv.com
 zjo0tjqpm1.com
+zjpwrpo.com
 zjumpbyts.com
 zjupukgjuez.com
 zjxdumrn.com
