@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-28T00:36:18.502Z
+! Last modified: 2023-12-28T06:10:40.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -32132,10 +32132,6 @@
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
 ||affiliates.goodvibes.com^
-||amsterdam.xhamster.com^
-||amsterdam.xhamster.desi^
-||amsterdam.xhamster2.com^
-||amsterdam.xhamster3.com^
 ||asg.faperoni.com^
 ||b8ms7gkwq7g.crocotube.com^
 ||banners.cams.com^
@@ -32167,6 +32163,10 @@
 ||ok.starwank.com^
 ||plx.porndig.com^
 ||pornve.sexyadsrun.com^
+||rockpoint.xhamster.com^
+||rockpoint.xhamster.desi^
+||rockpoint.xhamster2.com^
+||rockpoint.xhamster3.com^
 ||rst.pornyhd.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
@@ -45883,6 +45883,7 @@ bovqryrbtmhmrf.com
 bowed-common.pro
 bowedcounty.com
 boweddemand.com
+bowedrhymesnack.com
 bowedsequence.com
 bowerinthewood.co.uk
 bowerspollees.com
@@ -47561,6 +47562,7 @@ calmlyparian.com
 calmsbocking.com
 calmspacessf.com
 calomelsiti.com
+caloriesponsormetric.com
 calorysecondary.com
 calotag.com
 calpacenemas.life
@@ -47629,6 +47631,7 @@ campinespinae.guru
 campingalmare.it
 campingknown.com
 campiriservice.com
+campiwow.digital
 campjupiterjul.com
 camplacecash.com
 campongprecant.com
@@ -52216,6 +52219,7 @@ coupontic.xml-v4.ak-is2.net
 coupsonu.net
 coupteew.com
 couptoug.net
+courageimportance.com
 courageimportancedirections.com
 courageousalmondtrice.com
 couraptermal.guru
@@ -62508,6 +62512,7 @@ ffukifyjwvpk.com
 ffupclicrdfjlwn.com
 ffuzila.com
 ffvdpw.com
+ffwbzklcszdk.com
 ffxfuelsave.store
 ffxpfkbro.xyz
 ffyabcmahqiz.com
@@ -62775,6 +62780,7 @@ finacle.online
 finaglejonglem.life
 finalice.net
 finalizeimprovise.com
+finalizestudiousinternet.com
 finallydisintegrate.com
 finallyspecifiedsolitude.com
 finallysuburblaunching.com
@@ -69315,6 +69321,7 @@ havan3eab9row2n.com
 havanais.tv
 havanese.top
 havatamq.org
+havefleanot.com
 havegrosho.com
 havelkova.com
 havenadverb.com
@@ -70401,6 +70408,7 @@ hiphndvhkpatq.com
 hiphoapt.xyz
 hiphoprelief.org
 hipjavbt.com
+hipnessgroin.guru
 hipogryfmedia.com
 hipotecanaranja.xyz
 hipoterapie.info
@@ -77630,6 +77638,7 @@ kchols.com
 kciesryyrpgfmg.com
 kcigvmdkwda.com
 kcjaflypj.com
+kckbsggfs.com
 kckdtd.com
 kckjelcroivk.com
 kckntb.com
@@ -77875,6 +77884,7 @@ ketoyumbygabibi.com
 ketrihradic.com
 kettakihome.com
 kettenegyert.com
+kettlegloomily.com
 kettleheedless.com
 keughwsfhltvc.com
 keuktyouexpe.info
@@ -78048,6 +78058,7 @@ kickftvva.com
 kickingcloud.com
 kickoutpawky.com
 kickposter.com
+kickprincess.com
 kidandfood.com
 kidcoinic.com
 kiddingnoticediminish.com
@@ -80403,6 +80414,7 @@ lenaghannam.com
 lenastock.com
 lenax.tech
 lenbergsdesign.com
+lendvioletmutton.com
 lenfunk.top
 lengheralds.space
 lengthcalk.com
@@ -80697,6 +80709,7 @@ lhxglqpvcmxy.com
 li0n988.com
 li2meh6eni3tis.com
 liabilityballot.com
+liabilityloyalty.com
 liadinfqfjmc.xyz
 liafnbvwehex.com
 liaisesflails.digital
@@ -95298,6 +95311,7 @@ picath.com
 picbucks.com
 piccid.com
 piccoloerucin.com
+picethoa.com
 pickaflick.co
 pickalkycpwzd.com
 pickaroon.pub
@@ -96025,6 +96039,7 @@ plantravel.app
 plantrecordintelligent.org
 plantsrancorous.com
 plantswindscreen.com
+planxtyalumni.digital
 planyourbackup.co
 plaowakixgrhx.xyz
 plaqt.com
@@ -96833,6 +96848,7 @@ portserratic.com
 portsmouth400th.org
 portsquiz.com
 portsspat.com
+portuguesecaesarglanced.com
 portulacaolera.com
 posamevwiv.com
 posaul.com
@@ -100845,6 +100861,7 @@ realityamorphous.com
 realizationdatabase.com
 realizeparish.com
 realizesensitivenessflashlight.com
+realizetrend.com
 reallifeforyouandme.com
 reallifevisuals.com
 reallyindependencehated.com
@@ -101362,6 +101379,7 @@ regretftmbreastsurgery.com
 regretfulfaultsabound.com
 regrettablemorallycommitment.com
 regrettabletoken.com
+regrewhele.guru
 regrewtannate.space
 regrowsmudless.com
 regrrid.com
@@ -102057,6 +102075,7 @@ retryngs.com
 returnautomaticallyrock.com
 returneer.com
 returnmidtermextension.com
+returnrye.com
 returt.com
 retvjdkolpdals.com
 reuded.com
@@ -108444,6 +108463,7 @@ snowiersociete.uno
 snowmaskwruti.biz
 snowmiracles.com
 snptree.net
+snqdkgnfec.com
 snqgfwwnhc.com
 snqhmy.com
 snrcmgqe.com
@@ -108916,6 +108936,7 @@ sorbentfalsum.com
 sordeexa.net
 sordidoptimistic.com
 sordorcourtin.com
+sorelbuty.com
 sorelyafric.com
 soriamobility.online
 sorinteq.net
@@ -116476,6 +116497,7 @@ treegraph.org
 treehouservk.com
 treehundredarmament.com
 treeifyicon.com
+treeifyourie.digital
 treelandscapingservice.com
 treenersters.com
 treenghsas.com
@@ -126985,6 +127007,7 @@ www.billydropfarther.com
 www.binancetrade.pro
 www.binarybusiness.de
 www.binaryspeak.com
+www.bindingtimetablejosie.com
 www.bing886.com
 www.binhthuan.sale
 www.biologicaldeniedexpressing.com
@@ -126995,6 +127018,7 @@ www.bioorbcomposter.com
 www.bipr.education
 www.birbillingcalling.com
 www.birchdynamicunicorn.com
+www.birchflarechurch.com
 www.birdtears.com
 www.birthday-buzzer.com
 www.birthdayforester.com
@@ -127201,6 +127225,7 @@ www.boundlozenge.com
 www.bouptosaive.com
 www.bouquin-coquin.com
 www.boutjuicyvacation.com
+www.bowedrhymesnack.com
 www.bowedsequence.com
 www.bowldescended.com
 www.bowlingunauthorized.com
@@ -127461,6 +127486,7 @@ www.callprintingdetailed.com
 www.callthunderczar.com
 www.calmlyglossaryhostile.com
 www.calmlyilldollars.com
+www.caloriesponsormetric.com
 www.calorysecondary.com
 www.calumnycandidachievement.com
 www.cambridgeincompetenceresearch.com
@@ -127667,6 +127693,7 @@ www.censusdiggins.com
 www.censusmarrydespair.com
 www.centerattractivehimself.com
 www.centeredfailinghotline.com
+www.centeredmassesstaff.com
 www.centerresourceseducational.com
 www.centimetrebracketasperity.com
 www.centpopped.com
@@ -128373,6 +128400,7 @@ www.couple.education
 www.coupleburns.com
 www.couplecemeteryreal.com
 www.coupleseducation.com
+www.courageimportance.com
 www.courageousalmondtrice.com
 www.coursepack.ca
 www.courtcowardly.com
@@ -128932,6 +128960,7 @@ www.diagnos.online
 www.diagramangelamount.com
 www.diagramcolossalcultivation.com
 www.diagramgeneration.com
+www.diagramwrangleupdate.com
 www.dialme4help.com
 www.dialoguemarvellouswound.com
 www.dialogueshipwreck.com
@@ -128979,6 +129008,7 @@ www.digitalprintxpress.co.za
 www.digitec.com
 www.digiworkai.com
 www.dignifiedclipbum.com
+www.dignityhourmulticultural.com
 www.dijiuyyyy.com
 www.dikediffidentsticker.com
 www.diketime.com
@@ -130013,6 +130043,7 @@ www.familiartowerdoctrine.com
 www.familyliar.com
 www.familywealthms.com
 www.famina.uk
+www.faminedrape.com
 www.famousremainedshaft.com
 www.fampixels.com
 www.fancydumpster.com
@@ -130184,6 +130215,7 @@ www.fillingimpregnable.com
 www.filthsafetypersons.com
 www.filthyrankscuffle.com
 www.finalizeimprovise.com
+www.finalizestudiousinternet.com
 www.finallydisintegrate.com
 www.finallyspecifiedsolitude.com
 www.finallysuburblaunching.com
@@ -131066,6 +131098,7 @@ www.grillcheekunfinished.com
 www.grilux.com
 www.grimaceattirebright.com
 www.grimacecalumny.com
+www.grimacechauffeur.com
 www.grimdiscord.com
 www.grishamkansal.com
 www.groacmaz.com
@@ -131243,6 +131276,7 @@ www.haunchbelongings.com
 www.hauntedbradleyraffle.com
 www.hauntingfascinating.com
 www.hausofmathias.com
+www.havefleanot.com
 www.havenadverb.com
 www.haveproceeding.com
 www.havingunderwear.com
@@ -131399,6 +131433,7 @@ www.hillside3-pune.net
 www.hillsidejustificationstitch.com
 www.himalayan-healthcare.net
 www.himavatranch.com
+www.himselfthoughtless.com
 www.hindichris.com
 www.hindustanguruwarrantyassist.com
 www.hinoglauk.com
@@ -132530,6 +132565,7 @@ www.kernelthanks.com
 www.kerstker.tech
 www.keshavagarwal.tech
 www.ketchupanguishsomeone.com
+www.kettlegloomily.com
 www.kevabs.com
 www.kevinbobbitt.com
 www.kewprimaryschool.com
@@ -132543,6 +132579,7 @@ www.kfcmenu.uk
 www.khomali.co.uk
 www.khopknoperw.com
 www.khowawala.com
+www.kickprincess.com
 www.kidsapologizingalthough.com
 www.kidsboilingbeech.com
 www.kidslinecover.com
@@ -132850,6 +132887,7 @@ www.lemondependedadminister.com
 www.lemonpier.com
 www.lenaghannam.com
 www.lenastock.com
+www.lendvioletmutton.com
 www.lennoxentertainment.com
 www.lenscupcakeproperty.com
 www.lentcaricature.com
@@ -132884,6 +132922,7 @@ www.lexadvocatus.com
 www.lexerdesign.com
 www.lhgyn.yt
 www.lhrrrttt.com
+www.liabilityloyalty.com
 www.liaisonwonderplaice.com
 www.lianglinyiyou.com
 www.libelloushopedlearned.com
@@ -133063,6 +133102,7 @@ www.loomscald.com
 www.loomspreadingnamely.com
 www.loontribune.org
 www.loopassume.com
+www.loopfamous.com
 www.looscreech.com
 www.loosenoutfit.com
 www.lootexhausted.com
@@ -133897,6 +133937,7 @@ www.nakupny.guru
 www.nakupujme.online
 www.namasteswasth.com
 www.namelessably.com
+www.namelyenact.com
 www.namelymagnanimitycube.com
 www.namelymutiny.com
 www.namericandoor.com
@@ -134096,6 +134137,7 @@ www.noakhalishop.com
 www.noalts.tech
 www.nobilitybefore.com
 www.noblelevityconcrete.com
+www.noblemanlendpuffy.com
 www.nodcaterercrochet.com
 www.noddinglavish.com
 www.nodormers.com
@@ -134469,6 +134511,7 @@ www.ourfreshstories.com
 www.ourhypewords.com
 www.ourlittlenews.com
 www.ourmumble.com
+www.ourselvesvictory.com
 www.oursexasperationwatchful.com
 www.ourspity.com
 www.ourtopstories.com
@@ -135145,6 +135188,7 @@ www.portionscarrying.com
 www.portlycolleaguecoexist.com
 www.portsecure.org
 www.portsspat.com
+www.portuguesecaesarglanced.com
 www.poseconsumeelliot.com
 www.poshemerald.com
 www.poshsenseless.com
@@ -135361,6 +135405,7 @@ www.producesdiminishhardworking.com
 www.producingdisciplecampus.com
 www.producingsource.com
 www.profesionalesdelmueble.com
+www.professionallyjazzotter.com
 www.professionallywealthy.com
 www.professionalpracticableappendix.com
 www.professionalpractice.org
@@ -135779,6 +135824,7 @@ www.realestatedxb.info
 www.realityamorphous.com
 www.realizationdatabase.com
 www.realizeparish.com
+www.realizetrend.com
 www.reallyindependencehated.com
 www.reallyprominent.com
 www.reallyworkplacesnitch.com
@@ -136067,6 +136113,7 @@ www.retrievalvariedbudge.com
 www.retrievebuoyancy.com
 www.retrocushion.com
 www.returnmidtermextension.com
+www.returnrye.com
 www.revart.trade
 www.revealedlinen.com
 www.revealingsmellhood.com
@@ -136204,6 +136251,7 @@ www.rohlicek.name
 www.rolamerheb.com
 www.rollbackhear.com
 www.rollerdisrespect.com
+www.rollerdiversiondeer.com
 www.rollobscurewoke.com
 www.romak.not-tesla.com
 www.romanbra.com
@@ -137127,6 +137175,7 @@ www.spatterjointposition.com
 www.spattermerge.com
 www.speakspurink.com
 www.specialfrugality.com
+www.specialisthuge.com
 www.specialistrocky.com
 www.specialityharmoniousgypsy.com
 www.speciallysang.com
@@ -138086,6 +138135,7 @@ www.timizyw.com
 www.tindocumentary.com
 www.tinkeregojut.com
 www.tinkermockingmonitor.com
+www.tinkleflabbergasted.com
 www.tinkletemporalbuy.com
 www.tinnhanhexpress.com.abcnews24h.com
 www.tinydns.xyz
@@ -138234,6 +138284,7 @@ www.trainingdesigned4u.net
 www.trainingdraught.com
 www.trainsrolldrunken.com
 www.trainyoucanforum.co.za
+www.traitorstole.com
 www.tramcontact.com
 www.trampplantacre.com
 www.trannyvideox.com
@@ -138712,6 +138763,7 @@ www.varnerfarms.net
 www.varnishmixed.com
 www.varycares.com
 www.vasaiindustries.com
+www.vastsneezevirtually.com
 www.vatcertaininject.com
 www.vbulletin-api.com
 www.vchfus-p.net
@@ -139021,6 +139073,7 @@ www.we24support.com
 www.weakcompromise.com
 www.weakermumrespect.com
 www.weaknessimmaculate.com
+www.weaktongue.com
 www.wealth-management-coach.com
 www.wealth-wise.online
 www.wealthextend.com
@@ -139294,6 +139347,7 @@ www.worldcupjerseys.us.com
 www.worldfreshblog.com
 www.worldofviralnews.com
 www.worldwidedrivers.net
+www.wormdehydratedaeroplane.com
 www.worriesteapotairborne.com
 www.worrycrevicewholly.com
 www.worseobscureplastic.com
