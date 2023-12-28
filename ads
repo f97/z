@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-28T06:10:40.452Z
+! Last modified: 2023-12-28T12:13:34.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -267,6 +267,7 @@
 ||1bm3n8sld.de^
 ||1c09d36b99.com^
 ||1c174d5fe7.com^
+||1c447fc5b7.com^
 ||1ca47a451d.com^
 ||1ca65f5f5b.com^
 ||1ccbt.com^
@@ -7226,6 +7227,7 @@
 ||cylbyzants.com^
 ||cylindermonastery.com^
 ||cylindrical-pollution.pro^
+||cylsszrrfbkgjf.com^
 ||cymqhqxuchas.com^
 ||cyneburg-yam.com^
 ||cynicalspireheroism.com^
@@ -12754,6 +12756,7 @@
 ||himselves.com^
 ||himselvesobr.club^
 ||hinaprecent.info^
+||hingamgladt.org^
 ||hingamgladther.com^
 ||hingfruitiesma.info^
 ||hinkhimunpra.info^
@@ -12827,6 +12830,7 @@
 ||hmrxsxvl.com^
 ||hmsykhbqvesopt.xyz^
 ||hmyuokltxplqwfa.com^
+||hn1l.online^
 ||hnkyxyknp.com^
 ||hnrgmc.com^
 ||hntkeiupbnoaeha.xyz^
@@ -14742,6 +14746,7 @@
 ||jxvilsjyrh.com^
 ||jxybgyu.com^
 ||jyarkinhechershedt.xyz^
+||jydydmctzxcea.com^
 ||jyfirjqojg.xyz^
 ||jygotubvpyguak.com^
 ||jyjhjopmq.com^
@@ -15444,6 +15449,7 @@
 ||larvpydqmwvt.com^
 ||las4srv.com^
 ||laserdrivepreview.com^
+||lasosignament.com^
 ||lassampy.com^
 ||lassistslegisten.com^
 ||last-actor.pro^
@@ -16288,6 +16294,7 @@
 ||lvbngvy.com^
 ||lvecygampj.com^
 ||lvjptld.com^
+||lvlmhyjzdan.com^
 ||lvnmzhhod.com^
 ||lvntekpejrmtb.com^
 ||lvodomo.info^
@@ -16988,6 +16995,7 @@
 ||mfhlsdd.com^
 ||mfjpwroy.com^
 ||mfk-cpm.com^
+||mflztgubvfo.com^
 ||mftracking.com^
 ||mfypxtfqngxw.com^
 ||mgalreveal.guru^
@@ -18470,6 +18478,7 @@
 ||nroqwfqwcdtb.xyz^
 ||nrqppdgnhaagjq.com^
 ||nrvbadypy.com^
+||nryanocytqc.com^
 ||nryceuula.com^
 ||nrztjbpish.com^
 ||ns003.com^
@@ -27647,6 +27656,7 @@
 ||uhodsplo.com^
 ||uhpdsplo.com^
 ||uhsmmaq4l2n5.com^
+||uhsvkgwess.com^
 ||uhxmyqyevkcvit.com^
 ||ui02.com^
 ||uidhealth.com^
@@ -32154,6 +32164,10 @@
 ||go.stripchat.beeg.com^
 ||go.strpjmp.com^
 ||madmen2.alastonsuomi.com^
+||marine.xhamster.com^
+||marine.xhamster.desi^
+||marine.xhamster2.com^
+||marine.xhamster3.com^
 ||n.hnntube.com^
 ||oi.fapnado.com^
 ||oi.hqbang.com^
@@ -32163,10 +32177,6 @@
 ||ok.starwank.com^
 ||plx.porndig.com^
 ||pornve.sexyadsrun.com^
-||rockpoint.xhamster.com^
-||rockpoint.xhamster.desi^
-||rockpoint.xhamster2.com^
-||rockpoint.xhamster3.com^
 ||rst.pornyhd.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
@@ -39178,6 +39188,7 @@ angrenuniversity.net
 angrygadget.net
 angryheadlong.com
 angsapiemonte.it
+angstmedikamente.com
 anguac.com
 anguin.com
 anguishaboveboardfilm.com
@@ -41307,6 +41318,7 @@ audienceprofiler.com
 audienceravagephotocopy.com
 audienceutmost.com
 audiocritter.com
+audiodots.com
 audioengine.cz
 audioengine.fi
 audioengine.gr
@@ -45549,6 +45561,7 @@ bonbsxwmpnyvkgu.com
 bonbuj.si
 bondagecoexist.com
 bondageeduc.com
+bondagetrack.com
 bondeffects.com
 bondfondif.com
 bondgpt.com
@@ -53500,6 +53513,7 @@ cylbyzants.com
 cylindermonastery.com
 cylindrical-pollution.pro
 cylish.com
+cylsszrrfbkgjf.com
 cymaisefacsim.com
 cymbaltagenericonline.net
 cymqhqxuchas.com
@@ -59834,6 +59848,7 @@ enmekedwahin.com
 enmiser.com
 enmitystudent.com
 enmvnowpx.com
+ennedrasawali.guru
 enniced.com
 ennriwtppx.xyz
 enochiccroatan.guru
@@ -66194,6 +66209,7 @@ ghisty.net
 ghjhucekiywqrk.com
 ghkwiiqijctqomt.com
 ghlautomotive.com
+ghlawllp.com
 ghlgtkyffmqiier.xyz
 ghlyrecome.xyz
 ghnufmovpvolppi.com
@@ -70659,6 +70675,7 @@ hmukekjwebok.com
 hmvnuqibnlv.com
 hmxogeovdbotm.com
 hmyuokltxplqwfa.com
+hn1l.online
 hnfcfoods.com
 hngwasapxxhm.com
 hnhjkj.net
@@ -77158,6 +77175,7 @@ jybidmbaeyj.com
 jybtbvrnr.com
 jyburaemyw.com
 jychzx.com
+jydydmctzxcea.com
 jyfirjqojg.xyz
 jygkr.yt
 jygkylltb.com
@@ -82513,6 +82531,7 @@ lvhidpjk.xyz
 lvigkido.top
 lvjkghqpbbpri.xyz
 lvjptld.com
+lvlmhyjzdan.com
 lvmworkstation.net
 lvnmzhhod.com
 lvntekpejrmtb.com
@@ -83645,6 +83664,7 @@ mart.wedding
 martafatass.pro
 martaslovak.com
 martcubic.com
+martensgreece.net
 marthel.net
 marthin.tech
 marti-cqh.com
@@ -89634,6 +89654,7 @@ nordeela.com
 nordfarmacia.com
 nordicwheel.com
 nordstream.work
+nordstrsom.com
 norentisol.com
 noretia.com
 norfolky.com
@@ -95558,6 +95579,7 @@ pintandoalmas.net
 pintandoalmas.org
 pintesest.com
 pintocork.com
+pintointo.com
 pintoutcryplays.com
 pinttalewag.com
 pinup-bet-win6.xyz
@@ -102224,6 +102246,7 @@ rfikcemij.com
 rfiq.org
 rfity.com
 rfixitrwa.com
+rflsoapli.com
 rflswdgcb.xyz
 rfmjcnramsw.com
 rfmlulkmqoksq.xyz
@@ -115572,6 +115595,7 @@ topgirls-here.com
 topgirls-here1.com
 topgodbless.com
 topgostovanje.com
+topgtfuch.com
 topgunroasters.com
 topgunztriteam.com
 tophealthymind.com
@@ -123471,6 +123495,7 @@ whereboysbelong.com
 wherebyinstantly.com
 whereinpune.online
 whereisamericansteroid.com
+whereismylogistics.com
 whereres.com
 whereschrisnow.com
 wheresjesus.org
@@ -132397,6 +132422,7 @@ www.joertopersersx.com
 www.jofka.online
 www.jogglewreckerroneous.com
 www.jogo11.live
+www.jogos-online-gratis.net
 www.jogrigidreconnect.com
 www.johannesburgtrainingprograms.online
 www.johnaly.com
