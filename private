@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-28T12:13:43.244Z
+! Last modified: 2023-12-28T18:09:53.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -103205,6 +103205,7 @@ gctrx.com
 gcwfabrication.com
 gcx.pl
 gcyacademy.com
+gd-hub.com
 gdatingq.com
 gdcac.com
 gddao.com
@@ -113249,6 +113250,7 @@ meetandf.com
 meetcreditcool.co
 meetfellini.com
 meethelp.sbs
+meethelps.site
 meetoricture.site
 meetshopnow.xyz
 meetsupport.click
