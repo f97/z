@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-27T18:09:53.179Z
+! Last modified: 2023-12-28T00:36:25.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -66216,6 +66216,7 @@ aax-us-iad.amazon.com
 aaxads.com
 aaxdetect.com
 abmr.net
+abruptlyinstitution.com
 absoluteroute.com
 absolveparticlesanti.com
 abtasty.com
@@ -67350,6 +67351,7 @@ combatbaskstationery.com
 comm100.com
 commander1.com
 commandersact.com
+commissionepochknuckle.com
 commonvivacious.com
 comparedsilas.com
 compasspenitenthollow.com
@@ -68296,6 +68298,7 @@ inspirationhistorical.com
 instabug.com
 installationmidterm.com
 instana.io
+instancesflushedslander.com
 instartlogic.com
 insticator.com
 instinctiveads.com
@@ -70626,6 +70629,7 @@ mkt11738.com
 mkt11739.com
 mkt1174.com
 mkt11741.com
+mkt11742.com
 mkt11743.com
 mkt11746.com
 mkt11749.com
@@ -70681,6 +70685,7 @@ mkt11833.com
 mkt11834.com
 mkt1184.com
 mkt11842.com
+mkt11843.com
 mkt11844.com
 mkt11845.com
 mkt11846.com
@@ -70698,11 +70703,14 @@ mkt11865.com
 mkt11868.com
 mkt11869.com
 mkt1187.com
+mkt11875.com
 mkt11876.com
 mkt11877.com
 mkt11879.com
 mkt1188.com
 mkt11880.com
+mkt11881.com
+mkt11883.com
 mkt11886.com
 mkt1189.com
 mkt1190.com
@@ -88054,6 +88062,7 @@ ahv0.cf
 ahyars.site
 ai-report.ru
 aiafhg.com
+aiai020.com
 aiataiche.com
 aiaudits.net
 aibotflows.com
@@ -93201,6 +93210,7 @@ bu5lhm.info
 bubblebathnyc.com
 bubblybank.com
 bubbpinhalppo.ml
+bubit.site
 bubk.com
 bubuface.tv
 buccape.com
@@ -94858,6 +94868,7 @@ chiefroof.ru
 chiehalan.ml
 chiesecontri.tk
 chiet.ru
+chiffon.fun
 chiguires.com
 chikd73.com
 childrendream.info
@@ -108677,6 +108688,7 @@ jungemode.site
 jungledmail.com
 junglegymclimbing.com
 junglehomewares.shop
+junglepungle.site
 jungolo.com
 juniorcanes.com
 juniorcotillion.com
@@ -111839,6 +111851,7 @@ mail4you.win
 mail5.me
 mail5u.life
 mail62.net
+mail798.site
 mail7d.com
 mail8.co.pl
 mail8app.com
@@ -114144,6 +114157,7 @@ monkey.lakemneadows.com
 monkey.oldoutnewin.com
 monkey.pointbuysys.com
 monkey.wrengostic.com
+monkey0.site
 monkeysend.com
 monkkey-win.com
 monkoiba.site
@@ -118966,6 +118980,7 @@ poorthing.ru
 pop-s.xyz
 pop33.site
 pop3boston.top
+pop67.site
 popalockofsiliconvalley.com
 popanimes.com
 popbum.com
@@ -119858,6 +119873,7 @@ purifier.buzz
 puristparty.com
 puritronicde.com.mx
 purkz.com
+purline.top
 purly.sbs
 purnomostore.online
 purple.viola.gq
@@ -120780,6 +120796,7 @@ reconbirdmedia.com
 reconced.site
 reconditionari-turbosuflante.com
 recordar.site
+recorderxfm.com
 recovercorrupt.com
 recoverwater.com
 recreationfourcorners.site
@@ -124496,6 +124513,7 @@ spikebase.com
 spikeysix.site
 spinamrai.gq
 spinanit.cf
+spinapp.bar
 spindl-e.com
 spinerin.ml
 spinomaniac.com
@@ -130833,6 +130851,7 @@ winedaddy.com
 winemail.net
 winemails.com
 winemakerscorner.com
+wineonline.one
 wines.searates.info
 winextra.com
 winfine.website
