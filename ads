@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-29T06:10:52.028Z
+! Last modified: 2023-12-29T12:12:05.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -30039,6 +30039,7 @@
 ||xcvhhgdbyqk.xyz^
 ||xcvsdrqagn.com^
 ||xdcngimejo.com^
+||xder1.fun^
 ||xdezxlbnpo.com^
 ||xdhqtgpkywjl.com^
 ||xdirectx.com^
@@ -32147,13 +32148,13 @@
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
 ||affiliates.goodvibes.com^
-||alaska.xhamster.com^
-||alaska.xhamster.desi^
-||alaska.xhamster2.com^
-||alaska.xhamster3.com^
 ||asg.faperoni.com^
 ||b8ms7gkwq7g.crocotube.com^
 ||banners.cams.com^
+||brick.xhamster.com^
+||brick.xhamster.desi^
+||brick.xhamster2.com^
+||brick.xhamster3.com^
 ||cams.imgtaxi.com^
 ||creative.live.bestjavporn.com^
 ||creative.live.javhdporn.net^
@@ -35038,6 +35039,7 @@
 951004.com
 95292.cc
 9546365.com
+957241.com
 958228.com
 95a940f600.136dd8678f.com
 95douyin.com
@@ -43010,6 +43012,7 @@ bayalnephite.com
 bayardsitalia.it
 baycolonybiltmore.com
 baycompaniesautostudio.com
+bayesianintelligence.com
 bayetadaekon.store
 bayfamilycompany.com
 bayford-adrian.com
@@ -45233,6 +45236,7 @@ blukard.app
 blunderfluffy.com
 blunksdaler.uno
 bluntabsolutionoblique.com
+bluntmonster.com
 blur-taine.com
 blurbigdoable.com
 blurlorum.uno
@@ -46158,6 +46162,7 @@ brazilianbarbecueking.uk
 brazillinkcapital.com
 brazzersnetworl.com
 brbupali.com
+brc420.party
 brdhbgcp.com
 brdhungary.com
 brdmin.com
@@ -47146,6 +47151,7 @@ bvoqzs.com
 bvqjoduosbnpisj.com
 bvqlkemf.top
 bvsjctughd.top
+bvtfutroyr.com
 bvttverstq.com
 bvudraqxpl.com
 bvuglhpgx.com
@@ -48790,6 +48796,7 @@ ceo71.com
 ceoonlineemail.com
 ceoqeajqoemdwk.com
 ceorlsrajasic.com
+ceoscif.com
 ceotopic.com
 cephalanthuseoccidu4entalis.com
 cephalexinujx.com
@@ -55379,6 +55386,7 @@ dhakaibaker.com
 dhakalivenewz.com
 dhanvesttor.com
 dhanwantarihospital.co.in
+dharani.capital
 dharasansthan.org
 dharmaashman.com
 dharmaclarke.tech
@@ -59663,6 +59671,7 @@ enclosedrapplural.com
 enclosedsponge.com
 encloseinediblerenewal.com
 encloseprecious.com
+encodedcfs.top
 encodehelped.com
 encodeinflected.com
 encoremovement.org
@@ -61254,6 +61263,7 @@ expelpoucey.com
 expelsleeken.website
 expendhattwo.com
 expendituredefeated.com
+expendstun.com
 expensedebeak.com
 expensepurpose.com
 expensestumble.top
@@ -71708,6 +71718,7 @@ huddhi.com
 hudnd.yt
 hudobniny.shop
 hudplac.com
+hudplac.net
 huduga.com
 hueads.com
 hueadsxml.com
@@ -79145,6 +79156,7 @@ kubrea.com
 kucoinpro.net
 kucon.ru
 kudrunoptime.com
+kudyqswatjvpj.xyz
 kudzuangels.com
 kueezrtb.com
 kuexncpqxkakrkb.xyz
@@ -80237,6 +80249,7 @@ learnmorewithc4.com
 learnmorewithc4.org
 learnnwork.com
 learnspatialdesign.com
+learntarduousdowny.com
 learntinga.com
 learntjubilee.com
 learnwished.com
@@ -88535,6 +88548,7 @@ netgreatlyavailable.com
 nethatchet.com
 nethatchet.net
 nethatchet.org
+nethercraft.org
 netherinertia.life
 netilfy.app
 netipicni.net
@@ -95780,6 +95794,7 @@ pjx1ky4xhwip.com
 pjxeklkomgq.com
 pjxtesoiu.xyz
 pjyexkaj.top
+pjyvgdpvjp.com
 pjzrnrow.com
 pk.clycomment.com
 pk.cururosxenopus.com
@@ -99345,6 +99360,7 @@ qfnkzytwzfftnw.com
 qfnvqalpgiriub.com
 qfoafjopdj.com
 qfoodskfubk.com
+qfpfvaef.com
 qfpjlwpcwioo.com
 qfqdcyzai.com
 qfqtaqxfdaujx.com
@@ -101017,6 +101033,7 @@ rebuxoos.xyz
 rec-tibe.com
 recablesaccule.casa
 recableuprear.com
+recali.net
 recalledcosmeticostentatious.com
 recalledriddle.com
 recanesjurel.com
@@ -101853,6 +101870,7 @@ reremcdmbrycs.com
 rergeema.com
 reroplittrewheck.pro
 rerpartmentm.info
+rerunglor.life
 res-medicalscijrnlres.info
 res-medmail.info
 res-medresscholaropenaccess.biz
@@ -102455,6 +102473,7 @@ richardsilverstein.net
 richardstech.co.uk
 richcats.fun
 richdigestexpo.com
+richdomtanbur.guru
 richdothis.com
 richensapient.top
 richer.healthcare
@@ -108535,6 +108554,7 @@ snterkslvwvaj.top
 sntjim.com
 snubsfilo.space
 snugglethesheep.com
+snuggrow.com
 snugphotographer.com
 snugslackmakeup.com
 snuparek.com
@@ -109113,6 +109133,7 @@ souvenirsflex.com
 souvoana.xyz
 souwhair.com
 sovarjel.top
+sovereign-college.com
 sovereignidentificationconfirmed.com
 sovism.com
 sovmind.com
@@ -121460,6 +121481,7 @@ vlitag.com
 vlk-attorneys.com
 vlkccfreayfut.com
 vlkksbuueh.com
+vlkkwxncamnq.com
 vlklvjqoogue.xyz
 vllshrlqo.xyz
 vlm.legal
@@ -121801,6 +121823,7 @@ vps6combcn.com
 vpspro.tech
 vptadv.com
 vptbn.com
+vptzqnjwguap.com
 vpumfeghiall.com
 vpwhhtpwhmd.com
 vpylcxggepywaka.com
@@ -124258,6 +124281,7 @@ wlfrxpao.com
 wlgeaphevavka.com
 wlgntgvwpmlm.xyz
 wlhtrkiolrvdnge.com
+wlhzbbvtofot.com
 wlimrvsnusyawk.com
 wliuahugpgo.com
 wlixymxepnroiq.com
@@ -125342,6 +125366,7 @@ www.313710.com
 www.31396.info
 www.31october1984.com
 www.324-georgialynne.gdmig-thehistorydetective.net
+www.327850.com
 www.333veni.org
 www.3369909.com
 www.3381.ma
@@ -125603,6 +125628,7 @@ www.94ij3.com
 www.94thz.com
 www.95.tf
 www.9522faf9d6.com
+www.957241.com
 www.97727.comwww.677555.com
 www.9842.comwww.844644.com
 www.9857047066.com
@@ -127180,6 +127206,7 @@ www.bluishalmosterror.com
 www.bluishgeologicallimitless.com
 www.blukard.app
 www.blunderfluffy.com
+www.bluntmonster.com
 www.blurbigdoable.com
 www.blushgoats.com
 www.blushmossy.com
@@ -129439,6 +129466,7 @@ www.dubiousdiscreditcambridge.com
 www.dubnoughtheadquarter.com
 www.dubunwiseobjections.com
 www.duchesscranberrywander.com
+www.duchesspleasurelollipop.com
 www.duckfatventures.com
 www.ducksintroduce.com
 www.dudleygargling.com
@@ -129991,6 +130019,7 @@ www.exitenmitynotwithstanding.com
 www.expectedballpaul.com
 www.expedientabnormaldeceased.com
 www.expendhattwo.com
+www.expendstun.com
 www.expensepurpose.com
 www.expensewardrobecivil.com
 www.experialmt2.com
@@ -132914,6 +132943,7 @@ www.learningblink.com
 www.learningproportion.com
 www.learningsutras.org
 www.learnlifescience.com
+www.learntarduousdowny.com
 www.learnwished.com
 www.leaseholderbarbcompact.com
 www.leavebumpwrinkle.com
@@ -137127,6 +137157,7 @@ www.snoopundesirable.com
 www.snoreempire.com
 www.snoutcaffeinecrowded.com
 www.snoutsabout.org
+www.snuggrow.com
 www.snugphotographer.com
 www.snugslackmakeup.com
 www.soakappequipment.com
@@ -138423,6 +138454,7 @@ www.trenhsasolc.com
 www.trenhsasolce.com
 www.trenoz.com
 www.trentjesno.com
+www.trespassslept.com
 www.trevisovolontariato.org
 www.trewnhiok.com
 www.trexpto.com
@@ -139664,6 +139696,7 @@ www.yournextpool.com
 www.yoursoftmart.com
 www.yourwownews.com
 www.youthstockholm50.global
+www.youtrustedprolong.com
 www.youtub5s.com
 www.youtube.comyoutu.be
 www.youtube19.com
@@ -140194,6 +140227,7 @@ xdcaxiyzgg.com
 xdcjdlfnoitxs.com
 xdcngimejo.com
 xdeqhxqu.com
+xder1.fun
 xdezxlbnpo.com
 xdfqhittojpvc.com
 xdhporbv.com
@@ -142233,6 +142267,7 @@ youthrec.com.au
 youthstockholm50.global
 youthvoicelab.eu
 youthycouthe.uno
+youtrustedprolong.com
 youtu-ber.tech
 youtub5s.com
 youtube19.com
