@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-29T00:30:04.199Z
+! Last modified: 2023-12-29T06:10:52.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -64185,6 +64185,7 @@ fqnyvwyplel.com
 fqoascle.com
 fqohigimw.com
 fqpgcsis.top
+fqpxjydyj.com
 fqqmkkjagymiwh.com
 fqsjfmll.xyz
 fqskuzqwpgu.com
@@ -79245,6 +79246,7 @@ kuvbyhnotmwm.com
 kuvf.in
 kuvora.global
 kuwfbmybit.com
+kuwhetsa.net
 kuwooque.com
 kuwoucaxoad.com
 kuwtbalxofdxm.com
@@ -85693,6 +85695,7 @@ mluniversity.tech
 mlupmirrdaaokg.com
 mluptwapaj.com
 mlvgxzenoiz.com
+mlvlesvw.com
 mlvlnicdwil.xyz
 mlwsqosupiinhix.com
 mlwstbdnwdfyng.com
@@ -89819,6 +89822,7 @@ notingcarramic.com
 notionnalisent.xyz
 notions.global
 notionsshrivelcustomer.com
+notitiaalbedo.uno
 notitiarondino.live
 notix.io
 notixio.com
@@ -93872,6 +93876,7 @@ paroasse.xyz
 parodymediacanada.com
 parolropmo.com
 parolropmo.xyz
+parotidmonoecy.top
 paroup.com
 parquecaracoli.com.co
 parquejardinnubesdegloria.com
@@ -119489,6 +119494,7 @@ usychdifpmhrx.top
 usyhnltt.xyz
 uszmruhnwyvfpp.com
 ut.akamnikxystos.com
+ut13r.site
 utahlemon.law
 utahlemon.org
 utahtechuniversityathletics.com
@@ -120158,6 +120164,7 @@ vawvkuhdgifpnd.com
 vax-boost.com
 vax-now.com
 vaxdeath.com
+vaylckydyy.com
 vayogqbfolv.com
 vazlshyjp.com
 vazypteke.pro
@@ -141410,6 +141417,7 @@ yatradham.in
 yatraprime.com
 yatri.website
 yaumii.com
+yaupermems.uno
 yauryqvecn.com
 yavli.com
 yavwatkxtp.xyz
@@ -143622,6 +143630,7 @@ zygenidempaper.digital
 zygicjyssca.com
 zygionaffine.space
 zygomasbeaches.guru
+zyijzosrnzfru.com
 zyinfotech.com
 zyklen.net
 zylytavo.com
