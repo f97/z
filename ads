@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-28T18:09:47.264Z
+! Last modified: 2023-12-29T00:30:04.199Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -12910,7 +12910,6 @@
 ||hoodcapunbane.digital^
 ||hoofexcessively.com^
 ||hoogajee.net^
-||hooglidi.net^
 ||hoojique.xyz^
 ||hookawep.net^
 ||hookersecus.com^
@@ -32148,6 +32147,10 @@
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
 ||affiliates.goodvibes.com^
+||alaska.xhamster.com^
+||alaska.xhamster.desi^
+||alaska.xhamster2.com^
+||alaska.xhamster3.com^
 ||asg.faperoni.com^
 ||b8ms7gkwq7g.crocotube.com^
 ||banners.cams.com^
@@ -32170,10 +32173,6 @@
 ||go.stripchat.beeg.com^
 ||go.strpjmp.com^
 ||madmen2.alastonsuomi.com^
-||marine.xhamster.com^
-||marine.xhamster.desi^
-||marine.xhamster2.com^
-||marine.xhamster3.com^
 ||n.hnntube.com^
 ||oi.fapnado.com^
 ||oi.hqbang.com^
@@ -43493,6 +43492,7 @@ begreatt.xyz
 begrimdos.com
 begripecheatee.guru
 beguat.com
+begulfssensual.website
 begunprescription.com
 begunwomanwhiskey.com
 behalfplead.com
@@ -44946,6 +44946,7 @@ blastsbigener.com
 blastsufficientlyexposed.com
 blastsullen.com
 blastswaggons.com
+blattidmagged.space
 blatwalm.com
 blavandstran.de
 blaze-media.com
@@ -52706,6 +52707,7 @@ cricketunbutton.com
 crickmap.com
 crickmatch.in.net
 crickonlineid.com
+cricksnatchez.com
 cricmerch.com
 crictales.in.net
 criesnonstopbake.com
@@ -65214,6 +65216,7 @@ galacticmenueasier.com
 galairo.com
 galajou.com
 galamis.com
+galamuscid.website
 galanasorra.com
 galasti.top
 galaxycinemas.ca
@@ -71015,6 +71018,7 @@ hoodscoop.org
 hoofexcessively.com
 hoofgleaming.com
 hoogajee.net
+hooglidi.net
 hooify.com
 hoojique.xyz
 hook-hanger.com
@@ -71102,6 +71106,7 @@ hoppedcamomiledishwater.com
 hopperbanespirits.com
 hopperimprobableclotted.com
 hoppershortercultivate.com
+hoppingtooart.digital
 hopsigna.com
 hopstop.in
 hoptopboy.com
@@ -76529,6 +76534,7 @@ jorgecastro.vip
 jornalcorreiometropolitano.com
 jorttiuyng.com
 josbomrfkr.com
+josefseibelbelgique.com
 josephantecedentsick.com
 josephcalculatedsewer.com
 josephinegrey.com
@@ -86838,6 +86844,7 @@ muddychronicstuffed.com
 muddyjustify.com
 muddytransplantinsert.com
 muddyx.ru
+mudejardualism.guru
 mudeuhwietnq.top
 mudfishatabals.com
 mudflised.com
@@ -95152,6 +95159,7 @@ phialedamende.com
 phicly.com
 phicmune.net
 phidianbesmut.com
+phidurti.top
 phiduvuka.pro
 phiefs.com
 phigital.co.uk
@@ -95649,6 +95657,7 @@ pireneupdelve.space
 piret.loan
 pirist.com
 pirnaurban.com
+pirniemagi.com
 pirontech.com
 pirouque.com
 pirozhostngflo.xyz
@@ -110848,6 +110857,7 @@ sub.pushmeup.art
 subaadds.com
 subadhinam.com
 subasebmedia.com
+subbedlugger.guru
 subconsciousinappropriatehepatitis.com
 subdatejutties.com
 subdielamista.website
@@ -115143,6 +115153,7 @@ tlnuxuhlobn.xyz
 tlnydnqvgmyfwhc.com
 tlootas.org
 tlpeyaiij.com
+tlpltwcgr.com
 tlqiugripvg.com
 tlrkcj17.de
 tlrrlomssbt.com
@@ -126481,6 +126492,7 @@ www.aspenpsychologycalgary.com
 www.asperityresidential.com
 www.asqp.vip
 www.asqpniwvxea.com
+www.assassinationrussia.com
 www.assentproduct.com
 www.assertedclosureseaman.com
 www.assestdynamic.com
@@ -140270,6 +140282,7 @@ xfeclslx.xyz
 xfepcankuvixtf.com
 xfflmuxvghgnvns.xyz
 xfgicjnxckrnq.com
+xfguylptuqw.com
 xfhgstxcytiu.com
 xfiebjkmpp.com
 xfileload.com
@@ -140908,6 +140921,7 @@ xqxknnvbwqfj.com
 xqydapp.com
 xqyddrigiqevcv.com
 xqzlgbbe.com
+xqzwtvjkjj.com
 xr.panduraoestrum.com
 xraanxbcn.top
 xrblscikev.com
@@ -147189,6 +147203,16 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||fipkcakk.com^
+||hooglidi.net^
+||ixxljgh.com^
+||anythingamg.org^
+||ignamentswit.com^
+||vohqpgsdn.xyz^
+||xfguylptuqw.com^
+||nnjisvdxaoet.com^
+||greekroo.xyz^
+||ut13r.site^
 ||someonein.org^
 ||mentswithde.com^
 ||ficvekayfkrm.com^

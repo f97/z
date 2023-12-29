@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-28T18:09:53.909Z
+! Last modified: 2023-12-29T00:30:10.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -8152,9 +8152,6 @@ data.mistat.rus.xiaomi.com
 ||aiswholesale.com^
 ||aitmovie.com^
 ||aitsatho.com^
-||api.eu-west-1.aiv-delivery.net^
-||api.us-east-1.aiv-delivery.net^
-||api.us-west-2.aiv-delivery.net^
 ||aivalabs.com^
 ||aivoonsa.xyz^
 ||aixcdn.com^
@@ -67019,7 +67016,6 @@ ayads.co
 ayc0zsm69431gfebd.xyz
 azalead.com
 b0e8.com
-b3kyo0de1fr0.com
 b42rracj.com
 b73uszzq3g9h.com
 backstory.ebay.ca
@@ -67626,7 +67622,6 @@ dedicated.domains
 deema.agency
 deepintent.com
 deeprootedstranded.com
-defas.site
 defenderprovidedleash.com
 definedlaunching.com
 degreeremainderfacultative.com
@@ -80288,7 +80283,6 @@ player-telemetry.vimeo.com
 playground.xyz
 playgroundordinarilymess.com
 plugerr.com
-plumposterity.com
 plymedia.com
 pnsdkapi.turktelekom.com.tr
 po.st
