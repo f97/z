@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-31T18:09:13.618Z
+! Last modified: 2024-01-01T00:41:37.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -113795,6 +113795,7 @@ mailroyal.net
 mailrrpost.com
 mailrunner.net
 mails-24.net
+mails-domens.online
 mails-go.online
 mails.v2-ray.net
 mails.wf
@@ -117761,6 +117762,7 @@ nses.online
 nsholidayv.com
 nsitiu.xyz
 nsjew.online
+nsl168.com
 nsr009.com
 nstarbank.com
 nsuu.com
@@ -122169,6 +122171,7 @@ raylee.ga
 raymanmail.com
 raynaman.com
 rayofshadow.xyz
+rayongbizspaces.com
 razernv.com
 razorajas.com
 razore100.fans
@@ -122904,6 +122907,7 @@ rewardsradar.net
 rewas-app-lex.com
 rewec.com
 rewerty.fun
+rewet43.store
 rewrap.com
 rewtorsfo.ru
 rex-app-lexc.com
@@ -127955,6 +127959,7 @@ texasorangepages.com
 texasps.com
 texasriverproperties.com
 texasworkcomphelp.com
+text-generator.ai
 textileroof.org
 textjobs.ru
 textprayer.com

@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2023-12-31T18:09:05.783Z
+! Last modified: 2024-01-01T00:41:29.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35293,6 +35293,7 @@
 9zx1pj.life
 a-94interdads.com
 a-b-c-d.xyz
+a-bring.com
 a-csontos.com
 a-k-v.net
 a-o-w.ru
@@ -38392,6 +38393,7 @@ allactualstories.com
 allahbaksh.in
 allainz.it
 allamericanbuilt.com
+allamilagtamogatottlakashitelkalkulator.sbs
 allanimemovies.com
 allanshaw.ca
 allanshaw.com
@@ -38451,6 +38453,7 @@ allhypefeed.com
 alli-store.com
 alli-ti-cod.com
 alli-ti-hunter.com
+alliance-one.com
 alliancedesign.ca
 alliancefreakishobey.com
 allianceoffender.com
@@ -41306,6 +41309,7 @@ attendantbrainsbumpy.com
 attendantsammunitiondeliquencydeliquency.com
 attendantsrescuediscrepancy.com
 attendantsteakfax.com
+attendedconnectionunique.com
 attendingpets.com
 attendingtarget.com
 attends.group
@@ -43686,6 +43690,7 @@ belongedshark.com
 belousek.net
 beloved-ideal.pro
 belovedfrolic.com
+belovedly.space
 belovedscalp.com
 beloveupcreep.com
 belowanswerhaste.com
@@ -52600,6 +52605,7 @@ cqrvwq.com
 cqsfdunhf.com
 cqwajn.com
 cqwkjs.xyz
+cqwmeu.com
 cqxqxsqj.com
 cqxtivmquu.com
 cqyptyvh.com
@@ -55531,6 +55537,7 @@ dgtprinter.com
 dgttkthhgjm.com
 dguhjlbefeuf.com
 dguxtyxy.com
+dgvofecsvsu.com
 dgwmrddx.xyz
 dgwskishj.com
 dgxlbhr.com
@@ -55951,6 +55958,7 @@ dipaka-ead.com
 dipakgaba.com
 dipeshsahu.com
 diphuonline.in
+diplatte-j.net
 diplic.com
 diploisaloofly.com
 diploma.healthcare
@@ -64021,6 +64029,7 @@ footageaccomplishment.com
 footagegift.com
 footar.com
 footballfans.online
+footbikesevilla.com
 footcomefully.com
 foothoupaufa.com
 footling.xyz
@@ -65350,6 +65359,7 @@ gabyscaferhinebeck.com
 gacosngktw.top
 gacoufti.com
 gadasel.top
+gadbytyhmybnir.com
 gadedy.com
 gaderat.top
 gadgetbikroy.com
@@ -65482,6 +65492,7 @@ galsajoo.xyz
 galyra.com
 gam3ah.com
 gamamonteure.com
+gamaon.com
 gamapp.tech
 gambar123.com
 gambasull.digital
@@ -67161,6 +67172,7 @@ gmshint.com
 gmshny.com
 gmsholdingny.com
 gmsidntfdredd.com
+gmsigk.com
 gmsolutionsec.com
 gmssouth.com
 gmvfggqes.com
@@ -71620,6 +71632,7 @@ housiehouse.com
 housingamen.com
 houstonprime-athletics.com
 houstonprimeathletics.com
+houtouchekan.space
 hoverr.co
 hoverr.media
 hoversruffer.space
@@ -71781,6 +71794,7 @@ hrhip.com
 hrhlbvilthpweo.com
 hrhufhhay.com
 hrius.org
+hrivisdesign.com
 hrjobsalert.com
 hrmationeng.xyz
 hrmbagel.ca
@@ -75379,6 +75393,7 @@ iwpswvi.com
 iwqensejhdzfq.com
 iwrkhphl.xyz
 iwrvrbklotfp.xyz
+iwsgoq.com
 iwuh.org
 iwvinjjmreemnl.xyz
 iwwdcglj.com
@@ -77981,6 +77996,7 @@ kckdtd.com
 kckjelcroivk.com
 kckntb.com
 kclidkqnyr.com
+kcmoeowy.com
 kcmouxfnha.com
 kcmudtothpyu.com
 kcnfrqincdlf.xyz
@@ -79369,6 +79385,7 @@ kryptozmenaren.com
 kryupomxtflqyn.top
 krznova.com
 ksamovil.com
+ksandrafashion.com
 ksandtheirclean.org
 ksash.co.uk
 ksbeacogpivp.com
@@ -81525,6 +81542,7 @@ lirateblister.com
 lirdooch.xyz
 lirmecnlpmv.com
 lisawilliams.life
+lisolkw.com
 lispaircraftcraziness.com
 lispingwraths.space
 lispnegligent.com
@@ -85333,6 +85351,7 @@ mhrokfsdv.com
 mhrpusbstm.com
 mhshackclub.tech
 mhtgdirbo.com
+mhthrbd.cfd
 mhtwpozkl.com
 mhxyiqtan.com
 mhzmhd.xyz
@@ -85955,6 +85974,7 @@ mjsq9.com
 mjstraders.in
 mjterajvyil.com
 mjtfbpsvhuuqi.com
+mjtoursafari.com
 mjtwoqupix.com
 mjwooqogsds.com
 mjxexuwnx.com
@@ -87335,6 +87355,7 @@ munshiganjmart.com
 munshiwauks.space
 munsterduke.com
 muntoxkyfeisg.com
+muoasiqceu.com
 muofqumriowemy.com
 muonshinemeadows.com.au
 mupufktvziob.com
@@ -87449,6 +87470,7 @@ muxxhnuk.com
 muyoozrkkyr.com
 muzarabeponym.website
 muzdownloads.ru
+muzhiketta.guru
 muzmino.ru
 muzo.kz
 muzoohat.net
@@ -87887,6 +87909,7 @@ mysleepds.com
 mysmartfoodclub.fun
 mysmartfoodclub.net
 mysmartlink.website
+mysnapcams.com
 mysoftbox.ru
 mysoftrotate.ru
 mysoftwarecentre.com
@@ -88871,6 +88894,7 @@ nestledmph.com
 nestledoubtlog.com
 nestleexperiment.com
 nestlesfevers.website
+nestor.mobi
 nestormandadv.xyz
 nestorsgym.com
 nesuchyne.com
@@ -89749,6 +89773,7 @@ nksypqiptuh.com
 nkubg.yt
 nkuejvqskxjgu.top
 nkuexguv.com
+nkuvukn.com
 nkwdqmfogrrpdlm.top
 nkwintenc.biz
 nkwtjtpxswbj.com
@@ -90145,6 +90170,7 @@ nossairt.net
 nosselaune.space
 nosselphloxes.com
 nostalgiafest25.com
+nostfazpsqh.com
 nostocsfermery.life
 nostormidentification.com
 nostrgo.com
@@ -112715,6 +112741,7 @@ takhiza.com
 takingonwaters.com
 takiparkrb.site
 takqart.com
+takstav.com
 takychasing.com
 talabondreary.top
 talaeidl.com
@@ -113335,6 +113362,7 @@ teatycacicus.com
 teawater.com
 teaxie.in
 tebadu.com
+tebeveck.xyz
 tebo0o2xw4.com
 tecaavdsy.com
 tecaxe.com
@@ -115730,6 +115758,7 @@ tmxwebstoretest.com
 tmywdchswel.com
 tmyzer.com
 tn.fordgitter.com
+tn69abi.com
 tnaowooruaxkqtr.xyz
 tnbuildersalliance.com
 tncred.com
@@ -116226,6 +116255,7 @@ topsoftlinks.ru
 topsolutionsmedia.xml-v4.ak-is2.net
 topsport.sn
 topsthanacademy.com
+topstreetcyprus.com
 topsummerapps.net
 topswp.com
 toptapintown.com
@@ -123595,6 +123625,7 @@ websiteyh45.com
 webslot.xyz
 websole.online
 webstatisticspro.net
+websteroidsapp.com
 webstersappleorchard.com
 webstore.promo
 webstranky.pro
@@ -141555,6 +141586,7 @@ xnxznfrjx.com
 xo28pclotovi.com
 xo4uzhit.agency
 xobr219pa.com
+xochu-zhyt.art
 xocsusfugjbcfpe.xyz
 xodccglfqx.xyz
 xoemvfgjhpwea.com
@@ -142530,6 +142562,7 @@ yishou.pro
 yisptirumsw.com
 yitaitqwrcky.com
 yiteattends.tech
+yiueemei.com
 yiuvqxvnhpkuqjf.com
 yiuxmiaikjb.com
 yivcgddmoevv.com
@@ -147949,6 +147982,12 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||mwifcugxihhpwm.com^
+||trolleydemocratic.com^
+||nastymankinddefective.com^
+||otherofherlittl.com^
+||eingajoytow.org^
+||uvgwtrkuhgwo.xyz^
 ||srwfwllymprt.com^
 ||orpoobj.com^
 ||worldwhoisq.org^
