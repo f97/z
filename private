@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-01T00:41:37.852Z
+! Last modified: 2024-01-01T06:12:04.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4434,6 +4434,7 @@ data.mistat.rus.xiaomi.com
 ||2c2a1b058e.com^
 ||2c4p24o6zp0y.top^
 ||2c4rrl8pe.de^
+||2cent.net^
 ||2cjlj3c15.de^
 ||2cnjuh34jbman.com^
 ||2cnjuh34jbpoint.com^
@@ -11825,6 +11826,7 @@ data.mistat.rus.xiaomi.com
 ||adblockers.b-cdn.net^
 ||adsninja.b-cdn.net^
 ||bbangads.b-cdn.net^
+||beamanalytics.b-cdn.net^
 ||bs-adserver.b-cdn.net^
 ||creatopy-adtag-production.b-cdn.net^
 ||deprecated-custom-domains.b-cdn.net^
@@ -15125,6 +15127,7 @@ data.mistat.rus.xiaomi.com
 ||callrail.com^
 ||callreports.com^
 ||calltouch.ru^
+||calltrack.co^
 ||cc.calltracking.ru^
 ||calltrackingmetrics.com^
 ||calltracks.com^
@@ -33250,7 +33253,18 @@ data.mistat.rus.xiaomi.com
 ||hottercensorbeaker.com^
 ||sanalytics.hottopic.com^
 ||vdkjfd.hottopic.com^
-||hottracker.biz^
+||fr34.hottracker.biz^
+||fr35.hottracker.biz^
+||fr36.hottracker.biz^
+||fr37.hottracker.biz^
+||fr42.hottracker.biz^
+||fr43.hottracker.biz^
+||usa11-2.hottracker.biz^
+||usa12.hottracker.biz^
+||usa13.hottracker.biz^
+||usa17.hottracker.biz^
+||usa18.hottracker.biz^
+||usa19.hottracker.biz^
 ||hotwildadult.com^
 ||om.hotwire.com^
 ||som.hotwire.com^
@@ -35772,7 +35786,6 @@ data.mistat.rus.xiaomi.com
 ||isvnwxpoqgsgyy.com^
 ||iswhatappyouneed.net^
 ||iswhelectual.cc^
-||isxfrhhtcsagr.com^
 ||isywjrtn.com^
 ||matomo.it-connect.fr^
 ||168.it168.com^
@@ -35838,6 +35851,7 @@ data.mistat.rus.xiaomi.com
 ||ittogepiom.com^
 ||ads.itv.com^
 ||cpt.itv.com^
+||recommendations.prd.user.itv.com^
 ||itvalleynews.com^
 ||itvertical.com^
 ||b.itvnet.lv^
@@ -41161,6 +41175,7 @@ data.mistat.rus.xiaomi.com
 ||mews2ruck.com^
 ||mexstat128.com^
 ||info.meyerandassoc.com^
+||logs.mezmo.com^
 ||mfabxfb.com^
 ||mfadsrvr.com^
 ||mfcewkrob.com^
@@ -50369,6 +50384,7 @@ data.mistat.rus.xiaomi.com
 ||pxxnejx.xyz^
 ||pxzkqq.com^
 ||pycvlnu.com^
+||pyhdvvimr.com^
 ||pyme124.pymedns.net^
 ||pymx5.com^
 ||pyoungstersofto.xyz^
@@ -52834,6 +52850,7 @@ data.mistat.rus.xiaomi.com
 ||analytics.rpxapps.com^
 ||rpyor0k.xyz^
 ||rpzbfftekjdz.com^
+||rqctubqtcbgeug.com^
 ||rqgjvcea.com^
 ||rqmetrixa.info^
 ||rqmetrixb.info^
