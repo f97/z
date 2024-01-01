@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-01T12:14:14.796Z
+! Last modified: 2024-01-01T18:10:14.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37805,6 +37805,7 @@ aienergy.tech
 aienlightenment.org
 aiexpandedconsciousness.com
 aieykawamm.com
+aifolders.com
 aigaithojo.com
 aigeno.com
 aightutaitlastwe.xyz
@@ -38076,6 +38077,7 @@ akbuwfkgeuq.com
 akchapxw.com
 akdbr.com
 akdcunfxex.com
+akdenizforeigntrade.com
 akdigitalworld.online
 akdjnwil.com
 akeedser.com
@@ -44596,6 +44598,7 @@ bihreseller.com
 bihunekus.com
 biimum.com
 biinminigihi.com
+biiolqrudbircf.com
 biitfoorex.com
 bijitsoa.com
 bijleesaver.com
@@ -60485,6 +60488,7 @@ eqokqklgjeulkq.com
 eqpbskmjcfoj.com
 eqpghfawd.com
 eqpkdvrawspifl.com
+eqqrukdv.com
 eqrgdvdklgjdkx.xyz
 eqrxanxtyk.xyz
 eqrxkqplsv.com
@@ -65828,6 +65832,7 @@ gatewayimpossibilitypursue.com
 gather99.us
 gatheringtherealiases.com
 gathermemorandum.com
+gathermenia.net
 gathertalenthk.com
 gatipackersmoversncr.com
 gatols.com
@@ -71185,6 +71190,7 @@ hognaivee.com
 hogqmd.com
 hogtiedscuffy.website
 hogtiesnosh.guru
+hogxaqslmgcuo.xyz
 hoh168.net
 hoh168.site
 hohese.com
@@ -74995,6 +75001,7 @@ irbrof.com
 irbyvjfbwdrg.com
 irbzdrvsasg.com
 irchincsp.com
+irdbfqdq.xyz
 irdocysrivhios.com
 irea2.it
 irecafrica.org
@@ -76805,6 +76812,7 @@ jod-news1.club
 jodellvideos.pro
 jodhpurrarish.digital
 jodilhsitybnv.com
+jodroacm.com
 jodsempu.com
 joe3.co
 joecockersmemory.com
@@ -87681,6 +87689,7 @@ mvnfwfwuqmjgn.com
 mvnsdnqd.com
 mvnuligz.com
 mvoc.ec
+mvokwrvgrhbqlh.com
 mvprojects.net
 mvqlsrakwp.com
 mvqycoenp.com
@@ -90025,6 +90034,7 @@ nmpfxqjntebtsrp.com
 nmqcahskjby.com
 nmqwdmtwjleb.com
 nmrcvexqa.com
+nmrjnqiwocfyi.com
 nmrkgcs.com
 nms911.xyz
 nmthpcanvokjbkh.xyz
@@ -100432,6 +100442,7 @@ qsqvmktpkec.com
 qssenterprises.co.in
 qsswdxkmhmmyyce.xyz
 qstyxveuwcdk.com
+qsuvdtursgrq.com
 qsvvhobsta.com
 qswotrk.com
 qsxorigftyqwpo.com
@@ -104090,6 +104101,7 @@ rpfcooaebxuo.com
 rpgwqlsjhse.xyz
 rpimm.net
 rpivyagsyhb.com
+rpkbjdcwcgpy.com
 rpmsophiashoe.com
 rpmwhoop.com
 rpnlwtwehr.com
@@ -120400,6 +120412,7 @@ utrinterrommo.com
 utript.com
 utrius.com
 utrlvevfj.com
+utsfqjlb.com
 utstancecaricit.com
 utsukbrewst.website
 uttack.com
@@ -141134,6 +141147,7 @@ xapads.com
 xaprbuubhifu.com
 xapxmaawcsk.com
 xaqavvmtkcgtg.xyz
+xaqewmwggwoer.com
 xarbenul.com
 xarfvcqpnbkw.com
 xargijqtgysdvgj.com

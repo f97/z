@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-01T12:14:22.741Z
+! Last modified: 2024-01-01T18:10:20.667Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -90587,6 +90587,7 @@ animeoaus.com
 animethighssavelives.com
 animex98.com
 anindyasen.com
+anio.site
 aniplay.xyz
 aniross.com
 anizedx.ru
@@ -127646,6 +127647,7 @@ tealeafhacker.org
 team.gethlp.site
 team.strategyconsulting.click
 team.supportshq.click
+team.travellerapp.click
 team.travelservice4u.com
 team.tryhelps.click
 team1.opensupports.click
