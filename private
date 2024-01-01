@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-01T06:12:04.727Z
+! Last modified: 2024-01-01T12:14:22.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -57507,7 +57507,6 @@ data.mistat.rus.xiaomi.com
 ||superbbuy.shop^
 ||superbcallempty.com^
 ||superbwigs.com^
-||supercell.net^
 ||collector.snowplow.supercell.com^
 ||analytics.support.supercell.com^
 ||superchat.live^
