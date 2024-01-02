@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-02T00:36:33.186Z
+! Last modified: 2024-01-02T06:10:47.730Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37663,6 +37663,7 @@ ahaurgoo.net
 ahavaakites.com
 ahazisaman.com
 ahbdsply.com
+ahcapzoqgyw.com
 ahcdsply.com
 ahdhog5104.com
 ahdjqhqltqqwp.com
@@ -38051,6 +38052,7 @@ ajty.org
 ajunduxpbarn.com
 ajuoygjejfp.com
 ajuyacxneja.xyz
+ajuygnqwnbjfth.com
 ajvas.org
 ajvjpupava.com
 ajvnragtua.com
@@ -49083,6 +49085,7 @@ cewaugaz.net
 cewedejhoibkwdl.xyz
 cewfamilyoffice.com
 cewfggrr5flklnb.com
+cewrndlpqzacv.com
 cexp.cards
 cexucetum.com
 ceyqalnoejdr.com
@@ -57679,6 +57682,7 @@ dryfood.co.nz
 dryinfestinsight.com
 drylnk.com
 drystervernile.life
+ds-exports.net
 ds-tronic.com
 ds.puleynoomiac.com
 ds.svelterterton.com
@@ -61095,6 +61099,7 @@ europa-ut.com
 europacash.com
 europavintage.eu
 europavintage.net
+europcitizenship.com
 europe-daily.org
 europe-menu.com
 europeall.online
@@ -67885,6 +67890,7 @@ googletagzmanager.com
 googletegmanager.com
 googlevads-cn.com
 googliya.com
+googlsyndication.com
 googlwetagmanager.com
 googlwweesyndic232311ation.com
 googtion.com
@@ -76237,6 +76243,7 @@ jellyhopeless.com
 jellyprehistoricpersevere.com
 jelqr4dqeep7.com
 jeltoocm.xyz
+jelvsdxsdnqze.com
 jelykusdntavr.com
 jelzaloghitelkalkulator.sbs
 jemdexat.xyz
@@ -77666,6 +77673,7 @@ jyburaemyw.com
 jychzx.com
 jydydmctzxcea.com
 jyfirjqojg.xyz
+jygdrprbbwha.xyz
 jygkr.yt
 jygkylltb.com
 jygotubvpyguak.com
@@ -89830,6 +89838,7 @@ ninewattle.com
 ninghesatina.work
 ningseriencess.pics
 ningukmodu.one
+ninhaine.com
 ninhhoa.sale
 ninjabe.it
 ninjabot.tech
@@ -105428,6 +105437,7 @@ sarueve.win
 sarvagnaspl.com
 sarvamcart.com
 sasasbd.com
+sasgrowth.com
 sashadevers.com
 sashapay.com
 sashazd.me
@@ -105575,6 +105585,7 @@ saylor23.net
 saylor23.org
 saytbcrdmyyfb.com
 sayyidscronies.life
+sazoya.com
 sazute.uno
 sb-stat1.com
 sb.sockeyebrattle.com
@@ -130856,6 +130867,7 @@ www.eugenearsonmeanwhile.com
 www.eukiert.com
 www.eunorau-bike.com
 www.eurobrussels.fm
+www.europcitizenship.com
 www.europeall.online
 www.europeanbubblyclosed.com
 www.europeanconvertiblerepeatedly.com
@@ -138541,6 +138553,7 @@ www.stitchshed.net
 www.stld2014.com
 www.stlm-online.co.za
 www.stoachaigog.com
+www.stoatsie.com
 www.stobartoilgas.com
 www.stockcustom.store
 www.stolenforensicssausage.com
