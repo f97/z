@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-01T18:10:14.422Z
+! Last modified: 2024-01-02T00:36:33.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -51485,6 +51485,7 @@ communicatewisermostly.com
 communiqueamsc.com
 communityflow.net
 communityresiliencenetwork.net
+communityrespondalarm.com
 communitythrong.com
 comnwww.topdisplayformat.com
 comogate.com
@@ -63024,6 +63025,7 @@ fighting4fairness.com
 fightingcowardlycoffin.com
 fightingleatherconspicuous.com
 fightmallowfiasco.com
+fightnightchallenge.com
 fightpirate.xyz
 figovniky.com
 figuan.com
@@ -88064,6 +88066,7 @@ myqamerica.info
 myqmjhkgxpkmh.com
 myracebets.com
 myrahbar.com
+myraqcajwkeyqd.com
 myratheboutique.com
 myrcbigrock.site
 myrdrcts.com
@@ -95699,6 +95702,7 @@ pgjt26tsm.com
 pgkcecbd.com
 pgkjoybbfjv.xyz
 pglvevjbooqoecb.xyz
+pgmfuffwfl.com
 pgmpsqoq.xyz
 pgmrecycling.com
 pgonews.pro
@@ -96295,6 +96299,7 @@ pipetagrfid.com
 pipetsungross.com
 pipety.com
 piphas.com
+pipirisend.guru
 piplanistore.com
 piplavwci.com
 pippinbooks.us
@@ -107076,6 +107081,7 @@ sfuhdgeatsjxtw.com
 sfuhs.yt
 sfullydevelo.com
 sfultraight.xyz
+sfuoasztfxr.com
 sfuppvujrjve.xyz
 sfw059.com
 sfwtmxmpj.com
@@ -117716,6 +117722,7 @@ trpenggsolution.co.in
 trpindia.in
 trpohkfedwway.xyz
 trpop.xyz
+trprubbisy.space
 trpvkwuwfeef.com
 trq5.com
 trq8.com
@@ -125128,6 +125135,7 @@ wkjfynaekfq.com
 wkjoehzlkl.com
 wkjyeexlqbgbjv.com
 wknaczrxjrj.com
+wkpfgjbmd.com
 wkqcnkstso.com
 wkqijvgumnc.com
 wkqimvtf.com
@@ -126397,6 +126405,7 @@ www.6yint.com
 www.6yuratese.com
 www.7018999.com
 www.7069.ma
+www.72-boerneepicure.gdmig-fidllcit.net
 www.7231691.com
 www.73-j-pinnable.com
 www.7303.comwww.900hk.com
@@ -130315,6 +130324,7 @@ www.dreamtgistliveliness.com
 www.drenchmailboxlaughing.com
 www.dressblockedfund.com
 www.dressedfund.com
+www.dresserderange.com
 www.dressmakerdisturb.com
 www.dressmakerstingydan.com
 www.driftfranchise.com
@@ -131220,6 +131230,7 @@ www.fifthjournalisminadequate.com
 www.fightingcowardlycoffin.com
 www.fightingleatherconspicuous.com
 www.fightmallowfiasco.com
+www.fightnightchallenge.com
 www.figuredcurrantcroak.com
 www.figuredreconsiderinvest.com
 www.fiinann.com
@@ -140268,6 +140279,7 @@ www.wetryprogress.com
 www.wetselfconfidencespeculation.com
 www.whackywear.store
 www.whalesongcamp.org
+www.whataboutnews.com
 www.whatsappautomation.org
 www.whatsapplogin.net
 www.whatsappweblogin.net
@@ -148294,6 +148306,17 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||igjptqlywyvfveq.com^
+||wuksosta.com^
+||vztlivv.com^
+||nerfctv.com^
+||ywhowascryin.com^
+||ytoworkwi.org^
+||wkpfgjbmd.com^
+||sfuoasztfxr.com^
+||rtxbdugpeumpmye.xyz^
+||pgmfuffwfl.com^
+||myraqcajwkeyqd.com^
 ||srwfwllymprt.com^
 ||orpoobj.com^
 ||worldwhoisq.org^
