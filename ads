@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-02T12:13:58.987Z
+! Last modified: 2024-01-02T18:10:24.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -12382,6 +12382,7 @@
 ||hangfly.net^
 ||hangtagcomonte.com^
 ||hansetwangy.com^
+||hantlesberith.com^
 ||haphazardbleeding.com^
 ||haplic.com^
 ||happeningdeliverancenorth.com^
@@ -12401,6 +12402,7 @@
 ||hardilyshook.com^
 ||hardwaretakeoutintimidate.com^
 ||hardynarrow.com^
+||harelipwelshes.digital^
 ||haresmodus.com^
 ||harhtwb.com^
 ||haribdathesea.com^
@@ -12628,6 +12630,7 @@
 ||hepare.com^
 ||heparllasysy.xyz^
 ||heptix.net^
+||heraldet.com^
 ||heratheacle.com^
 ||herbiernohow.top^
 ||herbwheelsobscure.com^
@@ -13155,6 +13158,7 @@
 ||humiliating-tradition.pro^
 ||humilityanytime.com^
 ||hummertulwar.guru^
+||hummingexam.com^
 ||humoralpurline.com^
 ||humordecomposebreathtaking.com^
 ||humpdecompose.com^
@@ -14433,6 +14437,7 @@
 ||jewlhtrutgomh.com^
 ||jewscane.digital^
 ||jewspa.com^
+||jeziaodqmy.com^
 ||jf71qh5v14.com^
 ||jfbrkbgvxwib.com^
 ||jfedgbskofck.com^
@@ -22826,6 +22831,7 @@
 ||repellentremainingsly.com^
 ||repentancematernity.com^
 ||repentant-plant.pro^
+||repentantsympathy.com^
 ||repentbits.com^
 ||repercussionspoonsbuiltin.com^
 ||repetitioustaint.com^
@@ -27974,7 +27980,6 @@
 ||unionssoothe.com^
 ||unitethecows.com^
 ||unitionistana.com^
-||universal.wgplayer.com^
 ||universalflaskshrimp.com^
 ||universityeminenceloosen.com^
 ||universityofinternetscience.com^
@@ -29186,6 +29191,7 @@
 ||watchahv.com^
 ||watchcpm.com^
 ||watchercupboard.com^
+||watchesthereupon.com^
 ||watchestwenties.com^
 ||watchexcellent.pics^
 ||watchexcellentpics.online^
@@ -31243,7 +31249,6 @@
 ||tillertag-a.akamaihd.net^
 ||track.10bet.com^
 ||trendads.reactivebetting.com^
-||uacabilqlgpw.cdnvideo3.com^
 ||vice-publishers-cdn.vice.com^
 ||video-ads.a2z.com^
 ||videosvc.ezoic.com^
@@ -31646,6 +31651,7 @@
 ||d2ohmkyg5w2c18.cloudfront.net^
 ||d2ojfulajn60p5.cloudfront.net^
 ||d2ov8ip31qpxly.cloudfront.net^
+||d2ovgc4ipdt6us.cloudfront.net^
 ||d2oxs0429n9gfd.cloudfront.net^
 ||d2oy22m6xey08r.cloudfront.net^
 ||d2p3vqj5z5rdwv.cloudfront.net^
@@ -36715,6 +36721,7 @@ adpijpmen.com
 adpinion.com
 adpionier.de
 adpir.com
+adplab.ca
 adplexo.com
 adplushub.com
 adpmbglobal.com
@@ -40561,6 +40568,7 @@ arrackspawn.com
 arraignmentinclose.com
 arrangementsfilter.com
 arrangementsinventorpublic.com
+arrangero.com
 arrannutrascience.com
 arrayanthir.cfd
 arrearscourtyard.com
@@ -42727,6 +42735,7 @@ balconhoist.com
 balconyilluminate.com
 balconyparded.com
 balconypeer.com
+baldachynnadpostel.sbs
 baldbaptismrisk.com
 baldeaglewaterskishows.com
 baldersdaleltd.co.uk
@@ -47515,7 +47524,9 @@ bytesoon.net
 bytesreunitedcedar.com
 byteyieldcreated.com
 bytogeticr.com
+bytovynabytek.sbs
 byuqvcrteciwqnt.com
+byvanie.tv
 byvatar.com
 byvhtcpfoom.com
 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
@@ -48413,6 +48424,7 @@ casinogame.pro
 casinolsloty.com
 casinomerchantaccount.com
 casinoprox.icu
+casinos-jackpot.cfd
 casinoswithapplepay.co.uk
 casinoswithgooglepay.co.uk
 casinoudacha.cfd
@@ -48529,6 +48541,7 @@ cattailaix.com
 cattishinquiries.com
 cattledisplace.com
 cattlepilot.com
+catukhyistk.org
 catus.store
 catwenbat.com
 catwrite.com
@@ -64361,6 +64374,7 @@ formationmisjudgebegun.com
 formationseparation.com
 formationwallet.com
 formatmanuscript.com
+formelle-eilverarbeitung.info
 formerdrearybiopsy.com
 formerlyerotic.com
 formerlyparsleysuccess.com
@@ -65208,6 +65222,7 @@ functionstuckprank.com
 fundacija.org
 fundacionssuubi.us
 fundacionvizcarra.net
+fundamentalakashitel.sbs
 fundamentalenvironmental.com
 fundamentalinefficient.com
 fundardsesaz.club
@@ -70461,6 +70476,7 @@ hermitmeaninglessconsequences.com
 hernialbriefer.com
 herniaplus.co
 herniaplus.in
+hernikreslo.sbs
 heroadmissionfinalize.com
 herodiessujed.org
 heroearth.in
@@ -76430,6 +76446,7 @@ jexpe.tech
 jeyiibuoy.com
 jezailbombola.uno
 jezailjazzmen.com
+jeziaodqmy.com
 jf.alcaeunicell.com
 jf.carstensorrowy.com
 jf71qh5v14.com
@@ -76558,6 +76575,8 @@ jibaoku.com
 jibmenbebloom.com
 jibonnagar.com
 jicamasonde.website
+jidelnistulazidle.sbs
+jidelnistulrozkladaci.sbs
 jidongpowercable.com
 jiefuhao.com
 jiepailu.com
@@ -77962,6 +77981,8 @@ kan8x.com
 kanan777.com
 kanapky.com
 kanawhadonnot.website
+kancelarskezidle.sbs
+kancelarskynabytek.sbs
 kancq180.com
 kandaglobaltrading.com
 kandlapackaging.in
@@ -78365,6 +78386,8 @@ keltickirk.co.uk
 keltomental.cfd
 kemac.online
 kemelkilicdaroglu.com
+kempingovazidle.sbs
+kempingovystul.sbs
 kemptilia.com
 kemra.wtf
 kenafah.com
@@ -83471,6 +83494,7 @@ mademadelavish.com
 madeoidrgfuptat.com
 madesout.com
 madeupadoption.com
+madfrogai.com
 madhuricecream.com
 madic-tours.com
 madinatulilmschool.org
@@ -84479,6 +84503,7 @@ matchuph.com
 matdomain.com
 mate6tube.com
 matecatenae.com
+matejakoprivc.com
 matejbartko.com
 matejplachy.com
 matematicaluchin.com
@@ -84737,6 +84762,7 @@ mcdote.com
 mcdwudsdsjqwu.com
 mcdyjvnuegx.com
 mcfilmes.online
+mcflyonline.org
 mcfruta.com
 mcgbvjasbch.com
 mchrueirmky.com
@@ -88354,6 +88380,7 @@ nablesasmetotrea.info
 nabobketupa.com
 naboty.com
 nabu15.com
+nabytekdoobyvaku.sbs
 nacertified.net
 nacertified.org
 nacfuns.com
@@ -89130,6 +89157,7 @@ neratas.top
 nerdolac.com
 nerdtutors.com
 nereserv.com
+nerfctv.com
 nergyflexibilit.pics
 nerolitole.space
 nerverinstall.com
@@ -91470,6 +91498,7 @@ obwbbghjgf.xyz
 obydahahmad.com
 obyjmawsrnbbldn.com
 obynefeigvk.com
+obyvacistena.sbs
 obzorhub.com
 oc2tdxocb3ae0r.com
 ocake.online
@@ -97755,6 +97784,7 @@ potnormal.com
 potomactatted.life
 potorootests.com
 potpourrichordataoscilloscope.com
+potravinovaskrin.sbs
 potsaglu.net
 potshumiliationremnant.com
 potskolu.net
@@ -98001,6 +98031,7 @@ praudyohr.com
 prava-mosscovv.com
 pravdoryb.info
 pravinmhatre.com
+prawam-srochno.com
 prawnsimply.com
 prawnspiritincomparable.com
 prawntimetableinflux.com
@@ -99430,6 +99461,7 @@ pujckabezregistruihned.sbs
 pujckaihned.cfd
 pujckanaauto.cfd
 pujckanaauto.sbs
+pujckanacokoliv.cfd
 pujckanarekonstrukci.cfd
 pujckanasmenku.cfd
 pujckanasmenku.sbs
@@ -99929,6 +99961,7 @@ pziobmoqrtk.com
 pzoynkxexnx.com
 pzwdtz.com
 q-profit-system.net
+q.www.allactualjournal.com
 q.www.dimseeksa.com
 q.www.psaumseegroa.com
 q1-tdsge.com
@@ -100321,6 +100354,7 @@ qm.auguredmorns.com
 qmaacxajsovk.com
 qmakfckfqw.com
 qmauaydonotbdn.com
+qmbcdguok.com
 qmbgfgqbbg.com
 qmchotdasf.com
 qmfvwbqxdshbx.com
@@ -101408,6 +101442,7 @@ rastie.me
 rastislavkish.com
 rastledundo.com
 rastmanesh.com
+ratanovekreslo.sbs
 ratantata.life
 ratchrist.com
 ratdqkdpkw.com
@@ -103854,6 +103889,7 @@ rohillaspatzle.website
 rohiniherbal.com
 rohitvermaphotography.com
 rohlicek.name
+rohovygauc.sbs
 roikerstage.com
 roikingdom.com
 roilsnadirink.com
@@ -104417,6 +104453,7 @@ rtunitytostar.com
 rtwdzxstpanmn.com
 rtwewgbk.com
 rtwupfly.com
+rtxbdugpeumpmye.xyz
 rtxjvbqpr.com
 rtxrtb.com
 rtybuclmy.com
@@ -111394,6 +111431,7 @@ storiesofendurance.com
 storiesproclamationelements.com
 storifyai.com
 storisaver.net
+storkingvencelet.com
 storkwild.com
 storminthecup.com
 stormmods.store
@@ -112895,6 +112933,7 @@ szbnnqyqn.com
 szbo.tech
 szemelyihitelkalkulator.sbs
 szemelyikolcsonkalkulator.sbs
+szemelyikolcsonotp.sbs
 szertarsportwebshop.online
 szerverelhelyezes.com
 szerverhosting.com
@@ -113199,6 +113238,7 @@ tandavsena.com
 tangiblewhereuponprestige.com
 tangmu-app.com
 tangomikevictor.com
+tangpuax.xyz
 tangvlog.com
 tangxian.tech
 tangxin.one
@@ -114396,6 +114436,7 @@ thbum.xyz
 thc-vapepen.com
 thdebtbox.online
 thdifferuken.com
+the-algo-signals.net
 the-asteroid.xyz
 the-big-life.com
 the-binary-trader.biz
@@ -114552,12 +114593,14 @@ thebiguncle.org
 thebigworld.in
 thebillway.tech
 thebitcoin-bankapp.info
+thebitcoin-methodapp.net
 thebitcoinchampions.net
 thebitcoinfastprofitapp.info
 thebitcoinfastprofitapp.net
 thebitcoinfuture.org
 thebitcoinfuturist.com
 thebitcoinlucro.net
+thebitcoinmillionaire-app.net
 thebitcoinrevolution.info
 thebitqt-app.com
 theblackrockconsulting.com
@@ -115607,6 +115650,7 @@ thycantyoubelike.com
 thygrepuwo.pro
 thyhoughs.com
 thymeneoctic.digital
+thymomamunify.top
 thyouglasuntilj.info
 thyourretyequ.com
 thyroidaketon.com
@@ -116064,6 +116108,7 @@ tlcjunkie.com
 tlcsinthechest.com
 tldadr.com
 tldccqxuhhgxnqk.com
+tleboywhowa.com
 tlgstock.com
 tlgywqncn.xyz
 tlhmeta.com
@@ -123198,6 +123243,7 @@ vzoarcomvorz.com
 vzoosjtwatu.com
 vzqbvzlknwld.com
 vztfc.com
+vztlivv.com
 vzufzah.com
 vzvpercxvty.com
 vzzhdkxsfghzin.com
@@ -125251,6 +125297,7 @@ wllfllujcfvxca.top
 wllraaeogjud.xyz
 wlmitgzbht.com
 wlnewz.com
+wlnuoock.com
 wlojxngeklmwfwu.com
 wlrkmhbjugh.com
 wlrusmuyqo.com
@@ -126018,6 +126065,7 @@ wujyeflb.com
 wukbgater.buzz
 wukoopicee.com
 wukpkgqcjnuhao.xyz
+wuksosta.com
 wullielouts.live
 wumpakuw.net
 wumpeeps.net
@@ -128392,6 +128440,7 @@ www.britishfinestarrangement.com
 www.britishinquisitive.com
 www.brittleraising.com
 www.brmovies.xyz
+www.broadsheetcounterfeitappeared.com
 www.broblogger.net
 www.brokenwebsite-note.com
 www.broochambitioncopies.com
@@ -134377,6 +134426,7 @@ www.madebabysittingimperturbable.com
 www.madelossbravely.com
 www.mademadelavish.com
 www.madeupadoption.com
+www.madfrogai.com
 www.madisonammen.com
 www.madmanbrainpowervengeance.com
 www.madnessindians.com
@@ -142300,6 +142350,7 @@ xw.beclogsbryce.com
 xwafajfij.com
 xwagtyhujov.com
 xwajawypujbtxvs.com
+xwbcyshhu.com
 xwcfvvnegv.com
 xwddavolgwvwkcr.com
 xwevtacuw.com
@@ -143599,6 +143650,7 @@ ytndjaefvan.xyz
 ytnjvelxjfvroi.com
 ytnwdxrbr.com
 ytostaracaree.work
+ytoworkwi.org
 ytoyota.it
 ytpailsherb.com
 ytqfumxhdlsom.com
@@ -143736,6 +143788,7 @@ ywebqweiidjgedh.com
 yweric.com
 ywfqqvguscowv.com
 ywhlskbofoglueh.xyz
+ywhowascryin.com
 ywimrcadxnul.com
 ywinrvhgctfxvt.com
 ywjcyisyucb.xyz
@@ -143872,6 +143925,7 @@ zaheki.uno
 zahradnictvi.top
 zahradnik.biz
 zahradnikreslo.sbs
+zahradninabytek.sbs
 zaicasoawoul.com
 zaid-khan.tech
 zaido.me
@@ -148403,6 +148457,10 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||dotercouther.uno^
+||overlapparians.com^
+||artertapirus.com^
+||empairscarp.com^
 ||piaigyyigyghjmi.xyz^
 ||srwfwllymprt.com^
 ||orpoobj.com^
