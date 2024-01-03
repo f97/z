@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-03T06:10:54.254Z
+! Last modified: 2024-01-03T12:14:17.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11296,7 +11296,10 @@ data.mistat.rus.xiaomi.com
 ||metrics.brave.com^
 ||p3a.brave.com^
 ||variations.brave.com^
-||bravenet.com^
+||counter16.bravenet.com^
+||pub16.bravenet.com^
+||pub43.bravenet.com^
+||pub9.bravenet.com^
 ||bravobusboy.com^
 ||bravospots.com^
 ||ijaabm.bravotv.com^
@@ -13388,7 +13391,6 @@ data.mistat.rus.xiaomi.com
 ||metrics.bax-shop.co.uk^
 ||stats.bbc.co.uk^
 ||gn-flagpoles.api.bbci.co.uk^
-||r.bbci.co.uk^
 ||smetrics.beefeater.co.uk^
 ||ext.bhol.co.il^
 ||st1.bhol.co.il^
@@ -15961,7 +15963,6 @@ data.mistat.rus.xiaomi.com
 ||events-tracker.deliveroo.net^
 ||event-tracking.deliverr.com^
 ||shopify-fast-tags.deliverr.com^
-||metric.fintech.deliveryhero.io^
 ||deliverymodo.com^
 ||deliverytrafficnews.com^
 ||deliverytraffico.com^
@@ -16000,8 +16001,6 @@ data.mistat.rus.xiaomi.com
 ||demandbase.com^
 ||abm-tracking.demandscience.com^
 ||analytics.demandware.com^
-||metric.hbc.demandware.net^
-||metric.underarmour.demandware.net^
 ||rtb2-useast.demandzoo.com^
 ||smetrics.demarini.com^
 ||demdex.com^
@@ -17512,15 +17511,12 @@ data.mistat.rus.xiaomi.com
 ||detour.click^
 ||sxjfhh.detroitnews.com^
 ||aa.deutsche-bank.de^
-||analytics.deutsche-bank.de^
 ||at.deutsche-bank.de^
-||metric.deutsche-bank.de^
 ||mit.deutsche-bank.de^
 ||analytics.deutsche-boerse.com^
 ||analytics.deutscher-apotheker-verlag.de^
 ||wbtrkk.deutschlandcard.de^
 ||matomo.dev-thuria.com^
-||metric.dev-vlaanderen.be^
 ||dev2pub.com^
 ||devatics.com^
 ||devatics.io^
@@ -17561,7 +17557,6 @@ data.mistat.rus.xiaomi.com
 ||dewrain.world^
 ||co.dewrain.life^
 ||tok.dewrain.life^
-||metric.dexalot.com^
 ||dexchangegenius.com^
 ||dexchangeinc.com^
 ||sourcepoint.dexerto.com^
@@ -17762,8 +17757,6 @@ data.mistat.rus.xiaomi.com
 ||directuklyecon.pics^
 ||metrics.directv.com^
 ||smetrics.directv.com^
-||metric.directvdealer.com^
-||metric.directvsports.com^
 ||hiuplq.diretta.it^
 ||tracking.direxion.com^
 ||dirhamsflugel.website^
@@ -17840,7 +17833,6 @@ data.mistat.rus.xiaomi.com
 ||dispersereversewanderer.com^
 ||displacecanes.com^
 ||display.io^
-||displayadsmedia.com^
 ||displayedfoot.com^
 ||displayfly.com^
 ||displayio.cloud^
@@ -18206,7 +18198,6 @@ data.mistat.rus.xiaomi.com
 ||dpbgnf.xyz^
 ||analytics.dpd.com^
 ||quality.dpdhl.com^
-||dpflyingoncs.top^
 ||dpgjjs.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertising-module.api.dpgmedia.cloud^
@@ -18279,7 +18270,6 @@ data.mistat.rus.xiaomi.com
 ||lu9xve2c97l898gjjxv4.drivepedia.com^
 ||driver-fixer.com^
 ||driverupdate.net^
-||metric.driveuconnect.com^
 ||drjyjr.xyz^
 ||qhzefk.drmartens.com^
 ||prod-analytics.royal.drmgms.com^
@@ -18294,11 +18284,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.corp.dropbox.com^
 ||d.dropbox.com^
 ||marketing.dropbox.com^
-||metrics.dropbox.com^
-||analytics.sjc.dropbox.com^
-||metric.sjc.dropbox.com^
-||metrics.sjc.dropbox.com^
-||telemetry.sjc.dropbox.com^
 ||telemetry.dropbox.com^
 ||telemetry.v.dropbox.com^
 ||dropkickmedia.com^
@@ -18378,8 +18363,6 @@ data.mistat.rus.xiaomi.com
 ||dtsedge.com^
 ||dtssrv.com^
 ||dttrk.com^
-||metric.dtvbb.net^
-||metric.dtvops.net^
 ||dtxngr.com^
 ||filter.dtxplatform.net^
 ||xml.dtxplatform.net^
@@ -18412,7 +18395,6 @@ data.mistat.rus.xiaomi.com
 ||dubvacasept.com^
 ||dubzenom.com^
 ||marketing.duckbrand.com^
-||analytics.duckduckgo.com^
 ||improving.duckduckgo.com^
 ||duckletnervous.uno^
 ||duckswillsmoochyou.com^
@@ -18551,14 +18533,12 @@ data.mistat.rus.xiaomi.com
 ||dyptanaza.com^
 ||dysjtdw.in^
 ||aa.dyson.com^
-||metric.dyson.cn^
 ||saa.dyson.at^
 ||saa.dyson.com^
 ||saa.dyson.cz^
 ||saa.dyson.de^
 ||saa.dyson.my^
 ||saa.dyson.nl^
-||metric.dysonblog.com^
 ||aa.dysoncanada.ca^
 ||saa.dysoncanada.ca^
 ||dz4ad.com^
@@ -18734,7 +18714,6 @@ data.mistat.rus.xiaomi.com
 ||autotrack.g.ebay.com^
 ||mobiletelemetry.ebay.com^
 ||monitor.ebay.com^
-||metric.shop.ebay.com^
 ||stats.ebay.com^
 ||src.ebay-us.com^
 ||ebayadservices.com^
@@ -18890,9 +18869,6 @@ data.mistat.rus.xiaomi.com
 ||industry.tafensw.edu.au^
 ||visit.tafensw.edu.au^
 ||counter.theconversation.edu.au^
-||analytics.unimelb.edu.au^
-||metric.unimelb.edu.au^
-||metrics.unimelb.edu.au^
 ||analytics.unl.edu.ar^
 ||securedata.unsw.edu.au^
 ||analytics.upd.edu.ph^
@@ -18987,11 +18963,9 @@ data.mistat.rus.xiaomi.com
 ||egmfjmhffbarsxd.xyz^
 ||egoi.site^
 ||egou.com^
-||egowyefort.live^
 ||egpdbp6e.de^
 ||egpovsl.com^
 ||plugin-check.egret.com^
-||egretswamper.com^
 ||egrogree.xyz^
 ||egyazegyben.com^
 ||egyifdjrbrwyj.com^
@@ -19114,7 +19088,6 @@ data.mistat.rus.xiaomi.com
 ||elltheprecise.org^
 ||elmiestkanuri.top^
 ||elmkrljayamrb.top^
-||metric.elnegocio3.com^
 ||elonreptiloid.com^
 ||s2150.t.eloqua.com^
 ||eloquencer.com^
@@ -19356,7 +19329,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.eo.nl^
 ||cookies.eo.nl^
 ||eoapxl.com^
-||metric.eobot.com^
 ||eobvppi.com^
 ||eofripvanwin.org^
 ||eofst.com^
@@ -19378,7 +19350,6 @@ data.mistat.rus.xiaomi.com
 ||log-anninhthudo.epicdn.me^
 ||epicgameads.com^
 ||metrics.ol.epicgames.com^
-||metric.on.epicgames.com^
 ||ewalxb.epicsports.com^
 ||epigyneleonora.digital^
 ||epilot.com^
@@ -19604,7 +19575,7 @@ data.mistat.rus.xiaomi.com
 ||sfr.eulerian.net^
 ||euleriancdn.net^
 ||av.eulerupslant.com^
-||eum-appdynamics.com^
+||col.eum-appdynamics.com^
 ||eumenesgigsman.com^
 ||eunzkvf.com^
 ||euosicjxjv.com^
@@ -20555,6 +20526,8 @@ data.mistat.rus.xiaomi.com
 ||fistsurprising.com^
 ||collector.fitanalytics.com^
 ||collector-de.fitanalytics.com^
+||integrations.fitanalytics.com^
+||integrations-staging1.fitanalytics.com^
 ||metrics.fitanalytics.com^
 ||metrics-nl.fitanalytics.com^
 ||iedc.fitbit.com^
@@ -20640,7 +20613,6 @@ data.mistat.rus.xiaomi.com
 ||flexbanner.com^
 ||elqtracking.flexera.com^
 ||flexlinks.com^
-||flexlinkspro.com^
 ||analytics.flexport.com^
 ||analytics.flightclubdartsusa.com^
 ||flimsymarch.pro^
@@ -23610,7 +23582,8 @@ data.mistat.rus.xiaomi.com
 ||heylink.com^
 ||heymatic.com^
 ||heyos.com^
-||heytapdl.com^
+||mdp-appconf-sg.heytapdl.com^
+||mdp-appconf-us.heytapdl.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adx.ads.heytapmobi.com^
 ||adx-f.ads.heytapmobi.com^
@@ -31547,7 +31520,9 @@ data.mistat.rus.xiaomi.com
 ||newsaboutsugar.com^
 ||prebid-server.newsbreak.com^
 ||newscadence.com^
-||newscgp.com^
+||audience.newscgp.com^
+||pixel.newscgp.com^
+||us.tags.newscgp.com^
 ||newscode.online^
 ||push.newscraft.io^
 ||newscred.com^
@@ -32027,7 +32002,24 @@ data.mistat.rus.xiaomi.com
 ||npyqwxlztwlea.com^
 ||nqmfmnmqysei.com^
 ||nqn7la7.de^
-||nr-data.net^
+||cell.nr-data.net^
+||edge.nr-data.net^
+||collector-eu01.cell.eu.nr-data.net^
+||infra-api.cell.eu.nr-data.net^
+||log-api.cell.eu.nr-data.net^
+||mobile-collector-eu01.cell.eu.nr-data.net^
+||collector.eu01.nr-data.net^
+||collector-001.eu01.nr-data.net^
+||fastly-tls12-collector.eu01.nr-data.net^
+||fastly-tls12-mobile-collector.eu01.nr-data.net^
+||insights-collector.eu01.nr-data.net^
+||mobile-collector.eu01.nr-data.net^
+||otlp.eu01.nr-data.net^
+||otlp.nr-data.net^
+||service.nr-data.net^
+||staging-insights-collector-origin.nr-data.net^
+||synthetics-horde.nr-data.net^
+||us.nr-data.net^
 ||content2.nrc.nl^
 ||klik.nrc.nl^
 ||nreg.world^
@@ -32717,10 +32709,6 @@ data.mistat.rus.xiaomi.com
 ||online-banners.nl^
 ||stats.online-convert.com^
 ||metrics.online-event.co^
-||d.aa.online-metrix.net^
-||e.aa.online-metrix.net^
-||eu-aa.online-metrix.net^
-||h.online-metrix.net^
 ||online812.ru^
 ||onlinedeltazone.online^
 ||onlinemediahits.com^
@@ -32913,15 +32901,6 @@ data.mistat.rus.xiaomi.com
 ||optimix.asia^
 ||optimix.cn^
 ||analytics.optimizedpayments.com^
-||log.confluence.optimizely.com^
-||log.optimizely.com^
-||log-confluence.optimizely.com^
-||log-jira.optimizely.com^
-||log-wiki.optimizely.com^
-||log3.optimizely.com^
-||logx.optimizely.com^
-||logx-internal.optimizely.com^
-||events.mobile.optimizely.com^
 ||optimizesrv.com^
 ||optimizeyourmac.com^
 ||optimonk.com^
@@ -38196,7 +38175,6 @@ data.mistat.rus.xiaomi.com
 ||preview-collector.scopely.io^
 ||score-feed.com^
 ||ads.scorecardresearch.com^
-||b.scorecardresearch.com^
 ||beacon.scorecardresearch.com^
 ||sa.scorecardresearch.com^
 ||udm.scorecardresearch.com^
@@ -46089,17 +46067,6 @@ data.mistat.rus.xiaomi.com
 ||winda10.com^
 ||marketing.windes.com^
 ||windingravesupper.com^
-||cltgtstor001.blob.core.windows.net^
-||fsuseaad1.blob.core.windows.net^
-||insitez.blob.core.windows.net^
-||iriscoremetadataprod.blob.core.windows.net^
-||optanon.blob.core.windows.net^
-||targetemsecure.blob.core.windows.net^
-||tenmaxsgads.blob.core.windows.net^
-||analyticsehnwe.servicebus.windows.net^
-||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
-||nexxtv-events.servicebus.windows.net^
-||wayfinderanalytics.servicebus.windows.net^
 ||windowsaura.com^
 ||windowsgushfurnished.com^
 ||windsattributeron.com^
