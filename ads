@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-03T12:14:11.105Z
+! Last modified: 2024-01-03T18:10:24.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2180,6 +2180,7 @@
 ||ahscdn.com^
 ||ahstrelgnh.com^
 ||ahtalcruzv.com^
+||ahuacasheely.top^
 ||ahwbedsd.xyz^
 ||aibsgc.com^
 ||aibwjqpo.xyz^
@@ -2935,6 +2936,7 @@
 ||aquavitpathway.com^
 ||aquentlytujim.com^
 ||aquiliapistrix.guru^
+||aqwihyjpglzdr.com^
 ||arabdevastatingpatty.com^
 ||arablucidlygrease.com^
 ||aracts.com^
@@ -4968,6 +4970,7 @@
 ||breedtagask.com^
 ||brewailmentsubstance.com^
 ||brewedprovost.digital^
+||brewingjoie.com^
 ||brewseryngo.com^
 ||breynvqbjrww.top^
 ||briareddollier.com^
@@ -8889,6 +8892,7 @@
 ||ebetoni.com^
 ||ebkthjkvp.com^
 ||eblastengine.com^
+||ebnarnf.com^
 ||ebonyrecognize.com^
 ||ebutiseemedlikeal.xyz^
 ||ebuzzing.com^
@@ -8962,6 +8966,7 @@
 ||edlilu.com^
 ||edncewvfadqrkr.com^
 ||ednewsbd.com^
+||edodtfnyfpf.com^
 ||edomz.net^
 ||edoumeph.com^
 ||edqbparlheuj.com^
@@ -8985,6 +8990,7 @@
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||ee43ed4973.com^
+||ee625e4b1d.com^
 ||ee6a35c1eeee.com^
 ||eea605742d.com^
 ||eeab79bf10.com^
@@ -10825,6 +10831,7 @@
 ||fortatoneterrow.com^
 ||fortdaukthw.hair^
 ||forthdigestive.com^
+||forthemoonh.com^
 ||fortlachanhecksof.com^
 ||fortorterrar.com^
 ||fortpush.com^
@@ -11551,6 +11558,7 @@
 ||girlsglowdate.life^
 ||gishejuy.com^
 ||gistblemishparking.com^
+||gitajwl.com^
 ||gitoku.com^
 ||giufjcfjdv.com^
 ||givaphofklu.com^
@@ -11728,6 +11736,7 @@
 ||gloywin04.com^
 ||glpctwalwq.com^
 ||glpeaoauwevlns.com^
+||glquynodiflhw.com^
 ||glssp.net^
 ||gltjtkqoxhbgvlx.com^
 ||glueluthern.digital^
@@ -11776,7 +11785,6 @@
 ||gnqtageoyy.com^
 ||go-rillatrack.com^
 ||go-srv.com^
-||go.mnaspm.com^
 ||go2.global^
 ||go2affise.com^
 ||go2app.org^
@@ -12515,6 +12523,7 @@
 ||hbloveinfo.com^
 ||hboffshadh.com^
 ||hbowywpeqhfpwru.com^
+||hbozuumx.com^
 ||hbpcjmegtll.com^
 ||hcckkyoo.com^
 ||hcdmhyq.com^
@@ -12531,6 +12540,7 @@
 ||hdbcome.com^
 ||hdbkell.com^
 ||hdbkome.com^
+||hdfoweey.com^
 ||hditers.com^
 ||hdjfeed.top^
 ||hdphumepmtikhbg.xyz^
@@ -12867,6 +12877,7 @@
 ||hleuindnjcixxep.com^
 ||hlftbsgj.com^
 ||hligh.com^
+||hljmdaz.com^
 ||hlmiq.com^
 ||hlserve.com^
 ||hlunlean.com^
@@ -14227,6 +14238,7 @@
 ||iyfnz.com^
 ||iyfnzgb.com^
 ||iyqaosd.com^
+||iywttijabeyb.com^
 ||izapteensuls.com^
 ||izavugne.com^
 ||izitrckr.com^
@@ -14638,6 +14650,7 @@
 ||jqcyacoxrvada.com^
 ||jqlqmeveax.com^
 ||jqlumzbdtet.com^
+||jqmebwvmbzrz.top^
 ||jqtree.com^
 ||jquerycdn.host^
 ||jqueryoi.com^
@@ -15752,6 +15765,7 @@
 ||lfnwqrghxqrqb.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
+||lfufujhxmy.com^
 ||lfwujowkcf.com^
 ||lgbxelnukhsil.xyz^
 ||lgdmconwvygoo.com^
@@ -17474,6 +17488,7 @@
 ||moolasghazism.guru^
 ||moonads.net^
 ||mooncklick.com^
+||moonheappyr.com^
 ||moonicorn.network^
 ||moonjahaphodal.com^
 ||moonovernegril.com^
@@ -17646,6 +17661,7 @@
 ||msypr.com^
 ||mt34iofvjay.com^
 ||mtdkhfguafqijx.com^
+||mthvjim.com^
 ||mtjrhfww.com^
 ||mtjwxcdjierrmw.com^
 ||mtwdmk9ic.com^
@@ -18352,6 +18368,7 @@
 ||nmcsqihltjdnheq.com^
 ||nmkli.com^
 ||nmqwdmtwjleb.com^
+||nmrjnqiwocfyi.com^
 ||nmthpcanvokjbkh.xyz^
 ||nmxqtuyyojgm.com^
 ||nmybyxnjscf.com^
@@ -18588,6 +18605,7 @@
 ||nsultingcoe.net^
 ||nsyywkq.com^
 ||ntanaerc.cyou^
+||ntcqmdif.com^
 ||ntdvjlvau.com^
 ||ntedbycathyhou.info^
 ||ntiaxofk.xyz^
@@ -18755,6 +18773,7 @@
 ||oarcompartmentexaggerate.com^
 ||oardilin.com^
 ||oaredtroth.com^
+||oargaung.com^
 ||oarsmenmytilid.uno^
 ||oarsmorsel.com^
 ||oarsouss.net^
@@ -19042,6 +19061,7 @@
 ||okayfreemanknot.com^
 ||okdigital.me^
 ||okehsominous.com^
+||okfgsbtmcnh.com^
 ||okienamare.com^
 ||okitwpyslqm.com^
 ||oklahi.com^
@@ -20843,6 +20863,7 @@
 ||pnsqsv.com^
 ||pnuhondppw.com^
 ||pnvbfxwbeg.com^
+||pnyjzdtirvufft.com^
 ||poacawhe.net^
 ||poachfirewoodboast.com^
 ||poaptoug.net^
@@ -22620,7 +22641,6 @@
 ||redij.online^
 ||redir4.net^
 ||redir9.net^
-||redirect-ads.com^
 ||redirect-path1.com^
 ||redirecting7.eu^
 ||redirection.one^
@@ -23203,6 +23223,7 @@
 ||rkgwzfwjgk.com^
 ||rkjnazpgfihz.com^
 ||rkomf.com^
+||rkwithcatuk.org^
 ||rlaa.xyz^
 ||rlcdn.com^
 ||rldfgcehgh.com^
@@ -25935,6 +25956,7 @@
 ||suzanne.pro^
 ||svarajwens.com^
 ||svbzpenplok.com^
+||sviakavgwjg.xyz^
 ||sviter2s1olenyami1.com^
 ||svkmxwssih.com^
 ||svntrk.com^
@@ -26910,6 +26932,7 @@
 ||toabuck.xyz^
 ||toaduroo.xyz^
 ||toaglaun.xyz^
+||toaglegi.com^
 ||toaioi.lol^
 ||toaioi.xyz^
 ||toajephu.com^
@@ -27873,6 +27896,7 @@
 ||unaccustomedchessoldest.com^
 ||unaces.com^
 ||unafeed.com^
+||unairedcushite.com^
 ||unanac.com^
 ||unanimouslyrejectproperly.com^
 ||unaptsullens.com^
@@ -29441,6 +29465,7 @@
 ||wfthumty.pm^
 ||wfuwlkgm.com^
 ||wg-aff.com^
+||wgbwlgzthobp.com^
 ||wgchrrammzv.com^
 ||wgkggub.com^
 ||wgplayer.com^
@@ -29679,6 +29704,7 @@
 ||wilslide.com^
 ||wilsomearghan.com^
 ||wiltedfuture.pro^
+||wimatnngqaeqgwj.com^
 ||wimmon.com^
 ||wimpeelt.com^
 ||wimplesbooklet.com^
@@ -30539,6 +30565,7 @@
 ||yinthesprin.xyz^
 ||yiqetu.uno^
 ||yirtaycyytr.xyz^
+||yistkechauk.org^
 ||yiteattends.tech^
 ||yixios.com^
 ||yizawe.xyz^
@@ -31219,6 +31246,7 @@
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||js.mangakl.su^
+||js.mangalove.top^
 ||js.phoenixmanga.com^
 ||karma.mdpcdn.com^
 ||link.link.ru^
@@ -31227,7 +31255,6 @@
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
 ||mmwebhandler.888.com^
-||ow.pubmatic.com^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
@@ -31248,7 +31275,6 @@
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||rubylife.go2cloud.org^
-||s.0cf.io^
 ||sbhc.portalhc.com^
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||services.zam.com^
@@ -31284,7 +31310,6 @@
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldmanager.edgesuite.net^
 ||zv.7vid.net^
-||primeroll.go2affise.com^
 ||ad.intl.xiaomi.com^
 ||ad.samsungadhub.com^
 ||ad.xiaomi.com^
@@ -31846,6 +31871,7 @@
 ||d3j9574la231rm.cloudfront.net^
 ||d3jdulus8lb392.cloudfront.net^
 ||d3jdzopz39efs7.cloudfront.net^
+||d3jzhqnvnvdy34.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kd7yqlh5wy6d.cloudfront.net^
 ||d3klfyy4pvmpzb.cloudfront.net^
@@ -32127,7 +32153,6 @@
 ||asg.bhabhiporn.pro^
 ||asg.irontube.net^
 ||asg.prettytube.net^
-||b.isbnrs.com^
 ||babes-mansion.s3.amazonaws.com^
 ||banner.themediaplanets.com^
 ||banners.adultfriendfinder.com^
@@ -36976,6 +37001,7 @@ adultsjuniorfling.com
 adultvideosapi.com
 adultxxxvideos.pro
 aduncan.art
+adupwewdsk.com
 aduthapa.online
 adv-links.com
 adv.money
@@ -37768,6 +37794,7 @@ ahtalcruzv.com
 ahtomjpzymf.com
 ahtrirokk.com
 ahu96.com
+ahuacasheely.top
 ahura-maz.com
 ahurasalamat.com
 ahurewacordax.website
@@ -42081,6 +42108,7 @@ awhokspcyr.com
 awi-it.it
 awistats.com
 awiuacepgnh.xyz
+awjelrnkugdsb.xyz
 awjffhksnoqptb.com
 awkn.ca
 awkwardtelegram.com
@@ -46481,6 +46509,7 @@ brewfortytwo.com
 brewhnkkwyc.com
 brewing.in
 brewingarchiveselements.com
+brewingjoie.com
 brewsandwines.ch
 brewstory.io
 brexitdate.co.uk
@@ -61679,6 +61708,7 @@ exoprsdds.com
 exopthassar.com
 exora.services
 exorateairing.guru
+exosiignvye.xyz
 exovueplatform.com
 exp6m7soyor.com
 expandremittance.com
@@ -64488,6 +64518,7 @@ forthcomingdetainmumble.com
 forthcomingpropelwho.com
 forthdigestive.com
 forthebrickofit.com
+forthemoonh.com
 forthrisky.com
 forthwithdreadfullyimpatience.com
 forticlien.com
@@ -67358,6 +67389,7 @@ glowoapeky.com
 gloxeept.com
 glpctwalwq.com
 glpeaoauwevlns.com
+glquynodiflhw.com
 glrgislandholdings.com
 glrgrandiholdings.com
 glrgrandisholdings.com
@@ -68942,6 +68974,7 @@ gtuyfluelmhs.com
 gtvtbzoo.com
 gtvxikpnmvlnk.xyz
 gtwugtai.com
+gtxlouky.xyz
 gtxqjbptkxp.com
 gtxyaiihuwkdbk.com
 gu.bennetcod.com
@@ -70012,6 +70045,7 @@ hcbisjczybanhc.com
 hcbqavvkbdyl.top
 hccdoqxviilbhcp.com
 hcckkyoo.com
+hccpmddylm.com
 hcdikshgqiikyv.com
 hcdmhyq.com
 hcdsdcnmhvg.com
@@ -70027,6 +70061,7 @@ hcjecmeirgufiik.com
 hckeyweb.live
 hclcxxjwtm.xyz
 hclvhvlernn.com
+hclxivkfegwumon.xyz
 hcmzj.com
 hconsukulti.co
 hcqjsdcxo.com
@@ -71193,6 +71228,7 @@ hligh.com
 hlineneomietky.top
 hlisijdgj.com
 hlj.one
+hljmdaz.com
 hljsaxsnfykj.com
 hljsbaxw.com
 hlkmjuccnvptabb.com
@@ -75768,6 +75804,7 @@ iyt.org.cn
 iytrrgaf.com
 iyuzhaiwuwang.com
 iyvxqckadbplaa.com
+iywttijabeyb.com
 iyxnfhmyfcpyw.com
 iyzicopayments.com
 iz.alnuinkwintra.com
@@ -87011,6 +87048,7 @@ moonads.net
 moonbasedesign.ca
 mooncopyprotrade.com
 moongrahamkitties.com
+moonheappyr.com
 moonich.news
 moonicorn.network
 mooningfiesta.com
@@ -87562,6 +87600,7 @@ mteovvohasn.com
 mtfbreasts.com
 mtgvn.net
 mtgzlnugxej.com
+mthvjim.com
 mtindex.com
 mtionewly.com
 mtjlymntqtqw.com
@@ -91418,6 +91457,7 @@ oaraunal.com
 oarcompartmentexaggerate.com
 oardilin.com
 oaredtroth.com
+oargaung.com
 oarsmenmytilid.uno
 oarsmorsel.com
 oarsouss.net
@@ -96258,6 +96298,7 @@ pickaroon.pub
 pickarts.co
 pickedlawhandshake.com
 pickednchosen.com
+pickeedephase.top
 pickensruralhealth.org
 pickeringcollege.biz
 pickeringphysio.com
@@ -103740,6 +103781,7 @@ rkvarenatechnology.world
 rkvarenatoken.world
 rkvqrfemuksrqse.com
 rkvtech.world
+rkwithcatuk.org
 rkwusxdhggmvw.com
 rkykhuadppmi.com
 rkzokhgtt.com
@@ -112638,6 +112680,7 @@ svfcndybmpsgop.xyz
 svgbdctjff.com
 svgjs.com
 svgvector.com
+sviakavgwjg.xyz
 svijet-krstarenja.me
 svijetkrstarenja.me
 svist.site
@@ -119610,6 +119653,7 @@ unaces.com
 unadillon.top
 unafeed.com
 unairazoads.com
+unairedcushite.com
 unallowferae.com
 unampharostor.com
 unanac.com
@@ -121058,6 +121102,7 @@ valentiscancersolutions.com
 valerainingexplain.com
 valeronevijao.com
 valetedmasaris.website
+valetfusure.top
 valetisolate.com
 valeuceplangka.com
 valgoidaguglia.guru
@@ -121835,6 +121880,7 @@ vgoedu.net
 vgoexclusive.com
 vgqvthulcwps.com
 vgsjapnjykapgq.com
+vgttafbcxu.com
 vgufdountma.com
 vgw35hwr4w6x.com
 vgwtjbeqfpesefn.xyz
@@ -123485,6 +123531,7 @@ wagoapse.com
 wahahespecked.guru
 wahehegryde.com
 wahile.com
+wahlpmfjmumn.com
 wahoha.com
 wahsxmgbqczzid.com
 wahyurizqi.net
@@ -130860,6 +130907,7 @@ www.effectuallyaudition.com
 www.effectuallydeliriumparalysis.com
 www.effectuallyimitation.com
 www.effectuallyrefrigerator.com
+www.efforlessefforlessunited.com
 www.eflow-onlineacc-payment.com
 www.eggprestigious.com
 www.eggsreunitedpainful.com
@@ -142649,6 +142697,7 @@ xyopx.com
 xypcqugmcmjxbee.com
 xyqhdffkz.com
 xyrkotsqhaf.com
+xyrkvqvuxhrtrbw.com
 xysbvytoqel.com
 xytuibkx.com
 xyvjkdec.com
@@ -143204,6 +143253,7 @@ yirtaycyytr.xyz
 yiseiyrdnufqdi.com
 yishou.pro
 yisptirumsw.com
+yistkechauk.org
 yitaitqwrcky.com
 yiteattends.tech
 yiueemei.com
@@ -143413,6 +143463,7 @@ yogkunj.in
 yogsarovar.org
 yogsnrlvwm.xyz
 yogya-srilanka.com
+yohdsdpavgobqa.com
 yohny.tech
 yohoho.online
 yohporn.com
@@ -148637,19 +148688,6 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
-||nmrjnqiwocfyi.com^
-||oargaung.com^
-||ebnarnf.com^
-||forthemoonh.com^
-||rkwithcatuk.org^
-||hljmdaz.com^
-||wgbwlgzthobp.com^
-||pnyjzdtirvufft.com^
-||hbozuumx.com^
-||ntcqmdif.com^
-||wimatnngqaeqgwj.com^
-||sviakavgwjg.xyz^
-||toaglegi.com^
 ||dotercouther.uno^
 ||overlapparians.com^
 ||artertapirus.com^

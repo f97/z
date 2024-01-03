@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-03T12:14:17.230Z
+! Last modified: 2024-01-03T18:10:31.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -17714,6 +17714,7 @@ data.mistat.rus.xiaomi.com
 ||dimcarnie.com^
 ||dimedoncywydd.com^
 ||dimeftluck.live^
+||metrics-api.dimensions.ai^
 ||dimessing-parker.com^
 ||dimml.io^
 ||dingdangcake.cn^
@@ -19521,7 +19522,6 @@ data.mistat.rus.xiaomi.com
 ||smetrics.etcanada.com^
 ||etcodes.com^
 ||analytics.etexgroup.com^
-||metric.mta.etframework.com^
 ||etheappyrincea.info^
 ||ethecountryw.org^
 ||matomo.ethereum.org^
@@ -19575,7 +19575,6 @@ data.mistat.rus.xiaomi.com
 ||sfr.eulerian.net^
 ||euleriancdn.net^
 ||av.eulerupslant.com^
-||col.eum-appdynamics.com^
 ||eumenesgigsman.com^
 ||eunzkvf.com^
 ||euosicjxjv.com^
@@ -19705,7 +19704,6 @@ data.mistat.rus.xiaomi.com
 ||marketing.ewi.org^
 ||analytics.ewie.com^
 ||ewikajs.com^
-||ewioud.com^
 ||analytics.ewizsaas.com^
 ||ewqkrfjkqz.com^
 ||ewzavfde.xyz^
@@ -19727,7 +19725,6 @@ data.mistat.rus.xiaomi.com
 ||examinerplodbuild.com^
 ||exampleshake.com^
 ||exapxl.de^
-||analytics.exaricontracts.com^
 ||exasked.com^
 ||excelelernody.info^
 ||excellentafternoon.com^
@@ -19791,7 +19788,6 @@ data.mistat.rus.xiaomi.com
 ||oms.expedia.com^
 ||collector.prod.expedia.com^
 ||analytics.expediagroup.com^
-||metric.com.expediagroup.com^
 ||analytics.expediapartnersolutions.com^
 ||ntrfr.expekt.se^
 ||expendhattwo.com^
@@ -20051,7 +20047,6 @@ data.mistat.rus.xiaomi.com
 ||fancyapi.com^
 ||fancycrab.net^
 ||os.fandango.com^
-||metric.fanduel.com^
 ||partners.fanduel.com^
 ||fanfanhuiben.com^
 ||fangcunzhijian1.cn^
@@ -20062,7 +20057,6 @@ data.mistat.rus.xiaomi.com
 ||fantasticaubergine.com^
 ||fantasticdatings.life^
 ||fantasticgap.pro^
-||metric.fantime.com^
 ||fantuan.name^
 ||fanydourer.com^
 ||fanza.cc^
@@ -20195,7 +20189,6 @@ data.mistat.rus.xiaomi.com
 ||smetrics.fcbarcelona.es^
 ||fcbqxt.xyz^
 ||fccinteractive.com^
-||metric.fcinet.org^
 ||fcpfth.xyz^
 ||fcprst.xyz^
 ||fcs.ovh^
@@ -20442,7 +20435,6 @@ data.mistat.rus.xiaomi.com
 ||engine.findaphd.com^
 ||findcommerce.com^
 ||findhere.org^
-||findjanupcreep.tech^
 ||findromanticdates.com^
 ||findwhat.com^
 ||findyourhalf.live^
@@ -20478,7 +20470,6 @@ data.mistat.rus.xiaomi.com
 ||fipkcakk.com^
 ||fiprst.xyz^
 ||fireads.org^
-||metric.email-out.fireeyecloud.com^
 ||fireflyengagement.com^
 ||analytics.firespring.com^
 ||smetrics.firestonebpco.com^
@@ -20503,9 +20494,7 @@ data.mistat.rus.xiaomi.com
 ||site.firstnet.com^
 ||firstpromoter.com^
 ||firsttexture.com^
-||metric.fiscardproconnect.com^
 ||metrics.fischelenlinea.com^
-||metric.fisglobal.org^
 ||fishedtopple.com^
 ||fisher56.com^
 ||elq.fisherinvestments.com^
@@ -20515,19 +20504,13 @@ data.mistat.rus.xiaomi.com
 ||sstats.fishersci.com^
 ||sstats.fishersci.de^
 ||sstats.fishersci.ie^
-||metric.fishosted.com^
 ||fishyoverallsupplement.com^
-||metric.fisinc.com^
-||metric.fisinfomanager.com^
 ||analytics.fiskars.com^
-||metric.fisprepaid.com^
 ||fistdoggie.com^
 ||fistofzeus.com^
 ||fistsurprising.com^
 ||collector.fitanalytics.com^
 ||collector-de.fitanalytics.com^
-||integrations.fitanalytics.com^
-||integrations-staging1.fitanalytics.com^
 ||metrics.fitanalytics.com^
 ||metrics-nl.fitanalytics.com^
 ||iedc.fitbit.com^
@@ -20603,7 +20586,6 @@ data.mistat.rus.xiaomi.com
 ||flecur.com^
 ||fleddatabaseclothing.com^
 ||fleddaughter.com^
-||metric.fleetsmith.com^
 ||fleeunleashangel.com^
 ||flelgwe.site^
 ||flerap.com^
@@ -20612,6 +20594,7 @@ data.mistat.rus.xiaomi.com
 ||support.flex.com^
 ||flexbanner.com^
 ||elqtracking.flexera.com^
+||track.flexispot.com^
 ||flexlinks.com^
 ||analytics.flexport.com^
 ||analytics.flightclubdartsusa.com^
@@ -20754,7 +20737,6 @@ data.mistat.rus.xiaomi.com
 ||fncash.com^
 ||fndrsp.net^
 ||countly.fnf.com^
-||metric.fnis.com^
 ||fnitw.xyz^
 ||fnrrm2fn1njl1.com^
 ||foakiwhazoja.com^
@@ -20925,7 +20907,6 @@ data.mistat.rus.xiaomi.com
 ||geolocation.forbes.com^
 ||forbidcrenels.com^
 ||forcealetell.com^
-||metric.forceusercontent.com^
 ||analytics.geoanalytics.ford.com^
 ||smetrics.ford.com^
 ||t.fordidahocenter.com^
@@ -21225,7 +21206,6 @@ data.mistat.rus.xiaomi.com
 ||zelten.fritz-berger.de^
 ||friv5online.com^
 ||frockswatpelt.com^
-||frocogue.store^
 ||frodx.com^
 ||frog9alea.com^
 ||frogmenislets.uno^
@@ -21361,8 +21341,6 @@ data.mistat.rus.xiaomi.com
 ||fuseamazementavow.com^
 ||fusedeck.net^
 ||fuseplatform.net^
-||metric.fuser.com^
-||metric.fuserwebservices.com^
 ||fusilpiglike.com^
 ||metrics.fusionauth.io^
 ||fusionquest.com^
@@ -21537,7 +21515,6 @@ data.mistat.rus.xiaomi.com
 ||ads-delivery.gameforge.com^
 ||ads-media.gameforge.com^
 ||pixelzirkus.gameforge.com^
-||metric.gamefuel.info^
 ||analytics.gameguru.mobi^
 ||gamehouse.com^
 ||gamelights.ru^
@@ -27793,7 +27770,6 @@ data.mistat.rus.xiaomi.com
 ||apple.www.letv.com^
 ||leucan3thegm6um.com^
 ||levelbraid.com^
-||lever-analytics.com^
 ||leveragebestow.com^
 ||levexis.com^
 ||levitratrig.com^
@@ -29069,6 +29045,7 @@ data.mistat.rus.xiaomi.com
 ||info.marshpcs.com^
 ||marti-cqh.com^
 ||suncanny.marvel.com^
+||marvellousmachine.net^
 ||marvellousperforming.com^
 ||marx7loki.com^
 ||marxismsuddy.com^
@@ -35615,6 +35592,7 @@ data.mistat.rus.xiaomi.com
 ||pushmaster.xyz^
 ||pushmaster-cdn.xyz^
 ||pushmaster-in.xyz^
+||tracker.pushmeback.com^
 ||pushmeup.art^
 ||pushnami.com^
 ||pushnative.com^
@@ -44146,6 +44124,9 @@ data.mistat.rus.xiaomi.com
 ||support-widget.userlocal.jp^
 ||usermap.net^
 ||usermaven.com^
+||analytex.userpilot.io^
+||analytex-eu.userpilot.io^
+||analytex-us.userpilot.io^
 ||userreplay.com^
 ||userreplay.net^
 ||cdn.userreport.com^
@@ -47662,6 +47643,25 @@ data.mistat.rus.xiaomi.com
 ||log-tienphong.zadn.vn^
 ||mda.zadn.vn^
 ||sdk.zadn.vn^
+||zpsocial-f35-org.zadn.vn^
+||zpsocial-f40-org.zadn.vn^
+||zpsocial-f41-org.zadn.vn^
+||zpsocial-f42-org.zadn.vn^
+||zpsocial-f43-org.zadn.vn^
+||zpsocial-f44-org.zadn.vn^
+||zpsocial-f45-org.zadn.vn^
+||zpsocial-f46-org.zadn.vn^
+||zpsocial-f47-org.zadn.vn^
+||zpsocial-f48-org.zadn.vn^
+||zpsocial-f49-org.zadn.vn^
+||zpsocial-f50-org.zadn.vn^
+||zpsocial-f51-org.zadn.vn^
+||zpsocial-f52-org.zadn.vn^
+||zpsocial-f53-org.zadn.vn^
+||zpsocial-f54-org.zadn.vn^
+||zpsocial-f55-org.zadn.vn^
+||zpsocial-f56-org.zadn.vn^
+||zpsocial-f57-org.zadn.vn^
 ||zaffarnimbed.com^
 ||analytics.zagg.com^
 ||metrics.zagg.com^
@@ -75143,6 +75143,7 @@ boxa.shop
 boxberry-sdelka.ru
 boxdiy.store
 boxem.ru
+boxguangan.com
 boximail.com
 boxingacademyla.com
 boxingoctopus.me
@@ -108773,6 +108774,7 @@ thedistilleryonline.com
 thedistrictbook.com
 thedoubletop.site
 thedragonsmokeshop.com
+theduck.vip
 thedunneclan.info
 theeasymail.com
 theedoewcenter.com
