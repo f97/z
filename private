@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-05T06:11:09.367Z
+! Last modified: 2024-01-05T12:14:44.189Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -30839,7 +30839,6 @@ data.mistat.rus.xiaomi.com
 ||api.collect.data.intl.miui.com^
 ||api.newsfeed.intl.miui.com^
 ||adv.sec.intl.miui.com^
-||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||data.sec.intl.miui.com^
 ||protect.dev.sec.intl.miui.com^
@@ -78408,6 +78407,7 @@ bootcampimmo.com
 bootstringer.com
 bootsvalue.com
 bootysculpting.com
+boozeclub.click
 bopmail.store
 bopra.xyz
 bora75.softhandscream.com
