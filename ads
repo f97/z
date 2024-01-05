@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-05T12:14:36.837Z
+! Last modified: 2024-01-05T18:10:03.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4960,7 +4960,6 @@
 ||d25vwvprbxda9z.cloudfront.net^
 ||d262g11wze3cwd.cloudfront.net^
 ||d26us1doo6mh7f.cloudfront.net^
-||d27tzcmp091qxd.cloudfront.net^
 ||d27uz827y1nafd.cloudfront.net^
 ||d27x580xb9ao1l.cloudfront.net^
 ||d28g1fhp6rn9w3.cloudfront.net^
@@ -18086,6 +18085,7 @@
 ||afgr9.com^
 ||afgtrwd1.com^
 ||afgwciwbjxcsfro.com^
+||afgwsgl.com^
 ||afgzipohma.com^
 ||afm01.com^
 ||afodreet.net^
@@ -20592,6 +20592,7 @@
 ||blakelousepreoccupation.com^
 ||blamads.com^
 ||blamedbuckie.fun^
+||blamersservian.digital^
 ||blancheavily.uno^
 ||bland-husband.com^
 ||blanddish.pro^
@@ -21333,6 +21334,7 @@
 ||bvoqzs.com^
 ||bvtfutroyr.com^
 ||bvudraqxpl.com^
+||bvyblnenz.com^
 ||bwbmyzvjnqlna.top^
 ||bwbmyzvjnqlwv.top^
 ||bwmvzwkbqlmrz.top^
@@ -21833,6 +21835,7 @@
 ||cendantofth.org^
 ||ceneicons.com^
 ||ceneverdreams.com^
+||ceneverdreams.org^
 ||cennter.com^
 ||cenous.com^
 ||censelysoviell.xyz^
@@ -23570,6 +23573,7 @@
 ||dayznews.biz^
 ||daz3rw5a5k4h.com^
 ||dazhantai.com^
+||db20da1532.com^
 ||db5f3a82ab.com^
 ||db72c26349.com^
 ||dbbsrv.com^
@@ -24742,6 +24746,7 @@
 ||dummieseardrum.com^
 ||dumplingclubhousecompliments.com^
 ||dumplingdirewomen.com^
+||dunceryquant.com^
 ||duncip.com^
 ||dunct.com^
 ||dunderaffiliates.com^
@@ -25641,6 +25646,7 @@
 ||erinoccluse.website^
 ||erizoricher.life^
 ||erkeincepts.website^
+||erlvjjyk.com^
 ||erm5aranwt7hucs.com^
 ||ernesseitenean.com^
 ||erniphiq.com^
@@ -27234,6 +27240,7 @@
 ||fuzeelamby.com^
 ||fuzinghummaul.com^
 ||fuzzywardshoplifting.com^
+||fvcdduqg.com^
 ||fvcwqkkqmuv.com^
 ||fvgxfupisy.com^
 ||fvzhenljkw.com^
@@ -29580,6 +29587,7 @@
 ||iiydmrr.com^
 ||ijatsapphiresanda.com^
 ||ijbgqlf.com^
+||ijebtcgu.com^
 ||ijeetsie.com^
 ||ijhpdtiij.com^
 ||ijmrburud.com^
@@ -30706,6 +30714,7 @@
 ||jocauzee.net^
 ||jocelynrace.com^
 ||jodhpurrarish.digital^
+||jodroacm.com^
 ||joereisp.xyz^
 ||jogdied.com^
 ||johamp.com^
@@ -31427,6 +31436,7 @@
 ||kremarkedone.com^
 ||kreud.com^
 ||krful.com^
+||krgukepers.org^
 ||krilor.com^
 ||krisydark.com^
 ||krjxhvyyzp.com^
@@ -32163,6 +32173,7 @@
 ||lmnrorgeummvsqe.com^
 ||lmp3.org^
 ||lmqowtvu.com^
+||lmvrjajerrbwv.top^
 ||lnabew.com^
 ||lnbswijsipf.com^
 ||lncfuqbgpnmxm.xyz^
@@ -32379,6 +32390,7 @@
 ||lpnjcnigcfuk.com^
 ||lpravybegqv.com^
 ||lptrak.com^
+||lpzhlqrrcvpnzj.com^
 ||lqammdjflcecau.com^
 ||lqcdn.com^
 ||lqdfscnbki.com^
@@ -33475,6 +33487,7 @@
 ||mnetads.com^
 ||mng-ads.com^
 ||mnhjk.com^
+||mnhjkl.com^
 ||mniumlapsers.com^
 ||mnnuhtvnubdg.xyz^
 ||mnodtbmmomqo.com^
@@ -35079,6 +35092,7 @@
 ||oddsserve.com^
 ||odeerofhisk.xyz^
 ||odipjwipwwyus.xyz^
+||odkfzmwfkjgzag.com^
 ||odlyccugg.com^
 ||odnaknopka.ru^
 ||odnaturedfe.org^
@@ -38892,6 +38906,7 @@
 ||refrigeratemaimbrunette.com^
 ||refrigeratespinsterreins.com^
 ||refugedcuber.com^
+||refulgecomsat.com^
 ||refundsreisner.life^
 ||refusedfellow.com^
 ||refuserates.com^
@@ -43208,6 +43223,7 @@
 ||tonesprotectioncard.com^
 ||tonganserried.life^
 ||tongsgodforsaken.com^
+||tonicdivedfounded.com^
 ||tonicelement.digital^
 ||tonicneighbouring.com^
 ||toninjaska.com^
@@ -43895,6 +43911,7 @@
 ||tzaristdiploma.com^
 ||tzegilo.com^
 ||tzgygfy.com^
+||tzrlfzwyicvj.com^
 ||tzugumojfm.com^
 ||tzuhumrwypw.com^
 ||tzvojcc.com^
@@ -43970,6 +43987,7 @@
 ||ufpcdn.com^
 ||ufptkylyfa.com^
 ||ufsbauge.com^
+||ufzqrmflbnlze.com^
 ||ugahutoa.com^
 ||ugalia.com^
 ||ugawnotrjj.xyz^
@@ -44034,6 +44052,7 @@
 ||ukenthascaptureu.info^
 ||ukentsiwoulukdlik.info^
 ||ukfareputfea.xyz^
+||ukidiayddbshfl.com^
 ||ukiyoyechromy.com^
 ||uklgakwqy.com^
 ||ukmlastityty.info^
@@ -44092,6 +44111,7 @@
 ||ummihaqhu.xyz^
 ||umnstoodthe.com^
 ||umoughtcallm.com^
+||umplohzn.com^
 ||umpteenimpave.guru^
 ||umqpchxoq.xyz^
 ||umqqfyqkjlxrh.xyz^
@@ -47058,6 +47078,7 @@
 ||zdajdudqfq.com^
 ||zdhq.xyz^
 ||zdjljvsi.com^
+||zdljbrwosbymft.com^
 ||zdxblxwjoees.com^
 ||zeads.com^
 ||zealeddrizzly.com^
@@ -47378,12 +47399,14 @@
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1193176784.rsc.cdn77.org^
 ||1203782659.rsc.cdn77.org^
 ||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1805629149.rsc.cdn77.org^
 ||1885212191.rsc.cdn77.org^
 ||a-delivery.rmbl.ws^
 ||a.ucoz.net^
@@ -47581,6 +47604,7 @@
 ||d18b5y9gp0lr93.cloudfront.net^
 ||d18e74vjvmvza1.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
+||d18hqfm1ev805k.cloudfront.net^
 ||d18kg2zy9x3t96.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
 ||d18myvrsrzjrd7.cloudfront.net^
@@ -47811,6 +47835,7 @@
 ||d27gtglsu4f4y2.cloudfront.net^
 ||d27pxpvfn42pgj.cloudfront.net^
 ||d27qffx6rqb3qm.cloudfront.net^
+||d27tzcmp091qxd.cloudfront.net^
 ||d27x9po2cfinm5.cloudfront.net^
 ||d28exbmwuav7xa.cloudfront.net^
 ||d28quk6sxoh2w5.cloudfront.net^
@@ -48058,6 +48083,7 @@
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
+||d3e54v103j8qbb.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
@@ -48745,6 +48771,7 @@
 000779.com86658.comwww.844644.com
 000912.xyz
 001dizhi.com
+004849.org
 005598.comwww.601122.com
 007cal.com
 007calendar.com
@@ -77045,6 +77072,7 @@ erkeincepts.website
 erkiss.life
 erkqpjtjewksky.com
 erlgzcrw.com
+erlvjjyk.com
 erm5aranwt7hucs.com
 ermitteedi.biz
 ermoriginals.com
@@ -78487,6 +78515,7 @@ fairytaleleapt.com
 fairytaleundergoneopenly.com
 faised.com
 faithaiy.com
+faithauglim.com
 faithcollarhook.com
 faithetommy.top
 faithfulfacultativeladder.com
@@ -88609,6 +88638,7 @@ hubristambacs.com
 hubrpdegylgc.xyz
 hubsaints.com
 hubturn.info
+hubwebserversebusiness.pro
 hubzozo.com
 huchilorard.com
 huchohucho.com
@@ -102056,6 +102086,7 @@ mgcash.com
 mgcashgate.com
 mgdbtjwc.com
 mgdgeycqgv.xyz
+mgeikwtud.com
 mggckhjvtgc.top
 mggslmeqtyfxb.com
 mghkpg.com
@@ -102335,6 +102366,7 @@ milfur.com
 milfwebcam.site
 milfxv.pro
 milicakazic.com
+milicedonkeys.space
 milihshop.com
 milinstrument.com
 miliolaungated.space
@@ -105608,6 +105640,7 @@ nen39.com
 nenectedithcon.info
 nenkydolls.com
 nenorth.com
+nenyaya.com
 neo-capital.net
 neo-collectivism.com
 neoaginglabs.com
@@ -108166,6 +108199,7 @@ odipjwipwwyus.xyz
 odishafm.in
 odiumdrawlip.com
 odjrepabdwowyn.com
+odkfzmwfkjgzag.com
 odkup-avtomobila.com
 odlozeno.com
 odlyccugg.com
@@ -120290,6 +120324,7 @@ rnqmecketdkunfs.xyz
 rnrftz.com
 rnsawpxdjtcxn.com
 rnstransportes.com
+rntmumftfft.com
 rnv.life
 rnvbswhnonwhls.com
 rnvlkhahv.com
@@ -127695,6 +127730,7 @@ steelstinter.digital
 steeltour.pro
 steep-opening.com
 steep-secretary.pro
+steepoahu.com
 steepto.com
 steeringcrushed.com
 steeringsuctionpreparation.com
@@ -129338,6 +129374,7 @@ swuakhtaqo.com
 swumeyeless.website
 swunge.com
 swungencetacea.website
+swvpvsrrfd.xyz
 swwebblaw.com
 swww.movcpm.com
 sx.aeolicholsom.com
@@ -135271,6 +135308,7 @@ twizzlers.us
 twkcbfwam.com
 twkjlaasdx.top
 twkopcqocmcjyr.xyz
+twkpbhnot.xyz
 twlmzwaec.com
 twlwdsebu.xyz
 twmkmoubpbtgj.com
@@ -135702,6 +135740,7 @@ uftnsammvjr.com
 ufucwcqdhpfl.com
 ufuretjl.com
 ufwrhieshsdjjx.com
+ufzqrmflbnlze.com
 ufzuvrdp.com
 ug-market.net
 ugahutoa.com
@@ -135884,6 +135923,7 @@ ukfareputfea.xyz
 ukfsgudu.com
 ukgtxnttabyqpj.xyz
 ukhagvcyjax.com
+ukidiayddbshfl.com
 ukidqfuc.com
 ukiemoda.com
 ukimcruiepqqfoo.com
@@ -137923,6 +137963,7 @@ vedved.com
 vee.cafe
 veecheew.xyz
 veechirrup.com
+veechost.com
 veefresh.in
 veegamovies.online
 veehike.com
@@ -145008,6 +145049,7 @@ www.bostonsportswear.com
 www.bottlecigarshop.store
 www.bottledinfectionearthquake.com
 www.bottleschance.com
+www.bottleselement.com
 www.bottomsupqld.com
 www.botyouridea.com
 www.boughtjovialamnesty.com
@@ -145454,6 +145496,7 @@ www.cauverysteel.com
 www.cavalryconvincing.com
 www.cavalrydoomeddoorbell.com
 www.cavalryoppression.com
+www.cavalryspruce.com
 www.cavebummer.com
 www.cavecredentialdeer.com
 www.caveestate.com
@@ -145763,6 +145806,7 @@ www.clingingboundary.com
 www.clinicalwaste.xyz
 www.clinicresponse.com
 www.clipperroutesevere.com
+www.cloakroomaileeninquiry.com
 www.cloakroomreveal.com
 www.clockcancer.com
 www.clocklink.com
@@ -145813,6 +145857,7 @@ www.coaxwrote.com
 www.cobblermysterious.com
 www.cobrakhabar.com
 www.cobweblockerdiana.com
+www.cobwebzincdelicacy.com
 www.cochranedodgechryslerjeep.com
 www.cockophile.com
 www.cockyarmour.com
@@ -146232,6 +146277,7 @@ www.courageousalmondtrice.com
 www.coursepack.ca
 www.courtcowardly.com
 www.courthousedefective.com
+www.courthouseexactlymonarch.com
 www.courtroomboyfriend.com
 www.courtroomestablishedtrauma.com
 www.cousinglandsgreed.com
@@ -146740,6 +146786,7 @@ www.desimurga.org
 www.desirelibel.com
 www.deskoctavian.com
 www.desktopsearchapp.com
+www.despaircoolergait.com
 www.desperatelydoswarmly.com
 www.desperatelysparklerplead.com
 www.desperationembassy.com
@@ -147145,6 +147192,7 @@ www.dramaticagreementsalt.com
 www.dramechecker.tech
 www.drankpool.com
 www.drasticreaphero.com
+www.draughtinfertileclamp.com
 www.drawerfontactual.com
 www.drawernewlyconcealed.com
 www.drawingwaved.com
@@ -149149,6 +149197,7 @@ www.hardlycompanionelongated.com
 www.hardnessropes.com
 www.hardwareunrealbiscuit.com
 www.hardynarrow.com
+www.hardytaxi.com
 www.hariblockairline.com
 www.harikwarey.com
 www.harlanbullock.com
@@ -149350,6 +149399,7 @@ www.hissedassessmentmistake.com
 www.hissmergerflounder.com
 www.hissoverout.com
 www.hissshortsadvisedly.com
+www.hisstrappedperpetual.com
 www.historicalcarawayammonia.com
 www.historicalcargo.com
 www.historicaldiagnose.com
@@ -149632,6 +149682,7 @@ www.igcedgjbfifgibjfafc.ru
 www.igetis-global.com
 www.ighelpsite.com
 www.iglesiacristoelrey.com
+www.ignateignatetame.com
 www.ignobleinnovationcollateral.com
 www.ignorantrigidpreferred.com
 www.ignoringpromisingonce.com
@@ -149649,6 +149700,7 @@ www.ikingsoft.com
 www.ikouthaupi.com
 www.illegaleaglewhistling.com
 www.illegalhousework.com
+www.illegallycompresslegend.com
 www.illegallyshoulder.com
 www.illegalprotected.com
 www.illegaltorrentbig.com
@@ -149678,6 +149730,7 @@ www.imitationluxe.fr
 www.immaculategirdlewade.com
 www.immanuel.blog
 www.immaturepointingglamorous.com
+www.immediatelycobwebabominable.com
 www.immenseatrociousrested.com
 www.immenselyloot.com
 www.immenselytoken.com
@@ -149834,6 +149887,7 @@ www.inex.exchange
 www.inexorablehopper.com
 www.inexpedienttributereschedule.com
 www.inexperiencedmingle.com
+www.inexperiencedworm.com
 www.inextricableaugmentcompelling.com
 www.infantrycutting.com
 www.infantrywarden.com
@@ -150533,6 +150587,7 @@ www.kitcreator.app
 www.kithoasou.com
 www.kitlaksar.com
 www.kitsconsulting.net
+www.kittendrudgery.com
 www.kittle.app
 www.kittlenwetos.com
 www.kjhasd66.monster
@@ -150880,6 +150935,7 @@ www.lifestyleheartrobust.com
 www.lighter.services
 www.lighthousemissingdisavow.com
 www.lightlybreathlesspronunciation.com
+www.likeadmonishscold.com
 www.likecomplicatedassumptive.com
 www.likedpatpresent.com
 www.likedstring.com
@@ -151697,6 +151753,7 @@ www.moscatengineering.net
 www.moshimoshi-nippon-la.com
 www.mosquesituated.com
 www.mosswhinepanther.com
+www.mostcolonizetoilet.com
 www.mostdeport.com
 www.mosthotappever.top
 www.mostlytreasure.com
@@ -152653,6 +152710,7 @@ www.partybikesharmless.com
 www.partyingdisastrouskitty.com
 www.partyingwheelscritic.com
 www.partyparty.world
+www.parzoom.com
 www.pashtoinjil.com
 www.pashtoinjil.org
 www.passablecoalitionvarious.com
@@ -153156,6 +153214,7 @@ www.portcigarettesstudent.com
 www.portedmasondarn.com
 www.portedwary.com
 www.portentatmosphericjitter.com
+www.portentjonasfewer.com
 www.portionscarrying.com
 www.portlycolleaguecoexist.com
 www.portsecure.org
@@ -153177,6 +153236,7 @@ www.possessionregimentunborn.com
 www.possibilityplumbing.com
 www.postagethrew.com
 www.postalusersneatly.com
+www.postalwhatsoever.com
 www.postcanadadelivery.com
 www.posterpleasant.com
 www.postponeacademic.com
@@ -153303,6 +153363,7 @@ www.pretextpaincleanup.com
 www.pretextunfinished.com
 www.prevailinsolence.com
 www.prevalentprincess.com
+www.preventedtracescleanup.com
 www.preventionconsciousflea.com
 www.pricebanistersevolve.com
 www.priceix.com
@@ -154004,6 +154065,7 @@ www.reposemarshknot.com
 www.representativerepellentbob.com
 www.representrollerpurposely.com
 www.reprintforensicjesus.com
+www.reprintvariousecho.com
 www.reproachbalm.com
 www.reproofdiningiris.com
 www.reprovems.com
@@ -154101,6 +154163,7 @@ www.retrievalterminalcourse.com
 www.retrievalvariedbudge.com
 www.retrievebuoyancy.com
 www.retrocushion.com
+www.returnautomaticallyrock.com
 www.returnmidtermextension.com
 www.returnrye.com
 www.revart.trade
@@ -156122,6 +156185,7 @@ www.throatpoll.com
 www.throbscalpelaffirm.com
 www.throughdazzlesponge.com
 www.throwsynchronizesavoury.com
+www.thugsponsor.com
 www.thumpbacon.com
 www.thumpdrownthreat.com
 www.thunderlavishnessbiology.com
@@ -158850,6 +158914,7 @@ xotgpql.com
 xoticxchange.world
 xotkyowbrjcbwp.com
 xovmqrmt.com
+xovwqfynvyu.com
 xowclfvt.com
 xowvmktath.com
 xox388.com
@@ -160863,6 +160928,7 @@ zdhq.xyz
 zdhtfaisgq.com
 zdjkzqwpqvwcmc.com
 zdjljvsi.com
+zdljbrwosbymft.com
 zdqgsoqsmppd.com
 zdrav-zajtrk.com
 zdrava-vyziva-raciolka.com
@@ -165246,6 +165312,8 @@ zumobi.com
 ||recreativ.ru^
 ||n152adserv.com^
 ||smilered.com^
+||hrkplkgjs.com^
+||glowedhyalins.com^
 ||dotercouther.uno^
 ||overlapparians.com^
 ||artertapirus.com^
