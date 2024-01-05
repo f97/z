@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-04T18:10:20.844Z
+! Last modified: 2024-01-05T00:37:45.840Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -16595,6 +16595,7 @@
 ||3sjhdbjfsdf3.monster^
 ||3sk7d418al8u.com^
 ||3wr110.net^
+||3xbrh4rxsvbl.top^
 ||4-interads.com^
 ||4030b44c32.com^
 ||4073284684.com^
@@ -18892,6 +18893,7 @@
 ||aplainmpatoio.com^
 ||apleasantsit.xyz^
 ||aplentytwo.com^
+||apnpr.com^
 ||apnttuttej.com^
 ||apocarpdogdom.com^
 ||apochaeunanime.com^
@@ -19673,6 +19675,7 @@
 ||ayvfzwttm.com^
 ||aywikhsw.xyz^
 ||ayxfqtxrgoc.com^
+||ayxuadkeh.com^
 ||azads.com^
 ||azaipsee.com^
 ||azbaclxror.com^
@@ -28306,6 +28309,7 @@
 ||gtoonfd.com^
 ||gtsads.com^
 ||gtudkfe.com^
+||gtxlouky.xyz^
 ||guabapeewee.com^
 ||guadam.com^
 ||guanaoutfawn.life^
@@ -32788,6 +32792,7 @@
 ||manpowersets.com^
 ||mansernema.com^
 ||mansfieldeffects.com^
+||manslaughterhallucinateenjoyment.com^
 ||mantapareseat.com^
 ||mantedtonisms.com^
 ||manualbleedingand.com^
@@ -35184,6 +35189,7 @@
 ||ohpgamsojj.com^
 ||ohrdsplu.com^
 ||ohsatum.info^
+||ohsruxbixgzu.com^
 ||ohtctjiuow.com^
 ||ohwhdspj.com^
 ||oiarske.com^
@@ -40513,6 +40519,7 @@
 ||shabsaco.net^
 ||shackapple.com^
 ||shackdialectsense.com^
+||shadesentimentssquint.com^
 ||shadesincreasingcontents.com^
 ||shady-addition.com^
 ||shadybenefitpassed.com^
@@ -46397,6 +46404,7 @@
 ||xctignum.uno^
 ||xcvhhgdbyqk.xyz^
 ||xcvsdrqagn.com^
+||xcwxfcav.com^
 ||xdcngimejo.com^
 ||xder1.fun^
 ||xdezxlbnpo.com^
@@ -50153,6 +50161,7 @@
 3wr110.net
 3wr110.xyz
 3x3habjdasd.monster
+3xbrh4rxsvbl.top
 3xstarter.com
 3yfn.com
 3yyyonline.com
@@ -57031,6 +57040,7 @@ ascensionpatterbearable.com
 ascensionrookieweapon.com
 ascentacademy.co.uk
 ascentacademy.uk
+ascentloinconvenience.com
 ascentmatrimonypistol.com
 ascentracing.ca
 ascentracing.com
@@ -58519,6 +58529,7 @@ aywikhsw.xyz
 aywqpvgtsras.xyz
 ayx0808.com
 ayxfqtxrgoc.com
+ayxuadkeh.com
 ayyanargoldbank.com
 ayysuxwhhimdqgf.com
 azads.com
@@ -61164,6 +61175,7 @@ bisquebongs.net
 bissonprevoid.website
 bistak.com
 bisterswapped.uno
+bistigaleod.life
 bistro-riva.com
 bistroburin.com
 biswassolutions.com
@@ -67182,6 +67194,7 @@ cmclean.club
 cmcnoxqqitkg.com
 cmconsulting.ca
 cmcvlogs.com
+cmdbkxto.com
 cmddtqrw.xyz
 cmdgbuddies.guru
 cmeewklcvtpa.xyz
@@ -82029,6 +82042,7 @@ galpkthjpeoe.com
 galsajoo.xyz
 galyra.com
 gam3ah.com
+gamadspro.com
 gamamonteure.com
 gamaon.com
 gamapp.tech
@@ -85298,6 +85312,7 @@ guilapcgjbevtiv.com
 guiletoad.com
 guiltadvisoreternity.com
 guiltjadechances.com
+guilty-bear.com
 guiltypattern.com
 guiminers.com
 guineapilotage.com
@@ -88522,6 +88537,7 @@ htyejulpxc.com
 htyexsaers.com
 htyjoganiqpssk.com
 htyrmacanbty.com
+htzwjxzl.com
 hu.cepaevejar.com
 hu.sokgnamma.com
 hu.wabwuntee.com
@@ -99184,6 +99200,7 @@ lpwndvwnehlsik.com
 lpycbwprvr.com
 lpyoagpjqiwpic.xyz
 lpyogrsimagl.com
+lpzhlqrrcvpnzj.com
 lq.barmssoorma.com
 lq.nullusposolo.com
 lq.picidaeheats.com
@@ -107668,6 +107685,7 @@ o4nofsh6.de
 o4uxrk33.com
 o626b32etkg6.com
 o8y.co
+o911o.com
 o9ltestsites.online
 oa.cmlbromins.com
 oa.tolterfranz.com
@@ -108407,6 +108425,7 @@ ohrdsplu.com
 ohrpacun.com
 ohsatum.info
 ohspmuo.com
+ohsruxbixgzu.com
 ohtctjiuow.com
 ohtoiogss.com
 ohuacuvfc.com
@@ -114321,6 +114340,7 @@ powzers.lol
 poxa.xyz
 poxaharap.com
 poyqmngbxwsvnav.xyz
+poyusww.com
 pozemkovespolocenstvo.online
 pozicka.top
 pozicovna.bike
@@ -141886,6 +141906,7 @@ wnjjhksaue.com
 wnjtssmha.com
 wnkibwzr.com
 wnklcpmvt.com
+wnkvzsbfruq.com
 wnkyvyhfl.com
 wnlib.ca
 wnlxdnaci.com
@@ -143686,6 +143707,7 @@ www.altegelt.com
 www.alterassumeaggravate.com
 www.alterationappealprison.com
 www.alteredyacht.com
+www.alterhimdecorate.com
 www.alternatepausemound.com
 www.altharwattatili.com
 www.altitudefolkastonishment.com
@@ -147016,6 +147038,7 @@ www.drenchmailboxlaughing.com
 www.dressblockedfund.com
 www.dressedfund.com
 www.dresserderange.com
+www.dressingrhythm.com
 www.dressmakerdisturb.com
 www.dressmakerstingydan.com
 www.driftfranchise.com
@@ -148850,6 +148873,7 @@ www.groininsightclaimed.com
 www.grokit.dev
 www.grooveoperate.com
 www.gropefore.com
+www.groundlessconvention.com
 www.grounolrou.com
 www.group108expressway.com
 www.groupsrider.com
@@ -150749,6 +150773,7 @@ www.lincswype.com
 www.lindon-pool.win
 www.line-up2009.com
 www.linealtwelfthinject.com
+www.linearcaseguessing.com
 www.linearmummy.com
 www.linearsubdued.com
 www.lineclaimform.com
@@ -150995,6 +151020,7 @@ www.madanserwe.com
 www.maddenword.com
 www.maddoverevents.com
 www.madebabysittingimperturbable.com
+www.madeirauncertaintendency.com
 www.madelossbravely.com
 www.mademadelavish.com
 www.madeupadoption.com
@@ -158005,6 +158031,7 @@ xcsypkknp.com
 xctignum.uno
 xcvsdrqagn.com
 xcvxca.com
+xcwxfcav.com
 xcyqdjrut.com
 xczjts.com
 xd.tastierxyphoid.com
