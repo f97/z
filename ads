@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-06T12:13:21.364Z
+! Last modified: 2024-01-06T18:09:27.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -8433,7 +8433,6 @@
 ||last0nef1le.com^
 ||lastwise.com^
 ||latedateship.live^
-||laughedaffront.com^
 ||launches.appsflyersdk.com^
 ||launchingonsetwhirlwind.com^
 ||lavamedia.vn^
@@ -18089,6 +18088,7 @@
 ||afgwciwbjxcsfro.com^
 ||afgwsgl.com^
 ||afgzipohma.com^
+||afkwa.com^
 ||afm01.com^
 ||afodreet.net^
 ||afootulnas.com^
@@ -24600,6 +24600,7 @@
 ||dreamintim.net^
 ||dreampics.pro^
 ||dreamsaukn.org^
+||dreamsofcryingf.com^
 ||dreamsoppressive.com^
 ||dreamvids.pro^
 ||drearlyknifes.com^
@@ -24660,6 +24661,7 @@
 ||dryerpreliminarymainly.com^
 ||dryerslegatos.com^
 ||dryinfestinsight.com^
+||drylotsimbil.website^
 ||drystervernile.life^
 ||ds3.biz^
 ||ds7hds92.de^
@@ -31132,6 +31134,7 @@
 ||kenskitscurt.com^
 ||kentonproxied.com^
 ||kentorjose.com^
+||kepersaonwho.org^
 ||keraclya.com^
 ||kerattogeist.com^
 ||kerbayarugate.com^
@@ -31701,6 +31704,7 @@
 ||latternarcoticbullet.com^
 ||laudulut.com^
 ||laughbuckle.com^
+||laughedaffront.com^
 ||laughteroccasionallywarp.com^
 ||lauglaph.net^
 ||laugoust.com^
@@ -32326,6 +32330,7 @@
 ||losingoldfry.com^
 ||losingsplowter.com^
 ||lositz.com^
+||lostdormitory.com^
 ||lostinfuture.com^
 ||lotclergyman.com^
 ||lotionfortunate.com^
@@ -32560,6 +32565,7 @@
 ||lxpcyvnejhrp.com^
 ||lxstat.com^
 ||lxudshpck.com^
+||lybgzqbuopv.com^
 ||lybunbacwf.com^
 ||lycheenews.com^
 ||lychinset.space^
@@ -39751,6 +39757,7 @@
 ||rtwdzxstpanmn.com^
 ||rtxbdugpeumpmye.xyz^
 ||rtxrtb.com^
+||rtyufo.com^
 ||rtyznd.com^
 ||rtzblzfgzqw.com^
 ||ru6sapasgs8tror.com^
@@ -56194,6 +56201,7 @@ apiecelee.com
 apiecemild.com
 apieceshapedsurgery.com
 apiemb.xyz
+apifree.net
 apihb.com
 apillangoslanyphotography.com
 apinagedottard.cfd
@@ -59284,6 +59292,7 @@ bantuanbpjsindonesia.com
 banyangroupresidences.ru
 banyaszcuccok.com
 banyunjia.com
+baomxitjionw.com
 baondkdfmdyfs.com
 baozimg.com
 bapanaye.tech
@@ -67346,6 +67355,7 @@ cmt-pro.com
 cmtejnlhpfscxss.com
 cmtioawuvgpjgg.com
 cmtrams.com
+cmufxwemmg.xyz
 cmuohlatpsp.com
 cmuwyeroliox.com
 cmvihhhelf.com
@@ -73850,6 +73860,7 @@ dpmjlaw.com
 dpmsrv.com
 dpmvpsbp.com
 dpnwqokx.com
+dpnywums.com
 dpo-mps.net
 dpoevnml.com
 dpoivvnuljquvgj.com
@@ -77275,6 +77286,7 @@ escapeway.in
 escargotbooksonline.com
 escelente.store
 escers.com
+escoladominical.com
 escolajudicial.com
 escort-video.com
 escortkonak.xyz
@@ -80437,6 +80449,7 @@ fluemantappall.guru
 fluencexl.app
 fluencexl.com
 fluencydepressing.com
+fluencyhype.com
 fluencymister.com
 fluencythingy.com
 fluentlydeadlineski.com
@@ -80575,6 +80588,7 @@ fntch.guru
 fntch.org
 fntfesheoykg.com
 fntlyenclothe.xyz
+fntphihy.com
 fntvccjbnvku.com
 fnucqgskdh.top
 fnuvsfyylouxwu.com
@@ -87740,6 +87754,7 @@ hmngbyhwvqhemdp.xyz
 hmngpkkvri.com
 hmochannel.com
 hmqiavbneqk.top
+hmqlgtmhtnxrh.com
 hmrixaskoqtw.com
 hmsrichards.net
 hmsykhbqvesopt.xyz
@@ -91282,6 +91297,7 @@ interphone.zone
 interposedflickhip.com
 interpretprogrammesmap.com
 interprovincialfuelsolutions.ca
+interracialextreme.com
 interrogatefailure.com
 interrogationaccusercheesy.com
 interruptlogic.com
@@ -94907,6 +94923,7 @@ kdosimp.com
 kdovikde.club
 kdpiidglonwvhc.com
 kdpnmlygyagyx.com
+kdprquajwnr.com
 kduiplo.pw
 kdvewlabjokfoc.com
 kdvtfbqhftvgpd.com
@@ -99518,6 +99535,7 @@ lsru5gn.ru
 lsrztlmbhgzctp.com
 lsswwuaqbwox.com
 lssxnbbtnptrb.top
+lstjwjtdomno.com
 lsubalhqkg.com
 lsukzeatonsq.com
 lsuoaeqmubc.xyz
@@ -99907,6 +99925,7 @@ ly.kabukisealike.com
 ly.rebuffsoverhot.com
 ly.winzevrocht.com
 lyabwkvqrg.xyz
+lybgzqbuopv.com
 lybunbacwf.com
 lycernaavufxrg.xyz
 lycfrrmoej.com
@@ -110040,6 +110059,7 @@ ortontotlejohn.com
 ortostrikehem.xyz
 ortslucres.com
 oruche.tech
+orurdaurg.com
 orvilletourer.guru
 orwey.com
 orwlehrmaxcoc.com
@@ -110678,6 +110698,7 @@ owrkwilxbw.com
 owrtwsrp.com
 owshxwiqmqg.xyz
 owtvhrydewc.com
+owueemuxne.com
 owvghihicw.com
 owvrqgtpsuln.com
 owvtlhvgmav.com
@@ -118141,6 +118162,7 @@ raoint.com
 raosmeac.net
 raotuufapv.com
 raoulraids.com
+rapacesalewife.guru
 rapaneaphoma.com
 rapanearozzer.cfd
 rapbrasileiro.com
@@ -142950,6 +142972,7 @@ wsjpcev.com
 wsjyvlvigqkeq.com
 wskhpejbdn.com
 wslqgslkuv.com
+wslygdpjndq.com
 wsmobltyhs.com
 wsnpcgfic.com
 wsonghualan.com.cn
@@ -144321,6 +144344,7 @@ www.apeiron.not-tesla.com
 www.apesdescriptionprojects.com
 www.apesdrooping.com
 www.apieceshapedsurgery.com
+www.apifree.net
 www.apihb.com
 www.apinhambane.com
 www.aplisoft-ided.com
@@ -148579,6 +148603,7 @@ www.flowidgets.com
 www.flowngas.com
 www.flowshaft.com
 www.fluencydepressing.com
+www.fluencyhype.com
 www.fluencythingy.com
 www.fluffynickname.com
 www.fluiddejected.com
