@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-06T00:37:07.988Z
+! Last modified: 2024-01-06T06:09:46.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -70136,6 +70136,7 @@ cxctpsdeulyi.com
 cxdataverse.com
 cxeciqartjtctih.com
 cxfhfgjeanicw.com
+cxfrmhsj.com
 cxglkwdchsmalvl.com
 cxgnymgd.xyz
 cxgrwhatyiwotsv.com
@@ -74266,6 +74267,7 @@ dtoottuleringwe.xyz
 dtot.io
 dtothdgemano.xyz
 dtprofit.com
+dtqbqmzzbeck.com
 dtrahanscleaning.com
 dtraks.co.in
 dts-hd.ma
@@ -81533,6 +81535,7 @@ ftblltrck.com
 ftbpoykv.xyz
 ftcvfyocuks.com
 ftd.agency
+ftdvpextzx.com
 ftechtravel.online
 ftfssuhryrcmip.com
 ftgygshutxlpey.com
@@ -129884,6 +129887,7 @@ takhiza.com
 takingonwaters.com
 takiparkrb.site
 takqart.com
+takspggjne.com
 takstav.com
 takychasing.com
 talabondreary.top
@@ -132199,6 +132203,7 @@ thisiswaldo.com
 thisisyourprize.site
 thisisyoursignal.com
 thislaboratory.com
+thisllcharley.life
 thismetric.com
 thisnumbermatters.com
 thisonethingido.com
@@ -132355,6 +132360,7 @@ thufkzwoqcwhpx.com
 thugsponsor.com
 thujo.com
 thuliagum.com
+thulir.com
 thully.com
 thulrlidos.com
 thumac.com
@@ -133766,6 +133772,7 @@ tqreakokf.com
 tqrjlqt.com
 tqsmdjmlosit.com
 tquridnwm.com
+tqwxtglpr.com
 tqxs8.com
 tqxwilx.com
 tqywfkgovjpy.com
@@ -141914,6 +141921,7 @@ wiringcollectorguffaw.com
 wirratailage.com
 wirrttnlmumsak.xyz
 wirsauco.com
+wirvvtxtvejajjy.xyz
 wirwastine.digital
 wisataponggok.com
 wisconsin-civil-rights.com
@@ -158937,6 +158945,7 @@ xn--northfacevpredaj-9zb.com
 xn--oriekovo-8wb.com
 xn--pea.xyz
 xn--pornfilmek-jbb.com
+xn--prnhub-wxa.com
 xn--r1a.website
 xn--reebokmxico-hbb.com
 xn--rvinovaes-w3a8m.com
@@ -160655,6 +160664,7 @@ yukepower.com
 yukikax.club
 yukonearshot.com
 yukonmoderate.ca
+yukzaxfdjvq.com
 yulanoltunna.store
 yuluna.name
 yulunanews.name
