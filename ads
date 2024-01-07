@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-07T06:10:11.393Z
+! Last modified: 2024-01-07T12:13:34.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -47441,6 +47441,7 @@
 ||ad.moe.video^
 ||ad.netmedia.hu^
 ||ad.reklamport.com^
+||ad.tpmn.co.kr^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
 ||adaptv.advertising.com^
@@ -47643,6 +47644,7 @@
 ||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aiciyg0qwvvr.cloudfront.net^
+||d1ap9gbbf77h85.cloudfront.net^
 ||d1appgm50chwbg.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1aukpqf83rqhe.cloudfront.net^
@@ -57804,6 +57806,7 @@ attributora.com
 attritioncombustible.com
 atttrack.com
 attunebarberreality.com
+atuakaiwi.uno
 atulsahay.co.in
 atulyabharatrun.com
 atulyastore.com
@@ -60262,6 +60265,7 @@ bennelapiose.com
 bennelput.com
 bennetevidentlylog.com
 bennetproblems.com
+bennimeldrop.top
 benonblkd.xyz
 benoopto.com
 benouworldtrip.fr
@@ -65703,6 +65707,7 @@ chalanimman.com
 chalehsboasted.space
 chalengeadv.com
 chaletinnature.com
+chaletseosine.digital
 chaletservis.com
 chaletweekend.com
 chaliyarislandtourism.com
@@ -65901,6 +65906,7 @@ chaulsan.com
 chaumsee.net
 chaursug.xyz
 chaussew.net
+chaussurescinq21.com
 chaussureseccofrance.com
 chaussuresmizuno.fr
 chautcho.com
@@ -69379,6 +69385,7 @@ credeasy.net
 credentialdeploycable.com
 credentialsdispatchsuperstitious.com
 credentialssagwoo.com
+credentialstrapdoormagnet.com
 credenver.com
 credibilitystakehemisphere.com
 credibilityyowl.com
@@ -73821,6 +73828,7 @@ download-ready.net
 download-readynow.com
 download-rufus.top
 downloadboutique.com
+downloaddecreeelliot.com
 downloader1.com
 downloadfullfile.info
 downloadmobile.pro
@@ -74284,6 +74292,7 @@ dsgstar.com
 dsgvlrcjcmfrr.xyz
 dsicollegegangoh.in
 dsigncoffee.com
+dsixipuj.com
 dsjhnujqqumsi.xyz
 dsjxs.yt
 dslsgbrckqshuep.com
@@ -79201,6 +79210,7 @@ featbankrupthide.com
 featbooksterile.com
 featherguard.com
 feathersaloof.com
+featlyforthy.top
 featm.com
 featoutline.com
 featue.com
@@ -80751,6 +80761,7 @@ fompouta.xyz
 fomulex.com
 fonboncakeboutique.com
 fondacceptable.com
+fondacohalidom.top
 fondautographexecution.com
 fondfarewells.ca
 fondlecokecombination.com
@@ -90506,6 +90517,7 @@ incorphishor.com
 increaseblessingdated.com
 increasingdeceased.com
 increasinglycockroachpolicy.com
+increasinglypatientstared.com
 increasingnavigableinsects.com
 incredibleparlourcuter.com
 incrediblewoedysfunctional.com
@@ -90679,6 +90691,7 @@ inedibleproductiveunbelievable.com
 inediblewiderchuckled.com
 ineeda.vet
 ineffectivebrieflyarchitect.com
+ineffectivecontagious.com
 ineffectivefacescoat.com
 ineffectivepest.com
 inegotium.us
@@ -94259,6 +94272,7 @@ junemy.com
 jungianoxamide.space
 jungledao.net
 jungledefi.net
+juniorapplesconsonant.com
 juniorolivares.com
 juniorsalloquy.guru
 juniortelegraph.com
@@ -99691,6 +99705,7 @@ luciditybartonbitesize.com
 luciditycuddle.com
 luciditymadeupfarfetched.com
 lucidlydiscretion.com
+lucidlykidney.com
 luciefiedlerdesign.com
 luciesvintageshop.ca
 lucietaresin.com
@@ -99841,6 +99856,7 @@ luralgaqp.com
 lurchesheroine.life
 lurdoocu.com
 lureillegimateillegimate.com
+luresleap.space
 lurgafty.net
 lurgaimt.net
 lurgaush.net
@@ -101295,6 +101311,7 @@ materialsadditionalstrawberries.com
 maternalhi.com
 maternaltypicalattendance.com
 maternityattentions.com
+maternitysmoothlygauze.com
 matesmatchlive.com
 mateymagna.guru
 math-z.com
@@ -101387,6 +101404,7 @@ mauryaphotovision.com
 maus.media
 maustiwy.net
 mauthietkedep.com
+mauvinelassoes.life
 mauweb.site
 mauxco.com
 mavenlohi.com
@@ -102652,6 +102670,7 @@ milkywaynewspaper.com
 millapplicant.com
 millenia.app
 millenniumhomewarranty.ca
+millerbladder.com
 milletanium.com
 milletestablishment.com
 milletguru.shop
@@ -103401,6 +103420,7 @@ modgendevelopers.com
 modibunkers.in
 modificationdispatch.com
 modifiedcarsai.com
+modifiedimitate.com
 modifiedseem.com
 modifymaintenance.com
 modimetaverse.com
@@ -104477,6 +104497,7 @@ muscidsibness.space
 musclebikes.in
 muscledarcysilly.com
 muscleomnipresent.com
+musclesaffectionatelyavenge.com
 muscleserrandrotund.com
 muscularspirituality.com
 museodelagua.co.com
@@ -104545,6 +104566,7 @@ mutomb.com
 mutteredadis.org
 mutteredadisa.com
 muttergrew.com
+mutteringcancerreally.com
 muttersedatetransmitted.com
 muttonperiltower.com
 mutudata.com
@@ -106085,6 +106107,7 @@ neutraljanitorplatinum.com
 neutralrealisticcontain.com
 neutralsaxophoneaspect.com
 neutraltoxicpreposition.com
+neutralwestconsult.com
 neutramix.com
 neutroco2.org
 neuwiti.com
@@ -107105,6 +107128,7 @@ nomad-minusvirus.com
 nomadbritish.com
 nomadeto.com
 nomadiss.com
+nomadjaws.com
 nomadluxus.com
 nomadover40.com
 nomadsbrand.com
@@ -107433,6 +107457,7 @@ november-sin.com
 novemberadventures.com
 novemberadventures.name
 novemberassimilate.com
+novemberdismount.com
 novemberseatsuccession.com
 novembersightsoverhear.com
 novemberswan.asia
@@ -108623,6 +108648,7 @@ officialdetails.online
 officialhelabetcasino.net
 officialnoxrock.com
 officialpanthersnflstore.com
+officialraising.com
 officialspamfilter.com
 officialstovethemselves.com
 offloadingsite.com
@@ -109322,6 +109348,7 @@ oneplasticbrazil.com
 onepstr.com
 oneqanatclub.com
 onerosemotives.life
+onerousethelpictures.com
 onerousgreeted.com
 onerror.cf
 onerror.gq
@@ -110266,6 +110293,7 @@ ot.bortscharmed.com
 otabciukwurojh.xyz
 otakworks.net
 otalcanal.xyz
+otalgicramplor.top
 otalsportek.com
 otarbadvnmrap.com
 otbczech.com
@@ -110458,6 +110486,7 @@ oursgorefreshing.com
 oursiignaboaor.cc
 oursiignaboaord.xyz
 oursimpleaddress.org
+oursoften.com
 ourspity.com
 oursupportsteams.com
 ourtecads.com
@@ -111142,6 +111171,7 @@ paintoppo.co.uk
 paintoppo.com
 paints-style.com
 paintversion.com
+paintwandering.com
 paipai.tech
 paipsuto.com
 pairaffirmative.com
@@ -111903,6 +111933,7 @@ pcanywhere.ca
 pcar.tech
 pcarvbljpc.xyz
 pcaumcqv.com
+pcbuni.com
 pcbuqpdytqanufu.xyz
 pccajita.com
 pccasia.xyz
@@ -112207,6 +112238,7 @@ penhouseinsurance.com
 peniaze.digital
 peniaze.online
 peniaze.org
+peninsulaknot.com
 peninsularesentmentcarla.com
 penitentamaze.com
 penitentarduous.com
@@ -112306,6 +112338,7 @@ perceivedagrarian.com
 perceivedpalpable.com
 perceivedundesirable.com
 perceivegrasshopper.com
+percentagealbeitserver.com
 percentvisits.com
 percephonefruit70.com
 perceuslok071.com
@@ -113901,6 +113934,7 @@ plntxgh.com
 plocap.com
 plodpicture.com
 plodrat.com
+ploildale.com
 plokqewres.com
 plokyrsv1rgn.com
 plopeletres.com
@@ -114271,7 +114305,9 @@ pollutefurryapproximate.com
 polluxnetwork.com
 pollypolish.net
 polnilna-postaja.com
+polnilna-postaja.net
 polnilnica.com
+polnilnica.net
 polohovacistul.sbs
 pololuxe.org
 poloptrex.com
@@ -114963,6 +114999,7 @@ precisionchambers.com
 precisionclick.com
 precisionfitnesstt.com
 precisionnight.com
+precisionprodesign.com
 precisionsuccessfullycommemorate.com
 precisocontratar.world
 precoilrowlock.digital
@@ -115211,6 +115248,7 @@ priestquest.com
 priestsuede.com
 prijam.com
 priligydon.net
+prillspaste.digital
 prima-atgodrej.in
 primaatgodrej.in
 primalchord.com
@@ -115752,6 +115790,7 @@ proserpina-zeb.com
 proserting.life
 proservices.world
 prosestock.com
+prosflirtatious.com
 proski-trainer.com
 prospectandrefugeresorts.com
 prospectconductorcheerfully.com
@@ -116309,6 +116348,7 @@ puertolifesciences.net
 puertolifesciences.org
 puerty.com
 puffdifferent.com
+puffdisavow.com
 puffedulan.digital
 puffieralveloz.guru
 puffstethery.guru
@@ -119739,7 +119779,9 @@ respecttallitem.com
 respilonshop.com
 respiratorextending.com
 respireyowl.digital
+respondedkinkysofa.com
 respondenemy.com
+respondfairytale.com
 responsegift.com
 responserver.com
 responsestatuscodes.com
@@ -119971,6 +120013,7 @@ revoltelfwife.life
 revolutionarydrillprotective.com
 revolutionbeseech.com
 revolutionpersuasive.com
+revolveclothingclearance.com
 revolvefarfetched.com
 revolvemockerycopper.com
 revolveoppress.com
@@ -120010,6 +120053,7 @@ rewqpqa.link
 rewqpqa.net
 rewqpqa.org
 rewriteshamerefuge.com
+rewwlzjmj.com
 rexbucks.com
 rexelita.it
 rexsrv.com
@@ -122097,6 +122141,7 @@ saintmaclou.com
 saipel.com
 saipraveen.tech
 saipurewell.com
+sairlyrestes.digital
 saishait.net
 saisharealty.com
 saishoes.in
@@ -122945,6 +122990,7 @@ scoreyourtalent.in
 scorklegucki.com
 scornamentum.com
 scornfulabsorbploy.com
+scornphiladelphiacarla.com
 scotcheliza.com
 scotchtug.com
 scotlandpt.com
@@ -124287,6 +124333,7 @@ shamelessspank.com
 shamelinternational.com
 shamenormalcy.com
 shamfuel.com
+shamikaz.com
 shamime.co.uk
 shamimmuktar.com
 shammasnimbose.space
@@ -125807,6 +125854,7 @@ slickgrapes.com
 slicktrulyuptown.com
 slidbecauseemerald.com
 sliddeceived.com
+sliddoubtful.com
 slidebazar.com
 slidecaffeinecrown.com
 slideff.com
@@ -126191,6 +126239,7 @@ smises.com
 smisit.com
 smisto.com
 smists.com
+smitealter.com
 smitetrolleytelescope.com
 smithamenamel.com
 smithandlittle.net
@@ -127120,6 +127169,7 @@ spdrod.com
 speai.com
 speakersummit.info
 speakinghostile.com
+speakshandicapyourself.com
 speakspurink.com
 speakswretch.com
 speakwithjohns.com
@@ -127347,6 +127397,7 @@ spontaneousguarded.com
 spontaneousshopliftingdetach.com
 spookastonishingheap.com
 spooksschedar.com
+spooksuspicions.com
 spookyaddict.com
 spookybirch.com
 spoolhoboed.com
@@ -128520,6 +128571,7 @@ stratohire.com
 stratoworld.net
 stratterarxcoupon.net
 strawberriescane.com
+strawberryexperiment.com
 strawguineaequanimity.com
 strayery.online
 straymaternitycommence.com
@@ -132357,6 +132409,7 @@ thevaseandthefinial.com
 theveganprepper.com
 thevegking.com
 thevenueguide.online
+thevibechecks.com
 thevictoriaskincarecentre.ca
 thevid.live
 thevideoboutique.com
@@ -133515,6 +133568,7 @@ toningteabox.live
 toninjaska.com
 toniputrino.com
 tonistarc.com
+tonmaintain.com
 tonmakeup.com
 tonqvqwtvksh.com
 tonsilyearling.com
@@ -133852,6 +133906,7 @@ totalwownews.com
 totekleenex.live
 totentacruelor.com
 totesbusked.digital
+totheessence.com
 tothrobertgyula.com
 totientyakshi.website
 totlnkbn.com
@@ -134892,6 +134947,7 @@ tropylskins.com
 troqdobij.com
 trosecnik.com
 trositos.com
+trotarmisticeheiress.com
 trotconceivedtheological.com
 trothko.com
 trotolhonor.com
@@ -136413,6 +136469,7 @@ ultimate-captcha.com
 ultimatecracks.org
 ultimatedatasource.in
 ultimateminecraftbunker.com
+ultimaterequirement.com
 ultimatetestpassing.com
 ultimatumloftyharvest.com
 ultimowraxle.com
@@ -136631,6 +136688,7 @@ understandablejoggleawakened.com
 understandableputrescenthypothetically.com
 understandableredeemessentially.com
 understandablerequirechoke.com
+understandcomplainawestruck.com
 understandextremityshipping.com
 understandhazelphonebooth.com
 understandingharmoniousillegal.com
@@ -139520,6 +139578,7 @@ vkioqjnunhu.com
 vkitfufickpy.com
 vkjgkkxj.com
 vkkguhveswr.com
+vklnkgmubvi.com
 vklwqdit.top
 vkmnz.yt
 vknecciko.com
@@ -141639,6 +141698,7 @@ wheeldenunciation.com
 wheeledabbotafterward.com
 wheeledajar.com
 wheeledmoundangrily.com
+wheelscomfortlessrecruiting.com
 wheelset.org
 wheelsongo.in
 wheelstweakautopsy.com
@@ -142063,6 +142123,7 @@ willichi.tech
 williemoore.us
 willienelsontour.net
 willinglylipsslander.com
+willinglymechanic.com
 willinglypromoteceremony.com
 willingnessaggravationfits.com
 willingnesslookheap.com
@@ -142207,6 +142268,7 @@ wintipsonly.com
 wintjaywolf.org
 wintoyouprizes.info
 wintryangelin.uno
+wintryjibber.digital
 winus.in
 winxeasy.com
 winxjuegos.com
@@ -159068,6 +159130,7 @@ xlsucrexyq.xyz
 xlsxviqbl.com
 xltrkhwc.com
 xltujticgmpjr.com
+xludnfyrcmgbe.com
 xlvlnpkeqz.com
 xlwaluyw.com
 xlwnzkyj.com
