@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-07T12:13:34.402Z
+! Last modified: 2024-01-07T18:09:41.651Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9588,7 +9588,6 @@
 ||moon.ibytecdn.cn^
 ||moonashare.live^
 ||moose.cloverlearning.com^
-||mopeia.xyz^
 ||mopub.com^
 ||moqsxdpx.xyz^
 ||more-followers.com^
@@ -16771,6 +16770,7 @@
 ||5pi13h3q.de^
 ||5toft8or7on8tt.com^
 ||5umpz4evlgkm.com^
+||5vbs96dea.com^
 ||5vpbnbkiey24.com^
 ||5wuefo9haif3.com^
 ||5xd3jfwl9e8v.com^
@@ -17210,6 +17210,7 @@
 ||abkynrclyom.com^
 ||ablatesgascon.cam^
 ||ableandworld.info^
+||abletoprese.org^
 ||ablitleoor.com^
 ||abluentshinny.com^
 ||abluvdiscr.com^
@@ -21416,6 +21417,7 @@
 ||c71genemobile.com^
 ||c7d263f5d8.com^
 ||c7ee346412.com^
+||c83cf15c4f.com^
 ||c86e7c49a2.com^
 ||c8d2c12c98.com^
 ||c8f9398ccd.com^
@@ -23179,6 +23181,7 @@
 ||cruthdivisi.life^
 ||crxnegluvjquvlp.xyz^
 ||cryartarm.online^
+||cryingforanythi.com^
 ||cryjun.com^
 ||cryonickru.com^
 ||cryorganichash.com^
@@ -23562,6 +23565,7 @@
 ||daugloon.net^
 ||daukshewing.com^
 ||daunnotes.com^
+||dauntgolfconfiscate.com^
 ||dauntlessamusingcomrade.com^
 ||dauntslip.com^
 ||dautegoa.xyz^
@@ -24669,6 +24673,7 @@
 ||dsethimdownthmo.com^
 ||dsfjhfhyry2hh8jo09.com^
 ||dsgvlrcjcmfrr.xyz^
+||dsixipuj.com^
 ||dsnextgen.com^
 ||dsnr-affiliates.com^
 ||dsoodbye.xyz^
@@ -26456,6 +26461,7 @@
 ||ffffff0000ff.com^
 ||ffffffdcdcdc.name^
 ||ffortyimagist.com^
+||ffqtjwwhupcg.com^
 ||ffrywcxaewmpp.com^
 ||fftagtden.com^
 ||ffuzila.com^
@@ -26875,6 +26881,7 @@
 ||forbidcrenels.com^
 ||forbiddenuneasy.com^
 ||forbitnebris.uno^
+||forbledpukras.top^
 ||forcealetell.com^
 ||forceddenial.com^
 ||forcelessgooseberry.com^
@@ -27158,12 +27165,14 @@
 ||ftigholm.site^
 ||ftjcfx.com^
 ||ftklr.com^
+||ftltbijc.com^
 ||ftmhsrrk.com^
 ||ftte.fun^
 ||ftte.xyz^
 ||fttjyji.com^
 ||ftuaxqokbxow.com^
 ||ftv-publicite.fr^
+||ftvszarpfvecjf.com^
 ||ftwpcn.com^
 ||fuchsinthough.website^
 ||fuck.hentaitimes.com^
@@ -30578,6 +30587,7 @@
 ||jenonaw.com^
 ||jeopardizeflirting.com^
 ||jeperdee.net^
+||jeqjawqoeraab.top^
 ||jeribpupiled.com^
 ||jerjrqqzmzkzy.top^
 ||jerkarmlesspuppy.com^
@@ -32318,6 +32328,7 @@
 ||lopzitpup.com^
 ||lorageiros.com^
 ||loralana.com^
+||lorcgnziipstq.com^
 ||lordhelpuswithssl.com^
 ||lorgnonanvils.top^
 ||lormeryacarari.website^
@@ -33685,6 +33696,7 @@
 ||mooxar.com^
 ||mopedisods.com^
 ||mopefrequent.com^
+||mopeia.xyz^
 ||mopemodelingfrown.com^
 ||mopnixhem.com^
 ||moracy.com^
@@ -36615,6 +36627,7 @@
 ||pgpartner.com^
 ||pgssl.com^
 ||pgwcrtobrdjx.com^
+||pgwlzodsll.com^
 ||phaglalt.com^
 ||phague.com^
 ||phaignux.xyz^
@@ -38236,6 +38249,7 @@
 ||qcigbljyenh.com^
 ||qclgcdtv.com^
 ||qcmjdptyikwf.xyz^
+||qcotzalsettiv.com^
 ||qcsjmidihe.com^
 ||qctzwkrczwjw.com^
 ||qdagihwi.xyz^
@@ -38467,6 +38481,7 @@
 ||quxsiraqxla.com^
 ||qvikar.com^
 ||qvjpjsglmvhcbv.xyz^
+||qvlczhitbsqpl.com^
 ||qvol.tv^
 ||qvorcqfon.com^
 ||qwa3ldhn9u0t.com^
@@ -39295,6 +39310,7 @@
 ||rewardsaffiliates.com^
 ||rewashwudu.com^
 ||rewriteshamerefuge.com^
+||rewwlzjmj.com^
 ||rexadvert.xyz^
 ||rexbucks.com^
 ||rexsrv.com^
@@ -39870,7 +39886,9 @@
 ||rwuannaxztux.com^
 ||rwwoqcjefc.com^
 ||rwzexfzoyqf.com^
+||rwzzeivpakyxql.com^
 ||rxatodtvt.com^
+||rxcjedhdf.com^
 ||rxeosevsso.com^
 ||rxglvcowb.com^
 ||rxgvwht.com^
@@ -41171,6 +41189,7 @@
 ||snarewholly.com^
 ||snebbubbled.com^
 ||sneezeinterview.com^
+||snhtvtp.com^
 ||snicherchitra.space^
 ||snidethereto.com^
 ||snipersex.com^
@@ -41201,6 +41220,7 @@
 ||snugglethesheep.com^
 ||snurpsermon.space^
 ||snwpqybkb.com^
+||snwqvjgrjjl.com^
 ||so1cool.com^
 ||soaheeme.net^
 ||soakappequipment.com^
@@ -44024,6 +44044,7 @@
 ||ugly-dance.pro^
 ||uglylearnt.com^
 ||uglypath.pro^
+||ugopkl.com^
 ||ugostlyhewo.xyz^
 ||ugricmoist.com^
 ||ugripaid.com^
@@ -44570,6 +44591,7 @@
 ||utubepwhml.com^
 ||utzwgittihhvn.com^
 ||uuboos.com^
+||uucfeebvz.com^
 ||uudzfbzthj.com^
 ||uueuxygn.com^
 ||uuhptejwmvn.com^
@@ -46305,6 +46327,7 @@
 ||wrylength.pro^
 ||wrypassenger.com^
 ||wsafeguardpush.com^
+||wsejsoqdmdzcvr.com^
 ||wseojloda.com^
 ||wsgmcgtbvky.com^
 ||wsinterfumes.info^
@@ -46530,6 +46553,7 @@
 ||xlmygeuxtv.com^
 ||xlrdr.com^
 ||xlrm-tech.com^
+||xludnfyrcmgbe.com^
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvirdr.com^
@@ -50723,6 +50747,7 @@
 5toft8or7on8tt.com
 5tyerstae.com
 5umpz4evlgkm.com
+5vbs96dea.com
 5vcl2z9la7.com
 5vhgwd152.monster
 5vpbnbkiey24.com
@@ -52070,6 +52095,7 @@ ableandworld.info
 ablebodiedfibre.com
 ablesasme.co
 ablesasmetotr.monster
+abletoprese.org
 abletunweave.life
 ablgups.com
 ablitleoor.com
@@ -61235,6 +61261,7 @@ birchflarechurch.com
 birchtreesafety.com
 birchwigkidney.com
 birdas.com
+birdmencomicry.uno
 birdnavy.com
 birdsofladakh.com
 birdtears.com
@@ -69638,6 +69665,7 @@ crxynhwosepbn.com
 cryartarm.online
 crycc.net
 cryclerkwords.com
+cryingforanythi.com
 cryingtherefore.com
 cryllex.org
 cryorganichash.com
@@ -77515,6 +77543,7 @@ etbnbvlnhvr.com
 etbrjpal.com
 etccdvfodthhc.com
 etcensemble.org
+etcherpalila.life
 etcodes.com
 etcpl.net
 etctraders.co.in
@@ -80860,6 +80889,7 @@ forbiddenconsume.com
 forbiddenuneasy.com
 forbitnebris.uno
 forblanc.com
+forbledpukras.top
 forcealetell.com
 forced-lose.de
 forceddenial.com
@@ -81717,6 +81747,7 @@ ftvcapital.at
 ftvcapital.co.uk
 ftvcapital.la
 ftvcapital.uk
+ftvszarpfvecjf.com
 ftwjubad.com
 ftxaonydrmajhvv.com
 ftxolfex.xyz
@@ -103748,6 +103779,7 @@ moovaush.com
 mooxar.com
 mopedisods.com
 mopefrequent.com
+mopeia.xyz
 mopemeiz.co.uk
 mopemodelingfrown.com
 mopesupportrefine.com
@@ -112708,6 +112740,7 @@ pgshraap.com
 pgssl.com
 pgtykuadwuku.com
 pgumnlqy.com
+pguopvgje.com
 pgveagom.com
 pgwalebooking.com
 pgwcrtobrdjx.com
@@ -126387,6 +126420,7 @@ sneezeinterview.com
 snehilfoundation.com
 snelpy.com
 sneogssbchex.com
+snhtvtp.com
 snicherchitra.space
 snickchangesolder.com
 snickunfairtheatres.com
@@ -130988,6 +131022,7 @@ tehwxqbjnsoxg.com
 teiegram.app
 teindsrangier.com
 teisxvplmevlnx.com
+tejanoyerked.top
 tejasmargaritas.com
 tejasvyasam.com
 tejgyan.app
@@ -135852,6 +135887,7 @@ tyingatmosphericprocess.com
 tyingentered.com
 tyjqvdbdsfguc.xyz
 tykhanaumbrana.life
+tykidrfhpkc.com
 tykoliz.com
 tylerandskye.shop
 tylerbusinessflex.com
@@ -143155,6 +143191,7 @@ wsdrbmvuutli.com
 wsdtnibivx.xyz
 wse234.com
 wsegllelygqqv.xyz
+wsejsoqdmdzcvr.com
 wseo1sv.net
 wseojloda.com
 wsfcs.net
@@ -159055,6 +159092,7 @@ xjhtvxsjjruxf.com
 xjhvefeukwnfgjm.com
 xjkikehka.com
 xjktawqrcaw.com
+xjlukrsm.com
 xjmjxqkeobej.com
 xjpljvaujbvhqsu.com
 xjqxegvywrkapx.com
@@ -159505,6 +159543,7 @@ xqzlgbbe.com
 xqzwtvjkjj.com
 xr.panduraoestrum.com
 xraanxbcn.top
+xrbgxfcxraulkxn.com
 xrblscikev.com
 xrclusejukvakd.com
 xrdinchga.com
