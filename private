@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-07T00:41:31.745Z
+! Last modified: 2024-01-07T06:10:18.925Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -68036,6 +68036,7 @@ vungle.com
 1111.ru
 1111homes.com
 111gmail.com
+112233.store
 11277hd.com
 112buh.com
 112gmail.com
@@ -68360,6 +68361,7 @@ vungle.com
 1syn.info
 1tetris.ru
 1thecity.biz
+1time.aero
 1tmail.club
 1tmail.ltd
 1to1mix.com
@@ -68603,6 +68605,7 @@ vungle.com
 2gurmana.ru
 2guysservinglawn.com
 2hg6.com
+2kart.online
 2kcr.win
 2kratom.com
 2mail.com
@@ -68752,9 +68755,16 @@ vungle.com
 3bez.com
 3d-films.ru
 3d-live.ru
+3d-moon-gr.com
+3d-moon-mr.com
+3d-print-mox.com
+3d-printers-resin02.com
+3d-scanner-mop.com
+3d-scanner-sh.com
 3day.us
 3dcollection.ru
 3dgit.info
+3dhsng.com
 3dinews.com
 3dlab.tech
 3dmail.top
@@ -68850,6 +68860,7 @@ vungle.com
 442gmail.com
 443.com
 443gmail.com
+44444.store
 4444gmail.com
 4445jinsha.com
 447gmail.com
@@ -70389,6 +70400,7 @@ aerozonesiren.xyz
 aerozoneslay.xyz
 aeshopshop.xyz
 aesth.tk
+aestheticclinic-uk.com
 aethif.fun
 aethiops.com
 aevtpet.com
@@ -70484,6 +70496,7 @@ agawamchamber.com
 agbots.com
 agcd.com
 age.com
+age10.store
 agemail.com
 agemail.site
 agen-casino.net
@@ -72068,6 +72081,7 @@ armourbags.com
 armsfat.com
 armss.site
 armyglossary.com
+armywifeandmommy.com
 arnasarspacemission.com
 arnauddaigneault.xyz
 arnaudlallement.art
@@ -72703,6 +72717,7 @@ avtoliverf.ru
 avtomatyklubnichka.net
 avtovishka21.ru
 avtovykup-tg.ru
+avtoyurist-moskva1.ru
 avucon.com
 avumail.com
 avvmail.com
@@ -73687,6 +73702,7 @@ beinger.me
 beinncontrol.com
 beiop.com
 bej.com
+bekhetr.com
 bekirr.com
 bekler.icu
 belafonte.us
@@ -73875,6 +73891,7 @@ bestcatbooks.site
 bestcatfiles.site
 bestcatstuff.site
 bestcharger.shop
+bestconsultantwebsites.com
 bestcouponindia.xyz
 bestcreditcart-v.com
 bestcryptonews.one
@@ -74693,6 +74710,7 @@ blesscup.cf
 blessingvegetarian.com
 blessloop.com
 blfranco.com
+blg-scan.com
 blibrary.site
 blic.pl
 bling.com
@@ -76502,6 +76520,7 @@ captivadesign.com
 capzone.io
 caqpacks.com
 car-experiences.tk
+car-museum.ru
 car101.pro
 caraccessories.ltd
 caramenangmainslot.net
@@ -78067,6 +78086,7 @@ cntinnuo.com
 cntnyuan.com
 cnxcoin.com
 cnxingye.com
+cnyorca.org
 co-nowego-na-wybiegu.pw
 co-nowego.pw
 co.mailboxxx.net
@@ -78906,6 +78926,8 @@ cqfx.com
 cqminan.com
 cqud.com
 cr.cloudns.asia
+cr5-pro01.com
+cr5-pro02.com
 cr7cr8cr9.com
 cra1g.com
 crabsheadache.com
@@ -79187,6 +79209,7 @@ csvcialis.com
 csvrxviagra.com
 cswltd.shop
 csxc.com
+csyriam.com
 cszu.com
 ctasprem.pro
 ctcables.com
@@ -79617,6 +79640,7 @@ daisibisaillon.xyz
 daisuke4410.akihiro16.prowebmail.online
 daisuke8310.atsushi78.dev256.xyz
 daitarli.cf
+daitres.ru
 daiuiae.com
 dajuju.com
 dakcans.com
@@ -81572,6 +81596,8 @@ dtmricambi.com
 dtpp.com
 dtr-001.com
 dtyler.rocks
+dual-extruder01.com
+dual-extruder64.com
 duartlodge.com
 dubbunnies.com
 dubidze.website
@@ -81861,6 +81887,7 @@ easyoddspoker.com
 easyopenpay.com
 easypace.ru
 easypharm.space
+easyrepair-toronto.com
 easys.site
 easysetting.org
 easysnapfilters.com
@@ -82579,6 +82606,7 @@ emtsua.com
 emunmail.com
 emupmail.com
 emvil.com
+emvill.com
 emvps.xyz
 en.urlaubswelt-lanzarote.com
 enaalways.com
@@ -83002,6 +83030,7 @@ eslchartsgg.com
 esmoud.com
 esmyar.ir
 esntzgqveu.ga
+esnxh.com
 esoetge.com
 esophaguscity.com
 esoumail.com
@@ -83482,6 +83511,7 @@ f.theshopin.xyz
 f.uhdtv.website
 f.waterpurifier.club
 f.yourmail.website
+f1000-bot.com
 f1files.com
 f1kart.xyz
 f1kartbuy.xyz
@@ -85493,6 +85523,7 @@ galvanmail.men
 gam1fy.com
 gamail.net
 gambarupdate.com
+gamblingfinex.com
 gambo.com
 gambrush.shop
 game.blatnet.com
@@ -85553,6 +85584,7 @@ gamzwe.com
 ganam.com
 gancio.online
 ganif.link
+ganimedsb.ru
 ganmali2.tk
 ganmali4.tk
 ganninarnold.com
@@ -87224,6 +87256,7 @@ guliverenergija-igraonica.com
 gull-minnow.top
 guman23.store
 gumaygo.com
+gumglue.app
 gummail.store
 gundogdumobilya.cyou
 gungrate.email
@@ -87488,6 +87521,7 @@ handcharities.life
 handcharities.live
 handcharities.online
 handcountry.biz
+handheld-3dscan-fg.com
 handimedia.com
 handjobfantasy.com
 handleride.com
@@ -87569,6 +87603,7 @@ hardclossio.tk
 harderstore.net
 hardingpost.com
 hardnews.us
+hardseo.store
 hardstylex.com
 hardwaregurus.net
 hardwarewalletira.com
@@ -88539,6 +88574,7 @@ host.favbat.com
 host.viewtechnology.info
 host.wybuwy.xyz
 host1s.com
+host2k.store
 hostb.xyz
 hostcalls.com
 hostguru.info
@@ -89947,6 +89983,7 @@ intakewholeness.com
 intamo.cf
 intamo.ml
 intamo.tk
+intams-3dprint.com
 intannuraini.art
 intarco.pl
 intaso.cf
@@ -90129,6 +90166,7 @@ iranbounce.com
 iranianrealtors.org
 iraniom.club
 iranromabet.net
+irbispro.ru
 irdd.com
 irdneh.cf
 irebah.com
@@ -90241,6 +90279,7 @@ isvegan.com
 isvsrr.icu
 iswc.info
 iswire.com
+it-comrade.ru
 it-erezione.site
 it-franchise.host
 it-obuv.ru
@@ -90519,6 +90558,7 @@ jak-przerobic-rzeczy.pw
 jak-sie-ubrac-modnie.pw
 jak-zaoszczedzic.pl
 jakamarcusguillermo.me
+jakemsr.com
 jakesys.link
 jaki-kredyt-wybrac.pl
 jakwyleczyc.pl
@@ -92887,6 +92927,7 @@ leadwizzer.com
 leaec.com
 leafmanager.com
 leafofallcolors.com
+leaforic.com
 leafrelief.org
 leafzie.com
 leahglasfurd.xyz
@@ -92925,6 +92966,7 @@ lebahsukses.website
 lebang.site
 lebaran.me
 lebatelier.com
+lebedki-kzn.ru
 lecadeaucurtumecasa.com
 lechenie-boleznej.ru
 lechomail.com
@@ -93078,6 +93120,7 @@ leurre.xyz
 leutromcoo.ml
 levaetraz.ga
 levaetraz.ml
+levank.com
 levelupworker.com
 levis-jeans.us
 levitpharm.com
@@ -93092,6 +93135,7 @@ lexabet5.com
 lexdrive.com
 lexhindustan.org
 lexidot.com
+lexigra.com
 lexortho.com
 lexpublib.com
 lexr.io
@@ -93885,6 +93929,7 @@ louieliu.com
 louiscantrell897.xyz
 louistanis.ga
 louisvienna.com
+love-best.ru
 love-krd.ru
 love-s.top
 love97.ga
@@ -94143,6 +94188,7 @@ m.tierarzt-lorenz-abt.de
 m.xxi2.com
 m00t.xyz
 m0z3qi.com
+m142.ru
 m189ushr.buzz
 m190msxw.buzz
 m191pobi.buzz
@@ -94312,6 +94358,7 @@ mail-pop3.com
 mail-register.com
 mail-reply.net
 mail-search.com
+mail-server.store
 mail-share.com
 mail-share.net
 mail-space.net
@@ -95393,6 +95440,8 @@ masongazard.com
 masonheading.xyz
 masputra.my.id
 masrku.online
+mass-links.ru
+mass-links.store
 massage.com
 massagecupertino.cyou
 massagelosgatos.cyou
@@ -95409,6 +95458,7 @@ master-mail.net
 master.cd
 master.veinflower.xyz
 mastercleaningsystem.com
+masterdata.ru
 masterdomino88.biz
 masterdomino88.club
 masterdomino88.fun
@@ -97060,6 +97110,7 @@ mtgbvfxn.com
 mtlcz.com
 mtmgeismar.com
 mtpower.com
+mtr-servis.ru
 mtsante.com
 mtservers.online
 mtsg.me
@@ -98654,6 +98705,7 @@ noumirasjahril.art
 nountafor.ga
 nountree.com
 noure77.shop
+nourishandflourishhealth.com
 nouvellakay.com
 novaeliza.art
 novaemail.com
@@ -99328,6 +99380,7 @@ oldroons.com
 oldtownehandley.org
 oleng.my.id
 olfe.com
+olga-a-bodrova.com
 olgis.ru
 olgsale.top
 olharalem.com
@@ -100544,6 +100597,7 @@ payseho.ml
 payspun.com
 paytakht021.com
 payterking.gq
+pb-perspectiva.ru
 pbaq.com
 pbastaff.org
 pbitrading.com
@@ -101024,6 +101078,7 @@ phpmail.pro
 phppgads.com
 phrastime.site
 phrpharmacy.com
+phrz04.com
 phse.com
 phtunneler.cf
 phtunneler.com
@@ -101666,6 +101721,7 @@ post123.site
 postbx.ru
 postbx.store
 postcard.delivery
+postcards-hawaii.com
 postcm.com
 postegro.mobi
 postelmaps.com
@@ -102019,6 +102075,7 @@ priong.com
 priora.tk
 prioritycarpetcleaning.net
 priorkt.com
+prirad3sg.com
 prismgp.com
 prisonforbitches.com
 prisonnews.net
@@ -102460,6 +102517,7 @@ purplepromo.com
 purplestea.ru
 purposeinvestors.com
 purrheal.com
+pursip.com
 pursm.org
 pursuil.site
 pusatinfokita.com
@@ -103573,6 +103631,7 @@ refz.site
 reg.pw
 regadub.ru
 regalhomesllc.com
+regapts.com
 regation.online
 regegit.icu
 regeneratedprotein.ru
@@ -103720,6 +103779,7 @@ rentproxy.xyz
 reodu.com
 reossanyth.ml
 repairnature.com
+repairservices-toronto.com
 reparacionsegura.com
 reparation-smart-paris.com
 repargy.ml
@@ -103775,6 +103835,7 @@ reservepart.ir
 reset123.com
 resetsecurity.net
 resgedvgfed.tk
+resheto.ru
 resicoin.com
 residencecure.com
 residencemedicine.com
@@ -103782,6 +103843,7 @@ resifi.net
 resigmail.com
 resilientrepulsive.site
 resimyolu.net
+resin-3d-printers32.com
 resindek.us
 resindia.com
 resinfurniture.org
@@ -104206,6 +104268,7 @@ robomedtech.com
 robonations.site
 robonx.com
 roboplanter.com
+roborena.com
 robot-mail.com
 robothorcrux.com
 roboticflowerpot.com
@@ -104321,6 +104384,7 @@ rootednnature.biz
 rootfest.net
 rootlocus.net
 rootnet.win
+rop-snt43.com
 ropdeb.ee
 ropgoraws.cf
 ropgoraws.ga
@@ -104630,6 +104694,7 @@ ruracgent.ga
 rurr.com
 ruru.be
 rus-black-blog.ru
+rusaoc.store
 rusgiftshop.com
 rushdrive.com
 rushmails.com
@@ -105349,6 +105414,7 @@ searates.info
 search-whoisit-called.com
 searchassessor.xyz
 searchepcassessor.xyz
+searcherwebonline.com
 searchformeaning.net
 searchgutenberg.org
 searchiehub.com
@@ -105687,6 +105753,7 @@ server.fotokolor.hr
 server.ploooop.com
 server.poisedtoshrike.com
 server.popautomated.com
+server13.store
 serveremailbest.eu
 servergem.com
 servermaps.net
@@ -106298,6 +106365,7 @@ sinso1.tk
 sinso2.tk
 sinso3.tk
 sinso4.tk
+sint-brnd32.com
 sintaoer.com
 sintec.pl
 sinvade.com
@@ -106562,6 +106630,8 @@ slovabegomua.ru
 slowdeer.com
 slowgramming.com
 slowimo.com
+sls-printers-sh.com
+sls-printers98.com
 sltrust.com
 sltyoga.com
 sluef.com
@@ -108393,6 +108463,7 @@ talkwithwebvisitor.com
 taller-de-escritura-mallorca.com
 tallerdeescrituracreativa.org
 tallyscrapper.com
+talmetry.com
 talsgilboboundche.gq
 taltalk.net
 taluabushop.com
@@ -108448,6 +108519,7 @@ tankbrushes.net
 tankless.xyz
 tankshopin.xyz
 tankult.com
+tanlanav.com
 tannerplanters.com
 tanning-bed-bulbs.com
 tanningprice.com
@@ -108462,6 +108534,7 @@ tanyamauldin.com
 tanyanatalie.com
 tanyanecole.com
 taobaigou.club
+taobudao.com
 taoisture.xyz
 taokhienfacebook.com
 taorh.dk
@@ -108555,6 +108628,7 @@ tayr.com
 taysirnabulsi.com
 tayspirec.tk
 taytkombinim.xyz
+tb-ndfl1.ru
 tbalawyers.com
 tbchr.com
 tbdlimted.com
@@ -108791,6 +108865,7 @@ tellsow.xyz
 telmail.top
 telplexus.com
 teluss.net
+telvetto.com
 temail.com
 temecon.cf
 temecon.gq
@@ -108869,6 +108944,7 @@ terbias.com
 tercupu.ml
 terecidebulurum.ltd
 terekolin.icu
+terit-brnd.com
 terleani.tk
 terminaltheme.cf
 termuxtech.tk
@@ -109864,6 +109940,7 @@ topdatalist.com
 topdentistmumbai.com
 topdressage.tv
 topdresses.ru
+topdresses.store
 topdrivers.top
 toped303.com
 toped888.com
@@ -109933,6 +110010,7 @@ toprezerwacje.pl
 toprungseo.co
 topsalebest-anst.space
 topsellingtools.com
+topseoxr.store
 topserwiss.eu
 topserwiswww.eu
 topsexcamsites.com
@@ -110276,6 +110354,7 @@ trindepcomm.gq
 tringle.online
 trinilive.com
 trinity-funds.com
+trinitychurchelmira.org
 trinityfriends.org
 trinixy.ru
 trinkets.buzz
@@ -112584,6 +112663,7 @@ vvv.sytes.net
 vvvnagar.org
 vvxx.com
 vw-webmail.de
+vwd-cms.com
 vwd.luk2.com
 vwolf.site
 vwugsdlro.ml
@@ -113004,6 +113084,7 @@ webproton.site
 webrickshaw.com
 webroot-support-number.com
 webruble.ru
+websearchusa.net
 websightmedia.com
 websitedesignshop.co.za
 websitegalore.net
@@ -114268,6 +114349,7 @@ xrmail.top
 xrmail.xyz
 xroz.com
 xrpmail.com
+xrseo.store
 xrum.store
 xrumer.app
 xrummer.com
@@ -115256,6 +115338,7 @@ zipzx.site
 zipzy.site
 zipzz.site
 zirafyn.com
+ziragold.com
 zirsc.fun
 zisustand.site
 zita-blog-xxx.ru

@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-07T00:41:25.498Z
+! Last modified: 2024-01-07T06:10:11.393Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -41105,6 +41105,7 @@
 ||smartappsfly.com^
 ||smartdating.top^
 ||smartlnk.com^
+||smartpicrotation.com^
 ||smarttds.org^
 ||smarttopchain.nl^
 ||smartytech.io^
@@ -55567,6 +55568,7 @@ anapx.net
 anarcholife.info
 anark.se
 anastasia-international.com
+anastasiaann.com
 anastasiasaffiliate.com
 anatomyabdicatenettle.com
 anatomyassault.com
@@ -57967,6 +57969,7 @@ aundh.net
 auneghus.net
 aungoutsy.com
 aungumse.com
+aunmoneyworld.in
 aunsagoa.xyz
 aunsaick.com
 aunt-tamis-house.com
@@ -64096,6 +64099,7 @@ cae56556-d767-4b5d-8dd8-8240e24adb0f.www.acessoriosparablogs.com.br
 caecitiswimblelikegheber.com
 caeli-rns.com
 caesak.com
+caesarbrand.com
 caesardamaging.com
 caesarind.com
 caesarionbrand.com
@@ -64692,6 +64696,7 @@ carpetsivaan.co.in
 carpettraders8.com
 carpi3fnusbetgu5lus.com
 carradine.xyz
+carrchevy.com
 carrd.ci
 carredwithblao.xyz
 carrellsubdit.com
@@ -64993,6 +64998,7 @@ caussr.com
 causticfallout.net
 cauthaushoas.com
 cautiondime.com
+cautiooildom.uno
 cautiotumfie.com
 cautiouscooperativegentlemen.com
 cautiousroof.pro
@@ -65696,6 +65702,7 @@ chalaips.com
 chalanimman.com
 chalehsboasted.space
 chalengeadv.com
+chaletinnature.com
 chaletservis.com
 chaletweekend.com
 chaliyarislandtourism.com
@@ -65820,6 +65827,7 @@ charlesbridge.group
 charlessponsor.com
 charliethegoldenretriever.com
 charlotteallain.co.uk
+charlotteklimo.com
 charmbaytok.ir
 charmingblur.com
 charmingcolors.com
@@ -67101,6 +67109,7 @@ clinkgradualunleash.com
 cliobooks.us
 clipartimage.net
 clipaz.biz
+clipbokep.video
 clipcrib.live
 clipelis.lol
 cliplights.com
@@ -68791,6 +68800,7 @@ coriesbelycos.com
 corinacare.co.uk
 corinahealth.co.uk
 corinaway.co.uk
+coringware.com
 corinnazurneddencoaching.com
 corinthchatti.life
 corkiteihp.website
@@ -69533,6 +69543,7 @@ crooth.com
 cropeaseside.top
 croplake.com
 croppending.com
+crops2trade.com
 crossborderhs.com
 crossheart.store
 crossingwhile.com
@@ -70983,6 +70994,7 @@ dbizrrslifc.com
 dbkdwe1.com
 dbkfnjoda.com
 dblbkinsuswpr.com
+dbminers.in
 dbmzgcmqqi.com
 dboard.app
 dbobnmjg.com
@@ -72916,6 +72928,7 @@ distastefulsagacious.com
 disterrguao.top
 distilinborn.com
 distilled.ie
+distilledphoto.com
 distillingspirit.us
 distinct-bicycle.com
 distinctbelieverjustify.com
@@ -77428,6 +77441,7 @@ establishcollectnonsense.com
 establishdejectionremaining.com
 estabrooklabs.com
 estafair.com
+estafetcurrans.website
 estateorigin.com
 estaterenderwalking.com
 estatestitch.com
@@ -78552,6 +78566,7 @@ facilitypestilent.com
 facilitystrode.com
 facilmenteon.com.br
 facinggleg.life
+facjppcjmkbnen.xyz
 fackeyess.com
 faclientirethe.xyz
 facsimrunt.space
@@ -81239,6 +81254,7 @@ franchisefirst.in
 franchisetoday.org
 francishka.com
 francishka.store
+francishonses.com
 francisunbeget.com
 francoamericano.org
 francoismandeville.com
@@ -83454,6 +83470,7 @@ gisdmbwbpagfa.com
 gisf.in
 gishejuy.com
 gishmak.org
+gislerarundo.uno
 gisslive.net
 gistblemishparking.com
 gisttorn.com
@@ -84770,6 +84787,7 @@ gptazeuotlng.com
 gptindia.in
 gptpyf.top
 gpttuucg.com
+gptw.ai
 gpub.online
 gpuqizoz.com
 gpuskmmm.com
@@ -85172,6 +85190,7 @@ greystokeassociates.com
 grfiliwbqtnrvsg.com
 grfinancialaccess.net
 grfscxpzt.com
+grgrddihc.com
 grgroup.am
 grhardewarenply.com
 grhb.me
@@ -86694,6 +86713,7 @@ healie.net
 healing-streams-center.com
 healingpatternsdesign.com
 healingpelivicpain.net
+healingplanet.shop
 healingthebighurt.org
 healquite.com
 healsap.com
@@ -86901,6 +86921,7 @@ helio-3recharge.com
 helionteasy.digital
 helisens.ca
 helisens.com
+helisens.io
 helitag.direct
 helitagrfid.com
 helium-3gasolinera.com
@@ -87030,6 +87051,7 @@ hentaiheroes.com
 hentaionline.net
 hentaipuzzler.com
 hentaisland.com
+hentaitec.net
 hentaitimes.com
 heodeidsoanadthe.info
 heoffers.com
@@ -87500,6 +87522,7 @@ hinaxrckuolr.com
 hindichris.com
 hindicomputer.com
 hindidelight.in
+hindmetalcraft.com
 hinducouncil.in
 hindumantra.in
 hindustanguruwarrantyassist.com
@@ -90623,6 +90646,7 @@ indoorsmanoutfitter.com
 indoretourtravel.com
 indraftcoft.digital
 indraneelconsultants.tech
+indrinaquad.com
 indrive.info
 induceresistbrotherinlaw.com
 induedabusive.casa
@@ -95272,6 +95296,7 @@ kh.billetsparapod.com
 kh.enduredslayers.com
 khaataa.in
 khabarkhazana.co.in
+khabarpress.com
 khachsanhaiaudoson.com
 khadiprakritikpainthosur.com
 khadithandai.in
@@ -99253,6 +99278,7 @@ loqixolsfts.com
 lorageiros.com
 loralana.com
 lorawansolutions.online
+lorcgnziipstq.com
 lord-family.com
 lordfilm-0.fun
 lordfilm-go.com
@@ -99383,6 +99409,7 @@ lovedate.online
 lovedcorrectionsuffix.com
 lovedrug.us
 loveepictravels.com
+lovehaokan.xyz
 lovehour.online
 lovelasers.online
 lovelivelouisiana.org
@@ -102273,6 +102300,7 @@ mexitlipiffles.com
 meyebrow.com
 meyopuae.com
 mezailacarids.uno
+mezivraty.com
 mezzarestaurants.xyz
 mezzoitys.life
 mezzosgrigri.com
@@ -106287,6 +106315,7 @@ newsrishta.com
 newsroc.net
 newssale.info
 newstarads.com
+newstechbd.xyz
 newstemptation.com
 newstodiscuss.com
 newsunads.com
@@ -107241,6 +107270,7 @@ northwestpharmacy.wf
 northwestpharmacy.yt
 northwestpoint.co.uk
 northwestterritoriesmoderate.ca
+northwestxchange.com
 northwoodcondominiums.com
 northwoodsliteracy.com
 northyorkfootball.com
@@ -109907,6 +109937,7 @@ oqxrfaqtr.top
 oqxybccaooh.com
 or.glottisuproute.com
 ora-oralcare.com
+oracletuts.net
 orahmaggi.xyz
 orakyl.com
 oral-speaker-summit.biz
@@ -111106,6 +111137,7 @@ painsko.com
 paintcompany.site
 paintifiercute.club
 paintjunction.in
+paintmyroom.app
 paintoppo.co.uk
 paintoppo.com
 paints-style.com
@@ -112532,6 +112564,7 @@ petroq8.online
 petroq8.site
 petroultra-oils.com
 petrranca.com
+petrrehak.com
 petrurbanek.com
 petruzzicalzature.com
 petsandoral.com
@@ -112645,6 +112678,7 @@ pgumnlqy.com
 pgveagom.com
 pgwalebooking.com
 pgwcrtobrdjx.com
+pgwlzodsll.com
 pgxd3.com
 pgxxhuasf.com
 pgzyz8.com
@@ -113166,6 +113200,7 @@ pindenspat.com
 pindex.online
 pinefluencydiffuse.com
 pinegenuineridiculous.com
+pinehills.ca
 pineoffice.com
 pinestreetland.com
 pinetq.com
@@ -114338,6 +114373,7 @@ poorlystepmotherresolute.com
 poorlytanrubbing.com
 poornabhat.in
 poorstubbornconvincing.com
+pooshpa.in
 poosoahe.com
 poosugap.com
 poowauho.top
@@ -117403,6 +117439,7 @@ qseermsgfalf.com
 qserjhqu.com
 qservz.com
 qsfbasbkt.com
+qsfianyj.com
 qsfravgvyki.com
 qsghdoiywu.com
 qshemaletube.com
@@ -118712,6 +118749,7 @@ reblownwinare.website
 reboduc.com
 rebootincarriacou.com
 rebornvehicles.com
+rebornyou.shop
 reboteveals.guru
 rebrand.ly
 rebrea.com
@@ -119173,6 +119211,7 @@ rehearsemeltdownrust.com
 rehearsepouredhysteria.com
 reheatmontia.com
 rehindsweeing.com
+rehoistpuls.life
 rehungrhythm.com
 rehvbghwe.cc
 rehyr.com
@@ -120952,6 +120991,7 @@ rosmprpcwqb.com
 rosolicdalapon.com
 rosqb6vb1cqp.com
 rosseaubay.com
+rossoparma.com
 rosstein.us
 rosteldicycle.cam
 rosterphyllin.guru
@@ -125283,6 +125323,7 @@ sippvodka.ca
 sipsconstructionservices.co.uk
 siptea.com
 siqiyisli.com
+sirarstvo-tinka.com
 siredgarallancrow.com
 siredgynics.com
 siredonlacs.com
@@ -125629,6 +125670,7 @@ skupina-babylon.com
 skvelavirtualka.online
 skwfupp.com
 skxruychihwqcio.xyz
+sky4people.com
 skyaceaero.com
 skybridgefirm.us
 skyclear.space
@@ -125636,6 +125678,7 @@ skycorevietnam.com
 skycrewz.net
 skydivedubain.space
 skyebridgehotel.co.uk
+skyforpeople.com
 skyglobalexpress.in
 skylinefba.com
 skyllx.com
@@ -125957,6 +126000,7 @@ smaragdinaspa.com
 smaragdinastore.com
 smart-building.cloud
 smart-cmr.com
+smart-doghouse.com
 smart-gym.company
 smart-kiwi.com
 smart-name.pro
@@ -126039,6 +126083,7 @@ smartmoneybuyzone.com
 smartnmc.com
 smartobce.online
 smartonfood.co.uk
+smartpicrotation.com
 smartplay777.com
 smartrecruitglobal.com
 smartredesign.co.in
@@ -127637,6 +127682,7 @@ ssiapawz.com
 ssimpcity.su
 ssindserving.com
 ssinghsbd.online
+ssionsupre.fun
 ssitgixpv.com
 sskmnews.pro
 sskyjwlnkhdx.com
@@ -127740,6 +127786,7 @@ staggeredravehospitality.com
 staggerment.com
 stagingjobshq.com
 stagiro.dev
+stagiro.net
 stagiro.org
 stahovanizdatoidu.info
 stahovanizdatoidu.xyz
@@ -130905,6 +130952,9 @@ teknolucion.net
 teknoshop.blue
 teknoshop.club
 teksavvyca.com
+tekstilna-zapestnica.com
+tekstilna-zapestnica.net
+tekstilne-zapestnice.com
 tekuawcwhxiql.com
 tel-tel-fie.com
 telarlyfasels.guru
@@ -133076,6 +133126,7 @@ tkitvbwlp.com
 tkivirdavwi.com
 tkkbcwrmwfyymfo.xyz
 tkklassykids.com
+tkmiro.com
 tkn-portrait.net
 tko.bb
 tkojkhsfaplctiu.top
@@ -137230,6 +137281,7 @@ urbanagriculturedesign.com
 urbanagricultureinnovations.com
 urbanahousingfund.org
 urbanbizhub.com
+urbanclothingcanada.com
 urbandecaysta.com
 urbandesignco.co.in
 urbaneceasmic.digital
@@ -137614,6 +137666,7 @@ uuaa004.com
 uubforbdc2om.com
 uubointern.org
 uubvzyzo.com
+uucfeebvz.com
 uucstalnghf.com
 uudproxxc.com
 uudzfbzthj.com
@@ -139682,6 +139735,7 @@ voizensoul.org
 vojjdenie.ru
 vojmirblazek.com
 vojta.app
+vojtechkostal.com
 vokhnavsky.art
 vokjslngw.xyz
 vokrjmishvy.com
@@ -140063,6 +140117,7 @@ vulguspyemic.com
 vulkan-bonus.cfd
 vulkan-deluxe-mirror.icu
 vulkan-deluxe-mirror.sbs
+vulkan-deluxe-registration.cfd
 vulkan-fullversion.cfd
 vulkan-grand-casinos.icu
 vulkan-igrovie-avtomaty.cfd
@@ -142623,6 +142678,7 @@ woopgoop.com
 woophoog.net
 woopteem.net
 woosur.com
+woosvaginas.uno
 wootmedia.net
 wootoash.net
 wooupsell.com
@@ -145690,6 +145746,7 @@ www.cablestvdeals.com
 www.cadencecovetousfireplace.com
 www.cadetrigourlegitimate.com
 www.caecitiswimblelikegheber.com
+www.caesarbrand.com
 www.caesardamaging.com
 www.caesarporch.com
 www.cafemolano.net
@@ -158746,6 +158803,7 @@ xfrena.com
 xfsbqxkysmkoqup.com
 xftgpbmml.com
 xfu66.com
+xfvfkoakk.xyz
 xfvvygrv.com
 xfwblpomxc.com
 xfxssqakis.com
