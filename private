@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-07T18:09:49.274Z
+! Last modified: 2024-01-08T00:38:51.665Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4701,6 +4701,7 @@ data.mistat.rus.xiaomi.com
 ||5thfinger.com^
 ||5toft8or7on8tt.com^
 ||5u.com^
+||5vbs96dea.com^
 ||5visions.com^
 ||6001628d3d.com^
 ||6061de8597.com^
@@ -5265,6 +5266,7 @@ data.mistat.rus.xiaomi.com
 ||abkoxlikbzs.com^
 ||ableandworld.info^
 ||analytics.ableton.com^
+||abletoprese.org^
 ||ablida.net^
 ||abluentshinny.com^
 ||metric.ably.com^
@@ -10737,7 +10739,6 @@ data.mistat.rus.xiaomi.com
 ||bitmedia.io^
 ||bitmedianetwork.com^
 ||analytics.bitmex.com^
-||email.mg.bitmex.com^
 ||analytics-ingress-global.bitmovin.com^
 ||bitonclick.com^
 ||analytics.bitpanda.com^
@@ -12945,7 +12946,6 @@ data.mistat.rus.xiaomi.com
 ||cima-club.club^
 ||4k.cimovies.org^
 ||cinarra.com^
-||link.cincinnatimagazine.com^
 ||analytics.cincopa.com^
 ||matomo.valueforyou.cineca.it^
 ||cinemahd.top^
@@ -15586,6 +15586,7 @@ data.mistat.rus.xiaomi.com
 ||eec.crunchyroll.com^
 ||metrics.crunchyroll.com^
 ||crunodedysuric.digital^
+||crupie.com^
 ||analytics.crushon.ai^
 ||crusilyparonym.com^
 ||analytics.crutchfield.com^
@@ -15594,6 +15595,7 @@ data.mistat.rus.xiaomi.com
 ||crvbnac.xyz^
 ||crwdcntrl.net^
 ||cry2h.cn^
+||cryingforanythi.com^
 ||cryjun.com^
 ||metric.crypto.org^
 ||metric.pay.crypto.com^
@@ -15601,6 +15603,7 @@ data.mistat.rus.xiaomi.com
 ||crypto-loot.com^
 ||crypto-loot.org^
 ||crypto-webminer.com^
+||cryptoad.space^
 ||cryptobeneluxbanner.care^
 ||cryptobrowser.site^
 ||cryptocoinsad.com^
@@ -20509,6 +20512,7 @@ data.mistat.rus.xiaomi.com
 ||marketing.ftfnews.com^
 ||ftiodfqk.com^
 ||ftjcfx.com^
+||ftltbijc.com^
 ||ftmhsrrk.com^
 ||ftrtnr.xyz^
 ||ftte.fun^
@@ -24395,9 +24399,6 @@ data.mistat.rus.xiaomi.com
 ||inclusacharmed.com^
 ||matomo.incm.pt^
 ||incognitosearches.com^
-||email1.incommincentives.com^
-||email.engage.incommincentives.com^
-||email.loyalty.incommincentives.com^
 ||incompatible-singer.pro^
 ||incompleteshock.pro^
 ||incompletethong.com^
@@ -24894,7 +24895,6 @@ data.mistat.rus.xiaomi.com
 ||invoc.us^
 ||invoca.net^
 ||solutions.invocacdn.com^
-||email.invoicecloud.net^
 ||involuntarysteadyartsy.com^
 ||involve.asia^
 ||posthog.admin.involve.me^
@@ -35749,6 +35749,7 @@ data.mistat.rus.xiaomi.com
 ||qvdt3feo.com^
 ||qvftejz.cn^
 ||analytics.qvisto.net^
+||qvlczhitbsqpl.com^
 ||qvol.tv^
 ||qvpublish.com^
 ||qvrdlvz.cn^
@@ -35822,6 +35823,7 @@ data.mistat.rus.xiaomi.com
 ||raccogliereilconsenso.com^
 ||racewhisperingsnow.com^
 ||saa.rachaelrayshow.com^
+||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||smetrics.rackroomshoes.com^
 ||racktidyingunderground.com^
 ||hcjpbc.radaronline.com^
@@ -37303,6 +37305,7 @@ data.mistat.rus.xiaomi.com
 ||rwnmcum.cn^
 ||rwuannaxztux.com^
 ||rwwoqcjefc.com^
+||rwzzeivpakyxql.com^
 ||rxatodtvt.com^
 ||rxeosevsso.com^
 ||rxglvcowb.com^
@@ -39267,6 +39270,7 @@ data.mistat.rus.xiaomi.com
 ||sneakwind.com^
 ||snebbubbled.com^
 ||sneezeinterview.com^
+||snhtvtp.com^
 ||snidethereto.com^
 ||adsales.snidigital.com^
 ||analytics.snidigital.com^
@@ -42011,7 +42015,6 @@ data.mistat.rus.xiaomi.com
 ||dyn.tnaflix.com^
 ||tnative.ru^
 ||tncid.app^
-||email.tncountyclerk.com^
 ||tneca.com^
 ||tneduf.com^
 ||tnfhxszj.xyz^
@@ -47424,25 +47427,6 @@ data.mistat.rus.xiaomi.com
 ||log-tienphong.zadn.vn^
 ||mda.zadn.vn^
 ||sdk.zadn.vn^
-||zpsocial-f35-org.zadn.vn^
-||zpsocial-f40-org.zadn.vn^
-||zpsocial-f41-org.zadn.vn^
-||zpsocial-f42-org.zadn.vn^
-||zpsocial-f43-org.zadn.vn^
-||zpsocial-f44-org.zadn.vn^
-||zpsocial-f45-org.zadn.vn^
-||zpsocial-f46-org.zadn.vn^
-||zpsocial-f47-org.zadn.vn^
-||zpsocial-f48-org.zadn.vn^
-||zpsocial-f49-org.zadn.vn^
-||zpsocial-f50-org.zadn.vn^
-||zpsocial-f51-org.zadn.vn^
-||zpsocial-f52-org.zadn.vn^
-||zpsocial-f53-org.zadn.vn^
-||zpsocial-f54-org.zadn.vn^
-||zpsocial-f55-org.zadn.vn^
-||zpsocial-f56-org.zadn.vn^
-||zpsocial-f57-org.zadn.vn^
 ||zaffarnimbed.com^
 ||analytics.zagg.com^
 ||metrics.zagg.com^
@@ -48618,7 +48602,6 @@ aidspectacle.com
 aiir.net
 aimatch.com
 aimtell.com
-airconditionblown.com
 aireport.shalltry.com
 airpr.com
 aj1010.online
@@ -50046,7 +50029,6 @@ gddghktygtmc.com
 gdrytrk.com
 gecko-sg.byteoversea.com
 gelclinchfranz.com
-gemlocomotivemid.com
 generalizebusinessman.com
 generashionvd.com
 genericlink.com
@@ -62493,7 +62475,6 @@ rebelmouse.io
 rebrandly.com
 rebuyengine.com
 reciteassemble.com
-reconsiderallowinggunfire.com
 recordingperky.com
 redevents-bigdata.redefine.pl
 redeye.international
@@ -104649,6 +104630,7 @@ sanantoniornjob.com
 sancamap.com
 sancie8pallete.com
 sandcars.net
+sandcress.xyz
 sandegg.com
 sandiegobeer.com
 sandiegolifescience.com
@@ -108883,6 +108865,7 @@ themail3.net
 themailpro.net
 themailredirector.info
 themanage.ru
+themanlythings.com
 themarijuanalogues.com
 themasqline.com
 themasterschoicellc.com
