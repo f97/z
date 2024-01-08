@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-08T00:38:51.665Z
+! Last modified: 2024-01-08T06:11:33.445Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -75411,6 +75411,7 @@ bulso-law.com
 bultacoparts.com
 bulutdns.com
 bum09.xyz
+bumbuireng.xyz
 bumpmail.io
 bumpymirror.site
 bumss.fun
