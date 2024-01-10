@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-10T00:38:08.401Z
+! Last modified: 2024-01-10T06:10:52.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -111,6 +111,7 @@
 0.0.0.0 analytics.admob.com
 0.0.0.0 p.admob.com
 0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0
 0.0.0.0 e-ltvp.inmobi.com
 0.0.0.0 adchoice.com.vn
 0.0.0.0 init.startappexchange.com
@@ -271,6 +272,7 @@
 0.0.0.0 zhihu-analytics.zhihu.com
 0.0.0.0 log.cmbchina.com
 0.0.0.0 api.instabug.com
+0.0.0.0 fonts.googleapis.com
 0.0.0.0 r1.ykimg.com
 0.0.0.0 sd.domob.cn
 0.0.0.0 51.la
@@ -430,6 +432,8 @@
 0.0.0.0 ox-d.majorgeeks.com
 0.0.0.0 eclkmpsa.com
 0.0.0.0 intowow.applefeed.com.tw
+0.0.0.0 appldnld.apple.com
+0.0.0.0 mesu.apple.com
 0.0.0.0 ox-d.advanceweb.com
 0.0.0.0 n208adserv.com
 0.0.0.0 delivery.brokerbabe.com
@@ -10988,6 +10992,9 @@
 0.0.0.0 api.aff-online.com
 0.0.0.0 aff-track.net
 0.0.0.0 red.aff-track.net
+0.0.0.0 ap1.event.dfinery.io
+0.0.0.0 ap2.event.dfinery.io
+0.0.0.0 event.dfinery.io
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -11464,6 +11471,8 @@
 0.0.0.0 tracking.api.media.zapps.vn
 0.0.0.0 za.zapps.vn
 0.0.0.0 zplayer.trk.zapps.vn
+0.0.0.0 analytics.zapps.me
+0.0.0.0 tech.zapps.me
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 delivery.yomedia.vn
 0.0.0.0 demo.yomedia.vn
@@ -12646,6 +12655,7 @@
 0.0.0.0 log.kaka.me
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.kinhtedouong.vn
+0.0.0.0 log.lichviet.org
 0.0.0.0 log.mekongasean.vn
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhandan.vn
@@ -12689,6 +12699,7 @@
 0.0.0.0 mautic-learn.teky.edu.vn
 0.0.0.0 mautic.200lab.io
 0.0.0.0 mautic.teky.edu.vn
+0.0.0.0 measure.vndirect.com.vn
 0.0.0.0 mkt.hoanghamobile.com
 0.0.0.0 monitor.teko.vn
 0.0.0.0 mto.cgv.vn
@@ -12708,6 +12719,7 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 s6.textlink.vn
+0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 smetrics.kone.vn
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
@@ -12730,7 +12742,6 @@
 0.0.0.0 sv-api-event.headlines.pw
 0.0.0.0 ta.toprework.vn
 0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
-0.0.0.0 tech.zapps.me
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.arttimes.vn
 0.0.0.0 thongke.baotintuc.vn
