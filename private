@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-10T12:15:06.746Z
+! Last modified: 2024-01-10T18:10:33.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -19271,7 +19271,6 @@ data.mistat.rus.xiaomi.com
 ||drystervernile.life^
 ||dryum.ru^
 ||ds1.nl^
-||ds2play.com^
 ||ds3.biz^
 ||ds7hds92.de^
 ||dsbfpt.xyz^
@@ -76086,6 +76085,7 @@ astibo.com
 astiglass.org
 astipa.com
 astiu.com
+astmail.com
 astorcollegiate.com
 astraeusairlines.xyz
 astrafriends.com
@@ -80744,6 +80744,7 @@ centrumfinansow24.pl
 centrurytel.net
 centurtel.net
 centurtytel.net
+centuryeslon.com
 centurylinm.com
 centurytrl.net
 centvps.com
@@ -116706,6 +116707,7 @@ watrf.com
 waucisni.cf
 waudomen.space
 wavescientist.com
+wavisitorcentre.com
 wavleg.com
 wavr.org
 wawadaw.fun
