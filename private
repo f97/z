@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-11T06:11:19.098Z
+! Last modified: 2024-01-11T12:14:57.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -19996,7 +19996,6 @@ data.mistat.rus.xiaomi.com
 ||media.evolv.ai^
 ||participants.evolv.ai^
 ||evolvemediallc.com^
-||evolveplatform.net^
 ||evonames.com^
 ||smetrics.evoshield.com^
 ||evours.com^
@@ -22160,7 +22159,6 @@ data.mistat.rus.xiaomi.com
 ||metrics.gemeinsamerleben.com^
 ||gemius.com^
 ||gemius.hu^
-||gemius.pl^
 ||clarity.gemseducation.com^
 ||analytics.gen.in^
 ||gen-ref.com^
@@ -41131,7 +41129,6 @@ data.mistat.rus.xiaomi.com
 ||spotscenered.info^
 ||spotsniper.ru^
 ||spotssurprise.com^
-||spotx.tv^
 ||spotxcdn.com^
 ||spotxchange.com^
 ||spoutable.com^
@@ -41152,7 +41149,6 @@ data.mistat.rus.xiaomi.com
 ||cmp.springernature.com^
 ||data-588cbce106.springerprofessional.de^
 ||springify.io^
-||springserve.com^
 ||matomo.springtrack.de^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
@@ -106224,6 +106220,7 @@ sdfdsf.com
 sdfefdcs4.com
 sdfgdfg.com
 sdfgf.com
+sdfgmail.com
 sdfgs.com
 sdfgwsfgs.org
 sdfq.com
