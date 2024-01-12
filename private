@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-12T12:14:52.039Z
+! Last modified: 2024-01-12T18:10:35.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -80030,6 +80030,7 @@ contact.travellerapp.click
 contact.tryhelps.click
 contact28.teamslabs.click
 contact75.thesupprts.click
+contact80.getteams.click
 contact81.boozeclub.click
 contact82.customercares24.info
 contactare.com
