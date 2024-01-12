@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-11T18:10:35.709Z
+! Last modified: 2024-01-12T00:38:20.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5947,7 +5947,6 @@ data.mistat.rus.xiaomi.com
 ||adjuggler.com^
 ||adjuggler.net^
 ||adjuka.com^
-||adjust.world^
 ||atom.adjust.com^
 ||s2s.adjust.com^
 ||view.adjust.com^
@@ -8017,7 +8016,6 @@ data.mistat.rus.xiaomi.com
 ||ln.ameba.jp^
 ||ad.pr.ameba.jp^
 ||sy.amebame.com^
-||sy.ameblo.jp^
 ||ad.amediakreativ.no^
 ||ameedbezique.uno^
 ||ameidj.xyz^
@@ -8459,7 +8457,6 @@ data.mistat.rus.xiaomi.com
 ||bannerwall.s3.appcnt.com^
 ||appcodedark.com^
 ||appcpi.net^
-||fast.appcues.com^
 ||appearancecustomerobliterate.com^
 ||appflood.com^
 ||tenant-content.apm.appfolio-analytics.com^
@@ -9214,7 +9211,6 @@ data.mistat.rus.xiaomi.com
 ||data-d2a8aec266.autohaus.de^
 ||metrics.autohebdo.net^
 ||autoid.com^
-||adm3.autoimg.cn^
 ||img2.autoimg.cn^
 ||events-prod.autolist.com^
 ||ox.autolive.be^
@@ -12337,10 +12333,8 @@ data.mistat.rus.xiaomi.com
 ||axp.cbs17.com^
 ||axp.cbs4indy.com^
 ||at.cbsi.com^
-||ads.play.cbsi.video^
 ||saa.cbsi.com^
 ||som.cbsi.com^
-||cbsinteractive.com^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
 ||cbsmarket.co^
@@ -13162,7 +13156,8 @@ data.mistat.rus.xiaomi.com
 ||vogue.cleverpush.com^
 ||waz.cleverpush.com^
 ||analytics.cleverside.com^
-||clevertap.com^
+||api.clevertap.com^
+||static.clevertap.com^
 ||clevertap-prod.com^
 ||cleverwebserver.com^
 ||clevi.com^
@@ -14424,7 +14419,6 @@ data.mistat.rus.xiaomi.com
 ||hubcloud.com.cn^
 ||huishenghuiying.com.cn^
 ||huoche.com.cn^
-||geoloc.hurriyet.com.tr^
 ||hw0.com.cn^
 ||t.hypers.com.cn^
 ||mwzbp.iask.com.cn^
@@ -17726,7 +17720,6 @@ data.mistat.rus.xiaomi.com
 ||dendranthe4edm7um.com^
 ||event.dengage.com^
 ||p.dengage.com^
-||pcdn.dengage.com^
 ||dengiua.com^
 ||a.denik.cz^
 ||beam.denikn.cz^
@@ -20117,7 +20110,6 @@ data.mistat.rus.xiaomi.com
 ||iabmap.evidon.com^
 ||info.evidon.com^
 ||l.evidon.com^
-||l3.evidon.com^
 ||evifokcrmhdmai.com^
 ||metric.clients.evisort.com^
 ||evlsn.com^
@@ -20231,7 +20223,6 @@ data.mistat.rus.xiaomi.com
 ||expdirclk.com^
 ||expectthatmyeduc.info^
 ||om.expedia.com^
-||oms.expedia.com^
 ||collector.prod.expedia.com^
 ||analytics.expediagroup.com^
 ||analytics.expediapartnersolutions.com^
@@ -21318,7 +21309,6 @@ data.mistat.rus.xiaomi.com
 ||xdaoxa.footasylum.com^
 ||analytics.football360.ir^
 ||ads.footballaddicts.com^
-||images.footballaddicts.se^
 ||analytics.footballdb.com^
 ||sanl.footlocker.ca^
 ||sanl.footlocker.com^
@@ -22003,7 +21993,6 @@ data.mistat.rus.xiaomi.com
 ||803e1.v.fwmrm.net^
 ||8118e.v.fwmrm.net^
 ||813c5.v.fwmrm.net^
-||bea4.v.fwmrm.net^
 ||bea4c.v.fwmrm.net^
 ||cue.v.fwmrm.net^
 ||dmp.v.fwmrm.net^
@@ -22539,7 +22528,13 @@ data.mistat.rus.xiaomi.com
 ||getpoliglu.com^
 ||analytics.getpostman.com^
 ||analytics.getpostman-stage.com^
-||getpublica.com^
+||admedia.getpublica.com^
+||pbc.getpublica.com^
+||pbs.getpublica.com^
+||pbs-eu.getpublica.com^
+||prebid-log.getpublica.com^
+||sync.getpublica.com^
+||usersync.getpublica.com^
 ||getpush.net^
 ||getpushmonkey.com^
 ||analytics.getradio.app^
@@ -26511,7 +26506,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.irobot.com^
 ||elq.irobot.com^
 ||iron0walk.com^
-||ironbeast.io^
 ||ironboe.com^
 ||ironcladtrouble.com^
 ||irondai.com^
@@ -26821,7 +26815,6 @@ data.mistat.rus.xiaomi.com
 ||ads-union.jd.com^
 ||cm.jd.com^
 ||dsp-x.jd.com^
-||gia.jd.com^
 ||im-x.jd.com^
 ||kepler.jd.com^
 ||knicks.jd.com^
@@ -30382,7 +30375,6 @@ data.mistat.rus.xiaomi.com
 ||info.membercoverage.com^
 ||smetrics.memberdeals.com^
 ||membershipimmunitysport.com^
-||cdn.memberspace.com^
 ||analytics.membrain.com^
 ||membrana.media^
 ||memecounter.com^
@@ -33555,7 +33547,6 @@ data.mistat.rus.xiaomi.com
 ||app.omarwhats.app^
 ||beta.omarwhats.app^
 ||update.omarwhats.app^
-||omaze.com^
 ||omazeiros.com^
 ||omclyzyapf.com^
 ||omcrobata.com^
@@ -33712,6 +33703,11 @@ data.mistat.rus.xiaomi.com
 ||online-banners.nl^
 ||stats.online-convert.com^
 ||metrics.online-event.co^
+||d.aa.online-metrix.net^
+||e.aa.online-metrix.net^
+||eu-aa.online-metrix.net^
+||h.online-metrix.net^
+||h6.online-metrix.net^
 ||online812.ru^
 ||onlinecinema.eu^
 ||onlinedeltazone.online^
@@ -33911,14 +33907,6 @@ data.mistat.rus.xiaomi.com
 ||optimix.asia^
 ||optimix.cn^
 ||analytics.optimizedpayments.com^
-||log.confluence.optimizely.com^
-||log.optimizely.com^
-||log-confluence.optimizely.com^
-||log-jira.optimizely.com^
-||log-wiki.optimizely.com^
-||log3.optimizely.com^
-||logx.optimizely.com^
-||logx-internal.optimizely.com^
 ||events.mobile.optimizely.com^
 ||optimizesrv.com^
 ||optimizeyourmac.com^
@@ -38953,7 +38941,6 @@ data.mistat.rus.xiaomi.com
 ||rtnews.pro^
 ||rtnuld.xyz^
 ||js.rtoaster.jp^
-||rt.rtoaster.jp^
 ||rtoofbxpekul.com^
 ||rtoukfareputfe.info^
 ||analytics.rtp.ch^
@@ -40147,8 +40134,14 @@ data.mistat.rus.xiaomi.com
 ||forms.share.works^
 ||events.shareably.net^
 ||shareadspace.com^
-||shareaholic.com^
+||analytics.shareaholic.com^
+||apps.shareaholic.com^
 ||cdn.shareaholic.net^
+||go.shareaholic.com^
+||grace.shareaholic.com^
+||partner.shareaholic.com^
+||recs.shareaholic.com^
+||traffic.shareaholic.com^
 ||smetrics.sharecare.com^
 ||sharedcount.com^
 ||telemetry.sharegate.com^
@@ -40556,7 +40549,6 @@ data.mistat.rus.xiaomi.com
 ||singmwn51g.com^
 ||singroot.com^
 ||i.singular.net^
-||s2s.singular.net^
 ||sdk-api-v1.singular.net^
 ||t.singular.net^
 ||sinisterdrops.com^
@@ -42044,7 +42036,6 @@ data.mistat.rus.xiaomi.com
 ||analytics.strayer.edu^
 ||elqtracking.strayer.edu^
 ||analytics.stream-io-api.com^
-||socket.streamable.com^
 ||streamate.com^
 ||statistics.streamdav.com^
 ||streamen.com^
@@ -42716,7 +42707,6 @@ data.mistat.rus.xiaomi.com
 ||acs4baichuan.m.taobao.com^
 ||adash.m.taobao.com^
 ||adashbc.m.taobao.com^
-||adashx.m.taobao.com^
 ||adashx4yt.m.taobao.com^
 ||agoodm.m.taobao.com^
 ||amdc.m.taobao.com^
@@ -43986,7 +43976,8 @@ data.mistat.rus.xiaomi.com
 ||w.totalactualnewz.com^
 ||x.totalactualnewz.com^
 ||y.totalactualnewz.com^
-||totalav.com^
+||stats.totalav.com^
+||track.totalav.com^
 ||marketing.totalcsr.com^
 ||totalfreshwords.com^
 ||dioqto.totaljobs.com^
@@ -64463,7 +64454,6 @@ schoolboyfingernail.com
 scoota.co
 scoutanalytics.net
 scramblerun.com
-scrapebust.com
 scriptvealpatronage.com
 scsmetrics.vodafone.it
 sctclick2.com
@@ -65705,7 +65695,6 @@ systemhostess.com
 t.dailymail.co.uk
 t17service.com
 t4p-upd.info
-t5lxz7dtq4iz.com
 t84c3srgclc9.com
 t85itha3nitde.com
 tabloidquantitycosts.com
@@ -73296,6 +73285,7 @@ arasempire.com
 arasj.net
 arawmail.com
 arbdigital.com
+arbitrazhnyj-yurist-msk.ru
 arbor-masters.com
 arbordigital.com
 arbx.com
@@ -78687,6 +78677,7 @@ cheapyyyy.xyz
 cheater.com
 cheaterboy.com
 cheatsgenerator.online
+cheburashka.site
 cheburekme.ru
 chechnya.conf.work
 check-down.xyz
@@ -79237,6 +79228,7 @@ clearancebooth.com
 clearcutcreative.com
 cleardex.io
 clearmail.online
+clearmailhub.com
 clearoptions.net
 clearwaterarizona.com
 clearwatercpa.com
@@ -81483,6 +81475,7 @@ defenderyou.com
 defensemart.com
 deferco.com
 defimole.com
+definedssh.com
 definetheshift.com
 definitern.site
 defqon.ru
@@ -82841,6 +82834,7 @@ dreamscapeprogrammaticadvertising.com
 dreamshare.info
 dreamspecialistcoaching.com
 dreamswithhope.com
+dreamvacation.top
 dreamvie.com
 dreamvotes.com
 dreamydeals.shop
@@ -83575,6 +83569,7 @@ egvgtbz.xorg.pl
 egygold.info
 egypharmazones.shop
 egyptrade.net
+egypttours.top
 egzmail.top
 egzones.com
 egzz.com
@@ -83796,6 +83791,7 @@ email1.casa-versicherung.de
 email1.com
 email1.io
 email1.pro
+email10p.org
 email3.mindrelay.com
 email42.com
 email4all.online
@@ -89979,6 +89975,7 @@ host1s.com
 host2k.store
 hostb.xyz
 hostcalls.com
+hostfrost.site
 hostguru.info
 hostguru.top
 hostilemyself.site
@@ -95897,6 +95894,7 @@ mailapps.online
 mailapso.com
 mailart.top
 mailart.ws
+mailas.site
 mailautomated01.com
 mailavi.ga
 mailax.ru
