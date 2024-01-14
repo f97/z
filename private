@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-14T12:13:35.508Z
+! Last modified: 2024-01-14T18:09:39.975Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -20108,11 +20108,6 @@ data.mistat.rus.xiaomi.com
 ||eukworektobe.pics^
 ||eulal-cnr.com^
 ||eulerian.com^
-||et.eulerian.net^
-||fdj.eulerian.net^
-||io1.eulerian.net^
-||ml.eulerian.net^
-||sfr.eulerian.net^
 ||euleriancdn.net^
 ||av.eulerupslant.com^
 ||eumenesgigsman.com^
@@ -46847,7 +46842,6 @@ data.mistat.rus.xiaomi.com
 ||vocalickopjes.com^
 ||vocath.com^
 ||vod4u.pl^
-||at.vodafone.de^
 ||business.vodafone.com^
 ||data-8173e3f7ee.vodafone.de^
 ||data-84bc7eaa45.vodafone.de^
@@ -46860,7 +46854,6 @@ data.mistat.rus.xiaomi.com
 ||swa.vodafone.cz^
 ||swa.vodafone.pt^
 ||tracking.vodafone.com^
-||vfd2dyn.vodafone.de^
 ||smetrics.vodafonecu.gr^
 ||data-84bc7eaa45.vodafonemail.de^
 ||vodfilmy.pl^
@@ -80633,6 +80626,7 @@ cown.com
 coworkingabroad.com
 coworkingabroad.org
 cowstore.net
+cowstore.org
 cox.bet
 cox146.store
 cox51.store
