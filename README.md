@@ -18,3 +18,4 @@ Pretty simple, copy URL and add it to your AdGuard Home DNS block lists.
 | ADS                | <https://z.f97.xyz/ads>               | \~143,978  |
 | Private            | <https://z.f97.xyz/private>           | \~130,268  |
 | Social             | <https://z.f97.xyz/social>            | \~37,376   |
+| White              | <https://z.f97.xyz/white>             | \~250      |
