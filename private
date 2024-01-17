@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-17T06:11:23.384Z
+! Last modified: 2024-01-17T12:15:19.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -20508,7 +20508,6 @@ data.mistat.rus.xiaomi.com
 ||go.ezoic.net^
 ||videosvc.ezoic.com^
 ||ezoicanalytics.com^
-||ezojs.com^
 ||ezozojawg.com^
 ||ezqbbqybwjbvm.top^
 ||ezsbhlpchu.com^
@@ -85756,6 +85755,7 @@ eventa.site
 eventao.com
 eventcolab.com
 eventforkids.pl
+eventjackpot.online
 eventmeile1.com
 eventorganic.com
 eventpages.com
