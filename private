@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-17T18:10:49.936Z
+! Last modified: 2024-01-18T00:38:43.809Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -20833,7 +20833,6 @@ data.mistat.rus.xiaomi.com
 ||feedbackexplorer.com^
 ||feedbackresearch.com^
 ||feedbackslingnonpareil.com^
-||feedblitz.com^
 ||feedcat.net^
 ||analytics.feeder.co^
 ||feedfinder23.info^
@@ -24423,9 +24422,6 @@ data.mistat.rus.xiaomi.com
 ||tag.heylink.com^
 ||heymatic.com^
 ||heyos.com^
-||mdp-appconf-sg.heytapdl.com^
-||mdp-appconf-us.heytapdl.com^
-||adsfs-sdkconfig.heytapimage.com^
 ||adx.ads.heytapmobi.com^
 ||adx-f.ads.heytapmobi.com^
 ||adx-id.ads.heytapmobi.com^
@@ -24446,13 +24442,8 @@ data.mistat.rus.xiaomi.com
 ||stg-data-in.ads.heytapmobi.com^
 ||stg-data-sg.ads.heytapmobi.com^
 ||uapi.ads.heytapmobi.com^
-||conf-in.dc.heytapmobi.com^
 ||report.uc.heytapmobi.com^
 ||ads.heytapmobile.com^
-||dragate-in-dc.heytapmobile.com^
-||obus-dc-us.heytapmobile.com^
-||omes-sec.heytapmobile.com^
-||push-dc-us.heytapmobile.com^
 ||heywire.com^
 ||heyzap.com^
 ||hezlqmwm.com^
@@ -51081,6 +51072,7 @@ vaali-mcs.byteoversea.com
 5min.com
 5nt1gx7o57.com
 5ovrmmmoubi71efvatfd.com
+5umpz4evlgkm.com
 5xd3jfwl9e8v.com
 63r2vxacp0pr.com
 65twenty.com
@@ -51774,6 +51766,7 @@ arcquestioningjersey.com
 arcspire.io
 arenalitteraccommodation.com
 arg.redgiant.com
+arguerepetition.com
 argumentsmaymadly.com
 arithmeticshovel.com
 arity.com
@@ -52364,6 +52357,7 @@ createsend2.com
 createsend3.com
 createsend4.com
 createsend5.com
+creatingkegtogether.com
 creativecdn.com
 creativedisplayformat.com
 creativeformatsnetwork.com
@@ -52461,6 +52455,7 @@ deema.agency
 deepintent.com
 deeprootedstranded.com
 defenderprovidedleash.com
+defineddrew.com
 definedlaunching.com
 degreeremainderfacultative.com
 delayeddisembroildisembroil.com
@@ -52604,6 +52599,7 @@ ebuckler.com
 ebz.io
 eclkmpbn.com
 eclkmpsa.com
+ecpms.net
 ecustomeropinions.com
 edge.adobedc.net
 edgeme.sh
@@ -53011,6 +53007,7 @@ gslb.com
 gslb.shalltry.com
 gssprt.jp
 gu-web.net
+guardianinvadecrept.com
 gumbolersgthb.com
 gumgum.com
 guomob.com
@@ -55662,9 +55659,12 @@ mkt11896.com
 mkt11897.com
 mkt11898.com
 mkt1190.com
+mkt11900.com
 mkt11901.com
 mkt11904.com
+mkt11905.com
 mkt1191.com
+mkt11910.com
 mkt1192.com
 mkt1193.com
 mkt1194.com
@@ -64774,6 +64774,7 @@ monumentsmaterialeasel.com
 moodokay.com
 mookie1.com
 morrowfreezer.com
+mostlytreasure.com
 motdgd.com
 mountain.com
 movcpm.com
@@ -64833,6 +64834,7 @@ nativeads.com
 nativendo.de
 nativeroll.tv
 navdmp.com
+naveljutmistress.com
 navigablepiercing.com
 nawpush.com
 ncaudienceexchange.com
@@ -65046,6 +65048,7 @@ painsdire.com
 palvanquish.com
 panachetech.com
 pangolin16.isnssdk.com
+parachuteeffectedotter.com
 parall.ax
 parchicky.com
 pardot.com
@@ -65060,6 +65063,7 @@ passeura.com
 passionfruitads.com
 passtechusa.com
 passwordssaturatepebble.com
+pastreflected.com
 pathfactory.com
 payingnoodlescam.com
 pcapredict.com
@@ -65163,6 +65167,7 @@ playground.xyz
 playgroundordinarilymess.com
 plqbxvnjxq92.com
 plugerr.com
+plumposterity.com
 plymedia.com
 pnsdkapi.turktelekom.com.tr
 po.st
@@ -65201,6 +65206,7 @@ ppchero.com
 ppcnt.pro
 pr-bh.ybp.yahoo.com
 prd.sca.samsung.com
+preachribbonsummoned.com
 preanalytication.com
 prebid.org
 premiumads.com.br
@@ -65438,6 +65444,7 @@ responsetap.com
 responsiverender.com
 restaurantbubblerub.com
 restlessconsequence.com
+resumeconcurrence.com
 retargeting.biz
 retentioneering.com
 reticencevaliddecoction.com
@@ -72639,6 +72646,7 @@ acwritav.ml
 acyclovir-buy.com
 ad-seo.com
 ad6.net
+ada-remont.ru
 adaandbitcoin.com
 adachiu.me
 adacplastics.com
@@ -73341,6 +73349,7 @@ albtelecom.com
 albuquerquequote.com
 alburov.com
 albuterolasthma.com
+albvitrina.com
 alcdel.store
 alcegi.ml
 alcoholbuddy.com
@@ -73826,6 +73835,7 @@ ammosummit.com
 amogan.ml
 amoniteas.com
 amonscietl.site
+amorebath.co.uk
 amornino.com
 amorphis.org
 amoxicillincaamoxil.com
@@ -75951,6 +75961,7 @@ bazakrossrf.ru
 bazakts.ru
 bazarmurah.xyz
 bazarop.com
+bazatek.com
 bazavashdom.info
 bazienfejar.com
 bb-ins.us
@@ -77239,6 +77250,7 @@ blog.net.gr
 blog.oldoutnewin.com
 blog.pointbuysys.com
 blog.poisedtoshrike.com
+blog.timesup.top
 blog101.com
 blog365.com
 blog68h.site
@@ -78390,6 +78402,7 @@ burung.store
 busanb19.net
 busantei.com
 bushdown.com
+bushka345.store
 busin.site
 business-agent.info
 business-bank-account.com
@@ -78981,6 +78994,7 @@ caocloset.com
 caoq5do.xyz
 caosusaoviet.vn
 caotaohu.com
+caowar.com
 cap-ibu-dan-anak.ml
 capacitytruscle.com
 capebretonpost.com
@@ -83261,6 +83275,7 @@ dindev.ru
 dineroa.com
 dinkmail.com
 dinkysocial.com
+dinlaan.com
 dinmail.store
 dinocaira.com
 dinospacegame.com
@@ -83319,6 +83334,7 @@ dirfreshfile.site
 dirfreshfiles.site
 dirgoodtext.site
 dirkkalb084.xyz
+dirksop.com
 dirrarefile.site
 dirrarefiles.site
 dirtremoval.ca
@@ -84704,6 +84720,7 @@ egzones.com
 egzz.com
 ehabinyxeq.host
 ehleber.tk
+ehlio.com
 ehmail.com
 ehmail.fun
 ehomail.com
@@ -88975,6 +88992,7 @@ gmailni.com
 gmailni.p44iz.rr.nu
 gmailnt.com
 gmailo.site
+gmailod.com
 gmailos.com
 gmailpro.cf
 gmailpro.gq
@@ -89441,6 +89459,7 @@ graphoconsult.com
 graphriro.cf
 grapplingvault.com
 grasscutter.in
+grassdev.com
 grassfed.us
 grassfirelab.com
 grassrootcommunications.com
@@ -92004,6 +92023,7 @@ ikpz6l.pl
 ikuaifang.com
 ikunolopen.pro
 ikuq.com
+ikuromi.com
 ikusetizen.asia
 ilavana.com
 ilaws.work
@@ -93263,6 +93283,7 @@ jcgarrett.com
 jcgawsewitch.com
 jchez.com
 jcll.buzz
+jcnorris.com
 jdbqbhfwgo.ga
 jddrew.com
 jdecorz.com
@@ -94777,6 +94798,7 @@ kongbet.ru
 kongdombli.ga
 kongree.site
 kongshuon.com
+konican.com
 konkatsudonki.xyz
 konkurssemeimo2021.ru
 konmail.com
@@ -95205,6 +95227,7 @@ laklica.com
 lakqs.com
 lakssan.com
 laky-winner.ml
+lakzojsufz.com
 lalaboutique.com
 lalala001.orge.pl
 lalarguesa.biz
@@ -98336,6 +98359,7 @@ meetandf.com
 meetcreditcool.co
 meetfellini.com
 meethelp.sbs
+meethelps.click
 meethelps.site
 meetoricture.site
 meetshopnow.xyz
@@ -98760,6 +98784,7 @@ milftitscum.com
 militarybrush.us
 militaryencyclopedia.com
 milited.site
+milkcreeks.com
 milkpower.xyz
 milkyday.space
 millanefernandez.art
@@ -99284,6 +99309,7 @@ molms.com
 molyka.store
 mom2kid.com
 momentidea.com
+momento.pw
 momew.com
 momfashionlifestyle.com
 mommadeit.com
@@ -105711,6 +105737,7 @@ rapa.ga
 rapidbeos.net
 rapidbooks.site
 rapiddecisiontermlife.com
+rapidprofitmachine1.com
 rapidprotect.ml
 rapidwristbands.net
 rapiicloud.xyz
@@ -106347,6 +106374,7 @@ renomitt.ml
 renovation-manhattan.com
 rent-an-app.com
 rent2.xyz
+rentaen.com
 rentforsale7.com
 rentgigolo.com
 rentheath.com
@@ -108230,6 +108258,7 @@ seo-laboratory.ru
 seo-mailer.com
 seo-search.site
 seo-treff.de
+seo-ul.store
 seo-vk.fun
 seo4u.site
 seo4website.co.uk
@@ -109269,6 +109298,7 @@ smartdreamzzz.com
 smartertactics.com
 smartlivingmadesimple.com
 smartlyheated.com
+smartnator.com
 smartok.app
 smartpickr.com
 smartpikes.site
@@ -110608,6 +110638,7 @@ suppb.site
 suppc.site
 suppd.site
 suppelity.site
+supperion.com
 suppf.site
 suppg.site
 supph.site
@@ -112352,6 +112383,7 @@ tmpbox.net
 tmpeml.com
 tmpmail.net
 tmpmail.org
+tmpmailtor.com
 tmpnator.live
 tmppg.tk
 tmqb.com
@@ -112765,6 +112797,7 @@ track.healthme.one
 track1.onlinepaidjobs.me
 track2.onlinepaidjobs.me
 track6.boostsale.live
+trackden.com
 trackerad.xyz
 trackerok.ru
 trackinghub.org
@@ -113106,6 +113139,7 @@ tsclip.com
 tscu.com
 tscyule.com
 tsczxzc.com
+tsderp.com
 tsdtracker.com
 tsedalel.tk
 tshirtformens.com
@@ -113554,6 +113588,7 @@ ubmail.com
 ubomail.com
 ubsnwqkgma.ga
 ubumail.com
+ubuzz.it
 ubvs.com
 ucemail.com
 uchj.com
@@ -115823,6 +115858,7 @@ wen3xt.xyz
 wenezuwuj.host
 wenkuu.com
 wensaotu.com
+wentcity.com
 weobd.com
 wep.email
 weprintgroup.com
@@ -116526,6 +116562,7 @@ wusnet.site
 wusolar.com
 wuupr.com
 wuuvo.com
+wuzak.com
 wvasueafcq.ga
 wvcheckpoints.com
 wveo.com
@@ -117576,6 +117613,7 @@ yuridicheskaya-konsultaciya-onlajn.ru
 yuridicheskaya-konsultaciya99.ru
 yurikeprastika.art
 yurist-konsultaciya-moskva1.ru
+yurist-konsultaciya-msk1.ru
 yurist-po-alimentam-v-moskve.ru
 yurist-po-nasledstvu-msk-mo.ru
 yuristpro.xyz
