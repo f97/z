@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-18T12:15:41.697Z
+! Last modified: 2024-01-18T18:11:11.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -6531,7 +6531,6 @@ data.mistat.rus.xiaomi.com
 ||pixelg.adswizz.com^
 ||sonar.adswizz.com^
 ||staging.adswizz.com^
-||streaming.adswizz.com^
 ||synchrobox.adswizz.com^
 ||tunein.adswizz.com^
 ||zc.adswizz.com^
@@ -6993,7 +6992,6 @@ data.mistat.rus.xiaomi.com
 ||fh-main.measure.agilemeasure.com^
 ||agilemedia.jp^
 ||analytics.agilenavi.com^
-||explore.agilent.com^
 ||seahorseinfo.agilent.com^
 ||agillic.eu^
 ||agilone.com^
@@ -11084,7 +11082,6 @@ data.mistat.rus.xiaomi.com
 ||smetrics.bms.com^
 ||smetrics.bmscustomerconnect.com^
 ||smetrics.bmspaf.org^
-||hbbtv-tracking.bmt-technik.de^
 ||bmtfka93.xyz^
 ||countly.bmwgroup.com^
 ||countly-preprod.bmwgroup.com^
@@ -15805,15 +15802,12 @@ data.mistat.rus.xiaomi.com
 ||cwrxgb.icu^
 ||cxapio.xyz^
 ||tx.cxcprime.com^
-||api.cxense.com^
-||cdn.cxense.com^
 ||comcluster.cxense.com^
 ||csyn.cxense.com^
 ||csyn-r.cxense.com^
 ||cxad.cxense.com^
 ||id.cxense.com^
 ||p1cluster.cxense.com^
-||scdn.cxense.com^
 ||scomcluster.cxense.com^
 ||sp1cluster.cxense.com^
 ||stats-collector.cxense.com^
@@ -15824,7 +15818,10 @@ data.mistat.rus.xiaomi.com
 ||cxmnsbrbdmxoyd.com^
 ||cxnadcribh.com^
 ||cxpjrqa.cn^
-||cxpublic.com^
+||cdn.cxpublic.com^
+||cdn-content-production.cxpublic.com^
+||content.cxpublic.com^
+||csm.cxpublic.com^
 ||execution-360-cicolusp.cxtrvl.com^
 ||cxwqeehw.com^
 ||cy5kr.fun^
@@ -22045,7 +22042,6 @@ data.mistat.rus.xiaomi.com
 ||api.fw.tv^
 ||matomo.ncbr.fwc.pl^
 ||fwcdn1.com^
-||fwcdn2.com^
 ||fwcdn3.com^
 ||fwepd.xyz^
 ||fwffa.cn^
@@ -32330,7 +32326,6 @@ data.mistat.rus.xiaomi.com
 ||tveta.naver.net^
 ||veta.naver.com^
 ||wcs.naver.com^
-||wcs.naver.net^
 ||blog.naverblogwidget.com^
 ||analytics.navexone.com^
 ||navicast.jp^
@@ -50198,6 +50193,9 @@ data.mistat.rus.xiaomi.com
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy20.top^
+||hbbtv-pixel.bmt-technik.de^
+||stats.mytvscout.de^
+||tvstats.telvi.de^
 a16-tb.isnssdk.com.edgekey.net
 abtest-va-tiktok.byteoversea.com
 api2.musical.ly.edgekey.net
@@ -75094,6 +75092,7 @@ ballistika.site
 ballmails.xyz
 balloonscappadocia.net
 ballrosti.ga
+balm.openinvestmentapp.com
 balofaqepo.host
 baloszyce-elektroluminescencja-nadpilicki.top
 balowe-trendy.pw
