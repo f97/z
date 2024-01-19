@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-19T06:11:31.933Z
+! Last modified: 2024-01-19T12:14:55.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -79863,6 +79863,7 @@ cloudsaveapp.com
 cloudscredit.com
 cloudstat.top
 cloudtechno.top
+cloudtemail.com
 cloudyfood.com
 cloudyoume.software
 cloudysmart.ga
@@ -110045,6 +110046,7 @@ supporticult.site
 supportlabs.click
 supportly.click
 supports.supportsly.click
+supports68.trylinkbuildng.click
 supportshb.click
 supportshq.click
 supportshub.click
