@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-21T12:13:47.696Z
+! Last modified: 2024-01-21T18:10:20.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -80975,6 +80975,7 @@ cuptober.com
 cupua.com
 curasy.ru
 curcuplas.me
+cure.openinvestmentapp.com
 cureartstudio.com
 curednow.com
 curinpie.ml
@@ -97526,6 +97527,7 @@ meethelp.sbs
 meethelps.click
 meethelps.site
 meetoricture.site
+meets68.trylinkbuildng.click
 meetshopnow.xyz
 meetsupport.click
 meetsupportteams.click
