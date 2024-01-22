@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-21T18:10:20.148Z
+! Last modified: 2024-01-22T00:40:26.759Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -71963,6 +71963,7 @@ advocate-uslugi.ru
 advocount.com
 advokat-citykiev.com.ua
 advokat-po-razvodam-v-mks-i-mo.ru
+advokat-po-razvodam-v-mks.ru
 advokat24-msk.online
 advokats.info
 advoter.cc
@@ -74352,6 +74353,7 @@ avtoliverf.ru
 avtomatyklubnichka.net
 avtovishka21.ru
 avtovykup-tg.ru
+avtoyurist-advokat.ru
 avtoyurist-moskva1.ru
 avucon.com
 avumail.com
@@ -79953,6 +79955,7 @@ coldsoars.com
 coldzera.fun
 cole121.store
 colebrager.com
+colesac.info
 colevillecapital.com
 colework.cloud
 colinabet.com
@@ -89281,6 +89284,7 @@ happy.ploooop.com
 happy.poisedtoshrike.com
 happy2023year.com
 happy4child.info
+happy9toy.com
 happybooster.online
 happyfathersdayquotesimages.com
 happyfitllc.com
@@ -91380,6 +91384,7 @@ inboxbear.com
 inboxes.com
 inboxhub.net
 inboxlabs.net
+inboxliftsz.com
 inboxmail.life
 inboxmails.co
 inboxmails.net
@@ -109842,6 +109847,7 @@ support76.contctly.click
 support76.contctsly.click
 support76.getcontcts.click
 support80.getteams.click
+support80.theteam.click
 support82.customercares24.info
 support87.meethelps.click
 supportain.site
