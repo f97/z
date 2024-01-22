@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-22T12:15:45.993Z
+! Last modified: 2024-01-22T18:10:48.099Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -50025,6 +50025,7 @@ data.mistat.rus.xiaomi.com
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy20.top^
+||analysis.gboxlab.com^
 a16-tb.isnssdk.com.edgekey.net
 abtest-va-tiktok.byteoversea.com
 api2.musical.ly.edgekey.net
@@ -112382,6 +112383,7 @@ trysubj.com
 trysupport.store
 trysupports.click
 trysupprts.click
+tryteam.click
 trytem.click
 trythe.net
 trytravel.click
