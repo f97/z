@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-23T06:11:07.959Z
+! Last modified: 2024-01-23T12:14:47.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37,6 +37,7 @@
 ||fv.togataurnfuls.com^
 ||gelatinerespectivelyhector.com^
 ||genmonet.com^
+||gonzalodaemon.top^
 ||grubsnuchale.com^
 ||grunoaph.net^
 ||hoosgowhandbow.com^
@@ -16907,6 +16908,7 @@
 0.0.0.0 mhvllvgrefplg.com
 0.0.0.0 miamiahokums.com
 0.0.0.0 miarroba.com
+0.0.0.0 miayarus.com
 0.0.0.0 micmacsortes.com
 0.0.0.0 microstatic.pl
 0.0.0.0 microticker.com
