@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-23T12:14:47.681Z
+! Last modified: 2024-01-23T18:10:23.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9965,16 +9965,17 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 res-push.ad.jiguang.cn
 0.0.0.0 res.ad.jiguang.cn
-0.0.0.0 asia-stsdk.vivoglobal.com
-0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
+0.0.0.0 asia-ex-adlog.vivoglobal.com
 0.0.0.0 asia-monitor-stsdk.vivoglobal.com
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia-ort-stsdk.vivoglobal.com
 0.0.0.0 asia-pnrt-stsdk.vivoglobal.com
 0.0.0.0 asia-prt-stsdk.vivoglobal.com
+0.0.0.0 asia-stsdk.vivoglobal.com
+0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 adlightning.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 beacon.tingyun.com

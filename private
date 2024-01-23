@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-23T12:15:09.981Z
+! Last modified: 2024-01-23T18:10:46.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -33554,7 +33554,6 @@ data.mistat.rus.xiaomi.com
 ||nudczusipbu.com^
 ||nudebenzoyl.digital^
 ||nudedworld.com^
-||click.nudevista.com^
 ||nudgercoptine.life^
 ||analytics.nudiejeans.com^
 ||nuevonoelmid.com^
@@ -72663,6 +72662,7 @@ ahfien.fun
 ahghtgnn.xyz
 ahhtee.com
 ahhw.com
+ahihi2112.site
 ahimail.sbs
 ahisf.com
 ahiteskilati.com
@@ -80802,6 +80802,7 @@ cookadoo.com
 cookassociates.com
 cooker.buzz
 cookiecollector.com
+cookievnvn.club
 cookinghelpsite.com
 cookingnews.com
 cookskill.com
@@ -110981,6 +110982,7 @@ team1.opensupports.click
 team28.teamslabs.click
 team66.contctshq.click
 team68.supportapp.click
+team68.trylinkbuildng.click
 team71.contcthq.click
 team72.contactslbs.click
 team75.thesupprts.click
@@ -111341,6 +111343,7 @@ thaibikemart.com
 thailand-mega.com
 thailandmovers.com
 thailandresort.asia
+thailannewta.site
 thaimail.beauty
 thaimail.live
 thaimail.shop
@@ -112561,6 +112564,7 @@ traveldesk.com
 traveleres.com
 travelers.co
 travelersglossary.com
+travelintexas.click
 travellerapp.click
 travellerlabs.click
 travellerly.click
@@ -117261,6 +117265,7 @@ ytknu.space
 ytkwowijn.gq
 ytnjyerq.icu
 yttgmail.space
+ytubrrr.motorcycles
 yuandex.ru
 yubc.com
 yubima.com
