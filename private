@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-24T12:15:41.129Z
+! Last modified: 2024-01-24T18:11:00.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -47008,7 +47008,6 @@ data.mistat.rus.xiaomi.com
 ||somni.vikingrivercruises.com^
 ||vikrak.com^
 ||viladram.xyz^
-||vilagunk.hu^
 ||metrics.vilebrequin.com^
 ||vilerebuffcontact.com^
 ||t.villanova.com^
@@ -72653,6 +72652,7 @@ afrocelts.us
 afrykanskiemango.top
 afsaf.com
 afsheena.cfd
+afshopee.host
 after.hammerhandz.com
 after.lakemneadows.com
 afteraffair.com
