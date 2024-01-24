@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-24T06:11:56.283Z
+! Last modified: 2024-01-24T12:15:41.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -80176,6 +80176,7 @@ clk7.com
 cloak.9amail.top
 cloakcom.com
 clobozh.ru
+clonechoitut.vip
 clonefb247-net.gq
 clonegiare.shop
 clorizio.com
