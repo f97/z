@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-25T06:11:15.213Z
+! Last modified: 2024-01-25T12:14:44.618Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -40,7 +40,6 @@
 ||gonzalodaemon.top^
 ||grubsnuchale.com^
 ||grunoaph.net^
-||hoosgowhandbow.com^
 ||iads.staticscdn.net^
 ||imad24.com^
 ||img.yeuketqua.net^
