@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-25T12:15:07.580Z
+! Last modified: 2024-01-25T18:10:51.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -90899,6 +90899,7 @@ help72.contactslbs.click
 help76.contctly.click
 help76.contctsly.click
 help76.getcontcts.click
+help80.theteam.click
 helpapp.cfd
 helpcharities.club
 helpdesks-support.com
@@ -116593,6 +116594,7 @@ wildsneaker.ru
 wildsusta.ml
 wildwoodworkshop.com
 wilensky.cheap3ddigitalcameras.com
+wilhelmin.info
 wilkinspleckgarden.com
 will.fanficforum.com
 will.hammerhandz.com
