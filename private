@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-25T18:10:51.905Z
+! Last modified: 2024-01-26T00:36:59.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -51384,7 +51384,6 @@ vaali-mcs.byteoversea.com
 2mdnsys.com
 2nyan.org
 33across.com
-34pavouhj7.com
 3872ee69c4.com
 3c22db1a50.com
 3lift.com
@@ -51448,7 +51447,6 @@ abtest.mistat.xiaomi.com
 ac24horas.com
 acacdn.com
 academyblocked.com
-acadiaanalytics.com
 accentneglectporter.com
 accompanycollapse.com
 accordancespotted.com
@@ -67088,7 +67086,6 @@ statsig.com
 statsproxy-public-service-live.ol.epicgames.com
 statsy.net
 statuscake.com
-stayingcaviar.com
 steakeffort.com
 steepto.com
 stepmotherincomingpluck.com
@@ -67281,9 +67278,7 @@ thetacdn.net
 thinksabashmolly.com
 thisisarray.com
 thisiswaldo.com
-thrilloffer.com
 thriveradioactivecheers.com
-throatpoll.com
 thrtle.com
 ticketswinning.com
 tickmatureparties.com
@@ -67740,7 +67735,6 @@ whoisvisiting.com
 wickedhumankindbarrel.com
 widezealconstant.com
 wildlifeeventlean.com
-williamporterlilac.com
 windingnegotiation.com
 windychinese.com
 wingify.com
@@ -82607,6 +82601,7 @@ dangerousdickdan.com
 dangerousmailer.com
 dangkibum.xyz
 dani.cheapgreenteabags.com
+danica1121.club
 daniel-lorencic.com
 danielginns.com
 danielgrantgutowski.com
@@ -113694,6 +113689,7 @@ tunnelerph.com
 tunningmail.gdn
 tunrahn.com
 tuofs.com
+tuoilon08.online
 tuoitre.email
 tupop.online
 tuqk.com
@@ -118297,6 +118293,7 @@ zfobo.com
 zfxchk.site
 zgbdwnfce.tk
 zgbfvip.com
+zgenk.info
 zgqcw.net
 zgqyn.com
 zgtjvczkp.shop
