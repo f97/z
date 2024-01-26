@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-26T06:10:29.548Z
+! Last modified: 2024-01-26T12:13:35.277Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -26107,7 +26107,6 @@ data.mistat.rus.xiaomi.com
 ||hurkarubypaths.com^
 ||hurlmedia.design^
 ||huronews.com^
-||hurra.com^
 ||hurtfulden.com^
 ||huryds.top^
 ||huselomboy.website^
@@ -89241,6 +89240,7 @@ geekjun.com
 geeky83.com
 geemale.com
 gefamet.com
+gefbe.us
 geforce-drivers.com
 gefriergerate.info
 gefvert.com
@@ -102878,6 +102878,7 @@ okdelray.com
 okdiversity.com
 okdominican.com
 okeek.live
+okemyeu112.site
 okepmail.com
 oker.com
 okfortlauderdale.com
