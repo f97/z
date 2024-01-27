@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-27T06:09:40.199Z
+! Last modified: 2024-01-27T12:12:32.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -103323,6 +103323,7 @@ openhelp.sbs
 openhelps.cfd
 openhelps.sbs
 openhippel.org
+openinvestmentapp.com
 opennetgame.org
 openshopin.xyz
 openskiesgroup.com
@@ -111440,6 +111441,7 @@ subwaysurfers.info
 succcardnach.ml
 succeedabw.com
 succesbehalen.site
+successforu.pw
 successfullys.me
 successlocation.work
 suchimaes.com
