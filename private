@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-26T18:10:13.276Z
+! Last modified: 2024-01-27T00:35:59.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -75313,6 +75313,7 @@ arasempire.com
 arasj.net
 arawmail.com
 arbdigital.com
+arbitrazhnyee-yuristy.ru
 arbitrazhnyj-yurist-msk.ru
 arbor-masters.com
 arbordigital.com
@@ -85565,6 +85566,7 @@ eecaex.fun
 eecumail.com
 eeeea.com
 eeetivsc.com
+eefrngzi.com
 eeiv.com
 eekmail.xyz
 eel.luk2.com
@@ -95757,6 +95759,7 @@ konkurssemeimo2021.ru
 konmail.com
 konne.pl
 konrad-careers.com
+konsultacii-advokata.ru
 konsultaciya-yurista-499.ru
 konsultaciya-yurista-free.ru
 konsultaciya-yurista-kpc.ru
@@ -109609,6 +109612,7 @@ shievent.site
 shift-coin.com
 shiftmayo.us
 shiftstation.com
+shilingan.store
 shiloa.com
 shindary.com
 shine.favbat.com
