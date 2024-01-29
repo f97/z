@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-29T06:11:10.037Z
+! Last modified: 2024-01-29T12:14:04.522Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -89268,6 +89268,7 @@ gmail.com.prestamospersonalesfzrz.com
 gmail.com.qqowl.club
 gmail.com.rockjia.com
 gmail.com.sahabatasas.com
+gmail.com.sdfgmail.com
 gmail.com.skambil.com
 gmail.com.svitup.com
 gmail.com.tubidu.com
@@ -97573,6 +97574,7 @@ mailhe.me
 mailhelps.host
 mailherber.com
 mailhex.com
+mailhieu.store
 mailhommers.space
 mailhon.com
 mailhorders.com
@@ -102519,6 +102521,7 @@ onetap.marketing
 onetonco2.com
 onety.pl
 onewayticket.online
+onewedding.live
 onextube.com
 ongpkr.org
 ongsiteaa.com
