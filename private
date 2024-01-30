@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-30T06:11:16.083Z
+! Last modified: 2024-01-30T12:13:27.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -7300,7 +7300,6 @@ data.mistat.rus.xiaomi.com
 ||airsnowking.live^
 ||digianalytics.airtel.in^
 ||analytics.airtv.net^
-||aiservice.vn^
 ||domain.aishengji.com^
 ||aishiguolong.com^
 ||banner.aismo.ru^
@@ -51639,6 +51638,9 @@ data.mistat.rus.xiaomi.com
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy20.top^
+||piwik.sms-portal.com.ua^
+||matomo.altavira.com.ua^
+||matomo.xm.vn.ua^
 a16-tb.isnssdk.com.edgekey.net
 abtest-va-tiktok.byteoversea.com
 api2.musical.ly.edgekey.net
@@ -73644,6 +73646,7 @@ advertence.com
 advertisingblog.com
 advertmix85.xyz
 advew.com
+advice.openinvestmentapp.com
 adviceliving.com
 advicesaales.com
 advicessmax.com
@@ -110079,6 +110082,7 @@ skmorvdd.xyz
 skne8njhoff.xyz
 skoda.co.in
 skogmasawmills.com
+skoids.info
 skorao.xyz
 skorbola.club
 skorexpres.com
@@ -111612,6 +111616,7 @@ support.travelservice4u.com
 support.tryhelps.click
 support1.opensupports.click
 support247live.us
+support47.contactpp.click
 support5.mineweb.in
 support66.contctshq.click
 support68.trylinkbuildng.click
