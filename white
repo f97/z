@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-30T00:36:00.678Z
+! Last modified: 2024-01-30T06:11:17.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -281,6 +281,7 @@
 @@|*.*.storage.live.com^$important
 @@|*.*.storage.msn.com^$important
 @@|*.abs.hls.ttvnw.net^$important
+@@|*.ahcdn.com^$important
 @@|*.aria.microsoft.com^$important
 @@|*.australiasoutheast.cloudapp.azure.com^$important
 @@|*.b.akamaiedge.net^$important
@@ -378,6 +379,7 @@
 @@|1337x.to^$important
 @@|149366088.v2.pressablecdn.com^$important
 @@|15.2.0.10.in-addr.arpa^$important
+@@|19-14.b.cdn13.com^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
 @@|1dot1dot1dot1.cloudflare-dns.com^$important
 @@|1drv.ms^$important
@@ -387,6 +389,7 @@
 @@|2.pool.ntp.org^$important
 @@|204.pop-os.org^$important
 @@|22pixx.xyz^$important
+@@|2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^$important
 @@|3.au.download.windowsupdate.com^$important
 @@|3.pool.ntp.org^$important
 @@|4shared.com^$important
@@ -650,6 +653,7 @@
 @@|api.winstall.app^$important
 @@|api.xda-developers.com^$important
 @@|api1.weather.com^$important
+@@|api13.comm100.io^$important
 @@|api2.weather.com^$important
 @@|api3.weather.com^$important
 @@|apigw.coles.com.au^$important
@@ -1119,6 +1123,7 @@
 @@|cdn1.esetstatic.com^$important
 @@|cdn1.unrealengine.com^$important
 @@|cdn1.xda-developers.com^$important
+@@|cdn11.bigcommerce.com^$important
 @@|cdn2.downdetector.com^$important
 @@|cdn2.esetstatic.com^$important
 @@|cdn2.hubspot.net^$important
@@ -1169,11 +1174,13 @@
 @@|chatdepot.twitch.tv^$important
 @@|chatenabled.mail.google.com^$important
 @@|chatlounge-preview.xbox.com^$important
+@@|chatserver13.comm100.io^$important
 @@|chbusiness.samsung.com^$important
 @@|check.aec.gov.au^$important
 @@|check.ddos-guard.net^$important
 @@|checkappexec.microsoft.com^$important
 @@|checkipv4.windscribe.com^$important
+@@|checkout-sdk.bigcommerce.com^$important
 @@|checkout.ea.com^$important
 @@|checkout.paypal.com^$important
 @@|checkout.soundcloud.com^$important
@@ -1241,6 +1248,7 @@
 @@|cloudflare.com^$important
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
+@@|cloudsync-prod.s3.us-east-1.amazonaws.com^$important
 @@|club.ubisoft.com^$important
 @@|clubhub.xboxlive.com^$important
 @@|cluster.awmdelivery.com^$important
@@ -1341,6 +1349,7 @@
 @@|controls.platform.account.www.microsoft.com^$important
 @@|cookie-cdn.cookiepro.com^$important
 @@|cookiewatch.org^$important
+@@|coppersurfer.tk^$important
 @@|copyright.help.soundcloud.com^$important
 @@|copyright.soundcloud.com^$important
 @@|copyrights.help.soundcloud.com^$important
@@ -1564,6 +1573,7 @@
 @@|dl.razer.com^$important
 @@|dl.razerzone.com^$important
 @@|dl.teamviewer.com^$important
+@@|dl1.pxc-coding.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
 @@|dlassets-ssl.xboxlive.com^$important
 @@|dlwnextsetting.cloudapp.net^$important
@@ -1797,6 +1807,7 @@
 @@|epic-social-social-modules-prod.ol.epicgames.com^$important
 @@|epicgames-download1.akamaized.net^$important
 @@|epicgames.com^$important
+@@|epider.me^$important
 @@|epix-ssl.xbox.com^$important
 @@|epix.xbox.com^$important
 @@|epl.paypal-communication.com^$important
@@ -1924,6 +1935,7 @@
 @@|ffmpeg.org^$important
 @@|ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com^$important
 @@|ffprofile.com^$important
+@@|fhp.nab.com.au^$important
 @@|fi.google.com^$important
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
@@ -2058,6 +2070,7 @@
 @@|fs-*.cyberdrop.to^$important
 @@|fs.microsoft.com^$important
 @@|fsa01.ps4.update.playstation.net^$important
+@@|fsm1-cdn.attraqt.com^$important
 @@|ftp-chi.osuosl.org^$important
 @@|ftp-nyc.osuosl.org^$important
 @@|ftp-osl.osuosl.org^$important
@@ -2208,6 +2221,7 @@
 @@|globalupload.io^$important
 @@|gmail.com^$important
 @@|gmail.google.com^$important
+@@|gmedia.playstation.com^$important
 @@|go-updater.brave.com^$important
 @@|go.acronis.com^$important
 @@|go.dev^$important
@@ -2368,6 +2382,7 @@
 @@|ic-st-lm.xhcdn.com^$important
 @@|ic-tt-lm.xhcdn.com^$important
 @@|ic-ut-lm.xhcdn.com^$important
+@@|ic-vt-ah.xhcdn.com^$important
 @@|ic-vt-lm.xhcdn.com^$important
 @@|icdn.digitaltrends.com^$important
 @@|icedrive.net^$important
@@ -2455,6 +2470,7 @@
 @@|img.production.rokfin.com^$important
 @@|img.rockylinux.org^$important
 @@|img.shields.io^$important
+@@|img.strpst.com^$important
 @@|img.teams.skype.com^$important
 @@|img.x.soundcloud.com^$important
 @@|img.xda-developers.com^$important
@@ -2697,6 +2713,7 @@
 @@|lobby2-prod.svc.gearsofwar.net^$important
 @@|local.adguard.com^$important
 @@|local.adguard.org^$important
+@@|localized-config-api.gx.nvidia.com^$important
 @@|login.aliexpress.com^$important
 @@|login.corsair.com^$important
 @@|login.gog.com^$important
@@ -2706,6 +2723,7 @@
 @@|login.my.gov.au^$important
 @@|login.nvgs.nvidia.com^$important
 @@|login.nvidia.com^$important
+@@|login.sydneywater.com.au^$important
 @@|login.wikimedia.org^$important
 @@|login.windows.net^$important
 @@|login5.spotify.com^$important
@@ -2726,6 +2744,7 @@
 @@|lv.wikipedia.com^$important
 @@|lvlt.bioware.cdn.ea.com^$important
 @@|lvlt.cdn.ea.com^$important
+@@|lzzos7clo5.execute-api.us-east-1.amazonaws.com^$important
 @@|m.alibaba.com^$important
 @@|m.aliexpress.com^$important
 @@|m.audible.com^$important
@@ -2847,6 +2866,7 @@
 @@|metal.prod.atl-paas.net^$important
 @@|metrics.ol.epicgames.com^$important
 @@|metrics.ubuntu.com.localdomain^$important
+@@|microapps.bigcommerce.com^$important
 @@|microsoft.com^$important
 @@|microsoftedge.microsoft.com^$important
 @@|microsoftedgetips.microsoft.com^$important
@@ -3039,6 +3059,7 @@
 @@|msn.com^$important
 @@|msr-public-ubiservices.ubi.com^$important
 @@|msrc-blog.microsoft.com^$important
+@@|msrc.microsoft.com^$important
 @@|mt.googleapis.com^$important
 @@|mucp.api.account.microsoft.com^$important
 @@|multimedia.email2.gog.com^$important
@@ -3147,8 +3168,10 @@
 @@|ntp.ubuntu.com^$important
 @@|nuget.org^$important
 @@|nukacrypt.com^$important
+@@|nvda.d2.sc.omtrdc.net^$important
 @@|nvidia.com.ssl.sc.omtrdc.net^$important
 @@|nvidia.com^$important
+@@|nvidia.tt.omtrdc.net^$important
 @@|nwjs.io^$important
 @@|nxos.org^$important
 @@|nyc.mirrors.clouvider.net^$important
@@ -3225,6 +3248,7 @@
 @@|open-vsx.org^$important
 @@|open.demonii.com^$important
 @@|open.dstud.io^$important
+@@|open.free-tracker.ga^$important
 @@|open.scdn.co^$important
 @@|open.spotify.com^$important
 @@|open.spotifycdn.com^$important
@@ -3533,6 +3557,7 @@
 @@|push.chocolatey.org^$important
 @@|push.services.mozilla.com^$important
 @@|pw.nexusmods.com^$important
+@@|pxc-coding.com^$important
 @@|pypi.org^$important
 @@|pythonanywhere.com^$important
 @@|q.ebaystatic.com^$important
@@ -3560,6 +3585,7 @@
 @@|r5---sn-ntqe6nes.c.2mdn.net^$important
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
+@@|raindrop-preview-prod.exentrich.workers.dev^$important
 @@|raindrop.io^$important
 @@|raindrop.onfastspring.com^$important
 @@|rapidgator.net^$important
@@ -3762,6 +3788,7 @@
 @@|sentry.io^$important
 @@|sentry.lbry.tech^$important
 @@|sentry.unknownworlds.com^$important
+@@|server.events.data.microsoft.com^$important
 @@|service-aggregation-layer-subs.juno.ea.com^$important
 @@|service-aggregation-layer.juno.ea.com^$important
 @@|service.weather.microsoft.com^$important
@@ -3952,6 +3979,7 @@
 @@|standard-notes.s3.amazonaws.com^$important
 @@|standardnotes.com^$important
 @@|standardnotes.org^$important
+@@|standby.comm100vue.com^$important
 @@|starcraft2.com^$important
 @@|start.ubuntu.com^$important
 @@|static*.behindthevoiceactors.com^$important
@@ -3961,11 +3989,13 @@
 @@|static-*-cdn.eporner.com^$important
 @@|static-*.nexusmods.com^$important
 @@|static-*.xvideos-cdn.com^$important
+@@|static-ah.xhcdn.com^$important
 @@|static-assets-prod.epicgames.com^$important
 @@|static-assets-prod.unrealengine.com^$important
 @@|static-cache.k2s.cc^$important
 @@|static-cdn.jtvnw.net^$important
 @@|static-cdn.osdn.net^$important
+@@|static-cdn.strpst.com^$important
 @@|static-dm.akamaized.net^$important
 @@|static-login.gog-statics.com^$important
 @@|static-lvlt.xhcdn.com^$important
@@ -4242,6 +4272,7 @@
 @@|thumb-v2.xhcdn.com^$important
 @@|thumb-v4.xhcdn.com^$important
 @@|thumb-v8.xhcdn.com^$important
+@@|thumb-v9.xhcdn.com^$important
 @@|thumbnails.odycdn.com^$important
 @@|thumbnails.pcgamingwiki.com^$important
 @@|thumbs.ebaystatic.com^$important
@@ -4267,6 +4298,7 @@
 @@|titlestoragencus0102.blob.core.windows.net^$important
 @@|tm-rgl-prod.ros.rockstargames.com^$important
 @@|tms-global.intel.com^$important
+@@|tms.nab.com.au^$important
 @@|to-do-cdn.microsoft.com^$important
 @@|to-do.live.com^$important
 @@|to-do.microsoft.com^$important
@@ -4298,6 +4330,7 @@
 @@|tracker.bt4g.com^$important
 @@|tracker.ccp.ovh^$important
 @@|tracker.coppersurfer.tk^$important
+@@|tracker.cubonegro.lol^$important
 @@|tracker.cyberia.is^$important
 @@|tracker.dler.com^$important
 @@|tracker.doko.moe^$important
@@ -4310,9 +4343,11 @@
 @@|tracker.files.fm^$important
 @@|tracker.fnix.net^$important
 @@|tracker.gbitt.info^$important
+@@|tracker.gcrreen.xyz^$important
 @@|tracker.grepler.com^$important
 @@|tracker.imgoingto.icu^$important
 @@|tracker.ipv6tracker.ru^$important
+@@|tracker.jamesthebard.net^$important
 @@|tracker.jdx3.org^$important
 @@|tracker.jordan.im^$important
 @@|tracker.k.vu^$important
@@ -4348,12 +4383,15 @@
 @@|tracker.thinelephant.org^$important
 @@|tracker.tiny-vps.com^$important
 @@|tracker.torrent.eu.org^$important
+@@|tracker.torrust-demo.com^$important
 @@|tracker.trackerfix.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.vds.nz^$important
 @@|tracker.yemekyedim.com^$important
 @@|tracker.zer0day.to^$important
 @@|tracker1.520.jp^$important
 @@|tracker1.bt.moack.co.kr^$important
+@@|tracker1.myporn.club^$important
 @@|tracker2.ctix.cn^$important
 @@|tracker2.dler.com^$important
 @@|tracker2.itzmx.com^$important
@@ -4603,6 +4641,7 @@
 @@|vtvkm5urpx-1.algolianet.com^$important
 @@|vtvkm5urpx-2.algolianet.com^$important
 @@|vtvkm5urpx-3.algolianet.com^$important
+@@|vue.comm100.com^$important
 @@|w.tampermonkey.net^$important
 @@|w.wallhaven.cc^$important
 @@|waldorf5.distrochooser.de^$important
@@ -4619,7 +4658,10 @@
 @@|wcsprdstg.cmltd.net.au^$important
 @@|wdcp.microsoft.com^$important
 @@|wdcpalt.microsoft.com^$important
+@@|web*.rumble.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
+@@|web-toolbar.playstation.com^$important
+@@|web.np.playstation.com^$important
 @@|web.poecdn.com^$important
 @@|web.vortex.data.microsoft.com^$important
 @@|web.vortex.data.trafficmanager.net^$important
@@ -4662,6 +4704,7 @@
 @@|winstall.app^$important
 @@|winter15.gosredirector.ea.com^$important
 @@|wire.com^$important
+@@|wn*.rumble.com^$important
 @@|woolworths.com.au^$important
 @@|woolworths.scene7.com^$important
 @@|woolworthsgiftcardstore.com.au^$important
@@ -4677,6 +4720,7 @@
 @@|wsp.teamviewer.com^$important
 @@|wt.soundcloud.com^$important
 @@|wtfismyip.com^$important
+@@|wup-24f7f3c7.nab.com.au^$important
 @@|wus-streaming-video-rt-microsoft-com.akamaized.net^$important
 @@|wus-www.sway-cdn.com^$important
 @@|wus2.gssv-play-prodxhome.xboxlive.com^$important
@@ -4790,6 +4834,7 @@
 @@|www.freeones.xxx^$important
 @@|www.fsarchiver.org^$important
 @@|www.fxsound.com^$important
+@@|www.gammaentertainment.com^$important
 @@|www.geforce.com^$important
 @@|www.gentoo.org^$important
 @@|www.getmusicbee.com^$important
@@ -4920,6 +4965,7 @@
 @@|www.pharmacy4less.com.au^$important
 @@|www.php.net^$important
 @@|www.pidgin.im^$important
+@@|www.playstation.com^$important
 @@|www.pling.com^$important
 @@|www.podnapisi.net^$important
 @@|www.police.nsw.gov.au^$important
@@ -5069,9 +5115,11 @@
 @@|xpui.app.spotify.com^$important
 @@|xsts.auth.xboxlive.com^$important
 @@|xt.streamlabs.com^$important
+@@|xtnzefcqrb.execute-api.us-east-1.amazonaws.com^$important
 @@|xvideos-cdn.com^$important
 @@|xvideos.com^$important
 @@|xxx-image.com^$important
+@@|y.paranoid.agency^$important
 @@|yahoo.com^$important
 @@|yari-demos.prod.mdn.mozit.cloud^$important
 @@|yelp.com^$important
