@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-29T18:09:41.989Z
+! Last modified: 2024-01-30T00:35:59.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -65501,7 +65501,6 @@ pretextunfinished.com
 prf.hn
 prhzxq.com
 pricespider.com
-priestboundsay.com
 prijspakkertje.nl
 primis.tech
 privacity.se
@@ -65536,7 +65535,6 @@ promotebred.com
 propeller-tracking.com
 propellerclick.com
 proper.io
-protectionabate.com
 protocolgroupgroups.com
 prototypewailrubber.com
 proverbnoncommittalvault.com
@@ -65692,7 +65690,6 @@ refinery89.com
 regionalsurveying.com
 regioncolonel.com
 regioninaudibleafforded.com
-regionseffective.com
 register.collector.scopely.io
 regulationprivilegescan.top
 reklama.silnet.pl
@@ -66861,7 +66858,6 @@ smetrics.zales.com
 smetrics.zalesoutlet.com
 smetrics1.experian.com
 smilewanted.com
-smotherlameoven.com
 smpush.com
 smrk.io
 snackly.co
@@ -89672,6 +89668,7 @@ gornostroyalt.ru
 gorofytravels.shop
 gorsvet.org.ua
 gorzowiak.info
+gosarlar.com
 gosdaturacatala.org
 gosnadzor.info
 gosneer.com
@@ -97596,6 +97593,7 @@ mailidentt.space
 mailify.top
 mailil.xyz
 maililha.space
+mailily.com
 mailimail.com
 mailin.icu
 mailinatior.com
@@ -99093,6 +99091,7 @@ michigansmartgrowth.org
 michigansmok.com
 michigatv.com
 michingmalicho.com
+micinemail.com
 mickeyandjohnny.com
 micleber.cf
 microcreditoabruzzo.it
@@ -111729,6 +111728,7 @@ team.travelservice4u.com
 team.tryhelps.click
 team1.opensupports.click
 team28.teamslabs.click
+team47.contactpp.click
 team66.contctshq.click
 team68.supportapp.click
 team68.trylinkbuildng.click
