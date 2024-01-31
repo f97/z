@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-31T12:13:35.364Z
+! Last modified: 2024-01-31T18:08:06.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -87695,6 +87695,7 @@ finance.foodforhat.com
 finance.lakemneadows.com
 finance.popautomated.com
 finance.zoomingabout.com
+financebu.com
 financeexpert.co.in
 financeland.co.uk
 financialgerontology.com
@@ -91329,6 +91330,7 @@ heepclla.com
 heframe.com
 hegamespotr.com
 hegemonstructed.xyz
+hegonytu.us
 hehrseeoi.com
 heidithorsen.com
 heikouzi.com
@@ -113491,6 +113493,7 @@ tools.luckympovip.com
 toolsig.team
 toolsinsider.buzz
 toolsinsider.xyz
+toolskr.com
 toolswelove.com
 toolve.com
 toomail.online
