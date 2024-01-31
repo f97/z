@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-30T18:10:18.879Z
+! Last modified: 2024-01-31T00:36:10.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -68319,7 +68319,6 @@ zingyads.com
 zkcdn.net
 znctrack.net
 zoomanalytics.co
-zoominfo.com
 zotabox.com
 zprk.io
 zqtk.net
