@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-01-31T09:46:24.854Z
+! Last modified: 2024-01-31T09:47:15.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -32,7 +32,6 @@
 ||couldblindly.com^
 ||cs.daemonshymens.com^
 ||delivery.adsterra.org^
-||delivery.yomedia.vn^
 ||effacedefend.com^
 ||fpgedsewst.com^
 ||fv.togataurnfuls.com^
@@ -20645,7 +20644,6 @@
 ||ad.ddestiny.ru^
 ||ad.mcdn.vn^
 ||ad.org.vn^
-||ad.zing.vn^
 ||adadvisor.net^
 ||adbrand.net^
 ||adbrite.com^
@@ -20660,7 +20658,6 @@
 ||adlite.net^
 ||admicro1.vcmedia.vn^
 ||adnet.vn^
-||adnetwork.vn^
 ||adnexus.vn^
 ||adnxs.com^
 ||adonly.com^
@@ -20871,3 +20868,37 @@ www.i9bet103.com
 i9bet103.com
 t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
 agacelebir.com
+||ad-hn.24hstatic.com^
+||ads.blogtruyen.com^
+||ads.hotvnn.com^
+||ads.phimvang.org^
+||ads.sinhvienit.net^
+||ads.tech24.vn^
+||ads.truongton.net^
+||ads.v1vn.com^
+||banner.12bet.com^
+||data3.vechai.info^
+||farm01.go.vn^
+||grab.v1vn.com^
+||ad.zing.vn^
+||adnetwork.vn^
+||adrealclick.com^
+||ads.bkns.vn^
+||ads.easyvn.net^
+||ads.phim47.com^
+||ads.phimhp.com^
+||ads.themxua.net^
+||ads.vdata.vn^
+||bd.apps.zing.vn^
+||et.phununet.com^
+||qc.huyenthoaimu.com^
+||qc.trieudo.com^
+||d.ants.vn^
+||delivery.yomedia.vn^
+||log.mp3.zing.vn^
+||reporting.nld.com.vn^
+||reporting.vneconomy.vn^
+||stat.24h.com.vn^
+||stat.vietnamnet.vn^
+||statistics.sgtt.com.vn^
+||statistics.tuoitre.com.vn^
