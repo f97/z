@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-02T18:11:03.654Z
+! Last modified: 2024-02-03T00:36:24.531Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -46224,7 +46224,6 @@
 ||collect.analytics.unity3d.com^
 ||collect.playdayy.com^
 ||collect.trendyol.com^
-||collectionspriestcardiac.com^
 ||collective-media.net^
 ||collective.com^
 ||collector.github.com^
@@ -46675,7 +46674,6 @@
 ||enteredcocktruthful.com^
 ||entirelysacrament.com^
 ||envnxs.net^
-||eo62cocntx.com^
 ||eprize.com^
 ||equitydefault.com^
 ||err-up.vivoglobal.com^
@@ -60750,7 +60748,6 @@
 ||statuscake.com^
 ||steakeffort.com^
 ||steepto.com^
-||stepmotherincomingpluck.com^
 ||stickerchapelsailing.com^
 ||stickervillain.com^
 ||stickywhereaboutsspoons.com^
@@ -88829,6 +88826,7 @@
 ||lakelasso.com^
 ||lakibaba.com^
 ||lakidsbed.com^
+||laklahihilala.com^
 ||laklica.com^
 ||lakqs.com^
 ||lakssan.com^
@@ -92174,6 +92172,7 @@
 ||metaskill.games^
 ||metastudio.net^
 ||metcoat.com^
+||meteo.gold^
 ||meteorid.site^
 ||metheuspoet.com^
 ||methodginger.com^
@@ -94300,6 +94299,7 @@
 ||newforth.com^
 ||newfreesex.com^
 ||newgameexpert.ru^
+||newgentraffic.com^
 ||newgmaill.com^
 ||newgmailruner.com^
 ||newhavyrtda.com^
@@ -94922,6 +94922,7 @@
 ||nsitiu.xyz^
 ||nsjew.online^
 ||nsl168.com^
+||nspgmail.space^
 ||nsr009.com^
 ||nstarbank.com^
 ||nsuu.com^
@@ -107627,6 +107628,7 @@
 ||usdeal.us^
 ||usdki.fun^
 ||use.blatnet.com^
+||use.galaday.click^
 ||use.hammerhandz.com^
 ||use.lakemneadows.com^
 ||use.marksypark.com^
