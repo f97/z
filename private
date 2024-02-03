@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-03T06:09:52.081Z
+! Last modified: 2024-02-03T12:13:07.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -74045,6 +74045,7 @@
 ||corporateblog.com^
 ||corporateembezzler.com^
 ||corporatet.com^
+||corrective.religiousfestival.click^
 ||correio.monster^
 ||correofa.ga^
 ||correofa.tk^
@@ -82614,6 +82615,7 @@
 ||hahabox.com^
 ||hahahahah.com^
 ||hahaslot.xyz^
+||hahhehlal.online^
 ||hahilokorefa.asia^
 ||haho.com^
 ||hahqzhnfc.ml^
@@ -93112,6 +93114,7 @@
 ||nekomi.net^
 ||nel21.cc^
 ||nel21.me^
+||nelcoapps.com^
 ||nellolitoday.com^
 ||nellplus.club^
 ||neltaxip.com^
@@ -96853,6 +96856,7 @@
 ||possystemsguide.com^
 ||post-box.xyz^
 ||post.org.pl^
+||post.religiousfestival.click^
 ||post123.site^
 ||postbx.ru^
 ||postbx.store^
@@ -103403,6 +103407,7 @@
 ||syukrieseo.com^
 ||syyxb.com^
 ||sz80ue21y77zmst.com^
+||szachary.com^
 ||szafa.pw^
 ||szalona-moda.pw^
 ||szalowe-garnitury-damskie.pw^
