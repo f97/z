@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-04T06:09:50.159Z
+! Last modified: 2024-02-04T12:12:58.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -63382,6 +63382,7 @@
 ||0199938.com^
 ||0199968.com^
 ||019gmail.com^
+||01aithuogankdau.website^
 ||01gmail.com^
 ||01io.net^
 ||01p.co.jp^
@@ -86504,6 +86505,7 @@
 ||jualherbal.top^
 ||juanignaciogilligan.com^
 ||juaraseo.com^
+||jubileehq.click^
 ||jucatyo.com^
 ||jucky.net^
 ||judabla.ga^
@@ -106753,7 +106755,6 @@
 ||use.blatnet.com^
 ||use.galaday.click^
 ||use.hammerhandz.com^
-||use.jubileehq.click^
 ||use.lakemneadows.com^
 ||use.marksypark.com^
 ||use.poisedtoshrike.com^
