@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-05T06:11:23.009Z
+! Last modified: 2024-02-05T12:14:17.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -83720,6 +83720,7 @@
 ||hnu.luk2.com^
 ||ho0tmail.de^
 ||hoacollect.com^
+||hoahn.info^
 ||hoanganh.mx^
 ||hoanghamoi.com^
 ||hoanghamov.com^
