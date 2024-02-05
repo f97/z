@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-04T18:11:51.304Z
+! Last modified: 2024-02-05T00:37:13.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -46355,7 +46355,6 @@
 ||ist-track.com^
 ||itemperrycreek.com^
 ||iterable.com^
-||itinerarycarter.com^
 ||itineraryupper.com^
 ||itomedia.co.za^
 ||ivitrack.com^
@@ -58555,7 +58554,6 @@
 ||resetsrv.com^
 ||residenceseeingstanding.com^
 ||reson8.com^
-||resorsedroblet.pro^
 ||responserver.com^
 ||responsetap.com^
 ||responsiverender.com^
@@ -60028,7 +60026,6 @@
 ||tesseradigital.com^
 ||testamenttakeoutkill.com^
 ||testanalytics.net^
-||testimonypersuadedclinic.com^
 ||textad.net^
 ||tgtag.io^
 ||the-ozone-project.com^
