@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-06T12:14:05.571Z
+! Last modified: 2024-02-06T18:09:38.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -26373,7 +26373,6 @@
 ||mintclick.xyz^
 ||performance-logger.minted.com^
 ||pixel.mintigo.com^
-||app.mintmobile.com^
 ||analytics.mintvelvet.com^
 ||mintybug.com^
 ||minute.ly^
@@ -87252,6 +87251,7 @@
 ||kaulananews.com^
 ||kauoe.com^
 ||kaus46.secondhandhomeappliances.com^
+||kavaint.net^
 ||kavapors.com^
 ||kavbet72.com^
 ||kavlingpro.my.id^
