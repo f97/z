@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-05T18:10:27.951Z
+! Last modified: 2024-02-06T00:35:30.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -44306,7 +44306,6 @@
 ||ac24horas.com^
 ||acacdn.com^
 ||academyblocked.com^
-||accentneglectporter.com^
 ||accompanycollapse.com^
 ||accordancespotted.com^
 ||accordaudienceeducational.com^
@@ -45093,7 +45092,6 @@
 ||beacons5.gvt2.com^
 ||beacons5.gvt3.com^
 ||beaconsinspace.com^
-||beambroth.com^
 ||beardfleet.com^
 ||bebi.com^
 ||becomingcrackingragged.com^
@@ -45439,7 +45437,6 @@
 ||commandersact.com^
 ||commissionepochknuckle.com^
 ||commonvivacious.com^
-||comparativevegetables.com^
 ||comparedsilas.com^
 ||compasspenitenthollow.com^
 ||comprehendbighearted.com^
@@ -58676,7 +58673,6 @@
 ||revenueflex.com^
 ||revenuehits.com^
 ||revenuenetworkcpm.com^
-||revenuetonightperforming.com^
 ||revive.agenda.ge^
 ||revive.thebusinessjournal.com^
 ||revive.workmedia.pt^
@@ -60077,7 +60073,6 @@
 ||teads.tv^
 ||tealiumiq.com^
 ||teamsperilous.com^
-||tearingreasoningempower.com^
 ||teasimilarman.com^
 ||techlab-cdn.com^
 ||technorail.com^
@@ -60350,7 +60345,6 @@
 ||tv1s4d6klh4n.com^
 ||tvpixel.com^
 ||tvsquared.com^
-||tweakostensibleinstaller.com^
 ||twibida.com^
 ||twinrdsrv.com^
 ||twinrdsyn.com^
@@ -79514,6 +79508,7 @@
 ||fesoncast.shop^
 ||fesonperfect.shop^
 ||fesr.com^
+||festivalday.click^
 ||festivaldomingosmartins.com.br^
 ||festtycon.cf^
 ||fesung.com^
@@ -101156,7 +101151,6 @@
 ||serverzproz.com^
 ||service-deregistered-new.com^
 ||service.cd^
-||service.festivalday.click^
 ||service.tpost.pw^
 ||serviced.site^
 ||servicegulino.com^
@@ -105452,6 +105446,7 @@
 ||tourcc.com^
 ||touristry.cd^
 ||touristsandship.shop^
+||touristscams.click^
 ||tours-cappadocia.org^
 ||toursbook.ir^
 ||tourschoice.ir^
