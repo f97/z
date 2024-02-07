@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-07T06:10:54.943Z
+! Last modified: 2024-02-07T12:13:59.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -66881,6 +66881,7 @@
 ||allblogcompany.com^
 ||allblogs.com^
 ||allcalhomes.com^
+||allcasinoffer.com^
 ||allclass.club^
 ||allclearexterminating.com^
 ||alldarkmarkets.com^
@@ -88219,6 +88220,8 @@
 ||kunzjanitorial.net^
 ||kuontil.buzz^
 ||kupakai.com^
+||kupalniki-kupit.store^
+||kupalniki1.store^
 ||kupeyka.com^
 ||kupit-pesok-v-volhove.ru^
 ||kuponjitu.org^
@@ -89027,6 +89030,7 @@
 ||lindbarsand.ga^
 ||lindbarsand.ml^
 ||lindenhurstleemyles.com^
+||lindenprints.com^
 ||lindos-village.com^
 ||lindsayphillips.com^
 ||lindseyallen.net^
@@ -91429,6 +91433,7 @@
 ||medicheap.co^
 ||medicinesdata.com^
 ||medicineworldportal.net^
+||medicinskij-yurist-moskva.ru^
 ||medicodaub.shop^
 ||medicodelight.shop^
 ||medicodobby.shop^
@@ -96093,6 +96098,7 @@
 ||papillomadelete.info^
 ||papodejornal.top^
 ||papolog.com^
+||pappas-kelley.com^
 ||pappd.com^
 ||papsiko.fun^
 ||paqba.com^
@@ -96299,6 +96305,7 @@
 ||pcgcoatings.com^
 ||pchasm.net^
 ||pchkn.com^
+||pcht23.com^
 ||pcmylife.com^
 ||pcoop.ru^
 ||pcpz.com^
@@ -99790,6 +99797,7 @@
 ||ririe.club^
 ||ririsbeautystore.com^
 ||risanmedia.id^
+||risantekno.com^
 ||risaumami.art^
 ||risbobi.cf^
 ||risbobi.ml^
