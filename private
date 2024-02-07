@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-06T18:09:38.828Z
+! Last modified: 2024-02-07T00:34:45.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -78852,6 +78852,7 @@
 ||etherage.com^
 ||etherealchats.ca^
 ||etherealgemstone.site^
+||ethereals.work^
 ||ethereum1.top^
 ||ethereumcodes.net^
 ||ethermes.com^
