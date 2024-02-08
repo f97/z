@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-08T06:11:45.012Z
+! Last modified: 2024-02-08T12:14:02.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -91610,6 +91610,7 @@
 ||memberblog.com^
 ||memberheality.ga^
 ||membhoreretli.ga^
+||memble.biz.id^
 ||memclin.com^
 ||mememail.com^
 ||memememe.buzz^
