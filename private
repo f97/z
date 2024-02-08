@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-08T12:14:02.622Z
+! Last modified: 2024-02-08T18:10:16.751Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -106939,6 +106939,7 @@
 ||unique3d.com^
 ||uniqueadagency.com^
 ||uniqueanalyzing.site^
+||uniqueanalyzing.top^
 ||uniquebedroom-au.com^
 ||uniquemoz.com^
 ||uniquesoftwaresolutionsllc.com^
