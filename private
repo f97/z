@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-09T06:10:56.390Z
+! Last modified: 2024-02-09T12:13:39.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -78549,6 +78549,7 @@
 ||encedrop.site^
 ||enchanted-celebrations.com^
 ||encodium.com^
+||encouragesless.site^
 ||encrytech.com^
 ||encuestan.com^
 ||encuestas.live^
@@ -96085,6 +96086,7 @@
 ||paaob.com^
 ||pabloobbt.live^
 ||pabloobt.live^
+||pablototortp.online^
 ||pacarmu.link^
 ||paceforwarders.com^
 ||paceincorp.com^
@@ -108966,6 +108968,7 @@
 ||weheartiphone.com^
 ||wehelpaddictsrecover.com^
 ||wehrmannengineering.com^
+||weiboscript.website^
 ||weieaidz.xyz^
 ||weigh.bthow.com^
 ||weightlossmetrics.com^
