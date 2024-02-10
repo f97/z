@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-10T12:13:33.663Z
+! Last modified: 2024-02-10T18:09:41.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -74812,6 +74812,7 @@
 ||couponxzibit.com^
 ||coupor.com^
 ||couragemail.xyz^
+||couriermovie.my.id^
 ||course-fitness.com^
 ||course-pay.com^
 ||court-records.org^
@@ -75254,6 +75255,7 @@
 ||cunqiong.club^
 ||cuocsongmoi2019.online^
 ||cuocsongmuonmau247.com^
+||cuoctinhdudungdusai.online^
 ||cuocxongwaponchen.online^
 ||cuoiholoi.vn^
 ||cuoly.com^
@@ -76870,6 +76872,7 @@
 ||ditusuk.com^
 ||ditzmagazine.com^
 ||diu.best^
+||divangdoiminh.online^
 ||diveandseek.com^
 ||divemasterconception.com^
 ||divestfromthebanks.org^
@@ -88368,6 +88371,7 @@
 ||kukuka.org^
 ||kulin.id^
 ||kulinar-i-um.ru^
+||kulionlen.my.id^
 ||kuljdeals.site^
 ||kulmeo.com^
 ||kulnijse.com^
