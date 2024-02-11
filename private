@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-10T18:09:41.642Z
+! Last modified: 2024-02-11T00:39:07.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4532,7 +4532,6 @@
 ||anastasia-international.com^
 ||anastasiasaffiliate.com^
 ||anatol.com^
-||anatomyabdicatenettle.com^
 ||anaturalaffinity.com^
 ||anaxialaphonia.com^
 ||anceenablesas.info^
@@ -45305,6 +45304,7 @@
 ||analyticspixel.microsoft.com^
 ||analyticssystems.net^
 ||analyticsweb.net^
+||anatomyabdicatenettle.com^
 ||and.co.uk^
 ||andmlb.kshwtj.com^
 ||android-stat.acestream.net^
@@ -45671,6 +45671,7 @@
 ||bugherd.com^
 ||bugly.weplayer.cc^
 ||bugsnag.com^
+||bulginglair.com^
 ||bullionyield.com^
 ||bumlam.com^
 ||bunintruder.com^
@@ -45866,6 +45867,7 @@
 ||collect.analytics.unity3d.com^
 ||collect.playdayy.com^
 ||collect.trendyol.com^
+||collectionspriestcardiac.com^
 ||collective-media.net^
 ||collective.com^
 ||collector.github.com^
@@ -45879,6 +45881,7 @@
 ||commandersact.com^
 ||commissionepochknuckle.com^
 ||commonvivacious.com^
+||comparativevegetables.com^
 ||comparedsilas.com^
 ||compasspenitenthollow.com^
 ||comprehendbighearted.com^
@@ -46118,6 +46121,7 @@
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
 ||diagnostics.support.microsoft.com^
+||diagramwrangleupdate.com^
 ||dianomi.com^
 ||digidip.net^
 ||digital-metric.com^
@@ -46312,6 +46316,7 @@
 ||ensighten.com^
 ||entirelysacrament.com^
 ||envnxs.net^
+||eo62cocntx.com^
 ||eprize.com^
 ||equitydefault.com^
 ||err-up.vivoglobal.com^
@@ -47311,6 +47316,7 @@
 ||midgerelativelyhoax.com^
 ||midgetincidentally.com^
 ||midlandfeisty.com^
+||mightylottrembling.com^
 ||migrantspiteconnecting.com^
 ||migrationexaminer.com^
 ||mindbox.ru^
@@ -49278,6 +49284,7 @@
 ||mkt1186.com^
 ||mkt11860.com^
 ||mkt11861.com^
+||mkt11862.com^
 ||mkt11863.com^
 ||mkt11864.com^
 ||mkt11865.com^
@@ -49316,6 +49323,7 @@
 ||mkt11903.com^
 ||mkt11904.com^
 ||mkt11905.com^
+||mkt11906.com^
 ||mkt11907.com^
 ||mkt11908.com^
 ||mkt1191.com^
@@ -49331,6 +49339,7 @@
 ||mkt11920.com^
 ||mkt11923.com^
 ||mkt11926.com^
+||mkt11927.com^
 ||mkt11928.com^
 ||mkt11929.com^
 ||mkt1193.com^
@@ -49338,10 +49347,13 @@
 ||mkt11932.com^
 ||mkt11933.com^
 ||mkt11934.com^
+||mkt11935.com^
 ||mkt11937.com^
 ||mkt1194.com^
 ||mkt11943.com^
+||mkt11945.com^
 ||mkt11948.com^
+||mkt11949.com^
 ||mkt1195.com^
 ||mkt11950.com^
 ||mkt1196.com^
@@ -59053,6 +59065,7 @@
 ||rebelmouse.io^
 ||rebrandly.com^
 ||rebuyengine.com^
+||recedewell.com^
 ||reciteassemble.com^
 ||recordingperky.com^
 ||redevents-bigdata.redefine.pl^
@@ -60578,6 +60591,7 @@
 ||themoneytizer.com^
 ||thenceextremeeyewitness.com^
 ||theoremreach.com^
+||therapistpopulationcommentary.com^
 ||thereforetreadvoluntarily.com^
 ||thescv.team^
 ||thetacdn.net^
@@ -67447,6 +67461,7 @@
 ||anaheimquote.com^
 ||anakavi.net^
 ||anakharam.online^
+||anakmami.my.id^
 ||anakraja.com^
 ||analabeevers.site^
 ||analenfo111.eu^
@@ -67920,6 +67935,7 @@
 ||aproinc.com^
 ||aprte.com^
 ||apsbreak.com^
+||apsiremtol.store^
 ||apster.com^
 ||aptee.me^
 ||aptekadvita.ru^
@@ -72535,6 +72551,7 @@
 ||capebretonpost.com^
 ||capital-humano.cl^
 ||capital21.ru^
+||capitalcarrier.eu.org^
 ||capitalfloors.net^
 ||capitalistdilemma.com^
 ||capitalregionhairrestoration.com^
@@ -86208,6 +86225,7 @@
 ||itgire.tk^
 ||itgracevvx.com^
 ||itgunity.com^
+||ithmails.com^
 ||ithuset.net^
 ||itibmail.com^
 ||itidata.nyc^
@@ -87279,6 +87297,7 @@
 ||k3opticsf.com^
 ||k5vin1.xorg.pl^
 ||k69d.com^
+||k6mkj.kro.kr^
 ||k8517.top^
 ||k88m.com^
 ||k8xp.com^
@@ -91275,6 +91294,7 @@
 ||marsbet.info^
 ||marshallhill.com^
 ||marsmecar.ga^
+||marsoak.com^
 ||marsoasis.org^
 ||marsylke.xyz^
 ||marsys.com^
@@ -94195,6 +94215,7 @@
 ||nhmicrosoft.com^
 ||nhmty.com^
 ||nhn.edu.vn^
+||nhnhi.info^
 ||nhottaosuka.com^
 ||nhrtiuuij.space^
 ||nhtelyatina.site^
@@ -98751,6 +98772,7 @@
 ||quizuetran.gq^
 ||quizwords.com^
 ||quminute.com^
+||quocanh.xyz^
 ||quoprice.org^
 ||quora.link^
 ||quossum.com^
@@ -101520,6 +101542,7 @@
 ||sentirerbb.com^
 ||sentraduta.com^
 ||senzimi-skincare.com^
+||seo-depot.email^
 ||seo-laboratory.ru^
 ||seo-mailer.com^
 ||seo-search.site^
@@ -105034,6 +105057,7 @@
 ||thegolfodyssey.com^
 ||thegoodlifemommaacademy.com^
 ||thegrandcon.com^
+||thegrowthmatrixpdf.com^
 ||thegscw.org^
 ||thehappyclean.net^
 ||theharmfam.com^
@@ -106404,6 +106428,7 @@
 ||tuccioholic.com^
 ||tucogough.ga^
 ||tucogough.tk^
+||tucompraventa.online^
 ||tucsonquote.com^
 ||tuda2.pw^
 ||tudooz.com^
@@ -108492,6 +108517,7 @@
 ||vtwo.com^
 ||vu38.com^
 ||vubby.com^
+||vubi.us^
 ||vudisdiz.space^
 ||vuecine.com^
 ||vuganda.com^
@@ -110939,6 +110965,7 @@
 ||zdcardtechglobal.com^
 ||zdecadesgl.com^
 ||zdenka.net^
+||zdfgmail.space^
 ||zdfpost.net^
 ||zdifne.com^
 ||zdpuppyiy.com^
