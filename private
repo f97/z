@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-11T12:12:26.096Z
+! Last modified: 2024-02-11T18:10:30.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -93700,6 +93700,7 @@
 ||nam6.org^
 ||namail.com^
 ||namakuirfan.com^
+||name-shirts.shop^
 ||nameart.me^
 ||namebacki.com^
 ||namebrandent.com^
@@ -104608,6 +104609,7 @@
 ||tbteam.site^
 ||tbteamfb.online^
 ||tbteamhehe.site^
+||tbteamhehe2.online^
 ||tbteamhehe2.site^
 ||tc-coop.com^
 ||tc-solutions.com^
