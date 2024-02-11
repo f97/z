@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-11T06:10:51.769Z
+! Last modified: 2024-02-11T12:12:26.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -106171,6 +106171,7 @@
 ||trakopti.com^
 ||tramail.com^
 ||tramepel.gq^
+||trangnhung3369.site^
 ||trango.co^
 ||trans2019.website^
 ||transatusa.com^
