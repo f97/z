@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-11T18:10:30.945Z
+! Last modified: 2024-02-12T00:36:37.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -47286,7 +47286,6 @@
 ||martcubic.com^
 ||marvellouspeaches.com^
 ||masakeku.com^
-||masontotally.com^
 ||matheranalytics.com^
 ||mathscrayonreference.com^
 ||matomo.cloud^
@@ -47355,7 +47354,6 @@
 ||metrics.beyondwords.io^
 ||metrics.cbc.ca^
 ||metrics.claspws.tv^
-||metrics.corus.ca^
 ||metrics.data.hicloud.com^
 ||metrics.dt.hicloud.com^
 ||metrics.fidelity.com^
@@ -73027,6 +73025,7 @@
 ||cedano43.softtoiletpaper.com^
 ||cedarrapidsnewsdaily.com^
 ||cedijournal.com^
+||ceeasy.club^
 ||ceelv.com^
 ||cef.cn^
 ||cehage.ml^
@@ -90467,6 +90466,7 @@
 ||mailavi.ga^
 ||mailax.ru^
 ||mailbab.com^
+||mailbag.in^
 ||mailbbelga.space^
 ||mailbeaver.net^
 ||mailbiscuit.com^
