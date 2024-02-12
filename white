@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-12T00:36:38.161Z
+! Last modified: 2024-02-12T06:11:00.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3370,6 +3370,7 @@
 @@|pc.ea.com^$important
 @@|pcdn.brave.com^$important
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
+@@|pcmanager.microsoft.com^$important
 @@|pcs.geforcenow.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
@@ -4344,6 +4345,7 @@
 @@|tracker.cubonegro.lol^$important
 @@|tracker.cyberia.is^$important
 @@|tracker.dler.com^$important
+@@|tracker.dler.org^$important
 @@|tracker.doko.moe^$important
 @@|tracker.dump.cl^$important
 @@|tracker.edkj.club^$important
@@ -4400,6 +4402,7 @@
 @@|tracker.torrust-demo.com^$important
 @@|tracker.trackerfix.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
 @@|tracker.yemekyedim.com^$important
 @@|tracker.zer0day.to^$important
