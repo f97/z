@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-12T18:09:03.985Z
+! Last modified: 2024-02-13T00:36:33.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -44241,7 +44241,6 @@
 ||amdcopen.m.taobao.com^
 ||amenityleisurelydays.com^
 ||amgdgt.com^
-||amountdonutproxy.com^
 ||amp.services^
 ||amplience.com^
 ||amplitude.com^
@@ -45923,7 +45922,6 @@
 ||indigestionmarried.com^
 ||inediblebedside.com^
 ||inediblepollingbuzz.com^
-||infectedrepentearl.com^
 ||infernotions.com^
 ||infesthazardous.com^
 ||infinity-tracking.com^
@@ -92885,6 +92883,7 @@
 ||ncjuniorcanes.com^
 ||ncl.co^
 ||ncmaracing.com^
+||ncnmedia.asia^
 ||ncnmedia.net^
 ||nconrivnirn.site^
 ||ncpine.com^
@@ -104796,6 +104795,7 @@
 ||todo148.glasslightbulbs.com^
 ||todofutbol.info^
 ||todtdeke.xyz^
+||toeapps.digital^
 ||toearth.space^
 ||toecye.com^
 ||toelettaturacani.net^
@@ -109333,6 +109333,7 @@
 ||xriveroq.com^
 ||xrmail.top^
 ||xrmail.xyz^
+||xrobo1.com^
 ||xroz.com^
 ||xrpmail.com^
 ||xrseo.store^
