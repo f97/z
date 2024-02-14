@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-14T06:11:46.746Z
+! Last modified: 2024-02-14T12:14:23.777Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -18261,7 +18261,6 @@
 ||gacz.hit.gemius.pl^
 ||gadk.hit.gemius.pl^
 ||gaee.hit.gemius.pl^
-||gahu.hit.gemius.pl^
 ||gail.hit.gemius.pl^
 ||gakz.hit.gemius.pl^
 ||galt.hit.gemius.pl^
@@ -32089,7 +32088,6 @@
 ||publicus.com^
 ||publift.com^
 ||publisher-network.com^
-||publisher1st.com^
 ||publisherads.click^
 ||publisherride.com^
 ||analytics.publitas.com^
@@ -97339,6 +97337,7 @@
 ||possiblehappy-year.com^
 ||possystemsguide.com^
 ||post-box.xyz^
+||post.carnivalday.click^
 ||post.celebrationapp.click^
 ||post.org.pl^
 ||post123.site^
@@ -99395,6 +99394,7 @@
 ||rent-an-app.com^
 ||rent2.xyz^
 ||rentaen.com^
+||rentfilm.online^
 ||rentforsale7.com^
 ||rentgigolo.com^
 ||rentheath.com^
