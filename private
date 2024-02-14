@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-13T18:11:17.077Z
+! Last modified: 2024-02-14T00:36:04.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -72532,6 +72532,7 @@
 ||celinecityitalia.com^
 ||cell1net.net^
 ||cellogicas.com^
+||cellonemail.com^
 ||cellsata.ml^
 ||celtric.org^
 ||cemdevelopers.com^
