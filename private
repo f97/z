@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-15T12:13:35.304Z
+! Last modified: 2024-02-15T18:10:25.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -78937,6 +78937,7 @@
 ||eu.wrengostic.com^
 ||euasw.com^
 ||eucw.com^
+||eudaimonias.work^
 ||eudoxus.com^
 ||eueag.com^
 ||eulabs.eu^
@@ -83124,6 +83125,7 @@
 ||hagglebeddle.com^
 ||hagglestore.com^
 ||hagha.com^
+||hahababa.site^
 ||hahabox.com^
 ||hahahahah.com^
 ||hahaslot.xyz^
