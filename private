@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-16T06:10:50.672Z
+! Last modified: 2024-02-16T12:13:59.781Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -64390,6 +64390,7 @@
 ||2021-mail.online^
 ||2022darkmarkets.com^
 ||2022ye.store^
+||2023socialdividend.org.com^
 ||2030local.com^
 ||204gmail.com^
 ||206361.com^
@@ -95021,6 +95022,7 @@
 ||offthehooknola.org^
 ||offtopmag.com^
 ||ofirit.com^
+||ofkipavpep.com^
 ||ofmail.com^
 ||ofmail.store^
 ||ofmailer.net^
