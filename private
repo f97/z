@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-15T18:10:25.939Z
+! Last modified: 2024-02-16T00:35:25.024Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -44529,7 +44529,6 @@
 ||abruptlyinstitution.com^
 ||absoluteroute.com^
 ||absolveparticlesanti.com^
-||absorbedswept.com^
 ||abtasty.com^
 ||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
@@ -45502,7 +45501,6 @@
 ||capricetheme.com^
 ||captcha-display.com^
 ||captifymedia.com^
-||captivatecustomergentlemen.com^
 ||captivatepestilentstormy.com^
 ||carambo.la^
 ||cardlytics.com^
@@ -45849,7 +45847,6 @@
 ||datawrapper.de^
 ||datingshall.life^
 ||daudejuw.com^
-||daughterinlawrib.com^
 ||dauup.com^
 ||daysstone.com^
 ||dazeads1.online^
@@ -60297,7 +60294,6 @@
 ||tagcade.com^
 ||tagcommander.com^
 ||taggstar.com^
-||tagoutlookignoring.com^
 ||tags.johnlewis.com^
 ||tags.news.com.au^
 ||tagsrvcs.com^
@@ -60743,7 +60739,6 @@
 ||viglink.com^
 ||vihub.ru^
 ||viiadr.com^
-||villagerfertilityadversity.com^
 ||vilynx.com^
 ||vindicosuite.com^
 ||vintagerespectful.com^
@@ -83643,7 +83638,6 @@
 ||help-prava.ru^
 ||help.device-secure-new.auth.com^
 ||help.favbat.com^
-||help.teamshq.click^
 ||help365.us^
 ||help4storm.com^
 ||help68.trylinkbuildng.click^
@@ -85474,7 +85468,6 @@
 ||info-radio.ml^
 ||info.fiestahq.click^
 ||info.org^
-||info.teamshq.click^
 ||info89.ru^
 ||infoalgers.info^
 ||infoavg.my.id^
@@ -95225,6 +95218,7 @@
 ||onemail1.com^
 ||onemailtop.xyz^
 ||oneofakindmailbox.com^
+||oneofmore.info^
 ||oneononesexcam.com^
 ||oneooneproperty.com^
 ||onepack.systems^
@@ -104394,6 +104388,7 @@
 ||teampromotedge.com^
 ||teams68.trylinkbuildng.click^
 ||teamsapp.click^
+||teamshq.click^
 ||teamshub.click^
 ||teamslabs.click^
 ||teamsly.click^
