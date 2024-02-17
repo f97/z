@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-16T18:10:37.649Z
+! Last modified: 2024-02-17T00:35:24.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -44595,7 +44595,6 @@
 ||5min.com^
 ||5nt1gx7o57.com^
 ||5ovrmmmoubi71efvatfd.com^
-||5umpz4evlgkm.com^
 ||5xd3jfwl9e8v.com^
 ||63r2vxacp0pr.com^
 ||65twenty.com^
@@ -45286,7 +45285,6 @@
 ||arcspire.io^
 ||arenalitteraccommodation.com^
 ||arg.redgiant.com^
-||arguerepetition.com^
 ||argumentsmaymadly.com^
 ||arithmeticshovel.com^
 ||arity.com^
@@ -46535,7 +46533,6 @@
 ||gssprt.jp^
 ||gu-web.net^
 ||guardeddummysoothing.com^
-||guardianinvadecrept.com^
 ||gumbolersgthb.com^
 ||gumgum.com^
 ||guomob.com^
@@ -58625,7 +58622,6 @@
 ||painsdire.com^
 ||palvanquish.com^
 ||panachetech.com^
-||parachuteeffectedotter.com^
 ||parall.ax^
 ||parchicky.com^
 ||pardot.com^
@@ -58640,7 +58636,6 @@
 ||passionfruitads.com^
 ||passtechusa.com^
 ||passwordssaturatepebble.com^
-||pastreflected.com^
 ||pathfactory.com^
 ||payingnoodlescam.com^
 ||pcapredict.com^
@@ -58743,7 +58738,6 @@
 ||playgroundordinarilymess.com^
 ||plqbxvnjxq92.com^
 ||plugerr.com^
-||plumposterity.com^
 ||plymedia.com^
 ||pnsdkapi.turktelekom.com.tr^
 ||po.st^
@@ -58780,7 +58774,6 @@
 ||ppcnt.pro^
 ||pr-bh.ybp.yahoo.com^
 ||prd.sca.samsung.com^
-||preachribbonsummoned.com^
 ||preanalytication.com^
 ||prebid.org^
 ||premiumads.com.br^
@@ -69781,6 +69774,7 @@
 ||berams.club^
 ||beranabooks.info^
 ||berandi.com^
+||beraxs.id^
 ||beraxs.nl^
 ||berdeen.com^
 ||bereniki.com^
@@ -83553,6 +83547,7 @@
 ||hazmatdictionary.com^
 ||hb-3tvm.com^
 ||hb-chiromed.com^
+||hbahsjgdjhas76.online^
 ||hbapp01.com^
 ||hbastien.com^
 ||hbauers.best^
@@ -91259,6 +91254,7 @@
 ||mass-links.store^
 ||massage.com^
 ||massagecleansing.site^
+||massagecleansing.work^
 ||massagecupertino.cyou^
 ||massagelosgatos.cyou^
 ||massagemilpitas.cyou^
@@ -104618,6 +104614,7 @@
 ||teimur.com^
 ||teiracing.com^
 ||tejassec.com^
+||tekel.xyz^
 ||tekikioti.icu^
 ||tekisto.com^
 ||tekkoree.cf^
@@ -111166,6 +111163,7 @@
 ||ziwiki.com^
 ||ziyap.com^
 ||zizo7.com^
+||zizuka.info^
 ||zj-trade.com^
 ||zjexmail.com^
 ||zjhplayback.com^
