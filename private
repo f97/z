@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-17T12:12:47.831Z
+! Last modified: 2024-02-17T18:09:30.427Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -27442,7 +27442,6 @@
 ||usage-eu-fy2022.myhomescreen.tv^
 ||usage-us-fy2017.myhomescreen.tv^
 ||usage-us-fy2018.myhomescreen.tv^
-||myhuaweicloud.com^
 ||myhug.cn^
 ||myiads.com^
 ||myiryc.xyz^
@@ -77747,6 +77746,7 @@
 ||dublinbirds.com^
 ||dubmail.online^
 ||dubna.today^
+||dubu.tech^
 ||dubzone.com^
 ||ducenc.com^
 ||duck.9amail.top^
@@ -85098,6 +85098,7 @@
 ||huweimail.cn^
 ||huyf.com^
 ||huynyu.icu^
+||huysoftware.com^
 ||huyzmod.asia^
 ||huyzpro.uk^
 ||hvav.com^
