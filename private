@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-17T18:09:30.427Z
+! Last modified: 2024-02-18T00:38:36.412Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -45735,6 +45735,7 @@
 ||biologydemandedpond.com^
 ||bisrv.com^
 ||biteneverthelessnan.com^
+||bitingcomposed.com^
 ||bitmedia.io^
 ||bitmovin.com^
 ||bittygravely.com^
@@ -46056,6 +46057,7 @@
 ||config.sdk.scopely.io^
 ||config.toto.zipoapps.com^
 ||config.uca.cloud.unity3d.com^
+||confinementpleabotany.com^
 ||confirmsubscription.com^
 ||confrontationdrunk.com^
 ||conjunctionrepresentativepowerless.com^
@@ -47286,6 +47288,7 @@
 ||loopme.me^
 ||losingfoundation.com^
 ||lotame.com^
+||lotteryhibernateauthorized.com^
 ||louchees.net^
 ||louisaprocedureegoism.com^
 ||loulauzo.com^
@@ -49411,8 +49414,10 @@
 ||mkt11833.com^
 ||mkt11834.com^
 ||mkt11836.com^
+||mkt11837.com^
 ||mkt1184.com^
 ||mkt11840.com^
+||mkt11841.com^
 ||mkt11842.com^
 ||mkt11843.com^
 ||mkt11844.com^
@@ -49480,12 +49485,14 @@
 ||mkt11911.com^
 ||mkt11912.com^
 ||mkt11913.com^
+||mkt11914.com^
 ||mkt11915.com^
 ||mkt11916.com^
 ||mkt11917.com^
 ||mkt11919.com^
 ||mkt1192.com^
 ||mkt11920.com^
+||mkt11922.com^
 ||mkt11923.com^
 ||mkt11924.com^
 ||mkt11926.com^
@@ -58845,6 +58852,7 @@
 ||orratta.com^
 ||ort-stsdk.vivo.com.cn^
 ||os-code.shalltry.com^
+||ostensibledressmaker.com^
 ||ostlon.com^
 ||ota.lokalise.co^
 ||otbuzvqq8fm5.com^
@@ -58996,6 +59004,7 @@
 ||player-telemetry.vimeo.com^
 ||playground.xyz^
 ||playgroundordinarilymess.com^
+||playwrightglancing.com^
 ||plqbxvnjxq92.com^
 ||plugerr.com^
 ||plymedia.com^
@@ -93023,6 +93032,7 @@
 ||motorvationist.com^
 ||motorza.ru^
 ||motosneta.online^
+||motquephu.online^
 ||mouadslider.site^
 ||moud.us^
 ||moukhjconmeab.cf^
@@ -97843,6 +97853,7 @@
 ||powertoolsarea.com^
 ||powertradecopier.com^
 ||powerup.katasumber.com^
+||powerxvista.com^
 ||powerz.org^
 ||powested.site^
 ||powmail.store^
@@ -102998,7 +103009,6 @@
 ||solidpokerplayer.com^
 ||solidrecon.com^
 ||solidresources.com^
-||solidseovps.com^
 ||solikun.ga^
 ||solikun.gq^
 ||solikun.tk^
