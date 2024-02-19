@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-19T00:36:34.493Z
+! Last modified: 2024-02-19T06:11:01.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2077,8 +2077,10 @@
 ||datawrkz.com^
 ||pps-log.op-mobile.opera.com^
 ||s-adx.op-mobile.opera.com^
-||s.adx.opera.com^
 ||sdklog.tvstore.opera.com^
+||res.adx.opera.com^
+||s.adx.opera.com^
+||t.adx.opera.com^
 ||valuecommerce.com^
 ||yomeno.xyz^
 ||maxymiser.net^
@@ -2146,6 +2148,7 @@
 ||adservercheck.net^
 ||am15.net^
 ||yandexadexchange.net^
+||yads.tech^
 ||jampp.com^
 ||truepush.com^
 ||ambientdsp.cachefly.net^
@@ -2845,6 +2848,7 @@
 ||ads.livetv705.me^
 ||ads.livetv708.me^
 ||ads.livetv723.me^
+||ads.livetv760.me^
 ||company-target.com^
 ||antillephone.com^
 ||intake-analytics.wikimedia.org^
@@ -3021,6 +3025,11 @@
 ||dc.banggood.com^
 ||web-device-id.banggood.com^
 ||mtgglobals.com^
+||new-programmatic.com^
+||gonet-ads.com^
+||upravel.com^
+||aidata.io^
+||arcspire.io^
 ||adtimaserver.vn^
 ||eclick.vn^
 ||admicro.vn^
@@ -3595,6 +3604,7 @@
 ||bgadx.com^
 ||bidgear-syndication.com^
 ||cdn-ads.thesaigontimes.vn^
+||cdn.qc24h.com^
 ||cdn2.cache.vn^
 ||chiasephim.xyz^
 ||click.vieon.vn^
@@ -3837,6 +3847,7 @@
 ||logging.kinhtedothi.vn^
 ||logs.1cdn.vn^
 ||logs.docnhanh.com.vn^
+||logs.sanchoikns.vn^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
@@ -4108,6 +4119,7 @@
 ||ad-static.qanda.ai^
 ||ad-tech.com^
 ||ad-up.com^
+||ad.22betpartners.com^
 ||ad.980x.com^
 ||ad.abcnews.com^
 ||ad.abctv.com^
@@ -4116,6 +4128,7 @@
 ||ad.adpon.jp^
 ||ad.anuntis.com^
 ||ad.api.3g.tudou.com^
+||ad.apl318.me^
 ||ad.apsalar.com^
 ||ad.auditude.com^
 ||ad.bizo.com^
@@ -4169,6 +4182,7 @@
 ||ad.weatherbug.com^
 ||ad.wz.cz^
 ||ad.xmmnsl.com^
+||ad.xunkids.com^
 ||ad.zuimeitianqi.com^
 ||ad0.bigmir.net^
 ||ad01.mediacorpsingapore.com^
@@ -4557,6 +4571,7 @@
 ||ads.space.com^
 ||ads.sportradar.com^
 ||ads.stackoverflow.com^
+||ads.starzd.com^
 ||ads.sun.com^
 ||ads.sunmaker.com^
 ||ads.suomiautomaatti.com^
@@ -6848,6 +6863,7 @@
 ||gatetodisplaycontent.com^
 ||gatewayimpossibilitypursue.com^
 ||gaudetehoazin.com^
+||gaunchdelimes.com^
 ||gaut-hil.com^
 ||gavnogeeygaika.com^
 ||gayadnetwork.com^
@@ -7816,6 +7832,7 @@
 ||lzjl.com^
 ||lzyjcooxsodz.com^
 ||m.trb.com^
+||m0rsq075u.com^
 ||m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com^
 ||m32.media^
 ||m4n.nl^
@@ -10070,6 +10087,7 @@
 ||topsite.lv^
 ||topsites.com.br^
 ||topstats.com^
+||toptrendyinc.com^
 ||tornbed.pro^
 ||toroadvertisingmedia.com^
 ||tosfeed.com^
@@ -10952,6 +10970,7 @@
 ||analytics.nike.com^
 ||analytics.ninjakiwi.com^
 ||analytics.nova.fox.com^
+||analytics.pangle-ads.com^
 ||analytics.phando.com^
 ||analytics.picsart.com^
 ||analytics.pixels.ai^
@@ -11147,6 +11166,7 @@
 ||grabify.link^
 ||greedseed.world^
 ||guihua-china.com^
+||gw-iad-bid.ymmobi.com^
 ||hairtease.com^
 ||hdmtools.com^
 ||histats.link^
@@ -11169,6 +11189,7 @@
 ||idio.co^
 ||ie8eamus.com^
 ||ilogs.bytefence.com^
+||im.bluevoox.com^
 ||img3.usefathom.com^
 ||imp.pvnsolutions.com^
 ||in.treasuredata.com^
@@ -11266,6 +11287,7 @@
 ||openfpcdn.io^
 ||opensharecount.com^
 ||ophan.theguardian.com^
+||oplog.mulai.pw^
 ||optnmstr.com^
 ||pegloang.com^
 ||perf.hsforms.com^
@@ -11363,6 +11385,7 @@
 ||selfishsnake.com^
 ||semantiqo.com^
 ||sessions.bugsnag.com^
+||shopnetic.com^
 ||showbiz.owndata.network^
 ||simplesharebuttons.com^
 ||siteimproveanalytics.com^
@@ -11393,6 +11416,7 @@
 ||static.intentarget.com^
 ||static.leaddyno.com^
 ||static.site24x7rum.com^
+||statistik.changing-cities.org^
 ||stats.apester.com^
 ||stats.avaaz.org^
 ||stats.bannernow.com^
