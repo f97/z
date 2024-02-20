@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-19T18:12:02.021Z
+! Last modified: 2024-02-20T00:36:00.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -14936,6 +14936,7 @@
 ||druguniverseinfected.com^
 ||matomo.druide.com^
 ||drumcorpsplanet.com^
+||drummerconvention.com^
 ||drummercorruptprime.com^
 ||drumusherhat.com^
 ||drunkardashamethicket.com^
@@ -45399,7 +45400,6 @@
 ||adjust.com^
 ||adjust.net.in^
 ||adjust.world^
-||adjustedminglecamouflage.com^
 ||adkernel.com^
 ||adklik.com.tr^
 ||adkmob.com^
@@ -45967,7 +45967,6 @@
 ||astutemetrics.com^
 ||at-o.net^
 ||atemda.com^
-||atevaccination.com^
 ||atgsvcs.com^
 ||ati-host.net^
 ||atomz.com^
@@ -46094,7 +46093,6 @@
 ||berlipurplin.com^
 ||besmeargleor.com^
 ||bestcpmnetwork.com^
-||bestdisplaycontent.com^
 ||bestdisplayformats.com^
 ||bestialvehemence.com^
 ||bestrevenuenetwork.com^
@@ -46195,7 +46193,6 @@
 ||britepool.com^
 ||britishinquisitive.com^
 ||broadsheetspikesnick.com^
-||broughtenragesince.com^
 ||browser-intake-datadoghq.com^
 ||browser-intake-datadoghq.eu^
 ||browser.events.data.msn.com^
@@ -46256,7 +46253,6 @@
 ||canddi.download^
 ||canddi.io^
 ||canoevaguely.com^
-||capricetheme.com^
 ||captcha-display.com^
 ||captifymedia.com^
 ||captivatepestilentstormy.com^
@@ -46432,7 +46428,6 @@
 ||compresssavvydetected.com^
 ||compromiseadaptedspecialty.com^
 ||compromisemammoth.com^
-||computebailiff.com^
 ||comscore.com^
 ||comscoreresearch.com^
 ||concernederase.com^
@@ -46440,7 +46435,6 @@
 ||concertads-configs.vox-cdn.com^
 ||concisepressing.com^
 ||condenastdigital.com^
-||condolencespicturesquetracks.com^
 ||condolencessumcomics.com^
 ||conductmassage.com^
 ||confidethirstyfrightful.com^
@@ -46457,7 +46451,6 @@
 ||connatix.com^
 ||connectad.io^
 ||connexity.net^
-||consequencesgiddyditch.com^
 ||constant.co^
 ||constructpoll.com^
 ||contagiousaugust.com^
@@ -46699,7 +46692,6 @@
 ||disrespectpreceding.com^
 ||dissimilarakin.com^
 ||dissolveddittoteaspoon.com^
-||dissolveretinue.com^
 ||distinctlynobleprosecute.com^
 ||distressedsoultabloid.com^
 ||distributionrealmoth.com^
@@ -46739,7 +46731,6 @@
 ||driftt.com^
 ||driv-analytics.com^
 ||dropkickmedia.com^
-||drummerconvention.com^
 ||ds.shalltry.com^
 ||dsch.ninja^
 ||dsply.com^
@@ -47186,7 +47177,6 @@
 ||gslb.shalltry.com^
 ||gssprt.jp^
 ||gu-web.net^
-||guardeddummysoothing.com^
 ||gumbolersgthb.com^
 ||gumgum.com^
 ||guomob.com^
@@ -47298,7 +47288,6 @@
 ||i10c.net^
 ||i18n-pglstatp.com^
 ||i4rsrcj6.top^
-||i7ece0xrg4nx.com^
 ||iadvize.com^
 ||ib-ibi.com^
 ||ibclick.stream^
@@ -47455,7 +47444,6 @@
 ||ja2n2u30a6rgyd.com^
 ||jads.co^
 ||jampp.com^
-||janitoraccrue.com^
 ||jarquizslash.com^
 ||jawconcealed.com^
 ||jbm6c54upkui.com^
@@ -47523,7 +47511,6 @@
 ||klick2contact.com^
 ||klickly.com^
 ||knobpredestinecontradiction.com^
-||knownwarn.com^
 ||kochava.com^
 ||kooappslogs.com^
 ||korrelate.net^
@@ -47862,7 +47849,6 @@
 ||migrantspiteconnecting.com^
 ||migrationexaminer.com^
 ||mindbox.ru^
-||mindedcarious.com^
 ||mineraltip.com^
 ||mintegral.com^
 ||mintegral.net^
@@ -59052,7 +59038,6 @@
 ||mybuys.com^
 ||mydatamanagerapp.com^
 ||myfinance.com^
-||mygoodlives.com^
 ||mymarketingreports.com^
 ||mynetreklam.com^
 ||myornamenti.com^
@@ -59749,7 +59734,6 @@
 ||rundsp.com^
 ||ruralstring.com^
 ||rustgenerations.com^
-||rutpunishsnitch.com^
 ||rwadx.com^
 ||rxpsaofevrikmi.com^
 ||s-onetag.com^
@@ -59854,7 +59838,6 @@
 ||sentkey.com^
 ||seoab.io^
 ||separatecolonist.com^
-||serialwarning.com^
 ||sermonoccupied.com^
 ||servebom.com^
 ||servenobid.com^
@@ -60821,7 +60804,6 @@
 ||socy.es^
 ||sodallay.com^
 ||sojern.com^
-||solemnmanarchie.com^
 ||solemnvine.com^
 ||solestudious.com^
 ||solutionshindsight.net^
@@ -61009,7 +60991,6 @@
 ||superads.cn^
 ||superawesome.com^
 ||superawesome.tv^
-||supermanpunchchanges.com^
 ||superonclick.com^
 ||supersonic.com^
 ||supersonicads.com^
@@ -61383,7 +61364,6 @@
 ||undertone.com^
 ||undooptimisticsuction.com^
 ||undrininvereb.info^
-||unforgivablegrowl.com^
 ||unid.go.com^
 ||uniqodo.com^
 ||uniqueflatlysorting.com^
@@ -61395,7 +61375,6 @@
 ||unseenreport.com^
 ||unskilfulwalkerpolitician.com^
 ||unspeakablepurebeings.com^
-||unusualbrainlessshotgun.com^
 ||uobsoe.com^
 ||uod2quk646.com^
 ||up0.net^
@@ -61610,7 +61589,6 @@
 ||wmgtr.com^
 ||wogaa.sg^
 ||wombalayah.com^
-||wombjingle.com^
 ||woodpecker.uc.cn^
 ||woollenthawewe.com^
 ||wootric.com^
