@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-21T00:35:32.923Z
+! Last modified: 2024-02-21T06:10:41.815Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1232,6 +1232,7 @@
 ||webvisor.ru^
 ||webvisor.com^
 ||stickyadstv.com^
+||skyadsmart.com^
 ||mediawayss.com^
 ||superfastmediation.com^
 ||localytics.com^
@@ -3475,6 +3476,7 @@
 ||kernh41.com^
 ||realclick.vn^
 ||distinctrobin.com^
+||adop.asia^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -3751,6 +3753,7 @@
 ||beta-log.anninhthudo.vn^
 ||bi.vhost.vn^
 ||btrack.homedy.com^
+||bubblyzucchini.com^
 ||campaign.gitiho.com^
 ||cdn.api-connect.io^
 ||clicker.chiaki.vn^
@@ -3793,6 +3796,7 @@
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
 ||log.baocaobang.vn^
@@ -3964,6 +3968,7 @@
 ||webpush.todo.vn^
 ||webstag.kplus.vn^
 ||widget.kyna.vn^
+||za.agiay.vn^
 ||za.baomoi.com^
 ||zigzag.vn^
 ||ztrck.me^
@@ -5870,6 +5875,7 @@
 ||clicks.equantum.com^
 ||clicks.eventbrite.com^
 ||clicks.mods.de^
+||clicks.pipaffiliates.com^
 ||clickserve.cc-dt.com^
 ||clicksmint.site^
 ||clicksor.com^
@@ -7576,6 +7582,7 @@
 ||karnslawfirm.com^
 ||karonty.com^
 ||katukaunamiss.com^
+||kauleeci.com^
 ||kaurieseluxate.com^
 ||kcaapxanwv.com^
 ||kcaonrbiwamx.com^
@@ -9046,6 +9053,7 @@
 ||qciofmzwiasb.com^
 ||qctop.com^
 ||qdfxeqhnjuknyy.com^
+||qfoacmmuda.com^
 ||qfoodskfubk.com^
 ||qgicqtyh.com^
 ||qgxbluhsgad.com^
@@ -10735,6 +10743,7 @@
 ||xq1.net^
 ||xrea.com^
 ||xruamzpanbca.com^
+||xszpuvwr7.com^
 ||xtendmedia.com^
 ||xtremeserve.xyz^
 ||xtremetop100.com^
@@ -11048,6 +11057,7 @@
 ||cc.swiftype.com^
 ||ccgateway.net^
 ||cdn.c-i.as^
+||cdn.lr-ingest.io^
 ||cdn.onesignal.com^
 ||cdn.retailads.net^
 ||cdn.shoplytics.com^
