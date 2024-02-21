@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-20T18:12:13.842Z
+! Last modified: 2024-02-21T00:36:08.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -76176,6 +76176,7 @@
 ||contactare.com^
 ||contacterpro.com^
 ||contacthq.click^
+||contactly.click^
 ||contactpp.click^
 ||contactsapp.click^
 ||contactshub.click^
@@ -76188,6 +76189,7 @@
 ||contbay.com^
 ||contcthq.click^
 ||contctly.click^
+||contcts.click^
 ||contctshq.click^
 ||contctsly.click^
 ||contemporarybookcases.com^
@@ -107959,6 +107961,7 @@
 ||tryalert.com^
 ||tryalfajor.buzz^
 ||trybookr.com^
+||trycontact.click^
 ||trycontct.click^
 ||trycontcts.click^
 ||trydeal.com^
