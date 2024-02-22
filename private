@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-22T12:13:49.214Z
+! Last modified: 2024-02-22T18:10:45.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -77949,6 +77949,7 @@
 ||culated.site^
 ||culbdom.com^
 ||culh.com^
+||culinier.ru^
 ||culsanab.cf^
 ||culsanab.tk^
 ||culturallyconnectedcooking.com^
@@ -78416,6 +78417,7 @@
 ||darim-dengi.ru^
 ||daritute.site^
 ||darkfort.design^
+||darksirius.shop^
 ||darkwarden.buzz^
 ||darlenemerronemarie.us^
 ||darlingaga.com^
