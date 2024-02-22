@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-21T18:10:01.817Z
+! Last modified: 2024-02-22T00:35:46.683Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -48320,6 +48320,7 @@
 ||gracelessbrief.com^
 ||grafana.org^
 ||grandchildfee.com^
+||granddaughterrepresentationintroduce.com^
 ||granify.com^
 ||grantedpigsunborn.com^
 ||grapeshot.co.uk^
@@ -48871,6 +48872,7 @@
 ||madcpms.com^
 ||madisonlogic.com^
 ||madnessindians.com^
+||madsips.com^
 ||magic1.info^
 ||magistratehumorousjeep.com^
 ||magnetmail.net^
@@ -50901,6 +50903,7 @@
 ||mkt11738.com^
 ||mkt11739.com^
 ||mkt1174.com^
+||mkt11740.com^
 ||mkt11741.com^
 ||mkt11742.com^
 ||mkt11743.com^
@@ -50925,6 +50928,7 @@
 ||mkt11763.com^
 ||mkt11768.com^
 ||mkt1177.com^
+||mkt11771.com^
 ||mkt11774.com^
 ||mkt11778.com^
 ||mkt11779.com^
@@ -50983,6 +50987,7 @@
 ||mkt11850.com^
 ||mkt11851.com^
 ||mkt11852.com^
+||mkt11853.com^
 ||mkt11854.com^
 ||mkt11855.com^
 ||mkt11857.com^
@@ -50995,6 +51000,7 @@
 ||mkt11863.com^
 ||mkt11864.com^
 ||mkt11865.com^
+||mkt11866.com^
 ||mkt11868.com^
 ||mkt11869.com^
 ||mkt1187.com^
@@ -51004,6 +51010,7 @@
 ||mkt11875.com^
 ||mkt11876.com^
 ||mkt11877.com^
+||mkt11878.com^
 ||mkt11879.com^
 ||mkt1188.com^
 ||mkt11880.com^
@@ -51019,6 +51026,7 @@
 ||mkt11890.com^
 ||mkt11891.com^
 ||mkt11893.com^
+||mkt11894.com^
 ||mkt11895.com^
 ||mkt11896.com^
 ||mkt11897.com^
@@ -51060,8 +51068,10 @@
 ||mkt11935.com^
 ||mkt11936.com^
 ||mkt11937.com^
+||mkt11938.com^
 ||mkt11939.com^
 ||mkt1194.com^
+||mkt11941.com^
 ||mkt11943.com^
 ||mkt11945.com^
 ||mkt11948.com^
@@ -60252,6 +60262,7 @@
 ||network-n.com^
 ||networkad.net^
 ||networkadvertising.org^
+||neverthelessdepression.com^
 ||neverthelessgrandchildren.com^
 ||newdisplayformats.com^
 ||newrelic.com^
@@ -106492,6 +106503,7 @@
 ||temp-email.info^
 ||temp-link.net^
 ||temp-mail.web.id^
+||temp2.club^
 ||temp69.email^
 ||tempail.com^
 ||tempamailbox.info^
