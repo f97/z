@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-23T12:14:15.767Z
+! Last modified: 2024-02-23T18:10:51.837Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -26315,6 +26315,7 @@
 ||collect.gesundheitswissen-aktuell.de^
 ||get-answers-fast.com^
 ||get-apk-update.info^
+||get-express-vpn.com^
 ||get-here-click.xyz^
 ||get-hot-girls.com^
 ||get-huusk.com^
@@ -29556,7 +29557,7 @@
 ||hptransparts.com^
 ||plausible.hptronic.cz^
 ||hpyjmp.com^
-||go.hpyrdr.com^
+||hpyrdr.com^
 ||hq3x.com^
 ||jo.hqbang.com^
 ||hqdlhgx.cn^
@@ -39925,8 +39926,7 @@
 ||metric.myvitamins.com^
 ||smetrics.myvue.com^
 ||axp.mywabashvalley.com^
-||hp.myway.com^
-||speedbar.myway.com^
+||myway.com^
 ||mywebsearch.com^
 ||mywebstats.org^
 ||mywondertrip.com^
