@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-22T18:10:45.361Z
+! Last modified: 2024-02-23T00:35:16.699Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -48999,7 +48999,6 @@
 ||enoughturtlecontrol.com^
 ||enrichyummy.com^
 ||ensighten.com^
-||entirelysacrament.com^
 ||envnxs.net^
 ||eo62cocntx.com^
 ||eprize.com^
@@ -49105,7 +49104,6 @@
 ||februarybogus.com^
 ||februaryinjectionproudly.com^
 ||februarynip.com^
-||federalcertainty.com^
 ||federatedml-pa.googleapis.com^
 ||feed.ff.avast.com^
 ||feedbackify.com^
@@ -49428,7 +49426,6 @@
 ||hundredscultureenjoyed.com^
 ||huqindustries.co.uk^
 ||husbandnights.com^
-||hutremindbond.com^
 ||hxtrack.com^
 ||hybrid.ai^
 ||hyperbid.com^
@@ -63285,7 +63282,6 @@
 ||thinksabashmolly.com^
 ||thisisarray.com^
 ||thisiswaldo.com^
-||thrilloffer.com^
 ||thriveradioactivecheers.com^
 ||thrtle.com^
 ||ticketswinning.com^
