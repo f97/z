@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-23T06:11:26.986Z
+! Last modified: 2024-02-23T12:14:15.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -108570,6 +108570,7 @@
 ||lopowps.com^
 ||loptagt.com^
 ||loptagt.online^
+||loranerobinson.info^
 ||loranund.world^
 ||lordfilmu.org^
 ||lordfkas.tk^
@@ -114248,6 +114249,7 @@
 ||onety.pl^
 ||onewayticket.online^
 ||onewedding.live^
+||onewedding.us^
 ||onextube.com^
 ||ongpkr.org^
 ||ongsiteaa.com^
