@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-23T18:10:51.837Z
+! Last modified: 2024-02-24T00:34:00.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -16555,6 +16555,7 @@
 ||courageimportancedirections.com^
 ||courageousbaby.com^
 ||courapaguish.website^
+||coursebrushedassume.com^
 ||coursyorpins.space^
 ||courthousedefective.com^
 ||courtoyz.com^
@@ -47084,6 +47085,7 @@
 ||radargoats.com^
 ||hcjpbc.radaronline.com^
 ||radarstats.com^
+||radarwitch.com^
 ||raddoppia-bitcoin.click^
 ||raders.ru^
 ||analytics.radial.com^
@@ -64745,7 +64747,6 @@
 ||countess.twitch.tv^
 ||countly.turktelekom.com.tr^
 ||couplestupidity.com^
-||coursebrushedassume.com^
 ||coveritlive.com^
 ||cpex.cz^
 ||cpmnetworkcontent.com^
@@ -65319,7 +65320,6 @@
 ||gdrytrk.com^
 ||gecko-sg.byteoversea.com^
 ||gelclinchfranz.com^
-||gemlocomotivemid.com^
 ||generalizebusinessman.com^
 ||generashionvd.com^
 ||genericlink.com^
@@ -77825,7 +77825,6 @@
 ||r42tag.com^
 ||r7ls.net^
 ||rad.live.com^
-||radarwitch.com^
 ||radiantsands.com^
 ||raggedstriking.com^
 ||rainyfreshen.com^
@@ -78051,7 +78050,6 @@
 ||sdsjweb.com^
 ||se05.biz^
 ||se07.biz^
-||seafoodclickwaited.com^
 ||seaofads.com^
 ||search-log-1.tapatalk.com^
 ||searchanalytics.turkcell.com.tr^
@@ -79374,7 +79372,6 @@
 ||thereforetreadvoluntarily.com^
 ||thescv.team^
 ||thetacdn.net^
-||thinksabashmolly.com^
 ||thisisarray.com^
 ||thisiswaldo.com^
 ||thriveradioactivecheers.com^
