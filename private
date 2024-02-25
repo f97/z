@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-25T12:13:04.718Z
+! Last modified: 2024-02-25T18:09:33.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3270,6 +3270,18 @@
 ||api-ao.adison.co^
 ||api-ao-list.adison.co^
 ||adit-media.com^
+||ad.adition.com^
+||adsdk.adfarm1.adition.com^
+||dsp.adfarm1.adition.com^
+||dspcluster.adfarm1.adition.com^
+||match.adfarm1.adition.com^
+||mobile.adfarm1.adition.com^
+||static.adfarm1.adition.com^
+||cd.adition.com^
+||dbt.adition.com^
+||imagesrv.adition.com^
+||track.adition.com^
+||vt.adition.com^
 ||aditsafeweb.com^
 ||aditserve.com^
 ||adivery.com^
@@ -3634,7 +3646,6 @@
 ||unified.adsafeprotected.com^
 ||vadt.adsafeprotected.com^
 ||vafw.adsafeprotected.com^
-||vapixel.adsafeprotected.com^
 ||vast.adsafeprotected.com^
 ||vastpixel3.adsafeprotected.com^
 ||vavideo.adsafeprotected.com^
@@ -118700,6 +118711,7 @@
 ||resgedvgfed.tk^
 ||resheto.ru^
 ||resicoin.com^
+||residela.live^
 ||residencecure.com^
 ||residencemedicine.com^
 ||resifi.net^
