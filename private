@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-25T06:09:45.221Z
+! Last modified: 2024-02-25T12:13:04.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1542,6 +1542,7 @@
 ||4e0622e316.com^
 ||4e26d342b8.com^
 ||4e645c7cf2.com^
+||4e8bjpldk.com^
 ||4ec2e6f324.com^
 ||4ed196b502.com^
 ||4f116d9efd.com^
@@ -8815,6 +8816,7 @@
 ||bestgames-2022.com^
 ||besthealthblog.pro^
 ||besthitsnow.com^
+||bestinterestings.com^
 ||creative.live.bestjavporn.com^
 ||bestlampjoy.com^
 ||bestlinuxgames.com^
@@ -8822,6 +8824,7 @@
 ||bestmoviesflix.xyz^
 ||bestnewscool.com^
 ||bestnfast.pl^
+||bestoffers-fe.com^
 ||analytics.bestofluck.io^
 ||bestofmoneysurvey.top^
 ||bestonlinecasino.club^
@@ -12848,8 +12851,7 @@
 ||clickintext.net^
 ||clickmagick.com^
 ||clickmate.io^
-||filter.clickmeniaads.com^
-||xml-v4.clickmeniaads.com^
+||clickmeniaads.com^
 ||clickmetertracking.com^
 ||clickmi.net^
 ||clickmobad.net^
@@ -24347,6 +24349,7 @@
 ||findcovidtests.com^
 ||analytics.findfilo.com^
 ||findglocal.com^
+||findgreatnews.com^
 ||findher2date.com^
 ||findhere.org^
 ||findingattending.com^
@@ -33154,6 +33157,7 @@
 ||jerust.com^
 ||jervinglycyls.com^
 ||jessiecaraballo.com^
+||jessunews.com^
 ||jestinquire.com^
 ||jestthankfulcaption.com^
 ||jesulf.com^
@@ -33945,6 +33949,7 @@
 ||karoup.com^
 ||analytics.karpa.us^
 ||cdn.karpatzi.com^
+||karponews.com^
 ||karresults-nic-in.in^
 ||ads-dmp-collect.kr.karrotmarket.com^
 ||karshagirdled.com^
@@ -34751,6 +34756,7 @@
 ||kspengineering.com^
 ||kspotson.de^
 ||ksrgsc.xyz^
+||ksrtmgoym.com^
 ||jdgtgb.ksta.de^
 ||sanalytics.ksta.de^
 ||track.ksta.de^
@@ -40864,6 +40870,7 @@
 ||axp.news10.com^
 ||newsaboutsugar.com^
 ||newsadsppush.com^
+||newsbeala.com^
 ||prebid-server.newsbreak.com^
 ||newscadence.com^
 ||ywrcqa.newscentermaine.com^
@@ -42180,6 +42187,7 @@
 ||ogrmiblwov.com^
 ||track.ogrowthlabs.com^
 ||ogrrmasukq.com^
+||ogrt80r65.com^
 ||ogt.jp^
 ||ogtakvkpoaxt.com^
 ||ogtrk.net^
@@ -48731,6 +48739,7 @@
 ||roockmobile.com^
 ||roofrelation.com^
 ||rookiewhiskey.com^
+||rookinews.com^
 ||rookretired.com^
 ||rooksreused.website^
 ||roolgage.com^
@@ -49117,6 +49126,7 @@
 ||rural-patience.com^
 ||rural-report.pro^
 ||ruralrobin.com^
+||ruranews.com^
 ||rurber.com^
 ||rurbie.com^
 ||rurdauth.net^
@@ -50301,6 +50311,7 @@
 ||sephur.com^
 ||sepiasbalkis.com^
 ||je.sepiasfra.com^
+||seponews.com^
 ||sepstough.com^
 ||septfd2em64eber.com^
 ||sepubl.com^
@@ -57145,6 +57156,7 @@
 ||analytics.uhhospitals.org^
 ||uhjxitn.xyz^
 ||uhllogeum.digital^
+||uho5m96ej.com^
 ||timing.uhrforum.de^
 ||analytics.uhrzeit.org^
 ||uhzoksrwde.com^
@@ -60282,7 +60294,7 @@
 ||spr.welt.de^
 ||igexlg.weltbild.de^
 ||matomo.welthungerhilfe.de^
-||1.wemakebestnews.com^
+||wemakebestnews.com^
 ||ad-log.wemakeprice.com^
 ||analytics-mkt.wemakeprice.com^
 ||wmars-client.wemakeprice.com^
@@ -61427,16 +61439,7 @@
 ||xandr.com^
 ||xapads.com^
 ||analytics.xapo.com^
-||click-rtb2-apac.xaprio.net^
-||rtb2-apac.xaprio.net^
-||rtb2-eu.xaprio.net^
-||rtb2-useast.xaprio.net^
-||rtb2-uswest.xaprio.net^
-||static-rtb2.xaprio.net^
-||win-rtb2-apac.xaprio.net^
-||win-rtb2-eu.xaprio.net^
-||win-rtb2-useast.xaprio.net^
-||win-rtb2-uswest.xaprio.net^
+||xaprio.net^
 ||xatech.com^
 ||xawlop.com^
 ||xaxis.com^
@@ -102817,6 +102820,7 @@
 ||helpsapp.cfd^
 ||helpservices.space^
 ||helpsly.cfd^
+||helpspp.click^
 ||helptoearnmoney.com^
 ||helpwithpillabuse.com^
 ||hemail.club^
@@ -128965,6 +128969,7 @@
 ||xezle.com^
 ||xfamilytree.com^
 ||xfashionset.com^
+||xfcut.com^
 ||xfind.online^
 ||xflight.ir^
 ||xfmz9p.com^
