@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-25T18:09:33.881Z
+! Last modified: 2024-02-26T00:37:10.748Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -20411,6 +20411,7 @@
 ||dividedscientific.com^
 ||divinginegypt.com^
 ||divorceradio.com^
+||divorceseed.com^
 ||divotsleucyl.space^
 ||divscripty.net^
 ||analytics.divulg.org^
@@ -45619,6 +45620,7 @@
 ||pretendresentfulamid.com^
 ||pretendturk.com^
 ||pretentiouspastelaccuser.com^
+||pretextunfinished.com^
 ||pretiumlook.com^
 ||prettytypicalimpatience.com^
 ||prevailinsolence.com^
@@ -47877,6 +47879,7 @@
 ||regionalanglemoon.com^
 ||regionalaplentysome.com^
 ||regionalyesterdayreign.com^
+||regioninaudibleafforded.com^
 ||smetrics.regions.com^
 ||t.regionsjob.com^
 ||registercanoeinvaded.com^
@@ -65100,7 +65103,6 @@
 ||distributionrealmoth.com^
 ||dit.whatsapp.net^
 ||divideoutdoors.com^
-||divorceseed.com^
 ||dl-rms.com^
 ||dlfvgndsdfsn.com^
 ||dm.action-media.ru^
@@ -65347,7 +65349,6 @@
 ||familiarkindlyshuffle.com^
 ||fancybar.net^
 ||fastly-insights.com^
-||fathomcause.com^
 ||fatmedia.io^
 ||faultspiano.com^
 ||fbcdn2.com^
@@ -65714,7 +65715,6 @@
 ||img-taboola.com^
 ||imglnke.com^
 ||imiclk.com^
-||immunepine.com^
 ||imonomy.com^
 ||impact-ad.jp^
 ||impact.com^
@@ -77839,7 +77839,6 @@
 ||premiumads.com.br^
 ||prepayproceedingsground.com^
 ||presage.io^
-||pretextunfinished.com^
 ||prf.hn^
 ||prhzxq.com^
 ||pricespider.com^
@@ -77983,7 +77982,6 @@
 ||questionmarket.com^
 ||qwerfdx.com^
 ||r.i0.cz^
-||r023m83skv5v.com^
 ||r1-cdn.net^
 ||r42tag.com^
 ||r7ls.net^
@@ -78029,7 +78027,6 @@
 ||refinery89.com^
 ||regionalsurveying.com^
 ||regioncolonel.com^
-||regioninaudibleafforded.com^
 ||regionseffective.com^
 ||register.collector.scopely.io^
 ||regulationprivilegescan.top^
