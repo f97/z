@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-26T00:37:11.828Z
+! Last modified: 2024-02-26T06:11:51.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -662,6 +662,7 @@
 @@|apis.live.net^$important
 @@|apollo.dl.playstation.net^$important
 @@|app-assets.ea.com^$important
+@@|app-images.ea.com^$important
 @@|app-rgl-prod.ros.rockstargames.com^$important
 @@|app.alipay.com^$important
 @@|app.degoo.com^$important
@@ -1713,6 +1714,7 @@
 @@|dropboxusercontent.com^$important
 @@|drupal.org^$important
 @@|ds.download.windowsupdate.com^$important
+@@|dsadata.intel.com^$important
 @@|dstik9906m659.cloudfront.net^$important
 @@|dual-a-*.a-msedge.net^$important
 @@|dualstack.reddit.map.fastly.net^$important
