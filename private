@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-26T18:10:02.526Z
+! Last modified: 2024-02-27T00:35:36.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1298,6 +1298,7 @@
 ||3467b7d02e.com^
 ||34710af267.com^
 ||34e224a3bf.com^
+||34pavouhj7.com^
 ||3500e6a1bc.com^
 ||3562wsgkbcm.xyz^
 ||356f48a5f4.com^
@@ -63778,7 +63779,6 @@
 ||2mdnsys.com^
 ||2nyan.org^
 ||33across.com^
-||34pavouhj7.com^
 ||3872ee69c4.com^
 ||3c22db1a50.com^
 ||3lift.com^
@@ -64555,7 +64555,6 @@
 ||ayc0zsm69431gfebd.xyz^
 ||azalead.com^
 ||b0e8.com^
-||b3kyo0de1fr0.com^
 ||b42rracj.com^
 ||b73uszzq3g9h.com^
 ||backstory.ebay.ca^
@@ -65829,7 +65828,6 @@
 ||hzr0dm28m17c.com^
 ||i10c.net^
 ||i18n-pglstatp.com^
-||i4rsrcj6.top^
 ||iadvize.com^
 ||ib-ibi.com^
 ||ibclick.stream^
@@ -94834,6 +94832,7 @@
 ||dasttanday.tk^
 ||dasty-pe.fun^
 ||data-driven.org^
+||data-ox.com^
 ||data-protect-job.com^
 ||data-protect-law.com^
 ||data-protection-solutions.com^
@@ -108384,6 +108383,7 @@
 ||linode.systems^
 ||linodecloud.tech^
 ||linop.online^
+||linrani.online^
 ||linsabe.ml^
 ||linshiyouxiang.net^
 ||linsila.com^
