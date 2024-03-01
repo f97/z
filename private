@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-02-29T18:11:05.932Z
+! Last modified: 2024-03-01T00:39:51.949Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -65349,7 +65349,6 @@
 ||dealer.com^
 ||dealtale.com^
 ||dearestimmortality.com^
-||decemberpedalunfair.com^
 ||decencyjessiebloom.com^
 ||decenthat.com^
 ||decentpatent.com^
@@ -65923,7 +65922,6 @@
 ||hagnutrient.com^
 ||hailstonenerve.com^
 ||halfmoonsights.com^
-||hallucinatepromise.com^
 ||hammockpublisherillumination.com^
 ||hamsterginger.com^
 ||hanapinmarketing.com^
@@ -66233,7 +66231,6 @@
 ||kickdyn.com^
 ||kickfire.com^
 ||kidoz.net^
-||kingfish.fishing.net.nz^
 ||kiosked.com^
 ||kitchencafeso.com^
 ||kiynew.com^
@@ -79747,7 +79744,6 @@
 ||supplyframe.com^
 ||supportmetrics.apple.com^
 ||suppressedbottlesenjoyable.com^
-||surelyconvinced.com^
 ||surfe.pro^
 ||surprisingarsonistcooperate.com^
 ||survata.com^
