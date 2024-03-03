@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-03T12:13:40.756Z
+! Last modified: 2024-03-03T18:09:37.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -107262,6 +107262,7 @@
 ||kterer.com^
 ||ktg-game.ru^
 ||ktisocial.asia^
+||ktlacomheroes2.club^
 ||ktmedia.asia^
 ||ktrina.ga^
 ||ktumail.com^
@@ -111999,6 +112000,7 @@
 ||muchoporcompartir.com^
 ||mucizedoktor.ml^
 ||muckbots.com^
+||mudagigih.com^
 ||mudaqui.com^
 ||muddolphin.com^
 ||mudhighmar.tk^
@@ -113886,6 +113888,7 @@
 ||oaipofgs.shop^
 ||oakfiling.com^
 ||oakgrovegolf.com^
+||oakleywebsite.net^
 ||oakmountaintech.com^
 ||oalew.com^
 ||oamail.com^
