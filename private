@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-02T18:10:18.890Z
+! Last modified: 2024-03-03T00:38:14.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -8610,7 +8610,6 @@
 ||lb.benchmarkemail.com^
 ||benchsuited.com^
 ||bencuzi.xyz^
-||bendfrequency.com^
 ||analytics.bending-x.com^
 ||beneathgirlproceed.com^
 ||piwik.benefit-blog.de^
@@ -45659,7 +45658,6 @@
 ||profileoffencewithdraw.com^
 ||profit-casino.com^
 ||profit-partner.ru^
-||profitablegatecpm.com^
 ||profitcustomersnuff.com^
 ||cdn1.profitmetrics.io^
 ||profitredirect.com^
@@ -64001,6 +63999,7 @@
 ||alooma.com^
 ||alphonso.tv^
 ||alternativecpmgate.com^
+||alternativeprofitablegate.com^
 ||altitude-arena.com^
 ||altmetric.com^
 ||alxbgo.com^
@@ -64418,10 +64417,12 @@
 ||beintoo.net^
 ||believersheet.com^
 ||belongedshark.com^
+||bendfrequency.com^
 ||beop.io^
 ||berlipurplin.com^
 ||besmeargleor.com^
 ||bestcpmnetwork.com^
+||bestdisplaycontent.com^
 ||bestdisplayformats.com^
 ||bestialvehemence.com^
 ||bestrevenuenetwork.com^
@@ -68231,6 +68232,8 @@
 ||mkt11949.com^
 ||mkt1195.com^
 ||mkt11950.com^
+||mkt11951.com^
+||mkt11959.com^
 ||mkt1196.com^
 ||mkt1197.com^
 ||mkt1198.com^
@@ -77615,6 +77618,7 @@
 ||parkingcrew.net^
 ||parlorscenes.com^
 ||parsely.com^
+||partieseclipse.com^
 ||partnerlinks.io^
 ||passedofferundertake.com^
 ||passeura.com^
@@ -77729,6 +77733,7 @@
 ||pointmediatracker.com^
 ||polarbyte.com^
 ||polarmobile.com^
+||politicianbusplate.com^
 ||pollpublicly.com^
 ||pomodoromedia.com^
 ||ponderousmuffled.com^
@@ -77790,6 +77795,7 @@
 ||profitabledisplayformat.com^
 ||profitabledisplaynetwork.com^
 ||profitablegate.com^
+||profitablegatecpm.com^
 ||profitablegatetocontent.com^
 ||profitabletrustednetwork.com^
 ||profitwell.com^
@@ -79701,6 +79707,7 @@
 ||unityads.unity3d.com^
 ||univide.com^
 ||unoadsrv.com^
+||unpackjanuary.com^
 ||unruly.co^
 ||unruly.systems^
 ||unseenreport.com^
@@ -79976,6 +79983,7 @@
 ||yieldrealistic.com^
 ||yim3eyv5.top^
 ||yjtag.jp^
+||yjwtolgjjeky.com^
 ||ykvlen.com^
 ||yldbt.com^
 ||ymmobi.com^
@@ -124002,6 +124010,7 @@
 ||thehatchedegg.com^
 ||thehatedestroyer.com^
 ||thehealingstartshere.com^
+||thehelps.click^
 ||thehelps.sbs^
 ||thehiddenflow.com^
 ||thehonestfire.org^
