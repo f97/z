@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-03T18:09:37.895Z
+! Last modified: 2024-03-04T00:37:17.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -51909,6 +51909,7 @@
 ||somethingmanufactureinvalid.com^
 ||somethingprecursorfairfax.com^
 ||sometimesmonstrouscombined.com^
+||somewhatwideslimy.com^
 ||somoaudience.com^
 ||son-in-lawmorbid.com^
 ||sonalrecomefuk.info^
@@ -77242,7 +77243,6 @@
 ||moodokay.com^
 ||mookie1.com^
 ||morrowfreezer.com^
-||mostlytreasure.com^
 ||motdgd.com^
 ||mountain.com^
 ||movcpm.com^
@@ -79051,7 +79051,6 @@
 ||solemnvine.com^
 ||solestudious.com^
 ||solutionshindsight.net^
-||somewhatwideslimy.com^
 ||somplo.com^
 ||sonataplatform.com^
 ||sonobi.com^
@@ -125175,6 +125174,7 @@
 ||transmentor.com^
 ||transmute.us^
 ||transportangliapolska.co.uk^
+||trantienclone.top^
 ||traoluu.com^
 ||trap-mail.de^
 ||trapassa.gq^
