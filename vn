@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-05T00:35:09.226Z
+! Last modified: 2024-03-05T18:09:26.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,9 +11,11 @@
 ||ads*.autodaily.vn
 ||aff.cdnntx.com^
 ||affordedseasick.com^
+||alkynesloftily.com^
 ||api.adfly.vn^
 ||ar.pagodaskeeker.com^
 ||asg.phukienthoitranggiare.com^
+||axledjuking.com^
 ||cdn.adop.asia^
 ||cdnv.tpmedia.online^
 ||ce.ineptsundial.com^
