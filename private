@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-04T18:10:44.080Z
+! Last modified: 2024-03-05T00:35:55.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1015,6 +1015,7 @@
 ||2kn40j226.de^
 ||2l6ddsmnm.de^
 ||2leep.com^
+||2llmonds4ehcr93nb.com^
 ||2lqcd8s9.de^
 ||2m3gdt0gc.de^
 ||2m55gqleg.de^
@@ -47452,6 +47453,7 @@
 ||reedbritingsynt.info^
 ||images.campaign.reedexpo.com^
 ||reedsbullyingpastel.com^
+||reedsinterfering.com^
 ||reedthatm.biz^
 ||collector.reelevant.com^
 ||scripts-repo.reelevant.com^
@@ -49000,6 +49002,7 @@
 ||safelyaffirminexperienced.com^
 ||safenick.com^
 ||saferdefi.com^
+||safereboundmiracle.com^
 ||filter.safesearchguard.com^
 ||xml.safesearchguard.com^
 ||xml-v4.safesearchguard.com^
@@ -56463,6 +56466,7 @@
 ||tuyyex.icu^
 ||tv-direct.fr^
 ||analytics.tv1.eu^
+||tv1s4d6klh4n.com^
 ||metrics.tv2.dk^
 ||metrics.tv2.no^
 ||starget.tv2.dk^
@@ -63345,7 +63349,6 @@
 ||2bps53igop02.com^
 ||2d77c9dd09.com^
 ||2iiyrxk0.com^
-||2llmonds4ehcr93nb.com^
 ||2mdnsys.com^
 ||2nyan.org^
 ||33across.com^
@@ -64061,7 +64064,6 @@
 ||arity.com^
 ||arkfacialdaybreak.com^
 ||armedtidying.com^
-||armisticeexpress.com^
 ||arrearssturdyenthusiasm.com^
 ||arrivedeuropean.com^
 ||arsonexchangefly.com^
@@ -64090,7 +64092,6 @@
 ||ati-host.net^
 ||atomz.com^
 ||atonementimmersedlacerate.com^
-||attachtranquilizer.com^
 ||attemptdruggedcarve.com^
 ||attemptinghorace.com^
 ||attentivemobile.com^
@@ -64386,7 +64387,6 @@
 ||catapultx.com^
 ||catastropheillusive.com^
 ||catscanty.com^
-||cattledisplace.com^
 ||cauly.co.kr^
 ||causingguard.com^
 ||cb-telemetry.academicmerit.com^
@@ -65713,7 +65713,6 @@
 ||locallogic.co^
 ||lockdowncautionmentally.com^
 ||locketthose.com^
-||locomotiveconvenientriddle.com^
 ||log-collector.shopee.co.id^
 ||log-collector.shopee.co.th^
 ||log-collector.shopee.com.br^
@@ -77738,7 +77737,6 @@
 ||redir.metaservices.microsoft.com^
 ||redirecting2.net^
 ||redshell.io^
-||reedsinterfering.com^
 ||reedsonceoxbow.com^
 ||rees46.com^
 ||reevoo.com^
@@ -77747,7 +77745,6 @@
 ||refinery89.com^
 ||regionalsurveying.com^
 ||regioncolonel.com^
-||regionseffective.com^
 ||register.collector.scopely.io^
 ||regulationprivilegescan.top^
 ||reklama.silnet.pl^
@@ -77877,7 +77874,6 @@
 ||saas-eue-1.com^
 ||sabavision.com^
 ||sacredperpetratorbasketball.com^
-||safereboundmiracle.com^
 ||safestcontentgate.com^
 ||safestgatetocontent.com^
 ||sagedeportflorist.com^
@@ -79453,7 +79449,6 @@
 ||tuplogpublic.bangcdn.net^
 ||turmoilragcrutch.com^
 ||tutoads.tv^
-||tv1s4d6klh4n.com^
 ||tvpixel.com^
 ||tvsquared.com^
 ||twibida.com^
@@ -79703,7 +79698,6 @@
 ||whoisvisiting.com^
 ||wickedhumankindbarrel.com^
 ||widezealconstant.com^
-||wildlifeeventlean.com^
 ||windingnegotiation.com^
 ||wingify.com^
 ||wisepops.com^
@@ -109135,6 +109129,7 @@
 ||mail.mediapoi.cf^
 ||mail.nixbyte.net^
 ||mail.praddserver.my.id^
+||mail.renovierung-in-berlin.de^
 ||mail.rupop.mail.ru^
 ||mail.smmverse.com^
 ||mail.toram.ngab.me^
@@ -129427,6 +129422,7 @@
 ||yanamulsy.ml^
 ||yanasway.com^
 ||yanbex.website^
+||yandeex.com^
 ||yandex.cfd^
 ||yandexmailserv.com^
 ||yandox.fun^
