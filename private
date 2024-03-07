@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-06T18:10:52.132Z
+! Last modified: 2024-03-07T00:29:21.802Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -14991,7 +14991,6 @@
 ||log.cognex.com^
 ||cognitiv.ai^
 ||cognitivlabs.com^
-||cognizancesteepleelevate.com^
 ||cogrjsx.com^
 ||cohade.uno^
 ||cohawaut.com^
@@ -63635,6 +63634,7 @@
 ||academyblocked.com^
 ||accompanycollapse.com^
 ||accordaudienceeducational.com^
+||accountantpacketassail.com^
 ||accscdn.m.taobao.com^
 ||accuracyswede.com^
 ||accusationcollegeload.com^
@@ -64741,6 +64741,7 @@
 ||cobweblockerdiana.com^
 ||codigo.se^
 ||cognateparsley.com^
+||cognizancesteepleelevate.com^
 ||cogocast.net^
 ||collaboratemedaltrips.com^
 ||collect.analytics.unity3d.com^
@@ -78078,6 +78079,7 @@
 ||runadtag.com^
 ||runative-syndicate.com^
 ||rundsp.com^
+||runreferences.com^
 ||ruralstring.com^
 ||rustgenerations.com^
 ||rwadx.com^
@@ -79329,6 +79331,7 @@
 ||sumome.com^
 ||sunglassesmentallyproficient.com^
 ||sunmedia.tv^
+||sunnyseries.com^
 ||sunsetpersuadeaffectionately.com^
 ||superads.cn^
 ||superawesome.com^
@@ -105037,6 +105040,7 @@
 ||iqje.com^
 ||iqjp.com^
 ||iqmail.com^
+||iqnova.tech^
 ||iqro-namangan.ru^
 ||iqumail.com^
 ||irahada.com^
@@ -120012,6 +120016,7 @@
 ||saluanthrop.site^
 ||salubrityid.com^
 ||salvationauto.com^
+||salvatore1818.site^
 ||samaltour.club^
 ||samaltour.site^
 ||samamul.gq^
