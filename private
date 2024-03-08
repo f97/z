@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-07T18:10:17.147Z
+! Last modified: 2024-03-08T00:36:14.156Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -63598,7 +63598,6 @@
 ||musemuse.cn^
 ||topbuzz-applog-alisg.l.byteoversea.net^
 ||vaali1.l.byteoversea.net^
-||01mspmd5yalky8.com^
 ||028708717f.com^
 ||03f128fb44.com^
 ||0i0i0i0.com^
@@ -64006,7 +64005,6 @@
 ||aerialmistaken.com^
 ||aerserv.com^
 ||af.shalltry.com^
-||affairsmithbloke.com^
 ||affec.tv^
 ||affilbox.cz^
 ||affiliaxe.com^
@@ -64057,7 +64055,6 @@
 ||alb.reddit.com^
 ||alcmpn.com^
 ||alcoholicsort.com^
-||alecclause.com^
 ||alephd.com^
 ||alertlogsemployer.com^
 ||alexametrics.com^
@@ -79947,7 +79944,6 @@
 ||web-metrica.yandex.ru^
 ||web3ads.net^
 ||webads.eu^
-||webcollage.com^
 ||webcollage.net^
 ||webcontentassessor.com^
 ||webed.dm-event.net^
@@ -92926,6 +92922,7 @@
 ||cloudyfood.com^
 ||cloudyoume.software^
 ||cloudysmart.ga^
+||cloundstore.site^
 ||clout.wiki^
 ||clovendo.com^
 ||cloverdelights.com^
@@ -118813,6 +118810,7 @@
 ||relxv.com^
 ||remail.rahuldhole.com^
 ||remail7.com^
+||remaild.com^
 ||remailed.ws^
 ||remainmail.top^
 ||remann.com^
@@ -128715,6 +128713,7 @@
 ||winspins.bid^
 ||winspins.party^
 ||winsrezde.ga^
+||winsuprayogi.com^
 ||wintds.org^
 ||winter.yiftydeas.com^
 ||wintermore.org^
