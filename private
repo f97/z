@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-08T06:10:52.198Z
+! Last modified: 2024-03-08T12:13:45.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3620,7 +3620,6 @@
 ||mobile-static.adsafeprotected.com^
 ||ordt.adsafeprotected.com^
 ||orfw.adsafeprotected.com^
-||orpixel.adsafeprotected.com^
 ||orvideo.adsafeprotected.com^
 ||sgfw.adsafeprotected.com^
 ||sgpixel.adsafeprotected.com^
@@ -8689,7 +8688,6 @@
 ||filter.benrif-solutions.com^
 ||xml-v4.benrif-solutions.com^
 ||benshdarat.website^
-||bensonazbeeremoval.com^
 ||bentonow.com^
 ||bentonuncage.com^
 ||analytics.benu.cz^
@@ -9734,7 +9732,6 @@
 ||bnhxxj.xyz^
 ||bnlif.com^
 ||bnmkl.com^
-||bnmla.com^
 ||bnmq.com^
 ||bnnfvd.xyz^
 ||bnpfdzp.xyz^
@@ -10293,7 +10290,6 @@
 ||breakshirts.com^
 ||breatheeternity.com^
 ||breathelicense.com^
-||breatheprotest.com^
 ||brecciastroke.top^
 ||brechtembrowd.com^
 ||dian.brecm.xyz^
@@ -11811,7 +11807,6 @@
 ||sstats.cengagebrain.com^
 ||cenous.com^
 ||a4.censor.net^
-||censys.xyz^
 ||centalkochab.com^
 ||centara1card.com^
 ||centerattractivehimself.com^
@@ -21443,7 +21438,6 @@
 ||e3d2d0cafa.com^
 ||e3inu.space^
 ||e46271be93.com^
-||e4openings.com^
 ||e51710f24a.com^
 ||e55629740f.com^
 ||e55b290040.com^
@@ -22279,7 +22273,6 @@
 ||track.go.comres.emerson.com^
 ||emeu0circ.com^
 ||emgthropositeas.info^
-||emgvod.com^
 ||emicalcove.xyz^
 ||emigrantblunder.com^
 ||emigrenanas.com^
@@ -25242,7 +25235,6 @@
 ||metrics.api.frontapp.com^
 ||metrics.frontapp.com^
 ||fronthlpr.com^
-||frontrowfantasysports.com^
 ||frontthirteencuff.com^
 ||fronttoad.com^
 ||frookshop-winsive.com^
@@ -26006,7 +25998,6 @@
 ||ads.gelbe-liste.de^
 ||gelbjvl.cn^
 ||geldencosmeticos.com^
-||geldgames.com^
 ||gelhp.com^
 ||gelidoctans.digital^
 ||gelirartisi.com^
@@ -26453,7 +26444,6 @@
 ||gifnestbuy.com^
 ||gdfp.gifshow.com^
 ||gift2pair.com^
-||giftbatam.com^
 ||giftbox4u.com^
 ||data.qamarketing.giftcards.com^
 ||giftedbrevityinjured.com^
@@ -27072,7 +27062,6 @@
 ||log2.golfrival.net^
 ||golluu.com^
 ||golochmenacer.com^
-||gologisticmx.com^
 ||goloshyacal.space^
 ||golp4elik.com^
 ||analytics.gomacro.com^
@@ -38228,7 +38217,6 @@
 ||mijazofija.pl^
 ||mikdadhaque.com^
 ||mikellli.com^
-||mikepy.com^
 ||mikiecresyls.com^
 ||mikkymax.com^
 ||feed.mikle.com^
@@ -38614,7 +38602,6 @@
 ||mnhncf.cn^
 ||mniumlapsers.com^
 ||cdn.mnmnck.com^
-||mnoglcfv.com^
 ||mnogobab.com^
 ||mnogodns.net^
 ||mnoohua.com^
@@ -38927,7 +38914,6 @@
 ||moonlightcinemaclub.com^
 ||plausible.moons.bio^
 ||moonsade.com^
-||moonshinephilly.com^
 ||moonveda.com^
 ||moonveto.com^
 ||mooroore.xyz^
@@ -42247,7 +42233,6 @@
 ||oneapm.com^
 ||onebiensicenter.com^
 ||log.mediation.onebooster.me^
-||onecapital.trade^
 ||oneclck.net^
 ||oneclickpic.net^
 ||oneclickseo.agency^
@@ -45519,8 +45504,7 @@
 ||matomo.private.storage^
 ||private-show.live^
 ||private4.com^
-||analytic.privateapi.click^
-||eval.privateapi.click^
+||privateapi.click^
 ||privatecollection.top^
 ||privatedigital-cpa.com^
 ||privatedqualizebrui.info^
@@ -48692,7 +48676,6 @@
 ||royal-cash.com^
 ||cherish.royal-loyalty.com^
 ||royal-marketonion.com^
-||royal-trades.com^
 ||royalcactus.com^
 ||metrics.royalcaribbean.com^
 ||royalclass.info^
@@ -52933,7 +52916,6 @@
 ||stockingsleet.com^
 ||metric.stockstar.com^
 ||stoiximan.gr^
-||stokedplus.com^
 ||stokoaks.net^
 ||stolenforensicssausage.com^
 ||stomachscience.com^
@@ -59146,7 +59128,6 @@
 ||volcomofficial.com^
 ||sp.voleryclat.com^
 ||volgograd-news.net^
-||voliamo.eu^
 ||metric.volkswagen.de^
 ||smetric.volkswagen.com^
 ||smetric.volkswagen.de^
@@ -106042,6 +106023,7 @@
 ||jvimail.com^
 ||jvllabs.com^
 ||jvptechnology.com^
+||jvsjzndo.xyz^
 ||jvtb.com^
 ||jvtk.com^
 ||jvucei.buzz^
