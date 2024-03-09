@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-08T18:10:46.028Z
+! Last modified: 2024-03-09T00:34:35.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -28035,6 +28035,7 @@
 ||handyincrease.com^
 ||handymag.net^
 ||handymanprivately.com^
+||handymansurrender.com^
 ||hangdogferfel.com^
 ||hangfly.net^
 ||isortagim.hangikredi.com^
@@ -30883,6 +30884,7 @@
 ||p543.inquirer.com^
 ||inquiriesdishonest.com^
 ||inquiryblue.com^
+||inquiryclank.com^
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^
 ||analytics.inquisitr.com^
@@ -53824,6 +53826,7 @@
 ||t3p58.com^
 ||t3stdr1ve.com^
 ||t4ft.de^
+||t5lxz7dtq4iz.com^
 ||t7.nz^
 ||t7cp4fldl.com^
 ||ta3nfsordd.com^
@@ -64808,7 +64811,6 @@
 ||disqusads.com^
 ||disrespectpreceding.com^
 ||dissimilarakin.com^
-||dissolveddittoteaspoon.com^
 ||distinctlynobleprosecute.com^
 ||distressedsoultabloid.com^
 ||distributionrealmoth.com^
@@ -65306,7 +65308,6 @@
 ||hanapinmarketing.com^
 ||hand.bid^
 ||handbid.com^
-||handymansurrender.com^
 ||hannahdrovebible.com^
 ||happyfoxchat.com^
 ||harassinganticipation.com^
@@ -65477,7 +65478,6 @@
 ||inpage-push.com^
 ||inpagepush.com^
 ||inq.com^
-||inquiryclank.com^
 ||inrhyhorntor.com^
 ||ins.shalltry.com^
 ||inscname.net^
@@ -79145,7 +79145,6 @@
 ||t.dailymail.co.uk^
 ||t17service.com^
 ||t4p-upd.info^
-||t5lxz7dtq4iz.com^
 ||t84c3srgclc9.com^
 ||t85itha3nitde.com^
 ||tabloidquantitycosts.com^
@@ -79652,7 +79651,6 @@
 ||watson.microsoft.com^
 ||waudit.cz^
 ||waufooke.com^
-||wavermerchandiseweird.com^
 ||wayin.com^
 ||wbtrk.net^
 ||wcsvjqcrpqqft.com^
@@ -102931,6 +102929,7 @@
 ||hlife.site^
 ||hlljb.club^
 ||hlma.com^
+||hlpshq.click^
 ||hluh.com^
 ||hlw22.life^
 ||hlw24.life^
@@ -109239,6 +109238,7 @@
 ||mailboxvip.com^
 ||mailboxxx.net^
 ||mailboxxxx.tk^
+||mailboxxz.com^
 ||mailboxy.fun^
 ||mailboxy.ru^
 ||mailboxy.store^
