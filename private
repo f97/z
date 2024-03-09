@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-09T12:12:12.361Z
+! Last modified: 2024-03-09T18:09:17.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -94049,6 +94049,7 @@
 ||cuocsongmoi2019.online^
 ||cuocsongmuonmau247.com^
 ||cuoctinhdudungdusai.online^
+||cuocxongmak.online^
 ||cuocxongwaponchen.online^
 ||cuoiholoi.vn^
 ||cuoly.com^
@@ -125497,6 +125498,7 @@
 ||ttz.scoldly.com^
 ||ttz.toddard.com^
 ||tu-sale.online^
+||tuanphams.xyz^
 ||tuantoto.com^
 ||tubered.site^
 ||tubeview.cf^
