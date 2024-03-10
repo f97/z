@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-09T18:09:17.080Z
+! Last modified: 2024-03-10T00:38:42.962Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1303,7 +1303,6 @@
 ||3467b7d02e.com^
 ||34710af267.com^
 ||34e224a3bf.com^
-||34pavouhj7.com^
 ||3500e6a1bc.com^
 ||3562wsgkbcm.xyz^
 ||356f48a5f4.com^
@@ -53247,7 +53246,6 @@
 ||stupendousconcept.pro^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
-||stupiditydecision.com^
 ||stupidityficklecapability.com^
 ||stupidityitaly.com^
 ||stupidscene.com^
@@ -63451,6 +63449,7 @@
 ||2mdnsys.com^
 ||2nyan.org^
 ||33across.com^
+||34pavouhj7.com^
 ||3872ee69c4.com^
 ||3c22db1a50.com^
 ||3lift.com^
@@ -65161,6 +65160,7 @@
 ||familiarkindlyshuffle.com^
 ||fancybar.net^
 ||fastly-insights.com^
+||fathomcause.com^
 ||fatmedia.io^
 ||faultspiano.com^
 ||fbcdn2.com^
@@ -65317,6 +65317,7 @@
 ||getsitecontrol.com^
 ||getsocial.io^
 ||gettraff.com^
+||giddinessscrewscandal.com^
 ||giftedhazelsecond.com^
 ||gigaonclick.com^
 ||ginchoirblessed.com^
@@ -65489,6 +65490,7 @@
 ||hundredscultureenjoyed.com^
 ||huqindustries.co.uk^
 ||husbandnights.com^
+||hutremindbond.com^
 ||hxtrack.com^
 ||hybrid.ai^
 ||hyperbid.com^
@@ -65718,6 +65720,7 @@
 ||klick2contact.com^
 ||klickly.com^
 ||knobpredestinecontradiction.com^
+||knownwarn.com^
 ||kochava.com^
 ||kooappslogs.com^
 ||korrelate.net^
@@ -77637,6 +77640,7 @@
 ||poshhateful.com^
 ||possessedcrackinghart.com^
 ||possessionaddictedflight.com^
+||possiblyinsufficientchecking.com^
 ||postalfranticallyfriendship.com^
 ||postsupport.net^
 ||postup.com^
@@ -79191,6 +79195,7 @@
 ||stsdk.vivo.com.cn^
 ||stsdk.vivoglobal.com^
 ||stunthedge.com^
+||stupiditydecision.com^
 ||stylitics.com^
 ||sub2tech.com^
 ||subscribestormyapprobation.com^
