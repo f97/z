@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-12T18:10:12.262Z
+! Last modified: 2024-03-13T00:36:08.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -58855,6 +58855,7 @@
 ||solikun.tk^
 ||solinvestments.com^
 ||solitaireminerals.com^
+||solitudes.work^
 ||solnrg.com^
 ||soloadvanced.com^
 ||solowkol.site^
