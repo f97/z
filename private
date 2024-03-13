@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-13T00:36:08.663Z
+! Last modified: 2024-03-13T06:11:27.874Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -31970,6 +31970,7 @@
 ||denverhospital.xyz^
 ||denvernursejobs.com^
 ||denwin.com^
+||denxsu.net^
 ||deocaaocaelvallenosetoca.cf^
 ||deocamno.tk^
 ||depadua.eu^
@@ -61780,6 +61781,7 @@
 ||tokojudi.best^
 ||tokokarena.live^
 ||tokopulsa.shop^
+||toktokmail.com^
 ||tokuz.net^
 ||tokyo-mail1.top^
 ||tokyomotion.mobi^
