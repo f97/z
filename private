@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-13T18:10:10.375Z
+! Last modified: 2024-03-14T00:35:10.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -857,6 +857,7 @@
 ||alb.reddit.com^
 ||alcmpn.com^
 ||alcoholicsort.com^
+||alecclause.com^
 ||alephd.com^
 ||alertlogsemployer.com^
 ||alexametrics.com^
@@ -2174,6 +2175,7 @@
 ||firstpromoter.com^
 ||fishermanslush.com^
 ||fitanalytics.com^
+||fittingcentermonday.com^
 ||fixel.ai^
 ||flagcounter.com^
 ||flat-ads.com^
@@ -2787,6 +2789,7 @@
 ||locallogic.co^
 ||lockdowncautionmentally.com^
 ||locketthose.com^
+||locomotiveconvenientriddle.com^
 ||log-collector.shopee.co.id^
 ||log-collector.shopee.co.th^
 ||log-collector.shopee.com.br^
@@ -3029,6 +3032,7 @@
 ||midgerelativelyhoax.com^
 ||midgetincidentally.com^
 ||midlandfeisty.com^
+||mightylottrembling.com^
 ||migrantspiteconnecting.com^
 ||migrationexaminer.com^
 ||mindbox.ru^
@@ -5096,6 +5100,7 @@
 ||mkt11951.com^
 ||mkt11959.com^
 ||mkt1196.com^
+||mkt11963.com^
 ||mkt1197.com^
 ||mkt1198.com^
 ||mkt1199.com^
@@ -16194,6 +16199,7 @@
 ||supplyframe.com^
 ||supportmetrics.apple.com^
 ||suppressedbottlesenjoyable.com^
+||surelyconvinced.com^
 ||surfe.pro^
 ||surprisingarsonistcooperate.com^
 ||survata.com^
@@ -16759,6 +16765,7 @@
 ||welfarefit.com^
 ||wesmallproclaim.com^
 ||wgplayer.com^
+||whackaggressive.com^
 ||whairtoa.com^
 ||whiteinflammablejaws.com^
 ||whizduly.com^
@@ -26430,6 +26437,7 @@
 ||bktps.com^
 ||bkxdwnpvje.site^
 ||bl.ctu.edu.gr^
+||blabberific.com^
 ||blablabla24.com^
 ||blablacar-rfs.ru^
 ||blachstyl.pl^
@@ -51421,6 +51429,7 @@
 ||onionyspider.com^
 ||onitopia.com^
 ||oniwyvdxe.cf^
+||onkyo1.com^
 ||onlayn-shkola-merkuriy.site^
 ||onlcool.com^
 ||onleenmag-ruspe.space^
@@ -51898,6 +51907,7 @@
 ||ouadeb43.xzzy.info^
 ||oudmane.com^
 ||oudtrees.com^
+||oued.org^
 ||ougj.com^
 ||ouikado.com^
 ||ouishare.us^
@@ -55619,6 +55629,7 @@
 ||remail7.com^
 ||remaild.com^
 ||remailed.ws^
+||remailt.net^
 ||remainmail.top^
 ||remann.com^
 ||remem.actices.com^
