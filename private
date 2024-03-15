@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-14T18:09:59.571Z
+! Last modified: 2024-03-15T00:35:56.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -484,7 +484,6 @@
 ||aaxdetect.com^
 ||abberantdoggie.com^
 ||abmr.net^
-||abruptlyinstitution.com^
 ||absoluteroute.com^
 ||absolveparticlesanti.com^
 ||abtasty.com^
@@ -1057,7 +1056,6 @@
 ||anglezinccompassionate.com^
 ||aniview.com^
 ||anm.co.uk^
-||annesuspense.com^
 ||anomalousporch.com^
 ||anrdoezrs.net^
 ||answerscloud.com^
@@ -15069,7 +15067,6 @@
 ||shoppingshadow.com^
 ||shore.uno^
 ||shortssibilantcrept.com^
-||shovedrailwaynurse.com^
 ||showcasethat.com^
 ||shrfbdg004.com^
 ||shukriya90.com^
@@ -21622,6 +21619,7 @@
 ||aandgproductions.com^
 ||aaofficeassistant.com^
 ||aaorsi.com^
+||aapmanual.skin^
 ||aaquie.fun^
 ||aaqwe.ru^
 ||aaqwe.store^
@@ -44621,6 +44619,7 @@
 ||lasix4u.top^
 ||laskarbola88.site^
 ||last-chance.pro^
+||lastchaostore.com^
 ||laste.ml^
 ||lastenergycall.com^
 ||lastflights.ir^
@@ -48162,6 +48161,7 @@
 ||mintsnus.com^
 ||minuemsne.icu^
 ||minutestep.com^
+||minvolvesjv.com^
 ||miolayfran.ml^
 ||mionetwork.email^
 ||mipc.com^
@@ -56753,6 +56753,7 @@
 ||saaristomeri.info^
 ||saas-sd.com^
 ||saascity.asia^
+||sabalanmusic.ir^
 ||sabapoker.online^
 ||sabdestore.xyz^
 ||saber.9amail.top^
@@ -59711,6 +59712,7 @@
 ||stuswope.com^
 ||stuttgarter.org^
 ||stvbz.com^
+||stwiphone.com^
 ||stwitchy.com^
 ||stylebostononline.com^
 ||styledesigner.co.uk^
