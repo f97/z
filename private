@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-15T18:11:28.436Z
+! Last modified: 2024-03-16T00:34:30.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -456,7 +456,6 @@
 ||6ujk8x9soxhm.com^
 ||7eer.net^
 ||8392c6e79df6ad8a3ab1fa972ec327855198c2d4cdf46aacc93d0c76.com^
-||8gs4unh05aq6.com^
 ||8s32e590un.com^
 ||9mediaonline.com^
 ||9nl.com^
@@ -1236,7 +1235,6 @@
 ||barefootedleisurelypizza.com^
 ||bars.sapo.pt^
 ||basebanner.com^
-||basheighthnumerous.com^
 ||basis.net^
 ||bat.bing.com^
 ||bat.r.msn.com^
@@ -1749,7 +1747,6 @@
 ||cuebiq.com^
 ||cuesingle.com^
 ||curalate.com^
-||curbimpress.com^
 ||curioushingefast.com^
 ||curulate.com^
 ||curvedheldideal.com^
@@ -1878,7 +1875,6 @@
 ||display.io^
 ||displaycontentnetwork.com^
 ||displaycontentprofit.com^
-||displayformatrevenue.com^
 ||displaymarketplace.com^
 ||displaynetworkcontent.com^
 ||displaynetworkprofit.com^
@@ -2534,7 +2530,6 @@
 ||indexww.com^
 ||indicative.com^
 ||indigestionmarried.com^
-||indirectlatitudewomb.com^
 ||inediblebedside.com^
 ||inediblepollingbuzz.com^
 ||infernotions.com^
@@ -28635,6 +28630,7 @@
 ||ccclmail.com^
 ||cccod.com^
 ||cccold.com^
+||ccdxc.com^
 ||cceee.net^
 ||cceinfocompetitive.site^
 ||cceks.com^
@@ -30340,7 +30336,6 @@
 ||contabilizandotalentos.com^
 ||contacman.com^
 ||contact-customer-care.com^
-||contact.openteams.click^
 ||contact68.trylinkbuildng.click^
 ||contactare.com^
 ||contacterpro.com^
@@ -33373,6 +33368,7 @@
 ||dudetech.com^
 ||dudinenyc.com^
 ||dudleymail.bid^
+||dudvc.com^
 ||duemail.store^
 ||duenh.com^
 ||duetube.com^
@@ -37914,6 +37910,7 @@
 ||gigilyn.com^
 ||gigmail.store^
 ||gigolocam.biz^
+||giguv.com^
 ||gihoon.com^
 ||gijj.com^
 ||gijode.click^
@@ -43116,6 +43113,7 @@
 ||juzhong56.com^
 ||juzjani.online^
 ||jvahiy.xyz^
+||jvbdu.com^
 ||jvbfitness.com^
 ||jvimail.com^
 ||jvllabs.com^
@@ -48643,6 +48641,7 @@
 ||monngon.net^
 ||mono-foundation.com^
 ||monobud.com^
+||monochord.xyz^
 ||monoearphone.com^
 ||monologism.site^
 ||monopici.ml^
@@ -51631,6 +51630,7 @@
 ||opensupportteams.click^
 ||opensupprts.click^
 ||openswan.net^
+||openteams.click^
 ||opentimetracker.com^
 ||opentraveller.click^
 ||openuni.org^
@@ -53714,6 +53714,7 @@
 ||ppkv.com^
 ||pplay-ffortuna1.ru^
 ||pplrecords.com^
+||pplve.com^
 ||ppme.pro^
 ||ppnncc.com^
 ||ppoet.com^
@@ -54656,6 +54657,7 @@
 ||qqaonwin1.info^
 ||qqaonwin1.net^
 ||qqaonwin1.org^
+||qqeud.com^
 ||qqhow.com^
 ||qqkini.asia^
 ||qqmahir.com^
@@ -54808,6 +54810,7 @@
 ||qvitta.com^
 ||qw.luk2.com^
 ||qwbv.com^
+||qwccd.com^
 ||qwe-qwe.com^
 ||qwe.wmmail1.veinflower.xyz^
 ||qwer123.com^
@@ -59071,6 +59074,7 @@
 ||specificlive.com^
 ||specjalistyczneoserwisy.pl^
 ||specnondse.cf^
+||spectrail.world^
 ||spectreonline.net^
 ||speed-mail.co.uk^
 ||speed-seo.net^
@@ -59986,7 +59990,6 @@
 ||suppn.site^
 ||suppo.site^
 ||support.galaday.click^
-||support.openteams.click^
 ||support247live.us^
 ||support5.mineweb.in^
 ||support68.trylinkbuildng.click^
@@ -60643,7 +60646,6 @@
 ||tealeafadmins.com^
 ||tealeafhacker.net^
 ||tealeafhacker.org^
-||team.openteams.click^
 ||team68.trylinkbuildng.click^
 ||teamails.net^
 ||teamapp.click^
@@ -62645,6 +62647,7 @@
 ||tutye.com^
 ||tuubz.com^
 ||tuupd.com^
+||tuuwc.com^
 ||tuvanthietkexaydung.com^
 ||tuvanwebsite.com^
 ||tuvepi.xyz^
@@ -66063,6 +66066,7 @@
 ||xd.luk2.com^
 ||xdatelocal.com^
 ||xdezoi.xyz^
+||xdhhc.com^
 ||xdmme.world^
 ||xdoseo.xyz^
 ||xdtf.fun^
@@ -66834,6 +66838,7 @@
 ||youredoewcenter.com^
 ||youredoewlive.com^
 ||youremailglobal.com^
+||yourfastmail.online^
 ||yourfilm.pl^
 ||yourfreemail.bid^
 ||yourfreemail.stream^
@@ -67457,6 +67462,7 @@
 ||zuasu.com^
 ||zubairnews.com^
 ||zucc.com^
+||zuchakoo.club^
 ||zueastergq.com^
 ||zueom.com^
 ||zufrans.com^
