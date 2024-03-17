@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-17T00:38:32.074Z
+! Last modified: 2024-03-17T06:10:08.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -33672,6 +33672,7 @@
 ||ebrawler.com^
 ||ebrius.net^
 ||ebrolift.com^
+||ebrupdate.org^
 ||ebusinessnests.shop^
 ||ebuyextenze.com^
 ||ebworkerzn.com^
@@ -60612,6 +60613,7 @@
 ||tbnana.com^
 ||tbteam.site^
 ||tbteamfb.online^
+||tbteamhehe.online^
 ||tbteamhehe.site^
 ||tbteamhehe1.site^
 ||tbteamhehe2.online^
