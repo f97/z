@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-17T06:10:08.887Z
+! Last modified: 2024-03-17T12:13:26.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -20333,6 +20333,7 @@
 ||259gmail.com^
 ||25dollars.ru^
 ||25gmail.com^
+||25koles.ru^
 ||25mailok.online^
 ||262gmail.com^
 ||2635-14.com^
@@ -27412,6 +27413,7 @@
 ||bridgeportnewsdaily.com^
 ||bridgeslearningcenter.com^
 ||bridyk.monster^
+||bright-desk.ru^
 ||brightekled.cn^
 ||brightenmail.com^
 ||brightfuture.co.uk^
@@ -27671,6 +27673,7 @@
 ||bundjoca.ga^
 ||bunfive.com^
 ||bungajelitha.art^
+||bungamail.site^
 ||bunirvjrkkke.site^
 ||bunk.at^
 ||bunlets.com^
@@ -28449,6 +28452,7 @@
 ||casaruralantano.es^
 ||casasola28.fastlasermouses.com^
 ||casehome.us^
+||caselitz.com^
 ||casesurfer.com^
 ||caseylaris.com^
 ||cash7.xyz^
@@ -43531,6 +43535,7 @@
 ||ketpgede.tk^
 ||ketsode.gq^
 ||kettledesign.com^
+||ketview.info^
 ||keujitklo.space^
 ||kevandesign.com^
 ||keven.com^
@@ -46289,7 +46294,10 @@
 ||mail4edu.net^
 ||mail4gmail.com^
 ||mail4u.fun^
+||mail4u.life^
 ||mail4u.lt^
+||mail4u.pw^
+||mail4u.run^
 ||mail4uk.co.uk^
 ||mail4used.com^
 ||mail4you.bid^
@@ -46301,7 +46309,11 @@
 ||mail4you.website^
 ||mail4you.win^
 ||mail5.me^
+||mail5u.fun^
+||mail5u.info^
 ||mail5u.life^
+||mail5u.pw^
+||mail5u.run^
 ||mail5u.xyz^
 ||mail62.net^
 ||mail798.site^
@@ -46776,6 +46788,7 @@
 ||mailvxin.com^
 ||mailvxin.net^
 ||mailw.info^
+||mailwebber.com^
 ||mailwebbnets.space^
 ||mailwebsittes.space^
 ||mailwindowwws.space^
@@ -55999,6 +56012,7 @@
 ||rigedeers.tk^
 ||riggadecasinon.com^
 ||righsmail.com^
+||right-desk.ru^
 ||right.mailbiz.pw^
 ||rightassists.com^
 ||rightbank.org^
@@ -66776,6 +66790,7 @@
 ||yogabelliesshop.com^
 ||yogaestudio22.com^
 ||yogajellies.net^
+||yogirt.com^
 ||yogoka.com^
 ||yohana.us^
 ||yohho.com^
@@ -67020,6 +67035,7 @@
 ||yznakandex.ru^
 ||yzpcoygst.gq^
 ||yzvy.com^
+||z-email.store^
 ||z-fhspot.ga^
 ||z-moda-na-bakier.pw^
 ||z-spot.tk^
