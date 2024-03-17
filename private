@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-16T18:09:56.104Z
+! Last modified: 2024-03-17T00:38:32.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2537,6 +2537,7 @@
 ||infinity-tracking.com^
 ||infinity-tracking.net^
 ||infirmaryboss.com^
+||inflictrind.com^
 ||informantbartonharass.com^
 ||informer.yandex.ru^
 ||infringementpeanut.com^
@@ -4955,6 +4956,7 @@
 ||mkt11809.com^
 ||mkt1181.com^
 ||mkt11810.com^
+||mkt11811.com^
 ||mkt11812.com^
 ||mkt11814.com^
 ||mkt11815.com^
@@ -14305,6 +14307,7 @@
 ||nl03.net^
 ||nmp1.com^
 ||nobeta.com.br^
+||nomadtricesurfing.com^
 ||norma-external-collect.meizu.com^
 ||nosto.com^
 ||notes-analytics-events.apple.com^
@@ -46657,6 +46660,7 @@
 ||mailrunner.net^
 ||mails-24.net^
 ||mails-domens.online^
+||mails-domes.online^
 ||mails-go.online^
 ||mails.v2-ray.net^
 ||mails.wf^
@@ -46677,6 +46681,7 @@
 ||mailsdfeer.net^
 ||mailsdfsdf.com^
 ||mailsdomens.com^
+||mailsdomes.com^
 ||mailsdrop.fun^
 ||mailsearch.net^
 ||mailsecv.com^
@@ -46714,6 +46719,7 @@
 ||mailsoul.com^
 ||mailsource.info^
 ||mailspam.xyz^
+||mailspectrum.online^
 ||mailspro.net^
 ||mailsrp.com^
 ||mailssents.com^
