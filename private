@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-18T12:14:07.904Z
+! Last modified: 2024-03-18T18:09:58.704Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -39566,6 +39566,7 @@
 ||health-monster.com^
 ||health.cd^
 ||healthaidofohio.com^
+||healthbeautynatural.site^
 ||healthblog.com^
 ||healthbroth.cam^
 ||healthcare-con.com^
@@ -55666,6 +55667,7 @@
 ||remail7.com^
 ||remaild.com^
 ||remailed.ws^
+||remailt.com^
 ||remailt.net^
 ||remainmail.top^
 ||remann.com^
