@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-19T00:37:01.464Z
+! Last modified: 2024-03-19T06:10:49.393Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -51205,6 +51205,7 @@
 ||ojudge.com^
 ||ojwf.com^
 ||ojyc.com^
+||ok-body.pw^
 ||okasa.pl^
 ||okay.sudeu.com^
 ||okbismarck.com^
@@ -58805,6 +58806,7 @@
 ||so.pointbuysys.com^
 ||soantiy.com^
 ||soapoperablog.com^
+||sobatapps.com^
 ||sobatkeren.design^
 ||sobc.com^
 ||sobdollfab.cf^
@@ -64202,6 +64204,7 @@
 ||vieserli.gq^
 ||vieserli.ml^
 ||vietcode.com^
+||vietfashop.com^
 ||vietfood.xyz^
 ||vietkevin.com^
 ||vietnamnationalpark.org^
