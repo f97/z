@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-19T12:13:55.711Z
+! Last modified: 2024-03-19T18:09:53.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2596,9 +2596,6 @@
 ||aws-api.sail-personalize.com^
 ||api.sail-track.com^
 ||aws-api.sail-track.com^
-||cdn.tinypass.com^
-||dashboard.tinypass.com^
-||experience.tinypass.com^
 ||dev.visualwebsiteoptimizer.com^
 ||r1.visualwebsiteoptimizer.com^
 ||r2.visualwebsiteoptimizer.com^
