@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-19T18:10:17.339Z
+! Last modified: 2024-03-20T00:35:36.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -28330,6 +28330,7 @@
 ||caraudiomarket.ru^
 ||carautoinjury.com^
 ||caravan-express.com^
+||carbohydrate-erc.vip^
 ||carbonationsim.com^
 ||carbonfiberbrush.com^
 ||carbonnotr.com^
