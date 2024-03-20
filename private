@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-20T00:35:36.908Z
+! Last modified: 2024-03-20T06:10:51.398Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21638,6 +21638,7 @@
 ||abah.xyz^
 ||abalapmag.ml^
 ||aballar.com^
+||abandons.online^
 ||abaok.com^
 ||abar.emailind.com^
 ||abasem.tk^
@@ -24693,6 +24694,7 @@
 ||azithromaxozz.com^
 ||azithromaxww.com^
 ||aziu.com^
+||azizoy.me^
 ||azmail.com^
 ||azmil.com^
 ||azon-review.com^
@@ -40123,6 +40125,7 @@
 ||hojen.site^
 ||hojmail.com^
 ||hojuhometour.com^
+||hokidong.skin^
 ||hokifreebet.com^
 ||hokifreebet.info^
 ||hokifreebet.net^
@@ -40154,6 +40157,7 @@
 ||holidayhelpings.com^
 ||holidaymail.xyz^
 ||holidaymojj.xyz^
+||holidayrap.click^
 ||holidays2017.click^
 ||holined.site^
 ||holisto.com^
@@ -46478,6 +46482,7 @@
 ||mailherber.com^
 ||mailhex.com^
 ||mailhieu.store^
+||mailhieu1.store^
 ||mailhieu2.store^
 ||mailhommers.space^
 ||mailhon.com^
@@ -62091,6 +62096,7 @@
 ||tour-vsem.ru^
 ||tour.cd^
 ||tourcc.com^
+||touristbus.click^
 ||touristry.cd^
 ||touristsandship.shop^
 ||touristscams.click^
@@ -62267,6 +62273,7 @@
 ||travelservice4u.com^
 ||traveltagged.com^
 ||travelvance.com^
+||travelwifi.click^
 ||traverseio.com^
 ||traversi.ru^
 ||travforross.gq^
