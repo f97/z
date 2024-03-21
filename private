@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-21T00:37:12.495Z
+! Last modified: 2024-03-21T06:10:47.841Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21843,6 +21843,7 @@
 ||ack.today^
 ||acklewinet.store^
 ||acklink.com^
+||acknowledges.site^
 ||aclinic24.ru^
 ||acm25.com^
 ||acmail.com^
@@ -38404,6 +38405,7 @@
 ||gomail.com^
 ||gomail.to^
 ||gomail.xyz^
+||gomail2.xyz^
 ||gomail4.com^
 ||gomail5.com^
 ||gomaild.com^

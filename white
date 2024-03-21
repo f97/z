@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-21T00:37:13.622Z
+! Last modified: 2024-03-21T06:10:49.610Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2925,6 +2925,7 @@
 @@|flatpak.zorinos.com^$important
 @@|flow.lavasoft.com^$important
 @@|flow.microsoft.com^$important
+@@|fluent2.microsoft.design^$important
 @@|fluentsearch.net^$important
 @@|fluffy-blocklist.skcat.tk^$important
 @@|flutter.dev^$important
@@ -3239,6 +3240,7 @@
 @@|guru99.com^$important
 @@|guts2.sp.f-secure.com^$important
 @@|gx-target-experiments-frontend-api.gx.nvidia.com^$important
+@@|gx-target-survey-frontend-api.gx.nvidia.com^$important
 @@|gyan.dev^$important
 @@|h2.twitch.map.fastly.net^$important
 @@|h20572.www2.hp.com^$important
@@ -3465,6 +3467,7 @@
 @@|intel.com^$important
 @@|interactive-examples.mdn.mozilla.net^$important
 @@|international-gfe.download.nvidia.com^$important
+@@|internxt.com^$important
 @@|invent.kde.org^$important
 @@|invidious.io^$important
 @@|invidious.namazso.eu^$important
@@ -3622,6 +3625,7 @@
 @@|lineup-images.scdn.co^$important
 @@|link.adtidy.org^$important
 @@|link.email.stackcommerce.com^$important
+@@|link.orders.kmart.com.au^$important
 @@|link.twitch.tv^$important
 @@|links.account.evernote.com^$important
 @@|links.announcements.soundcloud.com^$important
@@ -4062,6 +4066,8 @@
 @@|naomy.cdntrex.com^$important
 @@|nav.smartscreen.microsoft.com^$important
 @@|navbar.blizzard.com^$important
+@@|nbnco.carto.com^$important
+@@|nbncoadmin.carto.com^$important
 @@|nchc.dl.sourceforge.net^$important
 @@|ncsa-storm.ubi.com^$important
 @@|nelly-service-prod-akamai.ecosec.on.epicgames.com^$important
@@ -4379,6 +4385,7 @@
 @@|pixel-static.spotify.com^$important
 @@|pixhost.to^$important
 @@|pkg.tox.chat^$important
+@@|pki.intel.com^$important
 @@|pl.ea.com^$important
 @@|pl.playstation.com^$important
 @@|pl.wikipedia.com^$important
@@ -4822,6 +4829,7 @@
 @@|skydrivesync.policies.live.net^$important
 @@|slow-*.keep2share.cc^$important
 @@|slscr.update.microsoft.com^$important
+@@|smart-status.superloop.com^$important
 @@|smartscreen-prod.microsoft.com^$important
 @@|smartscreen.microsoft.com^$important
 @@|snahp.it^$important
@@ -5122,6 +5130,7 @@
 @@|subca.ocsp-certum.com^$important
 @@|substrate.office.com^$important
 @@|sudf-resources.hpcloud.hp.com^$important
+@@|superhub.superloop.com^$important
 @@|superuser.com^$important
 @@|supervisor.ext-twitch.tv^$important
 @@|suporte.br.playstation.com^$important
@@ -5150,6 +5159,7 @@
 @@|support.rockstargames.com^$important
 @@|support.signal.org^$important
 @@|support.spro.xbox.com^$important
+@@|support.superloop.com^$important
 @@|support.system76.com^$important
 @@|support.ubi.com^$important
 @@|support.uptobox.com^$important
@@ -5204,6 +5214,7 @@
 @@|target.com^$important
 @@|targetednotifications-tm.trafficmanager.net^$important
 @@|taskassist-pa.clients6.google.com^$important
+@@|tasks-pa.clients6.google.com^$important
 @@|tccmsms.azureedge.net^$important
 @@|teams-ring.msedge.net^$important
 @@|teams.events.data.microsoft.com^$important
@@ -5648,6 +5659,7 @@
 @@|webinstallers.gog-statics.com^$important
 @@|webpifeed.blob.core.windows.net^$important
 @@|webservices.api.exetel.com.au^$important
+@@|webservices.myexetel.exetel.com.au^$important
 @@|websiteapi.acronis.com^$important
 @@|welcome.adguard.com^$important
 @@|westus.tts.speech.microsoft.com^$important
