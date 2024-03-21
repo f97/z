@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-20T18:09:55.115Z
+! Last modified: 2024-03-21T00:37:12.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -28293,6 +28293,7 @@
 ||cap-ibu-dan-anak.ml^
 ||capacitytruscle.com^
 ||capebretonpost.com^
+||capegw.skin^
 ||capital-humano.cl^
 ||capital21.ru^
 ||capitalcarrier.eu.org^
@@ -38114,6 +38115,7 @@
 ||gmail.com.gmail.cad.creou.dev^
 ||gmail.com.gmail.com.m.oazis.site^
 ||gmail.com.gmail.gmail.cad.creou.dev^
+||gmail.com.indofood.click^
 ||gmail.comail.com^
 ||gmail.comicloud.com^
 ||gmail.comm^
