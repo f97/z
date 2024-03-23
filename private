@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-23T06:13:32.083Z
+! Last modified: 2024-03-23T12:15:02.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -61481,6 +61481,7 @@
 ||thomasgayton896.xyz^
 ||thomasklun.com^
 ||thomasla.tk^
+||thomaslucas.click^
 ||thomsonvirtual.com^
 ||thornley66.softhandscream.com^
 ||thornpubbmadh.info^
