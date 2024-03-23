@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-23T12:15:02.000Z
+! Last modified: 2024-03-23T18:09:05.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -49887,6 +49887,7 @@
 ||nemeczek.biz^
 ||nememez.icu^
 ||nemo.4amail.top^
+||nemobaby.store^
 ||nempo.net^
 ||nenekbet.com^
 ||nenenene.buzz^
