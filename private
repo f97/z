@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-24T12:13:39.594Z
+! Last modified: 2024-03-24T18:10:50.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -31644,6 +31644,7 @@
 ||dbdrainagenottingham.co.uk^
 ||dbenoitcosmetics.com^
 ||dbitechnology.com^
+||dblack.online^
 ||dblets.com^
 ||dbmail.com^
 ||dbmmedia.org^
