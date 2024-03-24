@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-24T06:10:08.306Z
+! Last modified: 2024-03-24T12:13:39.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -30404,6 +30404,7 @@
 ||cookingnews.com^
 ||cookskill.com^
 ||cooktop.buzz^
+||cool-your.pw^
 ||coolbluemedia.com^
 ||coolbluenet.com^
 ||coolcitymoonshot.com^
@@ -61874,6 +61875,7 @@
 ||tokertrail.com^
 ||tokesmail.com^
 ||tokobabe.site^
+||tokobeken.xyz^
 ||tokoimpian.shop^
 ||tokojudi.best^
 ||tokokarena.live^
