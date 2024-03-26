@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-26T00:36:00.031Z
+! Last modified: 2024-03-26T06:11:50.819Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21906,6 +21906,7 @@
 ||acton-plumber-w3.co.uk^
 ||actopp.net^
 ||actor.ruimz.com^
+||actorste.store^
 ||actprepnyc.com^
 ||actrses.com^
 ||actrucla.tk^
@@ -27756,6 +27757,7 @@
 ||business-bank-account.com^
 ||business-boosters.info^
 ||business-education-system.com^
+||businessaddress.rent^
 ||businessagent.email^
 ||businessattorneysorangecounty.com^
 ||businessblog.com^
@@ -61062,6 +61064,7 @@
 ||taytkombinim.xyz^
 ||tb-ndfl.ru^
 ||tb-ndfl1.ru^
+||tb-otkrytb-ip1.ru^
 ||tbalawyers.com^
 ||tbchr.com^
 ||tbdlimted.com^
