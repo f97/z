@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-26T06:11:50.819Z
+! Last modified: 2024-03-26T12:14:40.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -41169,6 +41169,7 @@
 ||icafs.org^
 ||icahu.com^
 ||icam.fr^
+||icampinga.com^
 ||icanav.net^
 ||icaoglossary.com^
 ||icardatabase.com^
@@ -59079,6 +59080,7 @@
 ||smallbusinessesphilly.com^
 ||smallbusinesshowto.com^
 ||smallcurrents.ru^
+||smallmtn.lol^
 ||smallstepstowellness.net^
 ||smalltown.website^
 ||smalq.com^
@@ -64816,6 +64818,7 @@
 ||virtual-trader.com^
 ||virtualemail.info^
 ||virtualjunkie.com^
+||virtuous-studio.com^
 ||visabo.ir^
 ||visacz.name^
 ||visaflex.ir^
@@ -64905,6 +64908,7 @@
 ||vk-goog.ru^
 ||vk-net-app.ru^
 ||vk-net-application.ru^
+||vk45.site^
 ||vk7077.com^
 ||vkbags.in^
 ||vkbb.store^
