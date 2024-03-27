@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-26T18:10:19.794Z
+! Last modified: 2024-03-27T00:35:48.406Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21771,6 +21771,8 @@
 ||accessecurity.com^
 ||accesstocare.com^
 ||accidentalbusiness.com^
+||accidentally.site^
+||accidentals.online^
 ||accidentattorneysalaska.com^
 ||accidentlawyermckinney.com^
 ||acciobit.net^
@@ -22037,6 +22039,7 @@
 ||adminlette.org^
 ||admiraq.site^
 ||admissiontostudyukraine.com^
+||admits.site^
 ||admitt.xyz^
 ||admlinc.com^
 ||admonishments.com^
@@ -22096,6 +22099,7 @@
 ||advance-rev.ru^
 ||advanced-transport.com^
 ||advancedequinedentistry.com^
+||advancesa.online^
 ||advantagesofsocialnetworking.com^
 ||advd.site^
 ||adventistreview.org^
