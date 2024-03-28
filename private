@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-28T00:36:10.205Z
+! Last modified: 2024-03-28T06:10:54.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -56404,6 +56404,7 @@
 ||ricocuy1.online^
 ||ricoda.store^
 ||ricorit.com^
+||riczhns0fb4.hair^
 ||ridaky.ml^
 ||riddle.2amail.top^
 ||riddle.media^
@@ -61551,6 +61552,7 @@
 ||theaahatel.ga^
 ||theaahatel.ml^
 ||theabsolute.online^
+||theachievement.online^
 ||theallmightyyes.com^
 ||thealphacompany.com^
 ||thealpilea.online^
