@@ -3,7 +3,7 @@
 ! Description: DNS block list ads that can be used for AdGuardHome. (Does not work with Pi-hole)
 ! Homepage: f97/z
 ! License: GPLv3
-! Last modified: 2024-03-27T18:10:55.077Z
+! Last modified: 2024-03-28T00:36:10.205Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21703,6 +21703,7 @@
 ||abouts.systems^
 ||aboutsleeping.com^
 ||abouttankgames.ru^
+||aboves.store^
 ||abovetheseaoffog.com^
 ||abpaness.ga^
 ||abpro.info^
@@ -22051,6 +22052,7 @@
 ||adolescenteatingdisordertreatmentcenters.com^
 ||adonghotel.com^
 ||adoppo.com^
+||adopts.site^
 ||adorargas.buzz^
 ||adorateur.com^
 ||adoratus.buzz^
@@ -32788,6 +32790,7 @@
 ||divulgabrasil.com^
 ||divulgamais.com^
 ||divulgasite.com^
+||diwark.com^
 ||diwituliloke.asia^
 ||dixect.org^
 ||dixiser.com^
@@ -42168,6 +42171,7 @@
 ||iqmail.com^
 ||iqnova.tech^
 ||iqro-namangan.ru^
+||iqtoper.site^
 ||iqumail.com^
 ||irahada.com^
 ||iralborz.bid^
@@ -48406,6 +48410,7 @@
 ||militaryencyclopedia.com^
 ||milited.site^
 ||milkcreeks.com^
+||milkgitter.com^
 ||milkpower.xyz^
 ||milkyday.space^
 ||millanefernandez.art^
@@ -60383,6 +60388,7 @@
 ||supd.site^
 ||supenc.com^
 ||super-szkola.pl^
+||super100.site^
 ||super1x.com^
 ||super300.xyz^
 ||superbeam.tech^
@@ -61074,6 +61080,7 @@
 ||taysirnabulsi.com^
 ||tayspirec.tk^
 ||taytkombinim.xyz^
+||tb-avtokredit.ru^
 ||tb-ndfl.ru^
 ||tb-ndfl1.ru^
 ||tb-otkrytb-ip1.ru^
@@ -62702,6 +62709,7 @@
 ||transmentor.com^
 ||transmute.us^
 ||transportangliapolska.co.uk^
+||trantienclone.online^
 ||trantienclone.top^
 ||tranvietmail.click^
 ||traoluu.com^
@@ -64079,6 +64087,7 @@
 ||usesupprts.click^
 ||useteam.click^
 ||useteams.click^
+||usettingh.com^
 ||usewm.com^
 ||usgeek.org^
 ||usgifter.com^
